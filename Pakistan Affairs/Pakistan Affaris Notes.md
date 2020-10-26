@@ -43,3 +43,14 @@ the British withdrew from the subcontinent
 
 - Progress on the water dispute came to a standstill as tensions over Kashmir, and the two states’ general animosity, overtook negotiations.Pakistan Proposed submitting the water dispute to international Court of Justice.
 
+
+
+# Allabad Session of 1930.Address of Allama Iqbal
+- Presided by Allama Iqbal
+- Iqbal a vision of distant dream for which muslims should fight and strive for.
+- In Congress view, question of Hindu and Muslim was an artificial construct created by the British.A policy of Divide and rule to keep the people of india weak.So it must not be given an significant attention.
+- For the Muslims their rights and status in British India was a core issue. A matter of momentus significane which would lead to Glory or Destruction of Muslim community within the sub-continent.
+- 3 major issues were of importance to the muslims at that time:
+1. Decline and degeneration of muslims
+2. How to revive the Muslim population and actions and principles to follow
+3. Issue specific to muslims of India. Muslims were a minority. They were being overwhelmed by an unsympathetic majority.
