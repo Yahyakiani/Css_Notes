@@ -1,0 +1,150 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Cover Letter
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Authors:
+% Claud D. Park <posquit0.bj@gmail.com>
+% Lars Richter <mail@ayeks.de>
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[./fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-red}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+\definecolor{darktext}{HTML}{000000}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo[circle,noedge,left]{./examples/profile}
+\name{Yahya}{Kayani}
+\position{Software Engineer}
+\address{}
+
+\mobile{(+92) 335-3736462}
+\email{yahyakiani1@gmail.com}
+\homepage{yahyakiani.github.io/reactJs-resume-template/}
+\github{Yahyakiani}
+\linkedin{yahya-kayani}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra informations}
+
+\quote{}
+
+
+%-------------------------------------------------------------------------------
+%	LETTER INFORMATION
+%	All of the below lines must be filled out
+%-------------------------------------------------------------------------------
+% The company being applied to
+\recipient
+  {Biteable Recruitment Team}
+  {}
+% The date on the letter, default is the date of compilation
+% \letterdate{}
+% The title of the letter
+\lettertitle{Job Application for General}
+% How the letter is opened
+\letteropening{Dear Mr./Ms. Hiring Manager,}
+% How the letter is closed
+\letterclosing{Sincerely,}
+% Any enclosures with the letter
+\letterenclosure[Attached]{Curriculum Vitae}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[R]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {Yahya Kayani~~~·~~~Cover Letter}
+  {}
+
+% Print the title with above letter informations
+\makelettertitle
+
+%-------------------------------------------------------------------------------
+%	LETTER CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvletter}
+
+\lettersection{About Me}
+An individual who has a passion for making great looking and optimized web apps.With over 2 years’ of experience, I’ve worked on a
+variety of technologies ranging from frameworks such as React,Node to Styling frameworks like Sass,Material UI which helped me
+in becoming a well rounded individual.My responsibilities included implementation of mockups, Integration of backend Api,s with
+the frontend, Code reviews and writing scalable code.
+
+\lettersection{Why Biteable?}
+I saw the job posting for General application at Biteable website and it intrigued me because i had always wanted
+to work on products that had a positive impact on a large number of people.I have always believed that the combination of agile methodologies
+and increased transparency can help organizations build highly efficient and successful teams that are capable of creating
+products and solutions that customers love. One of the reasons I applied for this position is because I have
+been impressed with the culture of productivity and passion for the products you sell. I know I can be a valuable resource to the company.
+
+\lettersection{Why Me?}
+My background as a Software Engineer, along with my education in Computer Science, has allowed me to attain a strong foundation
+of technical skills specifically in Modern javascript and python Frameworks such as React and flask. Moreover, I worked in
+the development team to define, design, accept and adapt features; Conducted code improvements along with bug resolution and writing tests for various components.
+In closing, I am thrilled at the possibility of being involved in Biteable. I look forward to hearing from you.
+
+Thank you for your consideration.
+
+
+\end{cvletter}
+
+
+%-------------------------------------------------------------------------------
+% Print the signature and enclosures with above letter informations
+\makeletterclosing
+
+\end{document}
