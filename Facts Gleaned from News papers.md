@@ -46,7 +46,8 @@ the conflicted area of Jammu and state into state union territories.
  - Government has banned another terror outfit group name Khatam-Ul-Ambia.Bring the number of banned outfits to 77 .
 
 
-||||||||||||||||||||||||||||||||
+---
+
 
 -- 25_08_2020:
 - OIC 57 member Bloc
@@ -61,7 +62,8 @@ the conflicted area of Jammu and state into state union territories.
 -  Pepco : A move to privatize national electricity grid to reduce burden on national treasury and instill competition in the powers
 sector.
 
-||||||||||||||||||||||||||||||||
+---
+
 --26_08_2020:
 - Leader of House Senater: Shehzad Wasim
 - Opposition reject 2 FaTF bills in Senate on the grounds that these bills are unconstitutional and impinge on the rights of people.
@@ -71,7 +73,8 @@ in the polio eradication journey.
 - FO hopeful that intra afghan peace talks will resume.He reiterated that efforts to spoil this process might be underway.
 - Faisal Vawda water minister
 
-||||||||||||||||||||||||||||||||
+---
+
 --27_08_2020
 -Paul W. Jones ambassador from US
 - Faiz Hammed DG ISI
@@ -84,21 +87,23 @@ pakistan into a facist state.
 executive powers. Any such activity exercised by them will be deemed unlawful.
 -
 
-||||||||||||||||||||||||||||||||
---30_08_2020
+---
 
--Law Minister Dr farooq Nasim
--PM should Visit karachi to resolve its issues under his watchful eye.It has been a region of political mongering.Chaudary shujat
--PM annouced a 3 pronged solution for resolution of Karachis major issues which are Illegal Enroachment, stable supply of water to karachi
+**30_08_2020**
+
+- Law Minister Dr farooq Nasim
+- PM should Visit karachi to resolve its issues under his watchful eye.It has been a region of political mongering.Chaudary shujat
+- PM annouced a 3 pronged solution for resolution of Karachis major issues which are Illegal Enroachment, stable supply of water to karachi
 and a permanent solution for Sewage and waste issue.
--FO assails Indias ban on religious gather during muharram.Along with its brutalization of Kashmiri journalist community.Condemnation
+- FO assails Indias ban on religious gather during muharram.Along with its brutalization of Kashmiri journalist community.Condemnation
 of Modi's forced placement scheme which issue 430,000 domiciles  in the occupied region.The right of self determination of kashmir cannot
 be subdued with such actions.
--Minor opposition parties demanded that PML and PPP  sign a Character of Democracy like document. They will not comply in joining Multi-Party
+- Minor opposition parties demanded that PML and PPP  sign a Character of Democracy like document. They will not comply in joining Multi-Party
 conference before an agreement.
--
 
-||||||||||||||||||||||||||||||||
+
+---
+
 -- 01_09_2020
 -Aviation Minister Ghulam sarwar khan
 -NDMA chairman Lt Gen Mohammad Afzal
@@ -110,14 +115,16 @@ improve ties on economical,political and military level.
 - PIA will not file an appeal against suspension of PIA flights in Europe.
 -
 
-||||||||||||||||||||||||||||||||
+---
+
 -- 02_09_2020
 - Sindh high court orders k-Electric to get their affairs in order and re-establish the provision of electricity to karachi.
 - Islamabad High court ordered Ex-Prime Minister Nawaz sharif to present himself before the court on 10th september.Otherwise,Legal action
 would be taken against him.
 - Gov Bans 5 apps to curb immoral content.
 -
-||||||||||||||||||||||||||||||||
+---
+
 --03_09_2020
 - Prime minister orders release of female offenders who are unable to pay petty fines for their release .
 - 1980 shariah appellate designated land reforms as unislamic.
@@ -128,7 +135,8 @@ would be taken against him.
 -
 -
 -
-||||||||||||||||||||||||||||||||
+---
+
 --04_09_2020
 - Jammu and kashmir language bill enforced by modi regime to impose Hindi language in occupied Kashmir.
 - Death Toll crosses 170 mark
@@ -141,7 +149,8 @@ would be taken against him.
 -
 -
 -
-||||||||||||||||||||||||||||||||
+---
+
 --05_09_2020
 -
 PM annouces 1.1 pkr trillion package for karachi.It includes projects for Water transportation,Sewage management, Road Repair and Development
@@ -154,7 +163,8 @@ Athar minallah directs Inspector General islamabad to resolve this precarious is
 -
 -
 -
-||||||||||||||||||||||||||||||||
+---
+
 --06_09_2020
 -Federal IT and Telecom Minister Aminul Haque
 - Maritime affairs Minister Ali zaidi
@@ -165,7 +175,8 @@ the package.However, bilawal  bhutto claims that since karachi is responsibility
 Decision to open educational institues on 15th sep will be taken in meeting while taking matters under due consideration.
 -
 -
-||||||||||||||||||||||||||||||||
+---
+
 -08_09_2020
 -IHC wants PM breif about enforced disappearances of officials such as Sajid Gondal aka Gond from the Federal Capital.
 -10 dies by landslide in mohmand area.
@@ -175,7 +186,8 @@ Decision to open educational institues on 15th sep will be taken in meeting whil
 - UK seeks to clarify Brexit divorce deal from EU. Boris Johnson seeks to overrides some parts of the deal through legislation which were
 previously agreed upon.Like UK fishing water issue,Specific elements of Northern Ireland protocol to domestic laws regarding border movement.
 -
-||||||||||||||||||||||||||||||||
+---
+
 -- 09_09_2020
 -Mullah abdul ghani baradar replaced as head of taliban negotiations by abdul hakeem haqqani. New team given
 authority to take decisions on the spot.
@@ -183,7 +195,8 @@ authority to take decisions on the spot.
 will be spending major of the funds in for flood and relief.
 -Gondal back home after missing for 6 days
 -
-||||||||||||||||||||||||||||||||
+---
+
 -- 10_09_2020
 -Pm imran khan sees a sever gas crisis in the upcoming winter.Punjab is already facing a Natural gas deficit and it will
 only worsen in the coming months.
@@ -198,7 +211,8 @@ this is time for action and people of karachi will hold us both accountable if t
 -Transgender shot in peshawar after performance.Transgender activist states that this is due to low conviction aganist
 criminals involved in transgender related crimes.
 -
-||||||||||||||||||||||||||||||||
+---
+
 --10_09_2020
 -Law Minister: Faroog Naseem
 - Law minister says that Gov of pakistan is still waiting for india in its legal representation in the case of
@@ -213,7 +227,8 @@ and violence.
 -
 -
 
-||||||||||||||||||||||||||||||||
+---
+
 --13_09_2020
 
 -Turkey and Iran condem the normalization of ties between Israel and bahrain.It is a betarayal to the palestinian
@@ -230,7 +245,8 @@ sheikh victim blaming.
 -
 -
 
-||||||||||||||||||||||||||||||||
+---
+
 --15_09_2020
 -Criminal Justice system favours perpetrators over victims.
 - PM Repeat sex offenders should be dealth with permanent castestration
@@ -238,7 +254,8 @@ sheikh victim blaming.
 - Bajwa praises PM over his role in intra-Afghan peace process.He has done it with vision and dedication which will
 benefit both nations.
 
-||||||||||||||||||||||||||||||||
+---
+
 
 -- 16_09_2020
 -Warrants for arrest of Ex-prime minister Nawaz sharif have been issued by the IHC over his absence.He is now an absconder.
@@ -247,7 +264,8 @@ benefit both nations.
 -Ravi river front project will have 30 % subsidy for the lower income group who cannot afford houses at current market
 prices.
 
-||||||||||||||||||||||||||||||||
+---
+
 
 -- 17_09_2020
 - 3 bills related to FATf passed in national assembly.PM accused opposition of politisizing the matter unnecessarily.
@@ -257,7 +275,8 @@ of keeping tabs on repeat offenders.
 -
 -
 
-||||||||||||||||||||||||||||||||
+---
+
 -- 22_09_2020
 - Multi conference party has an anti pakistan rhetoric according to government.Nawaz sharif
 on behalf of Anti-pakistan parties.Maligning Armed forces with impunity will not be tolerated.
@@ -268,7 +287,8 @@ will be played on this grave matter.
 
 
 
-||||||||||||||||||||||||||||||||
+---
+
 --26_09_2020
 - PM khan addressed the 75th annual United nations General Assembly session through a video link.
 - Urged Developed nations to take stringent measures to return the stolen assets of poorer nations. Safe tax
@@ -278,7 +298,8 @@ havens play a crtical role in protecting and hiding such illicit weath from thei
 - Nawaz sharif in an attempt of damaged control barred PML-N party members from holding any meeting of individual or
 party level with members of the army.
 
-||||||||||||||||||||||||||||||||
+---
+
 --28_09_2020
 
 -PM warned against hasty withdrawal of American troops from Afghanistan.Also warned against domestic and international
@@ -294,7 +315,8 @@ meeting organized by Asad qaisar.
 -
 
 
-||||||||||||||||||||||||||||||||
+---
+
 --29_09_2020
 
 - PM the basic health reforms will continue despite resistance from some elements.Prime Minister iterates these changes
@@ -311,7 +333,8 @@ the charges and court procession are clearly meant to suppress and strong arm th
 
 
 
-||||||||||||||||||||||||||||||||
+---
+
 --1_10_2020
 - PM Met with Dr abdullah Abdullah.Let bygones be bygones.Focus on building a cooperative and healthy realtionship
 between the nations.Learn from the past and move beyond issues that instill acrimony between the two peoples.
@@ -321,7 +344,8 @@ system while fleeing from the country.
 -
 -
 -
-||||||||||||||||||||||||||||||||
+---
+
 --4_10_2020
 - GB wont seek army's help for the Nov 5 polls.According to the GB caretaker,Government.It is one of
 the most peaceful regions.Police ,Pakistan rangers and GB scouts will perform Security duties.
@@ -329,7 +353,8 @@ the most peaceful regions.Police ,Pakistan rangers and GB scouts will perform Se
 the enemy of Pakistan": PM Imran Khan.
 -
 
-||||||||||||||||||||||||||||||||
+---
+
 --13_10_2020
 - Special assistant to Prime minister on Information and Broadcasting .Asim bajwa.His resignation was finally accepted.
 - Main suspect in Motorway rape case was apprehended finally .
@@ -338,7 +363,8 @@ under the guise of democracy.
 -
 -
 
-||||||||||||||||||||||||||||||||
+---
+
 - 14_10_2020
 - PM aide on National Security and strategy.Moeed yusuf states that india reached out to
 pakistan in the previous year,on issues of resuming talks related to peace and cooperation
@@ -356,7 +382,8 @@ Inflation rate of 8.8 Percent will be maintain and unemployment will rise by an 
 
 
 
-||||||||||||||||||||||||||||||||
+---
+
 -- 15_10_2020
 - G20 has announced a delay in payment of debts  by poor developing nations for another 6 months.
 Under this, Pakistan's debt of $1.8 billion is rescheduled which was due on december.
@@ -368,7 +395,8 @@ was not consulted during promulgation of said regulations,
 authority over management of the islands of Bundal and Buddo
 
 
-||||||||||||||||||||||||||||||||
+---
+
 
 -- 21_10_2020
 - According to Reuters,At least half of India’s 1.3 billion people are likely to have been infected with the new coronavirus
@@ -376,10 +404,16 @@ authority over management of the islands of Bundal and Buddo
 
 
 
-||||||||||||||||||||||||||||||||
+---
+
 **27_5_2021**
 
 - NCOC opens registration for 18 + year candidates for vaccination.Have a surplus of more than
 30 million vaccines doses so no shortage.
 - Launch of health cards in Dera Ghazi khan.Provides a safety net for poor familys
+- As of now only 2500 american troops remain in afghanistan
 
+---
+**28_5_2021**
+- Pakistan has reached the capacity of administering 100,000 vaccines per day
+- Total vaccinated 1.5million.Trying to reach a herd immunity of 70 % population.

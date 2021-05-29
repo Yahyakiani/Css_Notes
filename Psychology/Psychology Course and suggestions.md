@@ -58,4 +58,22 @@ Offenders etc.
 
 ## Books
  Understanding Psychology by Feldman
+
+## Techniques
+- Make Notes or bullet points into questions whenever possible 
+- Cornell Note taking
+- Write Notes in your own words instead of copy pasting 
+
+```
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+```
  
