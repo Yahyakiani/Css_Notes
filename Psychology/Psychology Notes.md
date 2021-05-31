@@ -269,18 +269,78 @@ tall ones usually have pituitary gland abnormalities.
 - **Sensation** Encompasses the processes through which our sense organs recieve information from the world around them.
 - **Perception** is sorting,organization,analysis,interpretation and integration of that information by our sense organs and brain.
 - Difference between sensation and perception is : Sensation is the first encounter of organism with raw sensory stimulus and perception is the process through which it analyzes, interprets and integrates that stimulus with other sensory information.
-#### `Thoughts`
+- **Stimulus** is any passing source of energy that produces a response in a sense organ.
+- **Psychophysics** is the branch of psychology that studies the relationship between physical aspects of stimulus and our psychological experience of them.
+- **Absolute Threshold** is the smallest intensity(amount) of a stimulus that must be present for it to be detected.Technically absolute threshold is a the intensity of a stimulus that can be detected 50% of the time.
+- **Noise** as defined by psychophysicists is background stimulation that interferes with detection of other stimuli.(Unwanted Stimulus.Encompasses all the stimulus)
+- **Difference Threshold**`(also called Just Noticeable difference)` The smallest intensity of added or reduced stimuli that makes it possible to detect that a change in the stimulus has occured.
+- **Webers,s Law**`(Page 104: Understanding Psychology)`The just noticable difference is a constant proportion to the intensity of initial stimulus. 
+- **Adaption** An adjustment in sensory capacity after prolonged exposure to unchanging stimuli
+- **Visual Spectrum** Range of Wavelength that human beings are sensitive to.It is relatively small.
+- **Accomodation** Lens changes its thickness to focus light on the back of the eye.
+- **Retina** is the part of eye that converts light enery to electrical Impulses to be transmitted to the brain.
+- **Rods** Thin cyclindrical receptor cells in the retina that are highly sensitive to Light.It is related to dim vision.Insensitive to color and detail.It is responsible for **peripheral Vision** Recognizing Objects that are outside of main focus. 
+- **Cones** Cone shaped light sensitive receptor cells inside the retina that are responsible for focus and color  particularly in bright lights.Cones are concentrated on the part of retina called **Fovea**.Fovea is particularly sensitive.When you focus on a particular object of interest the image is centered on fovea to see it more sharply. 
+- **Dark Adaptation** Processes of adapting to dim light after being in a bright light enviroment.Cones and rods are involved in it. **Light adaption** opposite of dark adaptation.These processes occur as a result of rate of change in chemical composition in Rods and cones.Because change in rods take 20 to 30 minutes to reach maximum level ,Dark adaptation takes longer.While cones reach maximum level in a minute or so. 
 
+ ![alt text](eye.PNG)
+
+
+- **Optic Nerve** A bundle of `ganglion` axons that carry visual information to the brain.
+- **Bipolar Cells** Inside Retina.Recieve from rods or cones , transmit to ganglion cells.
+- **Ganglion Cells** Collect and summarize visual Information and then send it to the brain.Detect maximum light and darkness variation in the light.(`page 162:UP`)
+- **Blind Spot** The opening of the optic nerve passes through the retina there are no rods or cones in that area so it creates a blind spot.
+- **Optic Chiasm** Optic nerves from the 2 eyes meet at a specific point where `each optic` never then splits.
+
+ ![alt text](split.PNG)
+
+- David Hubel and Torsten Wiesel won the Nobel Prize in 1981 for their discovery that 
+many neurons in the cortex are extraordinarily specialized.**Feature Detection** The activation of Neurons in Visual  Cortex by visual stimuli of specific shapes or patterns.Some cells are only activated by moving as opposed to stationary objects others by lines of diff shape ,width or orientation.
+- Diff parts of brain process nerve impulses in several diff individual systems.
+- **Ocular Dominance columns** Our brains process information coming from the 2 eyes seperatly, creating what is ODC.
+- A normal Person is capable of distinguishing no less than 7 million colors.
+- Approximatly 7 % men and 4 % women  are **color blind**. For most people with color blindness red fire appears yellow,Green grass seems yellow,Three colors of traffic light all appear yellow.
+- Different types of color blindness , unable to differentiate between blue- Yellow.or all red,green seems yellow.In extreme cases ,no perception of color.Vision is like black and white tv.
+- **Afterimage** Activity in the retina continues even when you are no longer looking at the original object.
+- **Theories of Color Vision:**
+  1. **Trichromatic theory of color vision:** Proposed by thomas young in the first half of 1800s.According to the theory retina contains 3 types of cones which are sensitive to specific wavelengths. One to yellow-red,one to green, one to blue-violet.According to the theory perception of color by the strength with which these cones are activated when they come in contact with light.
+  **Example:** When looking at blue sky.Blue-violet cones are primarily activated and the other less so.
+  **Issues:** It does not explain why the after image afterstaring at a yellow for one minute appears red.
+
+  2. **Opponent Process Theory of color vision:** Proposed by Ewald hering in 19th century.Proposes that receptor cells are linked in pairs.Working in opposition.Pairs are Blue-Yellow, Red-Green and black-white.When an image contains more yellow than blue.Yellow receptors are activated and vice versa.
+  **AfterImage Problem** It explains that after staring at a yellow page for long the yellow receptor cells become fatigued and are not able to respond well to new stimuli.However the paired blue cells are capable of responding because they have not been stimulated.So when you shift to white paper after staring at a yellow page for 1 minute.The Blue receptors are activated and respond and yellow cells being fatigued do not respond.Consequently, Blue color is seen in the after image.However the afterimage lasts only a while because the fatigue of yellow cells is quickly overcome.
+
+  
+
+
+
+#### `Thoughts`
+```
+- if our ears were more sensitive that they already are it would be problem matic because of we would be able to hear the sound of air molecules knocking into ear drum.
+- Webers Law, According to him the difference threshold for weight is 1:50.It means that 1 ounce of weight change in an item of 50 ounces weight would be just noticable.It explains why a person sitting in a quiet room is more startled  by phone ringing than a person sitting in a noisy room.
+- Webers Law hold for every kind of stimulus
+- Pupil contraction in bright light allows us to see object at a greater distance in Fpcus.If pupil were to expand and let in all the light than our ability to see objects at a greater detail at distance would be reduced.
+- Len becomes flatter when viewing distant objects and rounder when viewing objects at a closer distance.
+- We never notice the blind spot because the information is automatically filled by  using nearby materials to compensate for the missing information.
+```
 ---
 ### Section 2
 #### `Keywords`
 - Super-Recognition
 - Faceblindness
-- Sensation
-- Perception
-- 
+- Iris
+- Cornea
+- Pupil
+- Retina
+- Bipolar Cells
+- Ganglion cells
+- Blind Spot
+- Color Vision
+- Color Blindness
+  
+
 #### `Questions`
-1. What is Sensaion and how do psychologists study it ?
+1. What is Sensation and how do psychologists study it ?
 2. What is the relationship between physical stimulus and the kinds of sensory response that result from it ?
 3. How do we see colors ?
 4. What processes underlie that vision system (Sense of vision)?
@@ -288,11 +348,20 @@ tall ones usually have pituitary gland abnormalities.
 6. How do smell and taste  function ?
 7. What are skin senses and how do they relate to pain ?
 8. What principles underlie our organization of visual world and allow us to make sense of it ?
-9. How are we able to percieve 3D world when our retain can only sense 2D information ?
+9. How are we able to percieve 3D world when our retina can only sense 2D information ?
 10. What clues do visual illusions give us about our understanding of general visual mechanism >
 11. Difference between Sensation and Perception ?
 12. How do we differenciate one person from another in context of sensation and perception ?
-
+13. What would happen if our ears were more sensitive than they already are ?
+14. Why would frequent multitaskers be more distractible than those who multitask 
+less frequently?
+15. Why a person sitting in a quiet room is more startled by phone ringing than a person sitting in a noisy room.
+16. Why shouldn’t the pupil be open completely all the time, allowing the greatest 
+amount of light into the eye?
+17. Why does dark adaptation takes significantly longer than light adaptation ?
+18. What happens when light enters the retina ?
+19. Why do we never notice the blind spot ? and What advantage does this automatically filling has ?
+20. How is image formed in the brain whole process ?(`Page 160:UP`)
 ---
 
 ### Section 3
