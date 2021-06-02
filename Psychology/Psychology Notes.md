@@ -263,7 +263,7 @@ tall ones usually have pituitary gland abnormalities.
 
 ### Sensation and Perception
 
-### Section 1
+### Section 1: Vision
 #### `Main Notes`
 - Super Recognition and Faceblindness are disorders
 - **Sensation** Encompasses the processes through which our sense organs recieve information from the world around them.
@@ -324,7 +324,6 @@ many neurons in the cortex are extraordinarily specialized.**Feature Detection**
 - We never notice the blind spot because the information is automatically filled by  using nearby materials to compensate for the missing information.
 ```
 ---
-### Section 2
 #### `Keywords`
 - Super-Recognition
 - Faceblindness
@@ -348,7 +347,7 @@ many neurons in the cortex are extraordinarily specialized.**Feature Detection**
 6. How do smell and taste  function ?
 7. What are skin senses and how do they relate to pain ?
 8. What principles underlie our organization of visual world and allow us to make sense of it ?
-9. How are we able to percieve 3D world when our retina can only sense 2D information ?
+9. How are we able to perceive 3D world when our retina can only sense 2D information ?
 10. What clues do visual illusions give us about our understanding of general visual mechanism >
 11. Difference between Sensation and Perception ?
 12. How do we differenciate one person from another in context of sensation and perception ?
@@ -364,7 +363,109 @@ amount of light into the eye?
 20. How is image formed in the brain whole process ?(`Page 160:UP`)
 ---
 
-### Section 3
 #### `Summary`
 
 
+### Section 1: Hearing and Other Senses
+#### `Main Notes`
+- Sound The Motion of air molecules brought about by a source of vibration
+- The part of ear that vibrates when sound waves strike it
+- A coiled tube in the ear filled with liquid that vibrates in response to sound waves.
+- Basilar membrane A vibrating structure that lies inside the cochlea and divides it into upper and lower chamber with sound receptor cells attached to it.
+- Process of Hearing: Sound enters out Ear ==> Strikes Ear drum .Transmit vibrations to middle ear==> Middle ear contains hammer,anvil and stirrup.They transmit and amplify vibrations through the oval window.It reaches inner ear ==> Inner ear contains Cochlea inside it is basilar membrane.(`Page 169:UP`)When vibrations bend hair cells on the basilar membrane neural Messages are sent to brain.
+- Hair cells attached to the basilar membrane when bent due to sound send neural messages to the br ain. 
+- Frequency is the number of wave cycles that occur in a second.
+- Pitch is the characteristic that makes sound appear high or low.Low frequency translates into low pitched sound.Lowest pitch detectable by humans 20 decibels.Highest 20,000.When sound gets higher than 120 decibels it becomes painful to ear.Our hearing capacity diminishes as we age especially for high pitched sounds.`Thats why older people often cannot hear low pitched sounds`.
+- Amplitude is the feature of waves that allow us to determine whether sound is loud or soft.Waves with `small peaks and valleys are soft and vice versa`.
+- Place theory of Hearing States that different part of the basilar membrance respond to different frequencies.
+  **Issues** Doesnt tell the whole story.Low frequency sounds trigger neurons basilar membrane over such a large area that no single point can be specified.
+- Frequency theory of Hearing states that basilar membrane acts like a microphone responding as a whole to frequencies.The higher the pitch the greater the number of neural impulses to the brain
+  **Issues** Both theories do not fully explain the process of hearing.Place theory provides a better explaination for higher frequencies while frequency theory for lower frequencies.
+- Semicircular canal 3 tubelike structures with fluid inside them that sloshes around when the head is moved signaling rotational or angular movement of brain.
+- Otholiths semi cicular crystals in side the semicircular canal which detect the pull of gravity ,accelation and movement.When we move otholiths shift like sand in wind and come in contact with hair cells.
+- Human sense of smell(olfaction) allows us to distinguish between 10,000 smells.Women general have better sense of smell.People can distinguish gender base on smell alone.
+- We smell when air molecules of some object interact with nasal receptor cells present inside our nose.Smell may also act as a secretive means of communication.Non humans use phermones to communicate sexual attraction or availability.
+- Gustation(Sense of Taste) involves receptor cells that respond to basic 4 stimulus qualities : salty,Sweet,sour and bitter.There is a fifth one but debatable its called umami meaning meaty or savoury.Its japanes.Every taste is a simple combination of these basic 4.Like colors.Receptor cells are roughly 10,000.They wear out and are replaced every 10 days.If this did not happen we would lose our sense of taste if we accidently burned our tongue.Some people are super tasters with twice as many receptors on tongue as non tasters.
+- Skin senses are touch,pressure, temperature and pain.
+- Women experience pain more intensely than men.It may depend on the situation along with mental state,Experience and background of the individual.Soldiers after being hurt have a diminished because they are at a relief that they are alive.
+- Gate control theory of Pain states that receptor cells in the spinal cord lead to certain areas in brain related to pain.When body is injured and these receptor cells become activate.A gate way is opened to the brain and we experience the sensation of pain.
+  2 ways that this gateway  can be closed or diminished in some sense.
+  1.  Other Impulses  than pain can overwhelm or compete for the path to brain and closing the gate.Hence ending the pain sensation.THis is one of reason rubbing around the area of injury than reduce pain.
+  2.  Psychological factors can diminish pain such as soldier at relief of being alive.
+- Strategies to Fight Pain:
+    1. Medication
+    2. Nerve and Brain stimulation .Passing current through nerve or centain parts of brain
+    3. Light therapy.Exposure to lights of certan wavelengths results in pain reduction
+    4. Hypnosis 
+    5. BioFeedback and relaxation: Biofeedback is learning to control involuntary functions of body like heart beat.
+    6. surgery: cutting the nerve pathway.
+    7. Cognitive Restructuring : Thinking positively
+
+
+- 
+#### `Thoughts`
+```
+- Left ear reacts more to speech while right ear reacts more to music.
+- Gate pain theory explains the pain relieving method of acupunture and why it works .The needle may block the gateway to the brain , lessening the experience of pain.
+```
+---
+#### `Keywords`
+- vocal cues
+- Pitch 
+- Frequency
+- Otholths
+- Supertasters
+- Reflex Sympathetic dystrophy syndrome(Small movement or gust of wind can product agony)
+- Skin senses
+- Synesthesia( Like seeing color when listening to music,Or having bitter taste in ur month on touch a meat patty.)
+---
+#### `Questions`
+1. `How are our brains able to sort out wavelengths of different frequencies and intensities?`(Part of basilar membrane neart to the oval window is most sensitive to high frequency sounds,Cochleas inner end is most sensitive to low frequency.So this explaination supports Place theory. )
+2. Why does space sickness occur ? Due to weightless ness of otholiths.
+3. Do humans communicate through smell ? 
+4. Why do non tasters seek out relatively sweet foods as compared to super tasters ? less receptor cells.
+5. `What are the causes for synesthesia ?` Possible explainations: Dense neural networks between different sensory areas of brain or lack of neural control that inhibits connection between sensory areas.
+---
+#### `Summary`
+
+--- 
+### Section 2: Perceptual Organization: Constructing Our View of the World
+#### `Main Notes`
+- **Gestalt Law of Organization** Some of the basic sensory processes can be described by the way we organize bits and pieces of information into meaningful wholes.Set forth in ear `1900s`.Some of the principles are close,proximity, similarity and simplicity.
+ ![alt text](gestalts.PNG)
+**Contemporary** Gestaltk psychology no longer play a prominant role in modern psychology but one principle that still retains its relevance is that two objects considered together form a whole different than the simple combination of singular objects. 
+- **Ways of Processing**
+- **Top down Processing(tdp)** Perception that is guided by high level known, experience and expectations. We try to see the whole picture instead of singular instances.Thats why you can understand words that might have some letters missing.Such as `Helo,l-tt-r,ev-ry`. Top down processing allows us to fill in gaps and  make sense of missing information.Top down processing cannot occur on its own.Bottom up processing is required. If we did not know the meaning of individual words it would be impossible to make sense of sentences that might be missing some words.
+- **Bottom up Processing(bup)** Process of recognizing and processing information from individual bits and moving towards the perception of the whole.BUP and TDP occur simuntaniously .Context is very important in TDP.
+- **Depth Perception** The Ability to view the world in 3 dimentional plane and perceive distance.
+- **Binocular disparity** The difference between the images seen by the left and the right eye.In some cases particular cues allow us to percieve depth and distance. Through a single eye called **monocular cues** Like motion parallax.
+- **Monocular cues** `Relative size`. Experience taught us that object of same size but making images of different size on the retina tell us that the object with small image is farther away.`Texture Gradient` tells us about the distance because the details of object that are far away are less distinct.`Linear Perspective` Like railway tracks in the distance.Far away objects appear to be closer to each other than objects that are not distant.
+- **Perceptual Constancy** Perception of objects is unvarying and consistant even if their appearance or enviroment changes. Like person moving away from us.His size shrinks but we undstand them to be the same.It can sometimes mislead us.Like moon above the sky is perceived smaller and distant while moon appearing close to the horizon appears huge and closer.(`Page 185:UP`)
+- **Apparant Movement** The perception that a stationary object is moving. Like sitting in stationary state you something think that it has started moving when infact it hasn't.
+- **Perception of motion** Movement of the objects image on our retina.But its alway not the cases.Otherwise we would always consider the world at motion when we move our head.
+- **Visual Illusions** Physical stimuli that consistantly produce error in perception.
+- **Muller Lyer Illusion** `page 186:UP` 2 lines of equal length. One line with arrow tip pointed inward appears longer than the line with arrow tip pointed outward.One explaination is when tip is inward the eye movements are greater percieving it to be longer.
+
+![alt text](muller.PNG)
+
+
+- **Devil tuning Folk** Problematice for people brought up in western world to reproduce because they perceive objects in 3D while people brought up in zulu culture can reproduct it easily.Cultural differences are reflected in depth perception
+- **Subliminal Perception** Perceiving minor cues that we are not aware of.They do affect our behaviour.Such descriptive label called **prime** shown to a subject really fast before he can register it about some person and he forms an opinion based on that label such as happy or smart.
+- Subliminal messages are called `priming`.Little evidence to prove that it leads to major changes.Thirst and coca cola example on it.`188:IP`.
+- **ESP** Extra sensory perception.Scientists are skeptical of it.It involves perceiving information with out using our senses.Example mind reading,clarvoyance.
+#### `Keywords`
+- Motion Parallax : The change in position of an object caused by the movement of your body.
+---
+#### `Questions`
+- What principles underlie organization of the visual world and allow us to make sense of the world ?
+- How are we able to sense the world in 3D when our retina are only capable of sensing on 2-D Images ?
+- What clues do illusions give us about our understanding of general perceptual mechanisms ?
+- Why top down processing cannot occur on its own ?
+- How does tdp and bup occur ?
+- `How do we make transformation from 2d to 3d  and Percieve distance?` There is a distance between the 2 eyes and so the images reach each eye are different.The brain integrates that images into one.It also recognizes the difference in the images and uses that difference to determine the distance of an object.E.g Pencil at arm length example.(`Page 183:UP`)
+- Why does perceptual constancy problem in moon viewing occurs ? Explain
+- 
+---
+#### `Summary`
+
+--- 
