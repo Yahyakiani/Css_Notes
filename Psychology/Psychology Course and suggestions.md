@@ -64,3 +64,14 @@ Offenders etc.
 - Cornell Note taking
 - Write Notes in your own words instead of copy pasting 
 
+
+## Sample Structure: 
+
+### Section 1: 
+#### `Main Notes`
+#### `Thoughts`
+---
+#### `Keywords`
+#### `Questions`
+---
+#### `Summary`

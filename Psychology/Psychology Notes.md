@@ -1,6 +1,7 @@
 # Notes
 
 - `Note` Go through recap pages of each chapter
+- Default Book: `Understanding Psychology by Feldman` (UP)
 ## Part 1
 
 ---
@@ -469,3 +470,386 @@ amount of light into the eye?
 #### `Summary`
 
 --- 
+## Part 4 : Learning and Memory
+### Section 1: Classical Conditioning
+#### `Main Notes`
+- **Learning** A relatively permanent change brought about by experience.
+- **Habituation** is decreased response to a stimulus after repeated expose to it.Like an infant is excited by a toy initially but soon gets bored after being presented with it dialy.
+- Ivan pavlov developed the framework for learning in 20th century called classical conditioning.
+- **Classical Conditioning** A type of learning when a neutral stimulus brings about a condition response when it is associated with a stimulus that naturally brings out a response.
+- Neutral Stimulus A stimulus that does not naturally bring out a response of interest before conditioning.
+- Unconditioned stimulus UCS A stimulus that naturally brings out a response of interest without being conditioned
+- A response that is natural and needs no conditioning. Like salivation at the sight of food for dog.
+- Conditioned Response A response that after conditioned is produced after occurance of a neutral stimulus.
+- The sequence and timing of  Neutral stimulus and uncondition stimulus is of grave importance.Research has shown that conditioning is most effective if the neutral stimulus precedes the unconditioned stimulus by half a second or a few seconds.
+1. Neutral stimulus  after uncondition stimulus : Little chance of becoming a condition stimulus
+2. Neutral stimulus  before uncondition stimulus : Good chance of becoming a condition stimulus
+- Emotional responses are especially likely to be learned through classical conditioning.
+- `Little  Albert rat experiment by John B watson (Page 232)`
+-  **Phobias** Intense irrational fears formed through classical conditioning. PTSD is example of phobia when hearing loud sounds.
+-  **Extinction** A basic phenomenon of learning in which the conditioned response diminishes over time and eventually stops occuring after a conditioned stimulus.
+-  Spontaneous Recovery The reemergence of extinguish conditioned response after a period of rest.It explains why drug addicts often relapse when presented with a conditioned stimulus.
+-  Stimulus Generalization A process in which after a conditioned stimulus has been learned, stimulus that are similar to the original stimulus produces condition response.Its intensity is not equal to the original but proportional to how similar is the stimulus to the original stimulus.
+-  Stimulus discrimination When 2 stimulus are distinct from one another.Then one produces a conditioned response and the other does not.Like we learned to pet a barking dog whose tail is wailing but not a barking dog whose tail is standing straight.
+-  Pavlov hypothesized that all learning is nothing more than a long string of condition response.But it is not true.`Page 235 for this discussion`
+
+#### `Thoughts`
+---
+#### `Keywords`
+#### `Questions`
+- What is learning?
+- How do we learn to form associations between stimuli and responses?
+- How do we know when a behavior has been influenced by learning—or even is a result of learning?(Nature and Nurture problem.Whether learning involved or maturation.`Page 229`)
+- How were traditional understanding of classical conditioning were challanged ? By John Garica a learning psychologist.He showed that humans and animals were `biologically prepared` to avoid foods that made them sick.They even `learned taste aversion` to aviod these foods.`Page 235`
+---
+#### `Summary`
+
+---
+### Section 2: Operant Conditioning 
+ 
+#### `Main Notes`
+- **Operant Conditioning** A process in which a voluntary response is strengthened or weakened depending upon whether it was favourable or not.
+- **Throndikes's Law of effect** Responses that lead to desireable outcomes are more likely to be repeated.
+- Throndikes work was perfected by B.F Skinner influential psychologist of 20th century.Rat and food experiment(`Page 238`)
+- **Reinforcement** The process by which a stimulus that increases the probability that a preceding behaviour will be repeated.Pressing the lever a behaviour will more likely occur because of food stimulus in rats.
+- **Reinforcer** A stimulus that increases the likelihood that a previous behaviour will be repeated.
+- **Positive Reinforcer** A stimulus added to the enviroment that brings about an increase in the preceding behaviour.Like if food ,money or praise is added after a response.
+- **Negative Reinforcer** An unpleasant stimulus whose removal from the enviroment  brings about an increase in the preceding behaviour.Like headaque is removed after taking certain medicine.`Positive is Add something while negative is removal`
+- **Punishment** A stimulus that will decrease the probability that a preceding behaviour will occur.`Positive Punishment` decrease the likelihood of response by adding a stimulus.Like hitting a child for misbehaviour.`Negative Punishment` is taking away a childs toys incase of misbehaviour.
+- **Schedules of Reinforcement** Different patterns of frequency and timings of reinforcement after a desired behaviour.
+- **Continous Reinforcement Schedule(CRS)** Reinforcement of a behaviour every time it occurs.
+- **Partial(Intermittent) Reinforcement Schedule(PRS)** Reinforcing of a behaviour some but not all the time.
+- Learning happens more rapidly in CRS but it lasts shorter as compared to PRS.
+- **Fixed Ratio Schedule (FIS)** A schedule in which a reinforcement occurs only after a specific number of responses are made. It is a type of PRS.**Variable ration schedule (VRS)** also a type of PRS. A schedule by which reinforcement occurs after a variable number of responses.In `FRS` response rate relatively slow.This is especially true just after reinforcement when the time between reinforcements is relatively great.Like a students study habits if the time between examination is large than the frequecy of them study at the start of semester is low.`VRS` increases the response rate and brings out a more consistant behaviour for longer period of time.
+- **Stimulus Control Training** The process in which people learn to discriminate between stimuli.A behaviour is reinforced in presense of a specific stimuli but not in its absense.Like increased eye contact and closes can between discriminate between friendliness and romantic attraction.
+- **Discriminative stimulus** indicates that the likelihood of a desired response is more likely.Like asking to borrow something when he is in a good mood. 
+- **SHaping** is the Process of teaching complex behaviour through rewarding closer and closer approximations of the desired behaviour.e.g Lions jumping through hoops or dolphins rescuing divers lost at see
+- **Biological Constraints** In some cases organisms are genetically predisposed to learn a specific behaviour and sometimes they are inhibited to learn a specific behaviour.Impossible to train a pig to pick up disks.
+
+![alt text](behav.PNG)
+
+- **Behaviour Modification** A formalized technique to increase the frequency of desired behaviours and decrease the occuring of unwanted ones.
+- **Generalization training** is taking a behavior that is learned in one setting and applying it in another setting. The goal of systematic programming for generalization in teacher education is to diminish the loss of effective strategies from preservice training to in-service implementation
+
+- **Steps for Behaviour Modifications**
+1. Identifying goals and target behaviors . The fi rst step is to defi ne desired behavior . 
+Is it an increase in time spent studying?
+2. Designing a data-recording system and recording preliminary data . To determine 
+whether behavior has changed, it is necessary to collect data before any 
+changes are made in the situation. 
+3. Selecting a behavior-change strategy . The crucial step is to select an appropriate 
+strategy. Because all the principles of learning can be employed to bring 
+about behavior change, a “package” of treatments is normally used. This 
+might include the systematic use of positive reinforcement for desired 
+behavior
+4. Implementing the program . Probably the most important aspect of program 
+implementation is consistency. It is also important to reinforce the intended 
+behavior. For example, suppose a mother wants her son to spend more time 
+on his homework, but as soon as he sits down to study, he asks for a snack. 
+If the mother gets a snack for him, she is likely to be reinforcing her son’s 
+delaying tactic, not his studying. 
+5. Keeping careful records after the program is implemented . Another crucial task is 
+record keeping. If the target behaviors are not monitored, there is no way of 
+knowing whether the program has actually been successful. 
+6. Evaluating and altering the ongoing program . Finally, the results of the program 
+should be compared with baseline, pre-implementation data to determine its 
+effectiveness. If the program has been successful, the procedures employed can 
+be phased out gradually. 
+
+
+#### `Thoughts`
+---
+#### `Keywords`
+#### `Questions`
+- What is the role of reward and punishment in learning? 
+- What are some practical methods for bringing about behavior change, both in ourselves and in others?
+- `Difference between classical conditioning and operant conditioning ?` In classical the original behaviours are a biological response to a stimulus and conditioning is done to voluntary responses.But in the latter case the organism works on its enviroment to bring about a desireable outcome.Like  studying hard can result in good grades.
+- What is the difference between primary and secondary reinforcer ? Primary reinforcer satisfies some basic biological need.While secondary reinforcer is a stimulus that becomes reinforcing because of its associated with the primary reinforcer. Like food is primary reinforcer but through money we can get food so money is secondary reinforcer.
+- Why Refinforcement beats punishment ? Punishment is frequently ineffective particularly if it is not immediatly applied after that specific behaviour or if the person can leave.Like an employee quiting if he is reprimanded.In such instances that behaviour that is being punished is replaced with even a less desirable one.(`Page 241`).Even worse in case of physical punishment it conveys the idea that physical aggression is a desirable and  permissable.Also Punishment do not convey any information about appropriate alternative behaviour .
+- Why do PRS results last longer than CRS ? Slot machines and candy machine example. `Page 243`
+- How do you reinforce what doesnt come naturally ? THrough shaping 
+---
+#### `Summary`
+
+---
+### Section 3: Cognitive Approaches to Learning  
+#### `Main Notes`
+- **Cognitive Theory of Learning** An approach to study of learning which focuses on underlying thought process and learning.
+-  cognitive learning approach focuses on the internal thoughts and expectations of learners, whereas classical and operant conditioning approaches focus on external stimuli, responses, and reinforcement.
+- Two types of learning in which no obvious prior reinforcement is present are latent learning and observational learning. 
+- **Latent Learning** in which new behaviour is acquired but not demonstrated until an incentive to display it is present. 3 grups of rat example `Page 253`
+- **Cognitive Map** is mental Representation.
+- **Observational Learning** Albert Bandura examined the principles of observational learning. Learning through the process of observing another person or model.It is a `social cognitive approach` to learning.E.g. In one experiment, for example, children who were afraid of dogs were exposed to a model—dubbed the Fearless Peer—playing with a dog. observers were considerably more likely to approach a strange dog than were children who had not viewed the Fearless Peer.
+- Classical learning models do not explain situation where there is no definite reinforcer such rats in mazes with no reward.
+- Observational learning is particularly important in acquiring skills in which the operant conditioning technique of shaping is inappropriate. Like brain surgery or flying air play where is there is little margin for error.Trail and error approach doesnt work.
+- Mirror neurons fire when we observe
+-  college students who frequently played violent video games, such as Postal or Doom, were more likely to have been involved in delinquent behavior and aggression.
+- **Styles of Learning**
+![alt text](style.PNG)
+
+-  One theory suggests that members of minority groups who were voluntary 
+immigrants are more apt to be successful in school than those who were brought into 
+a majority culture against their will. For example, Korean children in the United States—
+the sons and daughters of voluntary immigrants—perform quite well, as a group, in 
+school. In contrast, Korean children in Japan, who were often the sons and daughters 
+of people who were forced to immigrate during World War II, essentially as forced 
+laborers, do less well in school. The theory suggests that the motivation to succeed is 
+lower for children in forced immigration groups.
+- 
+
+
+#### `Thoughts`
+---
+#### `Keywords`
+
+#### `Questions`
+1. What is the role of cognition and thought in learning? 
+2. To which observation of media aggression produces subsequent aggression on the part of viewers is a crucial—and controversial—question.`Page 255`
+3. What about real-life exposure to actual violence? Does it also lead to increases in aggression? The answer is yes. Exposure to actual fi rearm violence (being shot or being shot at) doubles the probability that an adolescent will commit serious violence over the next two years.
+4.  Do the differences in teaching approaches between cultures affect how people learn? Yes, Styles in learning
+5. When people check their messages as soon as their device beeps, is that an example 
+of classical conditioning, operant conditioning, or cognitive learning? Why? 
+6. In the example of people checking their messages, what is the stimulus and what is 
+the response? 
+7. What is the reinforcement that keeps the message-checking behavior strong? Is it 
+positive or negative reinforcement? Is the behavior ever punished? How so? 
+8. If the message-checking behavior is so frequent that it becomes a problem, as 
+Senator Cochran described, what strategies could be used to stop or control the 
+behavior? 
+
+
+---
+#### `Summary`
+---
+
+## Memory 
+
+### Section 1: The Foundations of Memory
+#### `Main Notes`
+- **Memory** The process by which we encode,store and retrieve information.
+- **Encoding** The initial process of recording userful information in form useable to memory is encoding.
+- **Storage** The maintainence of material stored in memory.
+- **Three system approach to memory** 
+  ![alt text](m1.PNG)
+  ![alt text](m2.PNG)
+- **Sensory memory** The initial, momentary storage of information, lasting only an instant. 
+- **Short-term memory** Memory that holds information for 15 to 25 seconds. 
+- **Long-term memory** Memory that stores information on a relatively permanent basis, although it may be difficult to retrieve. 
+- 
+- **Iconic memory** reflects information from the visual system. 
+- **Echoic memory** stores auditory information coming from the ears.
+- Psychologist George Sperling in 1960 proved existence of sensory memory through 12 letter experimentation in rows.`Page 264`
+- **Chunk** is a meaningful group of stimuli that can be stored in memory
+- Process through which sensory memory is transformed to short termn is not known.
+- **Rehearsal** Transfer of Information from short term memory to long term memory is done through reharsal.It serves 2 purposes.Retain the information in short term memory through repetition and transfer the info to long term memory.
+-  if the information in short-term memory is rehearsed using a process called elaborative rehearsal, it is much more likely to be transferred into long-term memory. **Elaborative rehearsal** occurs when the information is considered and organized in some fashion.using organizational strategies such as these—called `mnemonics` —we can vastly improve our retention of information. **Mnemonics** formal techniques for organizing information in a way that makes it more likely to be remembered.
+-  **Working Memory** A set of active temporary memory stores that actively manipulate and rehearse information.
+-  Working memory is thought to contain a `central executive processor` that is 
+involved in reasoning and decision making. The central executive coordinates three 
+distinct storage-and-rehearsal systems: the visual store, the verbal store, and the episodic buffer.
+  ![alt text](memo.PNG)
+
+-  Researchers now regard long-term memory as having several different components, or memory modules
+-  **Declarative memory** Memory for factual information: names, faces, dates, and the like. 
+- **Procedural memory** Memory for skills and habits, such as riding a bike or hitting a baseball; sometimes referred to as nondeclarative memory.
+- **Semantic memory** Memory for general knowledge and facts about the world, as well as memory for the rules of logic that are used to deduce other facts.
+- **Episodic memory** Memory for events that occur in a particular time, place, or context. 
+
+  ![alt text](memtype.PNG)
+
+- **Semantic Network** Mental representation of cluster of interconnected information.
+
+
+  ![alt text](clus.PNG)
+
+- Activating one memory triggers the activation of related memories in a process known as **spreading activation**.
+- **Engram** is a term for Physical memory trace.
+- Roughly seven (plus or minus two) chunks of information can be transferred
+
+#### `Thoughts`
+---
+#### `Keywords`
+- Serial position effect
+- Primacy effect
+- Recency Effect
+- 
+#### `Questions`
+1. What is memory?
+2. Are there diff erent kinds of memory?
+3. What are the biological bases of memory?
+4. `What is the distinction between Long term and short term memory?` The distinction between short- and long-term memory is also supported by the serial position effect, in which the ability to recall information in a list depends on where in the list an item appears. For instance, often a primacy effect occurs, in which items presented early in a list are remembered better. There is also a recency effect, in which items presented late in a list are remembered best.
+5. `Where is long termn memory located in the brain ?` Different parts of brain specialize in different types of memory activities.`Hippocampus`, a part of the brain’s limbic system plays a central role in the consolidation of memories.`Amygdala` is especially involved with memories involving emotion. For example, if you are frightened by a large Doberman, you’re likely to 
+remember the event vividly.
+6. `How is the transformation of information into a memory reflected at the level of neurons?` One answer is `long-term potentiation`, which shows that certain neural pathways 
+become easily excited while a new response is being learned. At the same time, the number of synapses between neurons increase as the dendrites branch out to receive 
+messages. These changes reflect a process called consolidation , in which memories 
+become fixed and stable in long-term memory
+7. Why might researchers want only to reduce the intensity of a traumatic memory rather than erase it altogether?
+8. What might be some of the practical or ethical issues involved with erasing unwanted memories?
+9.  `Why are memory traces are distributed throughout the brain ?` when you recall a beautiful beach sunset, your recollection draws on memory stores located in visual areas of the brain 
+(the view of the sunset), auditory areas (the sounds of the ocean). Diff areas process differet types of memory.
+
+---
+
+#### `Summary`
+---
+### Section 2: 
+#### `Main Notes`
+- **The top of the tongue phenomenon** The inability to recall information that one realizes one know but is unable to due to the difficulty of retrieveing information from long termn memory.
+- **Recall** Memory task in which a specific information must be retrieved.
+- **Recognition** Memory task in which individuals are exposed to stimuli and asked whether they have been exposed to it before or to identify it from a list of alternatves.
+- **Retrievel Cue** A stimulus that allows to recall information more easily from the long term memory.
+- **Level-of-processing-theory** The degree to which new information is deeply and critcally analyzed is crucial to how well we can remeber it later. More processing and analysis of information easier to remember. Theory says that information is processed at several levels.3 levels of processing
+- Shallow Level: Conside only shape and sensory aspects
+- Intermediate Level: Shapes is translated in meaninful of units such as letters in alphabets.Those letters are considered in their context and specific phonetic sounds.
+- Deep Level:Thinking on meaning of information and how they relate to one another. We draw associations and link information with one another.For example in case of a shape of dog we may process it is associated with domesicated animals such as cats.  
+- **Explicit Information** Intentional and concious recollection of information. You remember where you left the keys.
+- **Implicit Information** Memorys of which people are not aware can affect their behaviour and performance. Such as jumping out of the path of an automobile coming towards you.Feeling of vague dislike for an acquaintance.It is closly related to prejudice and discrimation people exhibit towards minority.
+- **Priming** When exposure to a word or concept makes it easier to recall information even when there is no concious memory or concept of that word.Example .Exposed to a word phobos in documentary and some months later when completing a crossword puzzle we come across a missing letters with obos we immediatly think of phobos.That is priming.Also called `retention without memory`.
+- **Flashbulb memories** are memories related to a specific, important, or surprising event 
+that are so vivid they represent a virtual snapshot of the event.e.g memory of a car accident,Seeing your crush for the first time etc.Details recalled in flashbulb memory are inaccurate.
+- **Source amnesia** occurs when some has a memory about a material but cannot recall where he or she encountered it.E.g Meeting someone for the first time but unable to recall where you actually met.
+- **Constructive Process** Processes in which memories are influenced by the context or meaning we give to events.
+- **Schema** Organized body of stored memories that bias the way new information is interpreted,stored and retrieved.`Page 281. African american Prejudice recollection`
+- **Contructive Process in Memory** Memory is based on contructive processes is put forward by `fredrick bartlett`.He argued that we rely on schemas to recall memories and schemas not only include the material information but also our understanding,perception,expectation and prejudices about the experience.
+- **Memories in court** Calvin willis lost 2 decades of his life due to mistaken identity in a rape case.
+- **Repressed Memories** Memories that are initially so shocking that individuals respond with push these memories to the unconcious.They can be error prone or entirely `false memories`.
+- **Autobiographical Memories** Memories and recollections of our own lives.Influenced by constructive processes
+- Culture determines how people frame information initially, how much they practice learning and recalling it, and the strategies they use to try to recall it.
+- Eyewitnesses are apt to make substantial errors when they try to recall the details of crimes. The problem of memory reliability becomes even more acute when the witnesses are children.
+
+#### `Thoughts`
+---
+#### `Keywords`
+#### `Questions`
+1. What causes diffi culties and failures in remembering?
+2. Difference between recall and recognition ?
+3. Why do mistaken identities or memory prone erros happen in court of law ? One reason it happens is that questions word by prosecutor or police officers effect the they recall that information. Second is weapons when a criminal brings out a gun it serves as an attention magnet and victims pay less attention to their surroundings and focus on the weapon.
+4. What is the controversy regarding repressed memories ? When the source of memory becomes unclear and ambigious.People become confused and doubt whether the memories is real of fabricated .
+
+
+---
+#### `Summary`
+---
+### Section 3: Forgetting: When Memory Fails 
+#### `Main Notes`
+- **Decay** The loss of information in memory through its nonuse. This explanation for forgetting 
+assumes that `memory traces`, the physical changes that take place in the brain when new material is learned, simply fade away over time.
+- **Interference**. In interference, information in memory disrupts the recall of other information
+- **Cue-dependent forgetting** Forgetting that occurs when there are insufficient retrieval cues to rekindle information that is in memory. 
+-  In **Proactive interference**, information learned earlier disrupts the recall 
+of newer material. Suppose, as a student of foreign languages, you fi rst learned 
+French in the 10th grade, and then in the 11th grade you took Spanish. When in the 
+12th grade you take a college achievement test in Spanish, you may fi nd you have 
+diffi culty recalling the Spanish translation of a word because all you can think of is 
+its French equivalent.
+
+- In contrast, retroactive interference refers to diffi culty in the recall of information because of later exposure to different material. If, for example, you have diffi -
+culty on a French achievement test because of your more recent exposure to Spanish, 
+retroactive interference is the culprit (see Figure 3). One way to remember the difference between proactive and retroactive interference is to keep in mind that proactive 
+interference progresses in time—the past interferes with the present—whereas retro-
+active interference retrogresses in time, working backward as the present interferes 
+with the past.
+
+- The causes of Alzheimer’s disease are not fully understood. Increasing evidence 
+suggests that Alzheimer’s results from an inherited susceptibility to a defect in the 
+production of the `protein beta amyloid`, which is necessary for the maintenance of 
+nerve cell connections. When the synthesis of beta amyloid goes awry, large clumps 
+of cells form, triggering inflammation and the deterioration of nerve cells in the brain
+
+- **Amnesia** Memory loss that occurs without other mental diffi culties 
+- **Retrograde amnesia** Amnesia in which memory is lost for occurrences prior to a certain event.
+- **Anterograde amnesia** Amnesia in 
+which memory is lost for events that 
+follow an injury.
+- **Korsakoff’s syndrome** A disease that 
+afflicts long-term alcoholics, leaving 
+some abilities intact but including 
+hallucinations and a tendency to 
+repeat the same story.
+- **Ways to Improve our Memory** 
+1. Use the keyword technique. If you are studying a foreign 
+language, try the keyword technique of pairing a foreign 
+word with a common English word that has a similar 
+sound. This English word is known as the keyword . For example, to learn the 
+Spanish word for duck ( pato, pronounced pot-o ), you might choose the keyword 
+pot;
+2. Rely on organization cues . Recall material you read in textbooks by organizing the 
+material in memory the fi rst time you read it. 
+3. Take effective notes . “Less is more” is perhaps the best advice for taking lecture 
+notes that facilitate recall.
+4. Practice and rehearse . Although practice does not necessarily make perfect, it 
+helps.
+5. Don’t believe claims about drugs that improve memory.Not so, according to the results of numerous studies. No research has shown that 
+commercial memory enhancers are effective
+
+
+
+
+
+#### `Thoughts`
+---
+
+#### `Keywords`
+
+#### `Questions`
+1. Why do we forget information? Failure due to encode.lack of attention.Never transfered the information to long term memory. 
+2. What are the major memory impairments?
+3. Difference between interference and decay?In decay, the old books are constantly crumbling and rotting away, leaving room for new arrivals. Interference processes suggest that new books knock the old ones off the shelf, where they become inaccessible. 
+4. `Forgetting is caused by the actual loss or modifi cation of information or by problems in the retrieval of information ?` Most research suggests that material that has apparently been lost 
+because of interference can eventually be recalled if appropriate stimuli are presented 
+(Tulving & Psotka, 1971; Anderson, 1981), but the question has not been fully 
+answered. 
+5. 
+---
+#### `Summary`
+---
+## Intelligence 
+
+### Section 1: What Is Intelligence? 
+#### `Main Notes`
+- **Intelligence** The capacity to understand the world, think rationally and ability to use the available resources effectively when faced with challenges.
+- **G-Factor** The single underlying factor assumed to measure intelligence in the early theories .It recorded spaital visualization skill,verbal competency and mathematical expertise.
+- **Fluid Intelligence** Intelligence that reflects information processing ability, along with reasoning and memory.`E.g`Ability to reason abstractly.Group a series of letters according to some criteria or remember a set of numbers.
+- **Cystallized Intelligence** Accumulation of Information, skills and strategies that people can apply for problem-solving.`E.g` Asked to take part in a discussion regarding political structure.We have to reply on our past experience and knowledge to come up arguments.
+- **Theory of Multiple Intelligences** Howard gardner gave this theory. According to him there are 8 basic intelligences which are musical, bodily kinesthetic, logicalmathematical, linguistic, spatial, interpersonal, intrapersonal, and naturalist.These are relatively independent of each other.They are connected to different aspects of the brain.Every person has them in different degree.They do not work in isolation but rather in harmony with one another. Like writing an essay on nature would involve different aspects of intelligence from visualization to linguistical capability.Howard also says that there may be more such intelligences like `existential intelligence` thinking about our purpose. Dalai lama would show this sort of intelligence.
+- When tasks require more general global intelligence more areas of brain are activated.
+-  **Emotional intelligence** The set of skills that underlie the accurate assessment, evaluation, expression, and regulation of emotions.
+- **Practical Intelligence** According to sternberg .Intelligence related to your overall success in life.   Sternberg argues there are 2 basic forms of intelligence. Creative and Analytical intelligence .
+- **Analytical Intelligence** Related to understnading and dealing with abstract ideas.Such as measured in IQ tests.
+- **Creative Intelligence** Related to generation of novel ideas and products.
+- **Emotional Intelligence** Intelligence which is accurate assessment,understanding,expression and regulation of emotions .
+
+![alt text](intel.PNG)
+
+- **Intelligence Tests** Tests devised to quantify a persons level of intelligence.
+- The first effort at intelligence testing was based on an uncomplicated 
+but completely wrong assumption: that the size and shape of a person’s head could 
+be used as an objective measure of intelligence. The idea was put forward by Sir 
+Francis Galton (1822–1911), an eminent English scientist whose ideas in other domains 
+proved to be considerably better than his notions about intelligence .
+
+- **Mental age** The age for which a given 
+level of performance is average or 
+ typical. 
+- French Psychologist `Alfred binet` developed the first real iq tests. Found Quesions through dull and bright students.To help the dullest student.
+- **Intelligence quotient** A score that takes into accounts an individuals mental and chronological ages.
+-  First formula for IQ in `CA` is chronological age and `MA` is Mental Age
+
+![alt text](iq.PNG)
+
+#### `Thoughts`
+---
+#### `Keywords` 
+#### `Questions`
+1. What are the diff erent definitions and conceptions of intelligence? 
+2. What are the major approaches to measuring intelligence ?
+3.  what do intelligence tests measure?
+4. How is information process associated with general intelligence ? Research shows that people who spend more time on inital encoding of the problem, identifying different aspects of the problem and recalling information from long term memory to associate with the problem score higher than those who do not.Also speed of information processing shows another aspect of intelligence.  
+5. What kinds of human intelligence might machines be unable to mimic?
+6. Do you believe society should place limitations on just how smart machines can become?
+7. What was Galton’s motivation to identify people of high intelligence ? Sense of superiorty in showing that people of high social class were more intelligent.
+8. Difference between test validity and test reliability ?
+---
+#### `Summary`
+---
