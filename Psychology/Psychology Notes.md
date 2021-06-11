@@ -853,3 +853,217 @@ level of performance is average or
 ---
 #### `Summary`
 ---
+### Section 2: Variations in Intellectual Ability
+#### `Main Notes`
+- **Mental retardation (or intellectual disability)** A condition characterized by significant limitations both in intellectual functioning and in conceptual, social, and practical adaptive skills.Occurs in 1% to 3% of population.Types of mental retardation: Mild retardation(55-69 IQ),moderate retardation(40-54) IQ,Severe retardation(25-39)IQ,Profound Retardation(Below 25)IQ.Only mild and moderate can function independently and hold families with little supervision. Others require life long care.
+-**Causes**
+1. **Down syndrome**, the type of mental retardation represents another major cause of mental retardation.Down syndrome results when a person is born with 47 chromosomes instead of the usual 46.
+2. Birth complications, such as a temporary lack of oxygen, 
+may also cause retardation. 
+3. In some cases, mental retardation occurs after birth following a head injury, a stroke, or infections such as meningitis.
+4. Majority of cases of mental retardation are classified as familial 
+retardation, in which no apparent biological defect exists but there is a history of 
+retardation in the family. Whether the family background of retardation is caused by 
+environmental factors, such as extreme continuous poverty leading to malnutrition, 
+or by some underlying genetic factor is usually impossible to determine.
+
+- **Intellectually gifted** The 2%–4% segment of the population who have IQ scores greater than 130.
+
+- 
+#### `Thoughts`
+---
+#### `Keywords`
+#### `Questions`
+1. How are the extremes of intelligence characterized? 
+2. How can we help people reach their full potential? 
+3. Major cause of retardation ? `Fetal Alcohol syndrome`.Mothers drinking while pregnant.Research shows even little alcohol can cause damage to the fetus during pregnancy.
+---
+#### `Summary`
+---
+### Section 3: Group Diff erences in Intelligence: Genetic and Environmental Determinants
+#### `Main Notes`
+- Cultural Background and experience can effect the performance of an iq test taker.
+- **Culture-fair IQ test** A test that does not discriminate against the members of any minority group. 
+- **Heritability** A measure of the degree to which a characteristic is related to genetic, inherited factors. 
+-  Average person today gets more items correct on IQ tests than the average person several generations ago, scores have risen signifi cantly—a phenomenon named `the Flynn effect`.e cause of the Flynn effect is not clear.It may due to better nutrition, better parenting, or improvements in the general social environment, including education. 
+education
+-  
+#### `Thoughts`
+---
+#### `Keywords`
+#### `Questions`
+1. Are traditional IQ tests culturally biased? 
+2. Are there racial differences in intelligence? 
+3. To what degree is intelligence influenced by the environment and to what degree by heredity?
+4.  Group, blacks tend to average 10 to 15 IQ points lower than whites.Does this variation reflect a true difference in intelligence, or are the questions biased with regard to the kinds of knowledge they test? `Good reason to believe that some standardized IQ tests contain elements that discriminate against minority-group members whose experiences differ from those of the white majority`
+5.  
+---
+#### `Summary`
+---
+##  Motivation and Emotion 
+
+### Section 1: Explaining Motivation
+
+#### `Main Notes`
+- **Motivation** The factor that directs and energizes the activities of humans and other organisms.
+- **Instinct** Biologically built in patterns of behaviour in an organism.No consensus about how many instincts are these in the scientific community.
+- **Instinct Theory** Instinct energizes our motivation. Like sexual behaviour is an outcome of instinct of reproduction.Inconclusive explaination into difficult complex motivations.  
+- **Drive Reduction Approaches to motivation** States that a lack of basic biological requirement produces a motivation to fulfill that requirement. Such as lack of water, thirst may produce a motivation to acquire water.This model suggests if our stimulation and activity levels become too high, we try to reduce them.
+- **Drive** Motivational Tension that energizes behaviour to fulfill that need.
+- **Primary Drives** Sex, hunger, Thirsts , sleep are primary drives. In born.
+- **Secondary Drives** Prior learning and experience bring about needs. They do not fulfill any obvious basic drive.Such as acadamical achievement.
+- **Homeostasis** Tendency of body to keep a stable internal state.Like maintaining temperature by a thermostat.Receptor cells monitor body constantly.Like nutrition ,sleep requirements. When deviation from ideal state occurs , the body tries to bring it back to that state.
+- **Drive reduction theory** does not explain when there is motivation not to reduce a drive but rather to maintain or arouse it even further.Like some behaviour seems to be motivated by nothing more than curiosity like checking email.
+- **Arousal Approach to motivation** Goal is to maintain or increase excitement. Like drive reduction if our stimulation and activity levels become too high, we try to reduce them.But if our activity levels become too low we will increase it.People vary widely in the optimal level of arousal they seek out, with some people looking for especially high levels of arousal. For example, people who participate in daredevil sports, high-stakes gamblers, and criminals who pull off high-risk robberies may be exhibiting a particularly high need for arousal .
+- **Incentive approaches to motivation Theories** suggesting that motivation stems from the desire to obtain valued external goals, or incentives.Like eating dessert after a fulfilling meal. it does 
+not provide a complete explanation of motivation because organisms sometimes seek 
+to fulfill needs even when incentives are not apparent.Drive and incentive explaination may work together in case of choosing a delicious look means when we are hungry rather than a bland looking one.
+-  **Cognitive approaches to motivation Theories** suggesting that motivation is a product of people’s thoughts, expectations, and goals—their cognitions.Draws a key distinction between `intrinsic` and `extrinsic` motivation.Intrinsic motivation causes us to participate in an activity for our own enjoyment rather than for any concrete, tangible reward that it will bring us. In contrast, extrinsic motivation causes us to do something for tangible reward.
+
+- **Maslow’s model** places motivational needs in a hierarchy and suggests that 
+before more sophisticated, higher-order needs can be met, certain primary needs 
+must be satisfied.
+
+![alt text](maslow.PNG)
+- **Self-actualization** A state of self-fulfillment in which people realize their highest potential in their own unique way. 
+- Maslows, approach spawned other approaches.Edward Deci and Richard Ryan (2008) have considered human needs in terms of psychological well-being. They suggest in their `self-determination theory`
+that people have the three basic needs of competence, autonomy, and relatedness. 
+Competence is the need to produce desired outcomes, while autonomy is the perception that we have control over our own lives. Finally, relatedness is the need to be 
+involved in close, warm relationships with others. In the view of self-determination 
+theory, these three psychological needs are innate and universal across cultures, and 
+they are essential as basic biological needs
+-  
+-   
+#### `Thoughts`
+---
+#### `Keywords`
+#### `Questions`
+1.  How does motivation direct and energize behavior?
+---
+#### `Summary` Human Needs and Motivation: Eat, Drink, and Be Daring
+---
+
+### Section 2: 
+#### `Main Notes`
+- **Obesity** Body weight that is more than 20% above the average weight for a person of a particular height. 
+- . Internal mechanisms regulate not only the quantity of food they take in, but also the kind of food they desire.
+-  Hypothalamus acts as the brain’s “feeding center” and is primarily responsible 
+for monitoring food intake.
+- **Weight set point** The particular level of weight that the body strives to maintain. 
+- **Metabolism** The rate at which food is converted to energy and expended by the body.
+-  Eating and hunger are influenced both by biological and social factors. People in USA eat bigger portions compared to france or UK.
+-  Psychologists suggest that oversensitivity to external eating cues based on 
+social factors, coupled with insensitivity to internal hunger cues, produce obesity. 
+Others argue that overweight people have higher `weight set points` than other people 
+do. Because their set points are unusually high, their attempts to lose weight by eating less may make them especially sensitive to external, food-related cues and therefore more apt to overeat and perpetuate their obesity.
+- Another biologically based explanation for obesity relates to fat cells in the body. 
+Starting at birth, the body stores fat either by increasing the number of fat cells or 
+by increasing the size of existing fat cells. Furthermore, any loss of weight past infancy 
+does not decrease the number of fat cells; it only affects their size. Consequently, 
+people are stuck with the number of fat cells they inherit from an early age, and the 
+rate of weight gain during the fi rst 4 months of life is related to being overweight 
+during later childhood .According to the `weight-set-point hypothesis`, the presence of too many fat cells from earlier weight gain may result in the set point’s becoming “stuck” at a higher 
+level than desirable.
+- **Eating Disorders**
+-  **Anorexia nervosa** A severe eating disorder in which people may refuse to eat while denying that their behavior and appearance—which can become skeleton-like—are unusual.
+-   **Bulimia** A disorder in which a person binges on large quantities of food, followed by efforts to purge the food through vomiting or other means.
+-   **Ways to Lose Weight**
+1. `There is no easy route to weight control` . You will have to make permanent changes 
+in your life.
+2. Keep track of what you eat and what you weigh
+3.  Cut out television .
+4.  Exercise
+5.  Decrease the infl uence of external social stimuli on your eating behavior
+6.  `Avoid fad diets` . No matter how popular they are at a particular time, extreme 
+diets, including liquid diets, usually don’t work in the long run and can be 
+dangerous to your health
+7. Avoid taking any of the numerous diet pills advertised on television that promise quick 
+and easy results
+8. Maintain good eating habits
+9. Set reasonable goals
+-  **Need for achievement** A stable, learned characteristic in which a person obtains satisfaction by striving for and attaining a level of excellence.`Levels`People high in achievement motivation generally choose tasks that are of intermediate difficulty .In contrast, people with low achievement motivation tend to be motivated primarily by a desire to avoid failure.They too difficult or too easy tasks.
+-  The measuring instrument used most frequently is the Thematic Apperception Test (TAT).Write a task achievement oriented story.`Page 379`
+-  **Need for affiliation** An interest in establishing and maintaining relationships with other people.
+-  **Need for power** A tendency to seek impact, control, or infl uence over others and to be seen as a powerful individual.  Men with high power needs tend to show unusually high levels of aggression, drink heavily, act in a sexually exploitative manner.
+
+
+
+#### `Thoughts`
+---
+#### `Keywords`
+#### `Questions`
+1.  What biological and social factors underlie hunger?
+2.  How are needs relating to achievement, affiliation, and power motivation exhibited?
+3.  Why may some people’s weight set points be higher than those of others? One biological explanation is that obese individuals have a higher level of the hormone leptin, which appears to be designed, from an evolutionary standpoint, to “protect” the body against weight loss.
+4.  What are the causes of anorexia nervosa and bulimia? Cause has roots in society’s valuation of slenderness.Another explaination  is mental imbalance in chemicals.
+the parallel notion that obesity is undesirable
+5. Why do obesity increases as countries become more developed ?
+---
+#### `Summary`
+---
+### Section 3:  Understanding Emotional Experiences 
+
+#### `Main Notes`
+- **Emotions** Feelings that have both congnitive and physiological elements and that influence behaviour.
+- we can experience emotions that involve little or no conscious thought.
+**Function of Emotions**
+  1. `Preparing us for action` . Emotions act as a link between events in our environment and our responses.
+  2.  `Shaping our future behavior` . Emotions promote learning that will help us make 
+appropriate responses in the future. For instance, your emotional response to 
+unpleasant events teaches you to avoid similar circumstances in the future.
+  3. `Helping us interact more effectively with others` . We often communicate the 
+emotions we experience through our verbal and nonverbal behaviors, making 
+our emotions obvious to observers. These behaviors can act as a signal to 
+observers, allowing them to understand better what we are experiencing and 
+to help them predict our future behavior.
+
+- Most researchers suggest that a list of basic emotions would include, at a minimum, happiness, anger, fear, sadness, and disgust.
+  
+![alt text](emotion.PNG)
+
+- One difficulty in defining a basic set of emotions is that substantial differences 
+exist in descriptions of emotions among various cultures.
+- Some theorists suggest that specifi c bodily reactions cause us to experience 
+a particular emotion—we experience fear, for instance, because the heart is pounding 
+and we are breathing deeply. In contrast, other theorists suggest that the physiological reaction results from the experience of an emotion.
+- **James-Lange theory of emotion** The concept that emotional experience is a result of changes in physiology caused by events in our enviroment.Given by William James and Carl Lange.They suggested that for every major emotion there is an accompanying physiological or “gut” 
+reaction of internal organs—called a `visceral experience`.`Page 385`
+**Issues** 
+  1. Emotional experiences frequently occur even before there is time for certain physiological changes to be set into motion.
+  2.  The James-Lange theory poses another diffi culty: Physiological arousal does not 
+invariably produce emotional experience. For example, a person who is jogging has 
+an increased heartbeat and respiration rate as well as many of the other physiological 
+changes associated with certain emotions. Yet joggers typically do not think of such 
+changes in terms of emotion.
+
+![alt text](emotion_theories.PNG)
+
+- **Cannon-Bard theory of emotion** The belief that both physiological arousal and emotional experience are produced simultaneously by the same nerve stimulus.  Walter Cannon and 
+later Philip Bard suggested an alternative view.
+**Development** More recent research has led to some important modifi cations of the theory. For one thing, we now understand that the hypothalamus and the limbic system, not the thalamus, play a major role in emotional experience. In addition, the simultaneous occurrence of the physiological and emotional responses, which is a fundamental assumption of the Cannon-Bard theory, has yet to be demonstrated conclusively
+- **THE SCHACHTER-SINGER THEORY** The belief that emotions are determined jointly by a nonspecific kind of physiological arousal and its interpretation, based on environmental cues. Example `Page 387`.Schachter and Singer believed, they were right in 
+assuming that when the source of physiological arousal is unclear, we may look to 
+our surroundings to determine what we are experiencing.
+- The amygdala , in the brain’s temporal lobe, is important in the experience of emotions for it provides a link between the perception of an emotionproducing stimulus and the recall of that stimulus later.
+- **Facial-affect program** Activation of a set of nerve impulses that make the face display the appropriate expression.
+- **Facial-feedback hypothesis** 
+The hypothesis that facial expressions not only reflect emotional experience but also help determine how people experience and label emotions. For instance, the muscles activated when we smile may send a message to the brain indicating the experience of happiness—even if there is nothing in the environment that would produce that particular emotion.Some psychologist argue that facial expressions are necessary for an emotion to be experienced.
+
+#### `Thoughts`
+---
+#### `Keywords`
+#### `Questions`
+1. What are emotions, and how do we experience them? 
+2. What are the functions of emotions? 
+3. What are the explanations for emotions?
+4. How does nonverbal behavior relate to the expression of emotions? 
+5. A current controversy focuses on whether the emotional response predominates over the cognitive response or vice versa ?`page 382`
+6. Are basic facial expressions inborn or are they learned ?
+7. How could blind athletes have learned when they would be expected to “smile politely,” even if they did not feel happiness ?
+8. Although it seems like basic emotions are expressed similarly across cultures, can you think of examples of nonverbal behaviors that differ across cultures?
+---
+#### `Summary`
+---
+
+
+
