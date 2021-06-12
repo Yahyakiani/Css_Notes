@@ -265,7 +265,7 @@ tall ones usually have pituitary gland abnormalities.
 ### Sensation and Perception
 
 ### Section 1: Vision
-#### `Main Notes`
+#### Main Notes
 - Super Recognition and Faceblindness are disorders
 - **Sensation** Encompasses the processes through which our sense organs recieve information from the world around them.
 - **Perception** is sorting,organization,analysis,interpretation and integration of that information by our sense organs and brain.
@@ -315,7 +315,7 @@ many neurons in the cortex are extraordinarily specialized.**Feature Detection**
 
 
 
-#### `Thoughts`
+#### Thoughts
 ```
 - if our ears were more sensitive that they already are it would be problem matic because of we would be able to hear the sound of air molecules knocking into ear drum.
 - Webers Law, According to him the difference threshold for weight is 1:50.It means that 1 ounce of weight change in an item of 50 ounces weight would be just noticable.It explains why a person sitting in a quiet room is more startled  by phone ringing than a person sitting in a noisy room.
@@ -325,7 +325,7 @@ many neurons in the cortex are extraordinarily specialized.**Feature Detection**
 - We never notice the blind spot because the information is automatically filled by  using nearby materials to compensate for the missing information.
 ```
 ---
-#### `Keywords`
+#### Keywords
 - Super-Recognition
 - Faceblindness
 - Iris
@@ -339,7 +339,7 @@ many neurons in the cortex are extraordinarily specialized.**Feature Detection**
 - Color Blindness
   
 
-#### `Questions`
+#### Questions
 1. What is Sensation and how do psychologists study it ?
 2. What is the relationship between physical stimulus and the kinds of sensory response that result from it ?
 3. How do we see colors ?
@@ -364,11 +364,11 @@ amount of light into the eye?
 20. How is image formed in the brain whole process ?(`Page 160:UP`)
 ---
 
-#### `Summary`
+#### Summary
 
 
 ### Section 1: Hearing and Other Senses
-#### `Main Notes`
+#### Main Notes
 - Sound The Motion of air molecules brought about by a source of vibration
 - The part of ear that vibrates when sound waves strike it
 - A coiled tube in the ear filled with liquid that vibrates in response to sound waves.
@@ -404,13 +404,13 @@ amount of light into the eye?
 
 
 - 
-#### `Thoughts`
+#### Thoughts
 ```
 - Left ear reacts more to speech while right ear reacts more to music.
 - Gate pain theory explains the pain relieving method of acupunture and why it works .The needle may block the gateway to the brain , lessening the experience of pain.
 ```
 ---
-#### `Keywords`
+#### Keywords
 - vocal cues
 - Pitch 
 - Frequency
@@ -420,18 +420,18 @@ amount of light into the eye?
 - Skin senses
 - Synesthesia( Like seeing color when listening to music,Or having bitter taste in ur month on touch a meat patty.)
 ---
-#### `Questions`
+#### Questions
 1. `How are our brains able to sort out wavelengths of different frequencies and intensities?`(Part of basilar membrane neart to the oval window is most sensitive to high frequency sounds,Cochleas inner end is most sensitive to low frequency.So this explaination supports Place theory. )
 2. Why does space sickness occur ? Due to weightless ness of otholiths.
 3. Do humans communicate through smell ? 
 4. Why do non tasters seek out relatively sweet foods as compared to super tasters ? less receptor cells.
 5. `What are the causes for synesthesia ?` Possible explainations: Dense neural networks between different sensory areas of brain or lack of neural control that inhibits connection between sensory areas.
 ---
-#### `Summary`
+#### Summary
 
 --- 
 ### Section 2: Perceptual Organization: Constructing Our View of the World
-#### `Main Notes`
+#### Main Notes
 - **Gestalt Law of Organization** Some of the basic sensory processes can be described by the way we organize bits and pieces of information into meaningful wholes.Set forth in ear `1900s`.Some of the principles are close,proximity, similarity and simplicity.
  ![alt text](gestalts.PNG)
 **Contemporary** Gestaltk psychology no longer play a prominant role in modern psychology but one principle that still retains its relevance is that two objects considered together form a whole different than the simple combination of singular objects. 
@@ -454,10 +454,10 @@ amount of light into the eye?
 - **Subliminal Perception** Perceiving minor cues that we are not aware of.They do affect our behaviour.Such descriptive label called **prime** shown to a subject really fast before he can register it about some person and he forms an opinion based on that label such as happy or smart.
 - Subliminal messages are called `priming`.Little evidence to prove that it leads to major changes.Thirst and coca cola example on it.`188:IP`.
 - **ESP** Extra sensory perception.Scientists are skeptical of it.It involves perceiving information with out using our senses.Example mind reading,clarvoyance.
-#### `Keywords`
+#### Keywords
 - Motion Parallax : The change in position of an object caused by the movement of your body.
 ---
-#### `Questions`
+#### Questions
 - What principles underlie organization of the visual world and allow us to make sense of the world ?
 - How are we able to sense the world in 3D when our retina are only capable of sensing on 2-D Images ?
 - What clues do illusions give us about our understanding of general perceptual mechanisms ?
@@ -467,12 +467,12 @@ amount of light into the eye?
 - Why does perceptual constancy problem in moon viewing occurs ? Explain
 - 
 ---
-#### `Summary`
+#### Summary
 
 --- 
 ## Part 4 : Learning and Memory
 ### Section 1: Classical Conditioning
-#### `Main Notes`
+#### Main Notes
 - **Learning** A relatively permanent change brought about by experience.
 - **Habituation** is decreased response to a stimulus after repeated expose to it.Like an infant is excited by a toy initially but soon gets bored after being presented with it dialy.
 - Ivan pavlov developed the framework for learning in 20th century called classical conditioning.
@@ -493,21 +493,21 @@ amount of light into the eye?
 -  Stimulus discrimination When 2 stimulus are distinct from one another.Then one produces a conditioned response and the other does not.Like we learned to pet a barking dog whose tail is wailing but not a barking dog whose tail is standing straight.
 -  Pavlov hypothesized that all learning is nothing more than a long string of condition response.But it is not true.`Page 235 for this discussion`
 
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
-#### `Questions`
+#### Keywords
+#### Questions
 - What is learning?
 - How do we learn to form associations between stimuli and responses?
 - How do we know when a behavior has been influenced by learning—or even is a result of learning?(Nature and Nurture problem.Whether learning involved or maturation.`Page 229`)
 - How were traditional understanding of classical conditioning were challanged ? By John Garica a learning psychologist.He showed that humans and animals were `biologically prepared` to avoid foods that made them sick.They even `learned taste aversion` to aviod these foods.`Page 235`
 ---
-#### `Summary`
+#### Summary
 
 ---
 ### Section 2: Operant Conditioning 
  
-#### `Main Notes`
+#### Main Notes
 - **Operant Conditioning** A process in which a voluntary response is strengthened or weakened depending upon whether it was favourable or not.
 - **Throndikes's Law of effect** Responses that lead to desireable outcomes are more likely to be repeated.
 - Throndikes work was perfected by B.F Skinner influential psychologist of 20th century.Rat and food experiment(`Page 238`)
@@ -557,10 +557,10 @@ effectiveness. If the program has been successful, the procedures employed can
 be phased out gradually. 
 
 
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
-#### `Questions`
+#### Keywords
+#### Questions
 - What is the role of reward and punishment in learning? 
 - What are some practical methods for bringing about behavior change, both in ourselves and in others?
 - `Difference between classical conditioning and operant conditioning ?` In classical the original behaviours are a biological response to a stimulus and conditioning is done to voluntary responses.But in the latter case the organism works on its enviroment to bring about a desireable outcome.Like  studying hard can result in good grades.
@@ -569,11 +569,11 @@ be phased out gradually.
 - Why do PRS results last longer than CRS ? Slot machines and candy machine example. `Page 243`
 - How do you reinforce what doesnt come naturally ? THrough shaping 
 ---
-#### `Summary`
+#### Summary
 
 ---
 ### Section 3: Cognitive Approaches to Learning  
-#### `Main Notes`
+#### Main Notes
 - **Cognitive Theory of Learning** An approach to study of learning which focuses on underlying thought process and learning.
 -  cognitive learning approach focuses on the internal thoughts and expectations of learners, whereas classical and operant conditioning approaches focus on external stimuli, responses, and reinforcement.
 - Two types of learning in which no obvious prior reinforcement is present are latent learning and observational learning. 
@@ -598,11 +598,11 @@ lower for children in forced immigration groups.
 - 
 
 
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
+#### Keywords
 
-#### `Questions`
+#### Questions
 1. What is the role of cognition and thought in learning? 
 2. To which observation of media aggression produces subsequent aggression on the part of viewers is a crucial—and controversial—question.`Page 255`
 3. What about real-life exposure to actual violence? Does it also lead to increases in aggression? The answer is yes. Exposure to actual fi rearm violence (being shot or being shot at) doubles the probability that an adolescent will commit serious violence over the next two years.
@@ -619,13 +619,13 @@ behavior?
 
 
 ---
-#### `Summary`
+#### Summary
 ---
 
 ## Memory 
 
 ### Section 1: The Foundations of Memory
-#### `Main Notes`
+#### Main Notes
 - **Memory** The process by which we encode,store and retrieve information.
 - **Encoding** The initial process of recording userful information in form useable to memory is encoding.
 - **Storage** The maintainence of material stored in memory.
@@ -666,14 +666,14 @@ distinct storage-and-rehearsal systems: the visual store, the verbal store, and 
 - **Engram** is a term for Physical memory trace.
 - Roughly seven (plus or minus two) chunks of information can be transferred
 
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
+#### Keywords
 - Serial position effect
 - Primacy effect
 - Recency Effect
 - 
-#### `Questions`
+#### Questions
 1. What is memory?
 2. Are there diff erent kinds of memory?
 3. What are the biological bases of memory?
@@ -691,10 +691,10 @@ become fixed and stable in long-term memory
 
 ---
 
-#### `Summary`
+#### Summary
 ---
 ### Section 2: 
-#### `Main Notes`
+#### Main Notes
 - **The top of the tongue phenomenon** The inability to recall information that one realizes one know but is unable to due to the difficulty of retrieveing information from long termn memory.
 - **Recall** Memory task in which a specific information must be retrieved.
 - **Recognition** Memory task in which individuals are exposed to stimuli and asked whether they have been exposed to it before or to identify it from a list of alternatves.
@@ -718,10 +718,10 @@ that are so vivid they represent a virtual snapshot of the event.e.g memory of a
 - Culture determines how people frame information initially, how much they practice learning and recalling it, and the strategies they use to try to recall it.
 - Eyewitnesses are apt to make substantial errors when they try to recall the details of crimes. The problem of memory reliability becomes even more acute when the witnesses are children.
 
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
-#### `Questions`
+#### Keywords
+#### Questions
 1. What causes diffi culties and failures in remembering?
 2. Difference between recall and recognition ?
 3. Why do mistaken identities or memory prone erros happen in court of law ? One reason it happens is that questions word by prosecutor or police officers effect the they recall that information. Second is weapons when a criminal brings out a gun it serves as an attention magnet and victims pay less attention to their surroundings and focus on the weapon.
@@ -729,10 +729,10 @@ that are so vivid they represent a virtual snapshot of the event.e.g memory of a
 
 
 ---
-#### `Summary`
+#### Summary
 ---
 ### Section 3: Forgetting: When Memory Fails 
-#### `Main Notes`
+#### Main Notes
 - **Decay** The loss of information in memory through its nonuse. This explanation for forgetting 
 assumes that `memory traces`, the physical changes that take place in the brain when new material is learned, simply fade away over time.
 - **Interference**. In interference, information in memory disrupts the recall of other information
@@ -787,12 +787,12 @@ commercial memory enhancers are effective
 
 
 
-#### `Thoughts`
+#### Thoughts
 ---
 
-#### `Keywords`
+#### Keywords
 
-#### `Questions`
+#### Questions
 1. Why do we forget information? Failure due to encode.lack of attention.Never transfered the information to long term memory. 
 2. What are the major memory impairments?
 3. Difference between interference and decay?In decay, the old books are constantly crumbling and rotting away, leaving room for new arrivals. Interference processes suggest that new books knock the old ones off the shelf, where they become inaccessible. 
@@ -802,12 +802,12 @@ because of interference can eventually be recalled if appropriate stimuli are pr
 answered. 
 5. 
 ---
-#### `Summary`
+#### Summary
 ---
 ## Intelligence 
 
 ### Section 1: What Is Intelligence? 
-#### `Main Notes`
+#### Main Notes
 - **Intelligence** The capacity to understand the world, think rationally and ability to use the available resources effectively when faced with challenges.
 - **G-Factor** The single underlying factor assumed to measure intelligence in the early theories .It recorded spaital visualization skill,verbal competency and mathematical expertise.
 - **Fluid Intelligence** Intelligence that reflects information processing ability, along with reasoning and memory.`E.g`Ability to reason abstractly.Group a series of letters according to some criteria or remember a set of numbers.
@@ -818,7 +818,7 @@ answered.
 - **Practical Intelligence** According to sternberg .Intelligence related to your overall success in life.   Sternberg argues there are 2 basic forms of intelligence. Creative and Analytical intelligence .
 - **Analytical Intelligence** Related to understnading and dealing with abstract ideas.Such as measured in IQ tests.
 - **Creative Intelligence** Related to generation of novel ideas and products.
-- **Emotional Intelligence** Intelligence which is accurate assessment,understanding,expression and regulation of emotions .
+
 
 ![alt text](intel.PNG)
 
@@ -838,10 +838,10 @@ level of performance is average or
 
 ![alt text](iq.PNG)
 
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords` 
-#### `Questions`
+#### Keywords 
+#### Questions
 1. What are the diff erent definitions and conceptions of intelligence? 
 2. What are the major approaches to measuring intelligence ?
 3.  what do intelligence tests measure?
@@ -851,10 +851,10 @@ level of performance is average or
 7. What was Galton’s motivation to identify people of high intelligence ? Sense of superiorty in showing that people of high social class were more intelligent.
 8. Difference between test validity and test reliability ?
 ---
-#### `Summary`
+#### Summary
 ---
 ### Section 2: Variations in Intellectual Ability
-#### `Main Notes`
+#### Main Notes
 - **Mental retardation (or intellectual disability)** A condition characterized by significant limitations both in intellectual functioning and in conceptual, social, and practical adaptive skills.Occurs in 1% to 3% of population.Types of mental retardation: Mild retardation(55-69 IQ),moderate retardation(40-54) IQ,Severe retardation(25-39)IQ,Profound Retardation(Below 25)IQ.Only mild and moderate can function independently and hold families with little supervision. Others require life long care.
 -**Causes**
 1. **Down syndrome**, the type of mental retardation represents another major cause of mental retardation.Down syndrome results when a person is born with 47 chromosomes instead of the usual 46.
@@ -870,41 +870,41 @@ or by some underlying genetic factor is usually impossible to determine.
 - **Intellectually gifted** The 2%–4% segment of the population who have IQ scores greater than 130.
 
 - 
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
-#### `Questions`
+#### Keywords
+#### Questions
 1. How are the extremes of intelligence characterized? 
 2. How can we help people reach their full potential? 
 3. Major cause of retardation ? `Fetal Alcohol syndrome`.Mothers drinking while pregnant.Research shows even little alcohol can cause damage to the fetus during pregnancy.
 ---
-#### `Summary`
+#### Summary
 ---
 ### Section 3: Group Diff erences in Intelligence: Genetic and Environmental Determinants
-#### `Main Notes`
+#### Main Notes
 - Cultural Background and experience can effect the performance of an iq test taker.
 - **Culture-fair IQ test** A test that does not discriminate against the members of any minority group. 
 - **Heritability** A measure of the degree to which a characteristic is related to genetic, inherited factors. 
 -  Average person today gets more items correct on IQ tests than the average person several generations ago, scores have risen signifi cantly—a phenomenon named `the Flynn effect`.e cause of the Flynn effect is not clear.It may due to better nutrition, better parenting, or improvements in the general social environment, including education. 
 education
 -  
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
-#### `Questions`
+#### Keywords
+#### Questions
 1. Are traditional IQ tests culturally biased? 
 2. Are there racial differences in intelligence? 
 3. To what degree is intelligence influenced by the environment and to what degree by heredity?
 4.  Group, blacks tend to average 10 to 15 IQ points lower than whites.Does this variation reflect a true difference in intelligence, or are the questions biased with regard to the kinds of knowledge they test? `Good reason to believe that some standardized IQ tests contain elements that discriminate against minority-group members whose experiences differ from those of the white majority`
 5.  
 ---
-#### `Summary`
+#### Summary
 ---
 ##  Motivation and Emotion 
 
 ### Section 1: Explaining Motivation
 
-#### `Main Notes`
+#### Main Notes
 - **Motivation** The factor that directs and energizes the activities of humans and other organisms.
 - **Instinct** Biologically built in patterns of behaviour in an organism.No consensus about how many instincts are these in the scientific community.
 - **Instinct Theory** Instinct energizes our motivation. Like sexual behaviour is an outcome of instinct of reproduction.Inconclusive explaination into difficult complex motivations.  
@@ -934,17 +934,17 @@ theory, these three psychological needs are innate and universal across cultures
 they are essential as basic biological needs
 -  
 -   
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
-#### `Questions`
+#### Keywords
+#### Questions
 1.  How does motivation direct and energize behavior?
 ---
-#### `Summary` Human Needs and Motivation: Eat, Drink, and Be Daring
+#### Summary 
 ---
 
-### Section 2: 
-#### `Main Notes`
+### Section 2: Human Needs and Motivation: Eat, Drink, and Be Daring
+#### Main Notes
 - **Obesity** Body weight that is more than 20% above the average weight for a person of a particular height. 
 - . Internal mechanisms regulate not only the quantity of food they take in, but also the kind of food they desire.
 -  Hypothalamus acts as the brain’s “feeding center” and is primarily responsible 
@@ -988,10 +988,10 @@ and easy results
 
 
 
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
-#### `Questions`
+#### Keywords
+#### Questions
 1.  What biological and social factors underlie hunger?
 2.  How are needs relating to achievement, affiliation, and power motivation exhibited?
 3.  Why may some people’s weight set points be higher than those of others? One biological explanation is that obese individuals have a higher level of the hormone leptin, which appears to be designed, from an evolutionary standpoint, to “protect” the body against weight loss.
@@ -999,11 +999,11 @@ and easy results
 the parallel notion that obesity is undesirable
 5. Why do obesity increases as countries become more developed ?
 ---
-#### `Summary`
+#### Summary
 ---
 ### Section 3:  Understanding Emotional Experiences 
 
-#### `Main Notes`
+#### Main Notes
 - **Emotions** Feelings that have both congnitive and physiological elements and that influence behaviour.
 - we can experience emotions that involve little or no conscious thought.
 **Function of Emotions**
@@ -1049,10 +1049,10 @@ our surroundings to determine what we are experiencing.
 - **Facial-feedback hypothesis** 
 The hypothesis that facial expressions not only reflect emotional experience but also help determine how people experience and label emotions. For instance, the muscles activated when we smile may send a message to the brain indicating the experience of happiness—even if there is nothing in the environment that would produce that particular emotion.Some psychologist argue that facial expressions are necessary for an emotion to be experienced.
 
-#### `Thoughts`
+#### Thoughts
 ---
-#### `Keywords`
-#### `Questions`
+#### Keywords
+#### Questions
 1. What are emotions, and how do we experience them? 
 2. What are the functions of emotions? 
 3. What are the explanations for emotions?
@@ -1062,8 +1062,166 @@ The hypothesis that facial expressions not only reflect emotional experience but
 7. How could blind athletes have learned when they would be expected to “smile politely,” even if they did not feel happiness ?
 8. Although it seems like basic emotions are expressed similarly across cultures, can you think of examples of nonverbal behaviors that differ across cultures?
 ---
-#### `Summary`
+#### Summary
 ---
 
+## Personality
 
+### Section 1: Psychodynamic Approaches to Personality 
+#### Main Notes
+- **Psychodynamic Approaches to Personality**  States that personality is motivated by inner forces and conflicts and people have little awareness and control over.
+- **Psychoanalytical theory** Sigmund freud ,austrian scientist developed it in early 1900s.It states that personality is determined by unconscious forces.
+- **Unconcious** A part of personality that contains memory, knowledge, beliefs, urges,emotions drives and instincts of which people have no awareness.Clues to the unconcious are slips of tongue,fantasies and dreams.Slip of tongue also called `freudian slip`.
+- **Structure of Personality According to Freud**`Page 494` Divided in 3 parts . ID, Ego and superego.
+- **ID** It is the primitive part of the personality concerned only with the primal urges such as sex,hunger,aggression and sleep.it operates on the pleasure principle which means that it will try to gratify its every desire and wish.It is the first part of personality that develops.
+- **Ego** Developed soon after a person is born.it acts in a controlling and restraining capacity between id and real world. So that the personality remains safe and is integrated in its surrounding society.Works on `reality principle`.
+- **SuperEgo** It is the sense of right and wrong that we learn from our parents,teachers and other important figures for us.  It includes the concious.
+- If personality only left to superego it would create a perfectionist personality unable to comprise with its circumstances that life very often requires.If left to id, It would create a primitive beast who would only be concerned with satisfying his every desire through whatever means. So ego acts as a mediator between id and superego through a principle of `give and take`.
+- **Psychosexual Stages** Stages of development through which a child passes and comes in conflict with the demands of society and his own sexual urges.
+![alt text](stages.PNG)
+  1. **oral stage** According to Freud, a stage from birth to age 12 to 18 months, in which an infant’s center of pleasure is the mouth. Fixation at the oral stage might produce an adult 
+who was unusually interested in oral activities—eating, talking, smoking—or who 
+showed symbolic sorts of oral interests such as being “bitingly” sarcastic or very 
+gullible.
+  2. At **anal stage**, the major source of pleasure changes from the mouth to the anal region, 
+and children obtain considerable pleasure from both retention and expulsion of feces. 
+If toilet training is particularly demanding, fi xation might occur. Fixation during the 
+anal stage might result in unusual rigidity, orderliness, punctuality—or extreme disorderliness or sloppiness—in adulthood.
+  3. **Phallic stage** According to Freud, a period beginning around age 3 during which a child’s pleasure focuses on the genitals. 
+- **Oedipal conflict** A child’s sexual interest in his or her opposite-sex parent, typically resolved through identification with the same-sex parent.
+- **Identification** The process of wanting to be like another person as much as possible, imitating that person’s behavior and adopting similar beliefs and values.
+- **Latency period** According to Freud, the period between the phallic stage and puberty during which children’s sexual concerns are temporarily put aside.
+- **Genital stage** According to Freud, the period from puberty until death, marked by mature sexual behavior (that is, sexual intercourse).
+- **Fixations** Conflicts and concerns that persist beyond the developmental stage.
+
+- **Defense mechanisms** In Freudian theory, unconscious strategies that people use to reduce anxiety by concealing the source of it from themselves and others.
+- The lack of evidence is due, in part, to the fact that Freud’s conception of personality is built on unobservable abstract concepts.
+-  Furthermore, Freud can be faulted for seeming to view women as inferior to men because he argued that women have weaker superegos than men and in some ways unconsciously yearn to be men (the concept of `penis envy`).
+  
+
+![alt text](defense.PNG)
+
+- Some people fall prey to defense mechanisms to such an extent that they must constantly direct a large amount of psychic energy toward hiding and rechanneling unacceptable impulses. When this occurs, everyday living becomes difficult. In such cases, the result is a mental disorder produced by anxiety—what Freud called `neurosis`.
+- **Neo-Freudian psychoanalysts** Psychoanalysts who were trained in traditional Freudian theory but who later rejected some of its major points.
+- Freud generated an important method of treating psychological disturbances called `psychoanalysis`.
+
+-  **JUNG’S COLLECTIVE UNCONSCIOUS** Carl Jung (pronounced “yoong”), one of the most influential neo-Freudians, rejected Freud’s view of the primary importance of unconscious sexual urges. Instead, he looked at the primitive urges of the unconscious more positively and argued that 
+they represented a more general and positive life force.
+- **Collective unconscious** According to Jung, a common set of ideas, feelings, images, and symbols that we inherit from our ancestors, the whole human race, and even animal ancestors from the distant past.
+- **Archetypes** According to Jung, universal symbolic representations of a particular person, object, or experience. (such as good and evil).Like a `mother archetype`, which contains reflections of our ancestors’ relationships with mother figures, is suggested by the prevalence of mothers in art, religion, literature, and mythology.Personality types derived from Jung’s personality approach form the basis for the `Myers-Briggs personality test`.
+- `Page 500` Other Neo-freudians. Karen horney sometimes called the first female psychologist,She suggested that personality develops in context of social relationships especially with parents.. and Alfred adler says primary human motivation is striving for superiority.
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. How do psychologists define and use the concept of personality?
+2. What do the theories of Freud and his successors tell us about the structure and development of personality? 
+3. What would happen if the personality is only driven by superego or id ?
+4. What was the controversy concernced with freuds phallic stage ? 
+5. Is identification similar in all cultures?
+6. Can you think of ways in which Freud’s theories of unconscious motivations are commonly used in popular culture? How accurately do you think such popular uses of Freudian theories reflect Freud’s ideas?
+   
+---
+#### Summary
+
+---
+
+### Section 2: Trait, Learning, Biological and Evolutionary, and Humanistic Approaches to Personality 
+
+#### Main Notes
+- **Personality**  The pattern of enduring characteristics that produce consistency and individuality in a given person.
+- **Traits** are consistant characteristics and behaviour of a personality displayed in different situations.
+- **Trait theory** A model of personality that seeks to identify the basic traits necessary to describe a personality.Everyone has traits but to differing degrees.
+- A growing consensus exists that the Big Five(OCEAN) represent the best description of personality traits we have today.
+- **Self Efficacy** is our personal belief in ourself whether we are capable of something or not.
+- Compared with other learning theories of personality, social cognitive approaches 
+are distinctive in their emphasis on the reciprocity between individuals and their 
+environment. Not only is the environment assumed to affect personality, but people’s 
+behavior and personalities are also assumed to “feed back” and modify the environment.
+- **Self esteem** is not unidimensional. we view ourselves positively in one aspect and negatively in another.
+
+![alt text](estm.PNG)
+
+- **EVALUATING LEARNING APPROACHES TO PERSONALITY** `Page 508`
+- **Biological and evolutionary** approaches to personality Theories that suggest that important components of personality are inherited.
+- social potency (the degree to which a person assumes mastery and leadership roles in social 
+situations) and traditionalism (the tendency to follow authority) had particularly 
+strong genetic components
+- **Temperament** The innate disposition that emerges early in life.Temperament is quite consistent, with significant stability from infancy well into adolescence.`Page 510`
+- **Humanistic approaches to personality** Theories that emphasize people’s innate goodness and desire to achieve higher levels of functioning. Major proponent of the humanistic point of view is 
+`Carl Rogers` (1971). Along with other humanistic theorists, such as `Abraham Maslow`.`Page 512`
+- **unconditional positive regard** An attitude of acceptance and respect on the part of an observer, no matter what a person says or does.
+![alt text](hum.PNG)
+- **Comparison between theories**
+![alt text](theories.PNG)
+
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What are the major aspects of trait, learning, biological and evolutionary, and humanistic approaches to personality? `Page 514`
+2. What led to the study of alternative approaches to psychoanalytic theory ? `Page 502`
+3. What is trait theory ?
+4. What are traits ?
+5. What is All ports trait theory?
+6. What is the definition and  difference between cardinal, central and secondary traits ?`Page 503`
+7. What is factor analysis in trait theories ?
+8. What are catell trait factor analysis methods for personality determination ? `Page 503`
+9. According to Hans Eysnck, 3 major factors what are extraversion,neuroticism and psychoticism ?
+10. What are Big 5 personality states, who gave them and what do they mean ?
+11. What are the virtues of trait appraoch ? `Page 504`
+12. Do you think people should attempt to override their first judgments about others’ personalities and make more thoughtful judgments? Why or why not?
+13. Why would the ability to judge personality characteristics quickly be valuable from an evolutionary perspective?
+14. What is B.F skinners behaviours approach. How does it define personality ?
+15. What is SOCIAL COGNITIVE APPROACHES TO PERSONALITY ? Give example of it ? Give name of a propoent of this appraoch ?
+16. What is self-efficacy ? How do we develop self efficacy ?
+17. What is situationism in CAPS ? What is CAPS(cognition-affection processing system) given by Walter mischel? Give example ? `Page 507`
+18. How much consistancy exists in personality ? `Page 507` Walter Mishcel thoughts and CAPS system.
+19. How can low self-esteem lead to a cycle of failure ?`Page 507`
+20. Evaluate different personality approaches ?
+21. What is biological and evolution personality appraoch ?
+22. Which personality traits are more like to be hereditary ? Give example ? 
+23. What is temperament ?
+24. Does the identification of specifi c genes linked to personality, coupled with the 
+existence of temperaments from the time of birth, mean that we are destined to have certain types of personalities?`Page 510`
+25. What fault does humanist theorists consider all other approaches have ?`Page 511`
+26. According to rogers what leads to anixety in Humanistic approach ? and how to reduce it ? `Page 512`
+27. What is the criticism on humanistic approach ?  
+---
+#### Summary
+---
+
+### Section 3:  Assessing Personality: Determining What Makes Us Distinctive  
+
+#### Main Notes
+- **Psychological tests** Standard measures devised to assess behavior objectively; used by psychologists to help people make decisions about their lives and understand more about themselves.
+- **Reliability** refers to a test’s measurement consistency. If a test is reliable, it yields the same result each time it is administered to a specifi c person or group. In contrast, unreliable tests give different results each time they are administered
+- Tests have **validity** when they actually measure what they are designed to measure. If a test is constructed to measure sociability, for instance, we need to know that it actually measures sociability and not some other trait.
+- **Norms**, standards of test performance that permit the comparison of one person’s score on a test with the scores of others who have taken the same test. For example, a norm permits test-takers who have received a certain score on a test to know that they have scored in the top 10% of all those who have taken the test. 
+- **Self-report measures** A method of gathering data about people by asking them questions about a sample of their behavior.
+- **Minnesota Multiphasic Personality Inventory-2 (MMPI-2)** A widely used self-report test that identifies people with psychological difficulties and is employed to predict some everyday behaviors
+- **Test standardization** A technique used to validate questions in personality tests by studying the responses of people with known diagnoses.
+- **Projective personality test** A test in which a person is shown an ambiguous stimulus and asked to describe it or tell a story about it.Like `Rorschach inkblots` .Devised by Swiss psychiatrist Hermann Rorschach (1924),
+- **Rorschach test** A test that involves showing a series of symmetrical visual stimuli to people who then are asked what the figures represent to them.Many critics complain that the Rorschach does not provide much valid information about underlying personality traits.
+- **Thematic Apperception Test (TAT)** A test consisting of a series of pictures 
+about which a person is asked to write a story.
+- **Behavioral assessment** Direct measures of an individual’s behavior used to describe personality characteristics.
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1.  How can we most accurately assess personality? 
+2.  What are the major types of personality measures? 
+3.  What are Psychological tests ?
+4.  What is reliability and validity ?
+5.  What are test norms ? How are norms established ? `Page 516`
+6.  What is self report measure ?
+7.  What is MMPI and how it is done ? WHat is it used for ?
+8.  What is test standardization ?
+9.  WHat are projective personality tests ? GIve examples ?
+10. What is rorschach test ?What is its criticism ? How is its validity and reliability ?
+11. What is TAT ?
+12. What is behavioural assessment ?How is it carried out ?
+---
+#### Summary
 

@@ -21,8 +21,7 @@ Emotions, Types of Emotions, Physiological changes in Emotion, Theories of
 Emotions.
 
 6. Psychological Assessment: Attributes of Psychological Measures, Validity, 
-Reliability, Item Analysis, Norms, Modern Test Theory, Selection and Training, 
-Educational and Clinical Assessment, Ethical and Legal Issues in Assessment.
+Reliability, Item Analysis, Norms, Modern Test Theory, `Selection and Training, Educational and Clinical Assessment, Ethical and Legal Issues in Assessment. Not Found`
 
 7. Personality: Determinants of Personality, Factors in Development of Personality, 
 Theoretical Perspectives, Personality Assessment and Techniques, Cross-Cultural 
@@ -35,7 +34,7 @@ Intelligence
 Obedience, Altruism, Attitudes, Social Norms.
 
 10. Developmental Psychology: Physical, Cognitive, Social and Emotional 
-development in Childhood, Adolescence, Adulthood and Old Age
+development in Childhood, Adolescence, Adulthood and Old Age.
 
 11. Abnormal and Clinical Psychology: Concept and causes of Abnormality, Clinical 
 Assessment and Intervention, Different disorders such as Schizophrenia, Mood 
@@ -67,10 +66,10 @@ Offenders etc.
 ## Sample Structure: 
 
 ### Section 1: 
-#### `Main Notes`
-#### `Thoughts`
+#### Main Notes
+#### Thoughts
 ---
-#### `Keywords`
-#### `Questions`
+#### Keywords
+#### Questions
 ---
-#### `Summary`
+#### Summary

@@ -1,0 +1,3 @@
+1. Active Recall ( Make your brain work.) Not passively re-reading the material but instead write questions of every topic and answer those questions.
+2.  Spaced repitions. So 30s minute repeat topic using active recall every 3 days for that topic you studied 3 days prior. Not cram it in one go .divide it in 15 mintue sessions of morning or evening or space them between 2 hours delay.
+3.  Notes only use Cornell note taking and only questions matter really. Definitions can be re-read from the book.
