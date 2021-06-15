@@ -2,6 +2,7 @@
 
 - `Note` Go through recap pages of each chapter
 - Default Book: `Understanding Psychology by Feldman` (UP)
+- Jargon: symptoms,victim,maladaptive
 ## Part 1
 
 ---
@@ -1117,7 +1118,7 @@ they represented a more general and positive life force.
 1. How do psychologists define and use the concept of personality?
 2. What do the theories of Freud and his successors tell us about the structure and development of personality? 
 3. What would happen if the personality is only driven by superego or id ?
-4. What was the controversy concernced with freuds phallic stage ? 
+4. What was the controversy concerned with freuds phallic stage ? 
 5. Is identification similar in all cultures?
 6. Can you think of ways in which Freud’s theories of unconscious motivations are commonly used in popular culture? How accurately do you think such popular uses of Freudian theories reflect Freud’s ideas?
    
@@ -1221,7 +1222,477 @@ about which a person is asked to write a story.
 9.  WHat are projective personality tests ? GIve examples ?
 10. What is rorschach test ?What is its criticism ? How is its validity and reliability ?
 11. What is TAT ?
-12. What is behavioural assessment ?How is it carried out ?
+12. What is behavioural assessment? How is it carried out ?
 ---
 #### Summary
+---
 
+##  Health Psychology: Stress, Coping, and Well-Being 
+
+### Section 1: Stress and Coping
+#### Main Notes
+- **Health psychology** investigates the psychological factors related to wellness and illness, including the prevention, diagnosis, and treatment of medical problems.
+- **Stress** A person’s response to events that are threatening or challenging. 
+- **Stressors** Cause stress
+- There are three general types of stressors: cataclysmic events, personal stressors, and background stressors.
+- **Cataclysmic events** are strong stressors that occur suddenly and typically affect many people simultaneously. Disasters such as tornadoes and plane crashes as well as terrorist 
+attacks are examples of cataclysmic events that can affect hundreds or thousands of people simultaneously. Difference between earthquake and terrorist attack in Cataclysmic events.`Page 528`
+- **Personal stressors** include major life events such as the death of a parent or spouse, the loss of one’s job, a major personal failure, or even something positive such as getting married. Typically, personal stressors produce an immediate major reaction that soon tapers off. For example, stress arising from the death of a loved one tends to be greatest just after the time of death, but people begin to feel less stress and are better able to cope with the loss after the 
+passage of time. 
+- Some victims of major catastrophes and severe personal stressors experience `posttraumatic stress disorder, or PTSD`, in which a person has experienced a significantly stressful event that has long-lasting effects that may include re-experiencing the event in vivid flashbacks or dreams. An episode of PTSD may be triggered by an otherwise innocent stimulus, such as the sound of a honking horn, that leads a person to re-experience a past event that produced considerable stress.
+- **Posttraumatic stress disorder (PTSD)** A phenomenon in which 
+victims of major catastrophes or strong 
+personal stressors feel long-lasting 
+effects that may include re-experiencing 
+the event in vivid fl ashbacks or dreams. 
+- **Background stressors (“daily hassles”)** Everyday annoyances, such 
+as being stuck in traffi c, that cause 
+minor irritations and may have 
+long-term ill effects if they continue 
+or are compounded by other stressful 
+events
+-  In fact, the number of daily `hassles` people face is associated with psychological symptoms and health problems such as flu, sore throat, and backaches. The flip side of hassles is `uplifts`, the minor positive events that make us feel good—even if only temporarily.What is especially intriguing about uplifts is that they are associated with people’s psychological health in just the opposite way that hassles are: The greater the number of uplifts we experience, the fewer the psychological symptoms we report later.
+-  Exposure to stressors generates a rise in hormone secretions by the adrenal glands, an increase in heart rate and blood pressure, and changes in how well the skin conducts electrical impulses.
+- Continued exposure to stress results in a decline in the body’s overall 
+level of biological functioning because of the constant secretion of stress-related 
+ hormones. Over time, stressful reactions can promote deterioration of body tissues 
+such as blood vessels and the heart. Ultimately, we become more susceptible to 
+disease as our ability to fight off infection is lowered.
+- **Psychophysiological disorders** Medical problems influenced by an interaction of psychological, emotional, and physical difficulties.Once referred to as psychosomatic 
+disorders (a term dropped because people assumed that the disorders were somehow 
+unreal).
+- **General adaptation syndrome (GAS)** A theory developed by Selye 
+that suggests that a person’s response 
+to a stressor consists of three stages: 
+alarm and mobilization, resistance, 
+and exhaustion.
+1. The first stage— alarm and 
+mobilization —occurs when people become aware of the presence of a stressor. On a 
+biological level, the sympathetic nervous system becomes energized, which helps a 
+person cope initially with the stressor.
+2. if the stressor persists, people move into the second response stage: 
+resistance . During this stage, the body is actively fighting the stressor on a biological 
+level. During resistance, people use a variety of means to cope with the stressor—
+sometimes successfully but at a cost of some degree of physical or psychological 
+well-being. For example, a student who faces the stress of failing several courses 
+might spend long hours studying seeking to cope with the stress.
+3. If resistance is inadequate, people enter the last stage of the GAS: exhaustion . 
+During the exhaustion stage, a person’s ability to fight the stressor declines to 
+the point where negative consequences of stress appear: physical illness and 
+psychological symptoms in the form of an inability to concentrate, heightened 
+irritability, or, in severe cases, disorientation and a loss of touch with reality. In 
+a sense, people wear out, and their physiological resources to fight the stressor 
+are used up.
+- **Criticism on selye** Selye’s theory has not gone unchallenged. For example, the theory suggests that the biological reaction is similar regardless of the stressor, but some health psychologists 
+disagree. They believe that people’s biological responses are specific to the way they 
+appraise a stressful event. If a stressor is seen as unpleasant but not unusual, then 
+the biological response may be different than if the stressor is seen as unpleasant, 
+out of the ordinary, and unanticipated. 
+- **Consequences of stress** First, stress has direct physiological results, including an increase in blood pressure, an increase in hormonal activity, and an overall decline in the functioning of the immune system. Second, stress leads people to engage in behaviors that are 
+harmful to their health, including increased nicotine, drug, and alcohol use; poor 
+eating habits; and decreased sleep. Finally, stress produces indirect consequences that 
+result in declines in health: a reduction in the likelihood of obtaining health care.
+-  One reason is that stress may overstimulate immune system. Rather than fighting invading bacteria, viruses, and other foreign invaders, it may begin to attack the body itself and damage healthy tissue.
+-  **coping** The efforts to control, reduce, 
+or learn to tolerate the threats that lead 
+to stress. 
+- **Emotion-focused coping** In emotion-focused coping , people try to manage their 
+emotions in the face of stress by seeking to change the way they feel about or 
+perceive a problem. Examples of emotion-focused coping include strategies 
+such as accepting sympathy from others and looking at the bright side of a 
+situation. 
+ • **Problem-focused coping**   Problem-focused coping attempts to modify the 
+stressful problem or source of stress. Problem-focused strategies lead to 
+changes in behavior or to the development of a plan of action to deal with 
+stress. Starting a study group to improve poor classroom performance is an 
+example of problem-focused coping. In addition, one might take a time-out 
+from stress by creating positive events. For example, taking a day off from 
+caring for a relative with a serious, chronic illness to go a health club or spa 
+can bring significant relief from stress. 
+- One of the least effective forms of coping is **avoidant coping**. In avoidant coping, a person may use wishful thinking to reduce stress or use more direct escape routes, such as drug use, alcohol use, and overeating. An example of wishful thinking to avoid a test would be to say to oneself, “Maybe it will snow so hard tomorrow that the test will be canceled.”
+- **Defense mechanisms** defense mechanisms are unconscious strategies that people use to reduce anxiety by concealing the source of stress from themselves and others.
+- Another defense mechanism used to cope with stress is `emotional insulation` in 
+which a person stops experiencing any emotions at all and thereby remains unaffected and unmoved by both positive and negative experiences. The problem with defense mechanisms, of course, is that they merely hide the problem and do not deal with reality. 
+- **Learned helplessness** A state in which 
+people conclude that unpleasant or 
+aversive stimuli cannot be controlled—
+a view of the world that becomes so 
+ingrained that they cease trying to 
+remedy the aversive circumstances 
+even if they actually can exert some 
+influence on the situation. 
+- **Hardiness** A personality characteristic 
+that is associated with a lower rate of 
+stress-related illness and consists of 
+three components: commitment, 
+challenge, and control
+-  **Resilience** is the ability to withstand, overcome, and actually thrive after profound adversity.
+-  A final strategy for coping with stress is `proactive coping`, anticipating and preparing for stress before it is encountered
+-  
+- 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What is health psychology ?
+2. How is health psychology a union between medicine and psychology?
+3. What is stress, how does it affect us, and how can we best cope with it?
+4. Difference between stressor and stress ?
+5. What kinds of events tend to be seen as stressful?
+6. What are  cataclysmic events, personal stressors, and background stressors ? Example ?
+7. What is PTSD  and how does it happen ? What are its symptoms ? `Page 529`
+8. What are hassles and what is the flip side of to hassles ?
+9. What are uplifts and their association with our psychological health? Same with hassles ? `Page 529`
+10. What is the biological response to exposure of stress ?
+11. What effect does continued exposure to stressors have on health ?`Page 530`
+12. What are Psychophysiological disorders and psychosomatic disorders ? Describe any change ?
+13. How does stress affect us ? `Page 531`
+14. What is General adaptation syndrome (GAS)? What are its stages ? Define the stages ?
+15. How do people move out of the third stage after they have entered it?
+16. What is the criticism on seyle,s theory ?
+17. What are the consequences of stress ?
+18. Why is stress so damaging to the immune system?
+19. What is coping and catogeries of coping ?
+20. What is the least successful form of coping ?
+21. What are defense mechanism ?   Give examples ?  
+22. What is emotional Insinuation ? Why is it not useful ?
+23. What is learned helplessness and how is it learned ?`Page 535`
+24. What are coping style ? What is hardiness ? `Page 535`
+25. How do hardy people approach stressful situations ?
+26. What is resilience ?
+27. How social support affects brain processing ?
+28. How can we deal with the stress in our lives? `Page 537`
+---
+#### Summary
+---
+### Section 2:Psychological Aspects of Illness and Well-Being  
+#### Main Notes
+- **Type A behavior pattern** A cluster of behaviors involving hostility, competitiveness, time urgency, and feeling driven. 
+- **Type B behavior pattern** A cluster of behaviors characterized by a patient, cooperative, noncompetitive, and nonaggressive manner.
+- Hostility is the key component of the Type A behavior pattern that is related to 
+heart disease.
+- The key reason is that hostility produces excessive 
+physiological arousal in stressful situations. That arousal, in turn, results in increased 
+production of the hormones epinephrine and norepinephrine as well as increases in 
+heart rate and blood pressure. Such an exaggerated physiological response ultimately 
+produces an increased incidence of coronary heart disease.
+- 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. How do psychological factors affect health-related problems such as coronary heart disease, cancer, and smoking? 
+2. What is Type A and Type B behaviour patterns ?
+3. Which aspect  is particularly assocaited with coronary heart disease ?
+4. Why is hostility so toxic?`Page 540`
+5. Process through which cancer spreads ?
+6. Is a particular personality type linked to cancer? `Page 541`
+7. Role of Genetics in smoking ? `Page 541`
+8. Why It’s So Difficult to Quit ? `Page 542`
+---
+#### Summary
+---
+
+### Section 3:  Promoting Health and Wellness  
+#### Main Notes
+- **Reactance** A negative emotional and cognitive reaction that results from the restriction of one’s freedom. For instance, a man who is placed on a strict diet may experience reactance and tend to eat even more than he did before his diet was restricted.
+- **Positively framed messages** suggest that a change in behavior will lead to a gain and thus emphasize the benefits of carrying out a health related behavior. For instance, suggesting that skin cancer is curable if it is detected early and that you can reduce your chances of getting the disease by using a sun screen places information in a positive frame. 
+- **Negatively framed messages** highlight what you can lose by not performing a behavior. For instance, a physician might say that if you don’t use sunscreen, you’re more likely to get skin cancer, which can kill you if it’s not detected early. 
+- **subjective well-being** People’s own evaluation of their lives in terms of both their thoughts and their emotions.
+-  
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1.  How do our interactions with physicians affect our health and compliance with medical treatment? 
+2. How does a sense of well being develop? 
+3. What is reactance ?
+4. What type of message is more effective?`Page 549`
+5.  WHAT ARE THE CHARACTERISTICS OF HAPPY PEOPLE?`Page 550`
+6.  Why do you think happiness and other emotions might be contagious?
+7.  What could explain the finding that obese people are more likely to have friends 
+who are obese
+8. Why is the level of subjective well-being so stable?`Page 551`
+9. Recap Page`Page 552`
+---
+#### Summary
+---
+
+## Psychological Disorders 
+
+### Section 1: Normal Versus Abnormal: Making the Distinction
+#### Main Notes
+- Different definitions of Abnormality `Page 557`
+- **Abnormal Behaviour** Behaviour that causes people distress and makes them incapable of functioning effectively in their dialy lives.
+- **Perspectives of Abnormal behaviour**
+  ![alt text](disorders.PNG)
+
+  1. **Medical perspective** The perspective 
+that suggests that when an individual 
+displays symptoms of abnormal 
+behavior, the root cause will be found 
+in a physical examination of the 
+individual, which may reveal a 
+hormonal imbalance, a chemical 
+deficiency, or a brain injury.serious criticisms have been leveled 
+against it. For one thing, no biological cause has been identified for many forms of 
+abnormal behavior.`Criticism:` In addition, some critics have argued that the use of the term 
+illness implies that people who display abnormal behavior have no responsibility for 
+their actions.Although, some of the more severe forms of psychological disturbance, such as 
+major depression and schizophrenia, are influenced by genetic factors and malfunctions in neurotransmitter signals
+  2. **Psychoanalytic perspective** 
+The perspective that suggests that 
+abnormal behavior stems from childhood confl icts over opposing wishes 
+regarding sex and aggression. To uncover the roots of people’s disordered behavior, the psychoanalytic perspective scrutinizes their early life history. However, because there is no conclusive 
+way to link people’s childhood experiences with the abnormal behaviors they display 
+as adults, we can never be sure that the causes suggested by psychoanalytic theory 
+are accurate. Moreover, psychoanalytic theory paints a picture of people as having 
+relatively little control over their behavior because much of it is guided by unconscious impulses.`Criticism:` In the eyes of some critics, this perspective suggests that people 
+have little responsibility for their own behavior. 
+  3. **Behavioral perspective** The perspective that looks at the behavior itself as 
+the problem.Using the basic principles of learning, behavioral 
+theorists see both normal and abnormal behaviors as responses to various stimuli—
+responses that have been learned through past experience and are guided in the 
+present by stimuli in the individual’s environment. To explain why abnormal behavior 
+occurs, we must analyze how an individual has learned it and observe the circumstances in which it is displayed. 
+ The emphasis on observable behavior represents both the greatest strength and 
+the greatest weakness of the behavioral approach to abnormal behavior. This perspective provides the most precise and objective approach for examining behavioral 
+symptoms of specifi c disorders, such as attention-defi cit hyperactivity disorder 
+(ADHD).`Criticism:` At the same time, though, critics 
+charge that the perspective ignores the rich inner world of thoughts, attitudes, and 
+emotions that may contribute to abnormal behavior. 
+  4. **Cognitive perspective** The perspective 
+that suggests that people’s thoughts 
+and beliefs are a central component of 
+abnormal behavior. The medical, psychoanalytic, and behavioral perspectives view people’s behavior as the result of factors largely beyond their control. To many critics of these views, 
+however, people’s thoughts cannot be ignored. `Treatment:` A primary goal of treatment using the cognitive perspective is to explicitly teach new, more adaptive ways of thinking. 
+ For instance, suppose that you develop the erroneous belief that “doing well on 
+this exam is crucial to my entire future” whenever you take an exam. Through therapy, you might learn to hold the more realistic and less anxiety-producing thought, 
+“my entire future is not dependent on this one exam.”`Criticism:` The cognitive perspective is not without critics. For example, it is possible that maladaptive cognitions are the symptoms or consequences of disorders rather than 
+their cause. Furthermore, there are circumstances in which negative beliefs may not 
+be irrational at all but simply refl ect the unpleasant environments in which people 
+live—after all, there are times when a single exam may be extremely important.
+  5. **Humanistic perspective** The perspective that emphasizes the responsibility 
+  people have for their own behavior, 
+  even when such behavior is abnormal.`Criticism:` Although the humanistic perspective has been criticized for its reliance on unscientific, unverifiable information and its vague, almost philosophical formulations, it 
+  offers a distinctive view of abnormal behavior. It stresses the unique aspects of being 
+  human and provides a number of important suggestions for helping those with 
+  psychological problems.`Treatment:` Rather than assuming that individuals require a “cure,” the humanistic perspective suggests that they can, by and large, set their own limits of what is 
+  acceptable behavior. As long as they are not hurting others and do not feel personal 
+  distress, people should be free to choose the behaviors in which they engage.
+  6. **Sociocultural perspective** The perspective that assumes that people’s 
+  behavior—both normal and abnormal—
+  is shaped by the kind of family group, 
+  society, and culture in which they live. `Treatment:` . Furthermore, sociocultural explanations provide relatively little 
+  specific guidance for the treatment of individuals showing 
+  mental disturbance because the focus is on broader societal 
+  factors.`Causes:` This perspective finds statistical support for the position that sociocultural factors 
+shape abnormal behavior given the fact that some kinds of abnormal behavior are far 
+more prevalent among certain social classes than they are in others. For instance, 
+diagnoses of schizophrenia tend to be higher among members of lower socioeconomic 
+groups than among members of more affluent groups. 
+- **Diagnostic and Statistical Manual of Mental Disorders** A system, 
+devised by the American Psychiatric 
+Association, used by most professionals to diagnose and classify abnormal 
+behavior. 
+- **Axis** Factors which have to be considered in assessing a patient
+ 1. Axis I: Clinical Disorders. Disorders that produce distress and impair 
+functioning. 
+ 2. Axis II: Personality Disorders and Mental Retardation. Enduring, rigid 
+behavior patterns. 
+ 3. Axis III: General Medical Conditions. Physical disorders that may be related 
+to psychological disorders. 
+ 4. Axis IV: Psychosocial and Environmental Problems. Problems in a person’s 
+life such as stressors or life events that may affect the diagnosis, treatment, 
+and outcome of psychological disorders. 
+ 5. Axis V: Global Assessment of Functioning. Overall level of mental, social, 
+occupational, and leisure functioning. 
+
+- **THE SHORTCOMINGS OF DSM** When clinical psychologist David Rosenhan and eight colleagues sought admission to separate mental hospitals across the United States in the 1970s, each stated 
+that he or she was hearing voices—“unclear voices” that said “empty,” “hollow,” 
+and “thud”—and each was immediately admitted to the hospital. However, the 
+truth was that they actually were conducting a study, and none of them was really 
+hearing voices.We might assume that Rosenhan and his colleagues would have been quickly 
+discovered as the impostors they were, but this was not the case. Instead, each of 
+them was diagnosed as severely abnormal on the basis of observed behavior. Mental health professionals labeled most as suffering from schizophrenia and kept them 
+in the hospital 3–52 days.`Rosenhan’s classic study illustrate` that placing labels on individuals powerfully influences the way mental health workers perceive and interpret their 
+actions. It also points out that determining who is psychologically disordered is not 
+always a clear-cut or accurate process.`Issues:` some critics argue that labeling an individual as abnormal provides a de-humanizing, lifelong stigma. (Think, for example, of political contenders whose candidacies have been terminated by the disclosure that they received treatment for severe 
+psychological disorders.`Advantages:` DSM-IV-TR has had 
+an important influence on the way in which mental health professionals view psychological disorders. It has increased both the reliability and the validity of diagnostic categorization. In addition, it offers a logical way to organize examination of the 
+major types of mental disturbance.
+- **Phobias** Intense, irrational fears of specifi c objects or situations.
+- **Panic disorder** Anxiety disorder that 
+takes the form of panic attacks lasting 
+from a few seconds to several hours. Panic attacks seemingly come out of nowhere and are 
+unconnected to any specifi c stimulus.In addition to the physical symptoms, panic disorder affects how the brain processes information. For instance, people with panic disorder have reduced reactions in the anterior cingulate cortex to stimuli (such as viewing a fearful face) that normally produce a strong reaction in those without the disorder. It may be that recurring high levels of emotional arousal that patients with panic disorder experience 
+desensitizes them to emotional stimuli.
+- **Generalized anxiety disorder** 
+The experience of long-term, 
+persistent anxiety and worry. Furthermore, their anxiety is often accompanied by physiological symptoms 
+such as muscle tension, headaches, dizziness.
+- **obsessive-compulsive disorder (OCD)** 
+ A disorder characterized by obsessions 
+or compulsions. 
+- An **obsession** is a persistent, unwanted thought or idea that keeps recurring. 
+For example, a student may be unable to stop thinking that she has neglected to 
+put her name on a test and may think about it constantly for the two weeks it 
+takes to get the paper back
+- **compulsion** An irresistible urge to 
+repeatedly carry out some act that 
+seems strange and unreasonable. 
+- **Somatoform disorders** Psychological 
+diffi culties that take on a physical 
+(somatic) form, but for which there is 
+no medical cause. 
+- Hypochondriasis** A disorder in which 
+people have a constant fear of illness 
+and a preoccupation with their health. It is a form of Somatoform disorder.
+- **Conversion disorder** A major somatoform disorder that involves an actual 
+physical disturbance, such as the 
+inability to use a sensory organ or the 
+complete or partial inability to move 
+an arm or leg. 
+- **Dissociative disorders** Psychological 
+dysfunctions characterized by the 
+separation of different facets of a 
+person’s personality that are normally 
+integrated.
+- **Dissociative identity disorder (DID)** 
+ A disorder in which a person displays 
+characteristics of two or more distinct 
+personalities.ALso called multiple personality disorder.
+- **Dissociative amnesia** A disorder in 
+which a significant, selective memory 
+loss occurs.. The term `repressed memories` is sometimes 
+used to describe the lost memories of people with dissociative amnesia.
+- **Dissociative fugue** A form of amnesia 
+in which the individual leaves home 
+and sometimes assumes a new identity.The common thread among dissociative disorders is that they allow people to 
+escape from some anxiety-producing situation. Either the person produces a new 
+personality to deal with stress, or the individual forgets or leaves behind the situation 
+that caused the stress as he or she journeys to some new.
+- **Mood disorder** A disturbance in 
+emotional experience that is strong 
+enough to intrude on everyday living.
+- **Major depression** A severe form 
+of depression that interferes with 
+concentration, decision making, and 
+sociability. 
+- **Mania** An extended state of intense, wild elation.
+- **Bipolar disorder** A disorder in which 
+a person alternates between periods of 
+euphoric feelings of mania and periods 
+of depression.
+- **schizophrenia** A class of disorders in 
+which severe distortion of reality occurs.A number of characteristics reliably distinguish schizophrenia from other disorders. They include the following:`Page 578`
+- Thinking and logic is frequently faulty and peculiar, which is referred to as a `formal thought disorder` . “Why do you 
+think people believe in God?” 
+ Uh, let’s, I don’t know why, let’s see, balloon travel. He holds it up for you, the 
+balloon. He don’t let you fall out, your little legs sticking down through the clouds. 
+He’s down to the smokestack.`Happens`The onset of schizophrenia occurs in early adulthood, and the symptoms 
+follow one of two primary courses. In process schizophrenia, the symptoms develop 
+slowly and subtly. There may be a gradual withdrawal from the world, excessive 
+daydreaming, and a blunting of emotion until eventually the disorder reaches the 
+point where others cannot overlook it. In other cases, known as reactive schizophrenia,
+the onset of symptoms is sudden and conspicuous. The treatment outlook for reactive 
+schizophrenia is relatively favorable, but process schizophrenia has proved more 
+diffi cult to treat.`Cause`  dopamine hypothesis suggests that schizophrenia occurs 
+when there is excess activity in the areas of the brain that use dopamine as a neurotransmitter.
+
+  ![alt text](schizo.PNG)
+
+-  **hallucinations**,
+the experience of perceiving things that do not actually exist
+
+- The predominant approach used to explain the onset of schizophrenia today, the 
+`predisposition model of schizophrenia`.
+- **Personality disorder** A disorder 
+characterized by a set of inflexible, 
+maladaptive behavior patterns that 
+keep a person from functioning 
+appropriately in society.
+- **Antisocial personality disorder** 
+A disorder in which individuals show 
+no regard for the moral and ethical 
+rules of society or the rights of others.r (sometimes referred to as a sociopathic personality). 
+Individuals with this disturbance show no regard for the moral and ethical rules of 
+society or the rights of others. Although they can appear quite intelligent and likable 
+(at least at fi rst), upon closer examination they turn out to be manipulative and 
+deceptive. Moreover, they lack any guilt or anxiety about their wrongdoing. When 
+those with antisocial personality disorder behave in a way that injures someone else, 
+they understand intellectually that they have caused harm but feel no remorse.
+
+- **Borderline personality disorder** 
+A disorder in which individuals have 
+difficulty developing a secure sense 
+of who they are.
+-  **Narcissistic personality disorder** 
+A personality disturbance characterized by an exaggerated sense of 
+self- importance.
+-  **Childhood Disorders** 
+-  **Attention-deficit hyperactivity disorder (ADHD)** A disorder marked 
+by inattention, impulsiveness, a low 
+tolerance for frustration, and a great 
+deal of inappropriate activity.  The cause of ADHD is not known, although most experts feel that it is produced 
+by dysfunctions in the nervous system. 
+- **Autism** A severe developmental 
+disability that impairs children’s 
+ability to communicate and relate 
+to others. 
+
+
+
+
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. How can we distinguish normal from abnormal behavior? 
+2. What are the major perspectives on psychological disorders used by mental health professionals? 
+3. What are the major categories of psychological disorders?
+4. What are the different definitions of abnormality ? `Page 557`
+5. What is the medical perspective and what was the criticism leveled against it ?Treatment?
+6. What is the psychoanalytic perspective and what was the criticism leveled against it ?Treatment?
+7. What is the Behavioural perspective and what was the criticism leveled against it ?Treatment?
+8. What is the Cognitive perspective and what was the criticism leveled against it ?Treatment?
+9. What is the humanist perspective and what was the criticism leveled against it ?Treatment?
+10. What is the social perspective ?Treatment?
+11. How is behavioural perspective different from psycho and medical perspective ? 
+12. What are Phobias ? example ?
+13. What are Panic disorders ?  example ? How does it effect body and brain ?
+14. Difference beteen phobia and panic disorders?
+15. What are general anxiety disorder ? example?
+16. what is ocd ? example ?
+17. What is compulsion ?
+18. Causes fo anxiety disorders ?`Page 571`According to all perspectives ?
+19.  What are Somatoform disorders ? Example. 
+20.  What are conversion disorders ?
+21.  What dissociative disorders ? Example ?
+22.  What is DID ?
+23.  What is DA ? Example 
+24.  What is Dissociative fugue ?Explain why it happens ?
+25.  What is mood disorder ? Exmaple ?
+26.  What is major depression ? Are women more susceptible to it ?
+27.  What is mania ? Example ?
+28.  What is bipolar disorder ?`Page 576`
+29.  What are the causes of mood disorders ?`Page 577`
+30.  What is schizophrenia ? `Page 578`
+31.  What are hallucinations ?
+32.  What is formal thought disorder ?
+33.  Types schizophernia happens ?
+34.  Difference between Type I and  Type II schizophrenia ?
+35.  Biological causes of schizophrenia ?`Page 581`
+36.  What is dopamine hypothesis ?
+37.  What are enviromental causes of schizophrenia ? `Page 582`
+38.  What is predisposition model of schizophrenia ? `Page 583`
+39.  What is antipersonality disorder ?
+40.  What is a sociopath ? Describe sociopaths ?`Page 584`
+41.  What causes such an unusual constellation of problem behaviors? in sociopaths ? `Page 584`
+42.  What is bpd ? Cause ?
+43.  What is narcisistic personality disorder ? cause ?
+44.  What is adhd ? what causes it ?
+45.  What is autism ?
+---
+#### Summary
+---
