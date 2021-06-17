@@ -46,7 +46,7 @@ motivation, Organizational Culture, Stress and Conflict at Work and its Manageme
 Organizational Socialization, Job related Attitude, Sexual Harassment, Glass Ceiling, 
 Human Computer interaction.
 
-1.  Health Psychology: Beliefs and Behaviour, Models of Health Psychology, 
+13.  Health Psychology: Beliefs and Behaviour, Models of Health Psychology, 
 Assessment and Intervention, Models of Stress, Chronic and Terminal Illness, Role 
 of Social Support.
 
@@ -73,3 +73,4 @@ Offenders etc.
 #### Questions
 ---
 #### Summary
+---

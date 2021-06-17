@@ -1696,3 +1696,201 @@ to others.
 ---
 #### Summary
 ---
+
+### Section 3: Psychological Disorders in Perspective
+#### Main Notes
+- People who experienced simultaneous multiple disorders (known as **comorbidity**)
+- The term self-defeating personality disorder had been applied to cases in which people who were treated unpleasantly or demeaningly in relationships neither left nor took other action. It 
+was typically used to describe people who remained in abusive relationships. 
+- In fact, among all the major adult disorders included in the DSM categorization only four are found across all cultures of the world: schizophrenia, bipolar disorder, major depression, and anxiety disorders.
+- In fact, this perception has a name: medical student’s 
+disease . Although in this case it might more aptly be labeled 
+“psychology student’s disease,” the basic symptoms are the 
+same: feeling that you suffer from the same sorts of problems 
+you are studying. 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. How prevalent are psychological disorders?
+2. What indicators signal a need for the help of a mental health practitioner? 
+3. How common are the kinds of psychological disorders ? Every second person you meet in theUnited States is likely to suffer at some point during his or her life from a psychological disorder. `Page 588`
+4. What is comorbidity ?
+5. Why was self-defeating personality disorder and premenstrual dysphoric disorder removed from DSM ? `Page 590`
+6. Do you think college students might be at particular risk for developing a psychological disorder? Why?
+7. Why might having a parent lose a job during the school year lead to an increased 
+risk for depression?
+Give an example of abnormality changes according to cultures ? `Page 592` Red indian talking to ancestors example.
+---
+#### Summary
+---
+##  Treatment of Psychological Disorders 
+
+### Section 1: Psychotherapy: Psychodynamic, Behavioral, and Cognitive Approaches to Treatment   
+#### Main Notes
+- **Psychotherapy** Treatment in which a trained professional—a 
+therapist—uses psychological techniques to help a person overcome 
+psychological diffi culties and disorders, resolve problems in living, or 
+bring about personal growth.
+- **Biomedical therapy** Therapy that relies on drugs and other medical 
+procedures to improve psychological functioning.
+- **Psychodynamic therapy** Therapy that 
+seeks to bring unresolved past conflicts 
+and unacceptable impulses from the 
+unconscious into the conscious, where 
+patients may deal with the problems 
+more effectively. 
+- Anxiety associated with unacceptable conflicts and impluses can produce abnormal behavior in the form of what 
+Freud called neurotic symptoms .
+- **Psychoanalysis** Freudian psychotherapy in which the goal is to release 
+hidden unconscious thoughts and 
+feelings in order to reduce their power 
+in controlling behavior. They often use a technique developed by Freud called **free association** Psychoanalysts using this technique tell patients to say aloud whatever comes to mind, 
+regardless of its apparent irrelevance or senselessness.**Resistance**
+is an inability or unwillingness to discuss or reveal particular memories.**Transference** is the transfer to a psychoanalyst feelings of 
+love or anger that had been originally directed to a patient’s parents or other authority fi gures.
+- **Behavioral treatment** approaches 
+ Treatment approaches that build on 
+the basic processes of learning, such as 
+reinforcement and extinction, and 
+assume that normal and abnormal 
+behavior are both learned.
+- **Aversive conditioning** A form of 
+therapy that reduces the frequency of 
+undesired behavior by pairing an 
+aversive, unpleasant stimulus with 
+undesired behavior. `Page 603`
+-  **Systematic desensitization** A behavioral technique in which gradual exposure to an anxiety-producing stimulus is paired with relaxation to extinguish the response of anxiety. 
+-  **Exposure** A behavioral treatment for 
+anxiety in which people are confronted 
+either suddenly or gradually with a 
+stimulus that they fear. 
+  
+- One example of the systematic application of operant conditioning principles is 
+the `token system`, which rewards a person for desired behavior with a token such as 
+a poker chip or some kind of play money. Although it is most frequently employed 
+in institutional settings for individuals with relatively serious problems and sometimes with children as a classroom management technique
+- **Contingency contracting** `Page 605`
+- Behavioural therapists also use observational learning .
+- **Dialectical behavior therapy** A form 
+of treatment in which the focus is on 
+getting people to accept who they are 
+regardless of whether it matches their 
+ideal. 
+-  **cognitive treatment approaches** Treatment approaches that teach people to 
+think in more adaptive ways by changing their dysfunctional cognitions about the world and themselves.
+-  **cognitive-behavioral approach** 
+A treatment approach that incorporates basic principles of learning to 
+change the way people think. 
+- **Rational-emotive behavior therapy** 
+A form of therapy that attempts to 
+restructure a person’s belief system 
+into a more realistic, rational, and 
+logical set of views by challenging 
+dysfunctional beliefs that maintain 
+irrational behavior. 
+- In `cognitive appraisal`, clients are asked to evaluate situations, themselves, and others in terms of their memories, values, beliefs, thoughts, and 
+expectations. During the course of treatment, therapists help clients discover ways 
+of thinking more appropriately about themselves and others
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What are the goals of psychologically and biologically based treatment approaches? 
+2. What are the psychodynamic, behavioral, and cognitive approaches to treatment?
+3. What is Psychotherapy ?
+4. What is Biomedical Therapy ?
+5. How do we rid ourselves of the anxiety produced by unconscious, unwanted 
+impulses and drives? 
+6. What psychoanalysis ?
+7. What is Psychodynamic therapy ? How is it done ?
+8. What is free association ? example ?
+9. What is resistance ? `Page 601` example ?
+10. What is transference ? example ?
+11. What is the criticism on   PSYCHODYNAMIC THERAPY ? `Page 602`
+12. What is the behaviorual therapy approach ? example ?
+13. What is Aversive conditioning ? Example ?
+14. What is Systematic desensitization ?Example ?
+15. What is exposure ?
+16. What  is the token system in behavioural therapy ?
+17. What is Contingency contracting ?
+18. What is Dialectical behaviour therapy ?
+19. Evaluate Behaviour therapy ?`Page 606`
+20. What are cognitive approaches ?
+21. What is cognitive behaviour approach ? `Page 607`
+22. What is Rational-emotive behavior therapy ? Example ?
+23. Wha is the A-B-C model of thinking ? `Page 607`
+24. What is cognitive appraisal ? examplee ?
+25. Evaluate cognitive approaches ?
+  
+---
+#### Summary
+---
+
+### Section 2: Psychotherapy: Humanistic, Interpersonal, and Group Approaches to Treatment 
+
+#### Main Notes
+- `Page 610`
+- **Humanistic therapy** Therapy in which 
+the underlying rationale is that people 
+have control of their behavior, can 
+make choices about their lives, and are 
+essentially responsible for solving their 
+own problems. 
+- **Person-centered therapy**(also called client-centered therapy) Therapy 
+in which the goal is to reach one’s 
+potential for self-actualization. 
+- **Interpersonal therapy (IPT)** Shortterm therapy that focuses on the 
+context of current social relationships. 
+-  **Group therapy**   Therapy in which 
+people meet in a group with a therapist to discuss problems.Groups vary greatly in terms of the particular model they employ; 
+there are psychoanalytic groups, humanistic groups, and groups corresponding to the other therapeutic approaches
+-  **Family therapy** An approach that 
+focuses on the family and its dynamics
+-  **spontaneous remission** Recovery 
+without treatment. 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What are the humanistic approaches to treatment? 
+2. What is interpersonal therapy? 
+3. How does group therapy differ from individual types of therapy? 
+4. How effective is psychotherapy, and which kind of psychotherapy works best in a given situation? 
+5. What is person centered therapy ? Is it used today ?
+6. Evaluate humanistic therapy ?`Page 612` 
+7. What is group therapy ? 
+8. what is Family therapy ?
+9. Does Therapy Work? `Page 614`
+10. What is  SELF-HELP THERAPY  ?`Page 613`
+11. IS THERAPY EFFECTIVE?
+12. What is  spontaneous remission ?
+---
+#### Summary
+---
+
+### Section 3: Biomedical Therapy: Biological Approaches to Treatment
+
+#### Main Notes
+- **Drug therapy** Control of psychological 
+disorders through the use of drugs. 
+- **Antipsychotic drugs** Drugs that 
+temporarily reduce psychotic symptoms such as agitation, hallucinations, 
+and delusions. 
+
+![alt text](drug.PNG)
+
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. How are drug, electroconvulsive, and psychosurgical techniques used today in the treatment of psychological disorders? 
+2. What is Drug therapy ? What is it used for ? How does it work ?
+3. What are Antipsychotic drugs ?Consequences of these drugs ?Example ?
+4. What antidepressant drugs ? Famous example ? Side Effects ? Prozac
+5. What are mood stablizers ?
+6. 
+---
+#### Summary
+---
+
