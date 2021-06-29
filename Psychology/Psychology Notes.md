@@ -97,12 +97,12 @@ instantly.
 
  **all-or-none law** The rule that neurons are either on or off.
   
-  ![alt text](neurons.PNG)
+  ![alt text](images/neurons.PNG)
 
 **resting state** The state in which there is a negative electrical charge of about –70 millivolts within a neuron.Also  Like a gun, neurons either fire—that is, transmit an electrical impulse along the axon—or don’t fire. There is no in-between stage, just as pulling harder on a gun 
 trigger doesn’t make the bullet travel faster
  
- ![alt text](fire.PNG)
+ ![alt text](images/fire.PNG)
 
 - **Action Potential** an electric nerve impulse that travels through a neuron’s axon when it is set off by a “trigger,” changing the neuron’s 
 charge from negative to positive. Movement of an action potential along an axon. Just before Time 1, positively charged ions enter the cell membrane, changing the charge in the nearby part of the axon from negative to positive and triggering an action potential. The action potential travels along the axon, as illustrated in the changes occurring from Time 1 to Time 3 (from top to bottom in this drawing). Immediately after the action potential has passed through a section of the axon, positive ions are pumped out, restoring the charge in that section to negative.
@@ -124,7 +124,7 @@ behavior.
 -  **Neurotransmitters** Chemicals that carry messages across the synapse to 
 the dendrite (and sometimes the cell body) of a receiver neuron
 
- ![alt text](synapse.PNG)
+ ![alt text](images/synapse.PNG)
 
 - Several types of neurotransmitters, and not all neurons are capable of receiving the chemical message carried by a particular neurotransmitter. In the same way that a jigsaw puzzle piece can fit in only one specifi c location in a puzzle, each kind of neurotransmitter has a distinctive configuration that allows it to fi t into a specific type of receptor site on the receiving neuron
 
@@ -144,7 +144,7 @@ an example of chemical recycling called **reuptake** .
 
 - Some antidepressant drugs, called SSRIs, or selective serotonin reuptake inhibitors , permit certain neurotransmitters to remain active for a longer period at certain synapses in the brain, thereby reducing the symptoms of depression
 
- ![alt text](neurotransmitters.PNG)
+ ![alt text](images/neurotransmitters.PNG)
 
 - **Parkinson’s disease**, from which actor Michael J. Fox suffers, is caused by a defi ciency of dopamine in the brain.
 
@@ -175,7 +175,7 @@ stimulus. A refl ex is also at work when you touch a hot stove and immediately w
 
 - **Reflex** An automatic, involuntary response to an incoming stimulus.
 
- ![alt text](ns.PNG)
+ ![alt text](images/ns.PNG)
 
  
 - **Sensory (afferent) neurons** Neurons that transmit information from the perimeter of the body to the central nervous system. 
@@ -199,7 +199,7 @@ respond to a threat.
   
 
 
- ![alt text](acts.PNG)
+ ![alt text](images/acts.PNG)
 
 
    
@@ -285,7 +285,7 @@ tall ones usually have pituitary gland abnormalities.
 - **Cones** Cone shaped light sensitive receptor cells inside the retina that are responsible for focus and color  particularly in bright lights.Cones are concentrated on the part of retina called **Fovea**.Fovea is particularly sensitive.When you focus on a particular object of interest the image is centered on fovea to see it more sharply. 
 - **Dark Adaptation** Processes of adapting to dim light after being in a bright light enviroment.Cones and rods are involved in it. **Light adaption** opposite of dark adaptation.These processes occur as a result of rate of change in chemical composition in Rods and cones.Because change in rods take 20 to 30 minutes to reach maximum level ,Dark adaptation takes longer.While cones reach maximum level in a minute or so. 
 
- ![alt text](eye.PNG)
+ ![alt text](images/eye.PNG)
 
 
 - **Optic Nerve** A bundle of `ganglion` axons that carry visual information to the brain.
@@ -294,7 +294,7 @@ tall ones usually have pituitary gland abnormalities.
 - **Blind Spot** The opening of the optic nerve passes through the retina there are no rods or cones in that area so it creates a blind spot.
 - **Optic Chiasm** Optic nerves from the 2 eyes meet at a specific point where `each optic` never then splits.
 
- ![alt text](split.PNG)
+ ![alt text](images/split.PNG)
 
 - David Hubel and Torsten Wiesel won the Nobel Prize in 1981 for their discovery that 
 many neurons in the cortex are extraordinarily specialized.**Feature Detection** The activation of Neurons in Visual  Cortex by visual stimuli of specific shapes or patterns.Some cells are only activated by moving as opposed to stationary objects others by lines of diff shape ,width or orientation.
@@ -434,7 +434,7 @@ amount of light into the eye?
 ### Section 2: Perceptual Organization: Constructing Our View of the World
 #### Main Notes
 - **Gestalt Law of Organization** Some of the basic sensory processes can be described by the way we organize bits and pieces of information into meaningful wholes.Set forth in ear `1900s`.Some of the principles are close,proximity, similarity and simplicity.
- ![alt text](gestalts.PNG)
+ ![alt text](images/gestalts.PNG)
 **Contemporary** Gestaltk psychology no longer play a prominant role in modern psychology but one principle that still retains its relevance is that two objects considered together form a whole different than the simple combination of singular objects. 
 - **Ways of Processing**
 - **Top down Processing(tdp)** Perception that is guided by high level known, experience and expectations. We try to see the whole picture instead of singular instances.Thats why you can understand words that might have some letters missing.Such as `Helo,l-tt-r,ev-ry`. Top down processing allows us to fill in gaps and  make sense of missing information.Top down processing cannot occur on its own.Bottom up processing is required. If we did not know the meaning of individual words it would be impossible to make sense of sentences that might be missing some words.
@@ -448,7 +448,7 @@ amount of light into the eye?
 - **Visual Illusions** Physical stimuli that consistantly produce error in perception.
 - **Muller Lyer Illusion** `page 186:UP` 2 lines of equal length. One line with arrow tip pointed inward appears longer than the line with arrow tip pointed outward.One explaination is when tip is inward the eye movements are greater percieving it to be longer.
 
-![alt text](muller.PNG)
+![alt text](images/muller.PNG)
 
 
 - **Devil tuning Folk** Problematice for people brought up in western world to reproduce because they perceive objects in 3D while people brought up in zulu culture can reproduct it easily.Cultural differences are reflected in depth perception
@@ -527,7 +527,7 @@ amount of light into the eye?
 - **SHaping** is the Process of teaching complex behaviour through rewarding closer and closer approximations of the desired behaviour.e.g Lions jumping through hoops or dolphins rescuing divers lost at see
 - **Biological Constraints** In some cases organisms are genetically predisposed to learn a specific behaviour and sometimes they are inhibited to learn a specific behaviour.Impossible to train a pig to pick up disks.
 
-![alt text](behav.PNG)
+![alt text](images/behav.PNG)
 
 - **Behaviour Modification** A formalized technique to increase the frequency of desired behaviours and decrease the occuring of unwanted ones.
 - **Generalization training** is taking a behavior that is learned in one setting and applying it in another setting. The goal of systematic programming for generalization in teacher education is to diminish the loss of effective strategies from preservice training to in-service implementation
@@ -586,7 +586,7 @@ be phased out gradually.
 - Mirror neurons fire when we observe
 -  college students who frequently played violent video games, such as Postal or Doom, were more likely to have been involved in delinquent behavior and aggression.
 - **Styles of Learning**
-![alt text](style.PNG)
+![alt text](images/style.PNG)
 
 -  One theory suggests that members of minority groups who were voluntary 
 immigrants are more apt to be successful in school than those who were brought into 
@@ -631,8 +631,8 @@ behavior?
 - **Encoding** The initial process of recording userful information in form useable to memory is encoding.
 - **Storage** The maintainence of material stored in memory.
 - **Three system approach to memory** 
-  ![alt text](m1.PNG)
-  ![alt text](m2.PNG)
+  ![alt text](images/m1.PNG)
+  ![alt text](images/m2.PNG)
 - **Sensory memory** The initial, momentary storage of information, lasting only an instant. 
 - **Short-term memory** Memory that holds information for 15 to 25 seconds. 
 - **Long-term memory** Memory that stores information on a relatively permanent basis, although it may be difficult to retrieve. 
@@ -648,7 +648,7 @@ behavior?
 -  Working memory is thought to contain a `central executive processor` that is 
 involved in reasoning and decision making. The central executive coordinates three 
 distinct storage-and-rehearsal systems: the visual store, the verbal store, and the episodic buffer.
-  ![alt text](memo.PNG)
+  ![alt text](images/memo.PNG)
 
 -  Researchers now regard long-term memory as having several different components, or memory modules
 -  **Declarative memory** Memory for factual information: names, faces, dates, and the like. 
@@ -656,12 +656,12 @@ distinct storage-and-rehearsal systems: the visual store, the verbal store, and 
 - **Semantic memory** Memory for general knowledge and facts about the world, as well as memory for the rules of logic that are used to deduce other facts.
 - **Episodic memory** Memory for events that occur in a particular time, place, or context. 
 
-  ![alt text](memtype.PNG)
+  ![alt text](images/memtype.PNG)
 
 - **Semantic Network** Mental representation of cluster of interconnected information.
 
 
-  ![alt text](clus.PNG)
+  ![alt text](images/clus.PNG)
 
 - Activating one memory triggers the activation of related memories in a process known as **spreading activation**.
 - **Engram** is a term for Physical memory trace.
@@ -821,7 +821,7 @@ answered.
 - **Creative Intelligence** Related to generation of novel ideas and products.
 
 
-![alt text](intel.PNG)
+![alt text](images/intel.PNG)
 
 - **Intelligence Tests** Tests devised to quantify a persons level of intelligence.
 - The first effort at intelligence testing was based on an uncomplicated 
@@ -837,7 +837,7 @@ level of performance is average or
 - **Intelligence quotient** A score that takes into accounts an individuals mental and chronological ages.
 -  First formula for IQ in `CA` is chronological age and `MA` is Mental Age
 
-![alt text](iq.PNG)
+![alt text](images/iq.PNG)
 
 #### Thoughts
 ---
@@ -925,7 +925,7 @@ to fulfill needs even when incentives are not apparent.Drive and incentive expla
 before more sophisticated, higher-order needs can be met, certain primary needs 
 must be satisfied.
 
-![alt text](maslow.PNG)
+![alt text](images/maslow.PNG)
 - **Self-actualization** A state of self-fulfillment in which people realize their highest potential in their own unique way. 
 - Maslows, approach spawned other approaches.Edward Deci and Richard Ryan (2008) have considered human needs in terms of psychological well-being. They suggest in their `self-determination theory`
 that people have the three basic needs of competence, autonomy, and relatedness. 
@@ -1020,7 +1020,7 @@ to help them predict our future behavior.
 
 - Most researchers suggest that a list of basic emotions would include, at a minimum, happiness, anger, fear, sadness, and disgust.
   
-![alt text](emotion.PNG)
+![alt text](images/emotion.PNG)
 
 - One difficulty in defining a basic set of emotions is that substantial differences 
 exist in descriptions of emotions among various cultures.
@@ -1037,7 +1037,7 @@ an increased heartbeat and respiration rate as well as many of the other physiol
 changes associated with certain emotions. Yet joggers typically do not think of such 
 changes in terms of emotion.
 
-![alt text](emotion_theories.PNG)
+![alt text](images/emotion_theories.PNG)
 
 - **Cannon-Bard theory of emotion** The belief that both physiological arousal and emotional experience are produced simultaneously by the same nerve stimulus.  Walter Cannon and 
 later Philip Bard suggested an alternative view.
@@ -1079,7 +1079,7 @@ The hypothesis that facial expressions not only reflect emotional experience but
 - **SuperEgo** It is the sense of right and wrong that we learn from our parents,teachers and other important figures for us.  It includes the concious.
 - If personality only left to superego it would create a perfectionist personality unable to comprise with its circumstances that life very often requires.If left to id, It would create a primitive beast who would only be concerned with satisfying his every desire through whatever means. So ego acts as a mediator between id and superego through a principle of `give and take`.
 - **Psychosexual Stages** Stages of development through which a child passes and comes in conflict with the demands of society and his own sexual urges.
-![alt text](stages.PNG)
+![alt text](images/stages.PNG)
   1. **oral stage** According to Freud, a stage from birth to age 12 to 18 months, in which an infant’s center of pleasure is the mouth. Fixation at the oral stage might produce an adult 
 who was unusually interested in oral activities—eating, talking, smoking—or who 
 showed symbolic sorts of oral interests such as being “bitingly” sarcastic or very 
@@ -1100,7 +1100,7 @@ anal stage might result in unusual rigidity, orderliness, punctuality—or extre
 -  Furthermore, Freud can be faulted for seeming to view women as inferior to men because he argued that women have weaker superegos than men and in some ways unconsciously yearn to be men (the concept of `penis envy`).
   
 
-![alt text](defense.PNG)
+![alt text](images/defense.PNG)
 
 - Some people fall prey to defense mechanisms to such an extent that they must constantly direct a large amount of psychic energy toward hiding and rechanneling unacceptable impulses. When this occurs, everyday living becomes difficult. In such cases, the result is a mental disorder produced by anxiety—what Freud called `neurosis`.
 - **Neo-Freudian psychoanalysts** Psychoanalysts who were trained in traditional Freudian theory but who later rejected some of its major points.
@@ -1141,7 +1141,7 @@ environment. Not only is the environment assumed to affect personality, but peop
 behavior and personalities are also assumed to “feed back” and modify the environment.
 - **Self esteem** is not unidimensional. we view ourselves positively in one aspect and negatively in another.
 
-![alt text](estm.PNG)
+![alt text](images/estm.PNG)
 
 - **EVALUATING LEARNING APPROACHES TO PERSONALITY** `Page 508`
 - **Biological and evolutionary** approaches to personality Theories that suggest that important components of personality are inherited.
@@ -1152,9 +1152,9 @@ strong genetic components
 - **Humanistic approaches to personality** Theories that emphasize people’s innate goodness and desire to achieve higher levels of functioning. Major proponent of the humanistic point of view is 
 `Carl Rogers` (1971). Along with other humanistic theorists, such as `Abraham Maslow`.`Page 512`
 - **unconditional positive regard** An attitude of acceptance and respect on the part of an observer, no matter what a person says or does.
-![alt text](hum.PNG)
+![alt text](images/hum.PNG)
 - **Comparison between theories**
-![alt text](theories.PNG)
+![alt text](images/theories.PNG)
 
 #### Thoughts
 ---
@@ -1425,7 +1425,7 @@ who are obese
 - Different definitions of Abnormality `Page 557`
 - **Abnormal Behaviour** Behaviour that causes people distress and makes them incapable of functioning effectively in their dialy lives.
 - **Perspectives of Abnormal behaviour**
-  ![alt text](disorders.PNG)
+  ![alt text](images/disorders.PNG)
 
   1. **Medical perspective** The perspective 
 that suggests that when an individual 
@@ -1600,7 +1600,7 @@ schizophrenia is relatively favorable, but process schizophrenia has proved more
 diffi cult to treat.`Cause`  dopamine hypothesis suggests that schizophrenia occurs 
 when there is excess activity in the areas of the brain that use dopamine as a neurotransmitter.
 
-  ![alt text](schizo.PNG)
+  ![alt text](images/schizo.PNG)
 
 -  **hallucinations**,
 the experience of perceiving things that do not actually exist
@@ -1878,7 +1878,7 @@ disorders through the use of drugs.
 temporarily reduce psychotic symptoms such as agitation, hallucinations, 
 and delusions. 
 
-![alt text](drug.PNG)
+![alt text](images/drug.PNG)
 
 #### Thoughts
 ---
