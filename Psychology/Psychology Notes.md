@@ -3,6 +3,7 @@
 - `Note` Go through recap pages of each chapter
 - Default Book: `Understanding Psychology by Feldman` (UP)
 - Jargon: symptoms,victim,maladaptive
+- Alway read the Recap chapter part after each chapter
 ## Part 1
 
 ---
@@ -1894,3 +1895,258 @@ and delusions.
 #### Summary
 ---
 
+
+##  Social Psychology 
+
+### Section 1: Attitudes and Social Cognition  
+#### Main Notes
+- **Attitudes** Evaluations of a particular person, behavior, belief, or concept.For example, you probably hold attitudes toward the U.S. president (a person), 
+abortion.
+- **Central route processing** Message 
+interpretation characterized by 
+thoughtful consideration of the issues 
+and arguments used to persuade.
+- **Peripheral route processing** Message 
+interpretation characterized by 
+consideration of the source and related 
+general information rather than of the 
+message itself
+- **Cognitive dissonance** The conflict that 
+occurs when a person holds two 
+contradictory attitudes or thoughts 
+(referred to as cognitions).Smokers know smoking leads to lung cancer. `637` Way to modify cognition.
+- **Social cognition** The cognitive processes by which people understand and 
+make sense of others and themselves.
+- **schemas** Sets of cognitions about 
+people and social experiences. schema for “teacher,”
+- **Impression Formation** The process by which an individual organizes information about another person to form an overall impression of that person.
+- **central traits** The major traits considered in forming impressions of others.
+- Happy people form more favorable impressions and make more 
+positive judgments than people who are in a bad mood
+- **Attribution theory** The theory of 
+personality that seeks to explain how 
+we decide, on the basis of samples of 
+an individual’s behavior, what the 
+specific causes of that person’s 
+behavior are.
+- **situational causes** (of behavior) 
+Perceived causes of behavior that 
+are based on environmental factors.
+- **Dispositional causes** (of behavior) Perceived causes of behavior that are based 
+on internal traits or personality factors.
+**Bias** is a natural inclination for or against an idea, object, group, or individual. It is often learned and is highly dependent on variables like a person’s socioeconomic status, race, ethnicity, educational background.
+- These are Biases
+- **Halo effect** A phenomenon in which 
+an initial understanding that a person 
+has positive traits is used to infer other 
+uniformly positive characteristics.
+- **Assumed-similarity bias** The tendency to think of people as being 
+similar to oneself even when meeting 
+them for the first time.
+- **Self-serving bias** The tendency to 
+attribute personal success to personal 
+factors (skill, ability, or effort) and to 
+attribute failure to factors outside 
+oneself.
+- **Fundamental attribution error** 
+A tendency to overattribute others’ 
+behavior to dispositional causes and 
+minimize of the importance of 
+situational causes. It is also affected by culture.
+
+- The difference in thinking between people in Asian and Western cultures is a 
+reflection of a broader difference in the way the world is perceived. Asian societies 
+generally have a **collectivistic orientation**, a worldview that promotes the notion of 
+interdependence. People with a collectivistic orientation generally see themselves as 
+parts of a larger, interconnected social network and as responsible to others. In contrast, 
+people in Western cultures are more likely to hold an **individualist orientation** that 
+emphasizes personal identity and the uniqueness of the individual. They focus more 
+on what sets them apart from others and what makes them special
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What are attitudes, and how 
+are they formed, maintained, 
+and changed?
+2. How do people form impressions of what others are like 
+and of the causes of their 
+behavior?
+3. What are the biases that 
+influence the ways in which 
+people view others’ behavior?
+4. How we can change our attitude and with what speed ?`633`
+5. What is attitude communicator ?
+6. What are information processing routes ?
+7. What is Central route processing ?Example.
+8. What is Peripheral route processing ?Example.
+9. Are some people more likely than others to use central route 
+processing rather than peripheral route processing?`635`
+10. What is  Cognitive dissonance ? Example `636`
+11. How is conflict resolved in cognitive dissonance ?
+12. What is Social cognition ?
+13. What is impression formation and how does it happen ?
+14.  What are central traits ? Example
+15.  How does mood effect impression formation ?
+16.  What is Attribution theory ? `639`Example
+17.  What is situational causes ?Example
+18.  What is Dispositional causes ?Example
+19.  What is halo effect ? Example
+20.  What is Assumed-similarity bias ? Example ? `640`
+21.  What is self serving bias ?
+22.  What is Fundamental attribution error ? Example
+23.  Why is the fundamental attribution error so common?
+24.  
+---
+#### Summary
+---
+
+### Section 2: Social Influence and Groups 
+ 
+#### Main Notes
+- **social influence** The process by which 
+the actions of an individual or group 
+affect the behavior of others
+- **group** Two or more people who 
+interact with one another, perceive 
+themselves as part of a group, and 
+are interdependent.
+- **Group Pressue or Social Pressure** Groups exert considerable social influence over individuals ranging from minor to extreme.`644`There are 3 types of such pressures. conformity, compliance, and obedience.
+- **Conformity** A change in behavior or 
+attitudes brought about by a desire to 
+follow the beliefs or standards of other 
+people.`Asch conformity experiment:645`
+- **status** The social rank held within 
+a group.
+- **Social supporter** A group member 
+whose dissenting views make non conformity to the group easier.
+- **groupthink** A type of thinking in 
+which group members share such a 
+strong motivation to achieve consensus 
+that they lose the ability to critically 
+evaluate alternative points of view.
+- **Compliance** Behavior that occurs in 
+response to direct social pressure.
+- **Industrial-organizational (I/O) psychology** The branch of psychology 
+focusing on work- and job-related 
+issues, including worker motivation, 
+satisfaction, safety, and productivity
+- **obedience** A change in behavior in 
+response to the commands of others.`Stanley Milgram experiment:649`
+- 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What are the major sources 
+and tactics of social influence?
+2. What is social influence ?
+3. Why can conformity pressures in groups be so strong?`644`
+4. What happens when group norms are disregarded ?`644`
+5. What are groups ? Explain group pressure or social pressue  and their types ?
+6. To what degree can a group produce conformity and it depends on what factors ? `645`
+7. What are social supporters ?
+8. What is group think ? How does it happen? How does it effect adversly  Example `646`
+9. What is compliance ?Techniques to gain compliance ? `647`
+10. What is foot in the door technique ?Why does the foot-in-the-door technique work?
+11. What is I/O psychology ?
+12. What is obedience ?
+13. Difference between compliance and obedience ?
+14. Why did so many individuals comply with the experimenter’s demands in Stanley Milgram experiment?`650`
+15. 
+---
+#### Summary
+---
+
+### Section 3: Prejudice and Discrimination 
+ 
+#### Main Notes
+- **prejudice** A negative (or positive) 
+evaluation of a particular group and its 
+members.
+- **Stereotype** A set of generalized beliefs 
+and expectations about a particular 
+group and its members.
+- **Discrimination** Behavior directed 
+toward individuals on the basis of their 
+membership in a particular group.
+- **social neuroscience** The subfi eld of 
+social psychology that seeks to identify 
+the neural basis of social behavior
+- 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What is modern racism ?
+2. What is discrimination ?
+3. What are stereotypes, prejudice, and discrimination?
+4. How do stereotypes, prejudice, and discrimination differ and how do we learn them?`653`
+5. What are the approaches in learning discrimintion,prejudice and stereotypes ?
+6. What does observational learning appraoch and social identity theory tell us on discrimintion ?
+7. How can we reduce prejudice and discrimination?`656`
+8. What is social neuroscience ?
+9. 
+---
+#### Summary
+---
+
+### Section 4: Positive and Negative Social Behavior 
+
+#### Main Notes
+- **interpersonal attraction** (or close relationship) Positive feelings for others; liking and loving
+- **Reciprocity-of-liking effect** A tendency to like those who like us.
+- **Passionate (or romantic) love** A state 
+of intense absorption in someone that 
+includes intense physiological arousal, 
+psychological interest, and caring for 
+the needs of another.
+- **companionate love** The strong 
+affection we have for those with whom 
+our lives are deeply involved.
+- **aggression** The intentional injury of, 
+or harm to, another person.
+- **Catharsis** The process of discharging 
+built-up aggressive energy.
+- **Frustration-aggression theory** tries to explain aggression in terms of 
+events like this one. It suggests that frustration (the reaction to the thwarting or blocking of goals) produces anger, which leads to a readiness to 
+act aggressively.
+- **Diffusion of responsibility** The 
+tendency for people to feel that responsibility for acting is shared, or diffused, 
+among those present.
+- Model of helping Process
+ ![alt text](images/help.PNG)
+
+- **altruism** Helping behavior that is 
+benefi cial to others but clearly requires 
+self-sacrifi ce.
+ 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. Why are we attracted to certain people, and what progression do social relationships follow?
+2. What factors underlie aggression and prosocial behavior?
+3. What are the factors that initially attract two people to each other ?`658`
+4. Why do we tend to like those who are similar to us ?`659`
+5. Difference between liking and loving ? 
+6. Types of love
+7. Why might college students who use social networking sites more heavily have 
+greater satisfaction in life than those who use it less?
+8. What aspects of social networking sites allow students to explore their identities? 
+What might be the drawbacks of such experimentation?
+9. What is Psychologist Robert Sternberg differentiation of Love ?
+10. What is aggression ? Freud on aggression and Konrad Lorenz instinct approach ?`662`
+11. What is Catharsis?
+12. Explain  Frustration-aggression theory ?`664`
+13. What kinds of stimuli act as aggressive cues? in this theory ?
+14. Explain OBSERVATIONAL LEARNING APPROACHES sometimes called social learning approach ?
+15. What is Diffusion of responsibility ?
+16. Explain  model of the helping process ? 
+17. What is Altruism ?
+18. Difference between prosocial behavior and altruism ?
+19. what leads people to make moral decisions?`666`
+20. Strategies to deal with anger ? `667`
+---
+#### Summary
+---
