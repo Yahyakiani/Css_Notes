@@ -2083,7 +2083,7 @@ the neural basis of social behavior
 3. What are stereotypes, prejudice, and discrimination?
 4. How do stereotypes, prejudice, and discrimination differ and how do we learn them?`653`
 5. What are the approaches in learning discrimintion,prejudice and stereotypes ?
-6. What does observational learning appraoch and social identity theory tell us on discrimintion ?
+6. What does observational learning approach and social identity theory tell us on discrimintion ?
 7. How can we reduce prejudice and discrimination?`656`
 8. What is social neuroscience ?
 9. 
@@ -2119,7 +2119,7 @@ among those present.
 
 - **altruism** Helping behavior that is 
 benefi cial to others but clearly requires 
-self-sacrifi ce.
+self-sacrifice.
  
 #### Thoughts
 ---
@@ -2147,6 +2147,258 @@ What might be the drawbacks of such experimentation?
 18. Difference between prosocial behavior and altruism ?
 19. what leads people to make moral decisions?`666`
 20. Strategies to deal with anger ? `667`
+---
+#### Summary
+---
+
+## Development  
+
+### Section 1: Nature and Nurture: The Enduring Developmental Issue
+#### Main Notes
+- **developmental psychology** 
+The branch of psychology that studies 
+the patterns of growth and change 
+that occur throughout life. 
+- **nature–nurture issue** The issue of the 
+degree to which environment and 
+heredity infl uence behavior. 
+- **Cross-sectional research** A research 
+method that compares people of 
+different ages at the same point in time. 
+- **Longitudinal research** A research 
+method that investigates behavior as 
+participants age. 
+- **sequential research** A research 
+method that combines cross-sectional 
+and longitudinal research by considering a number of different age groups 
+and examining them at several points 
+in time. 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. How do psychologists study 
+the degree to which development is an interaction of 
+hereditary and environmental 
+factors?
+1. What is nature-nurture issue ?
+2.  How and to what degree do environment and heredity both produce their effects?
+3.  What aspects of development do psychologists agree upon ? `436` Limitations and Benefits
+4.  What appraoches do Developmental psychologists use  to determine the relative influence of genetic and environmental factors on behavior ? `437`
+5.  What is Cross-sectional research and Longitudinal research ? What are the draw backs in longitudinal research ?
+6. What is sequential research ?  
+---
+#### Summary
+---
+
+### Section 2:  Prenatal Development: Conception to Birth  
+#### Main Notes
+- **chromosomes** Rod-shaped structures 
+that contain all basic hereditary 
+information. 
+- **Genes** The parts of the chromosomes 
+through which genetic information is 
+transmitted. 
+- **zygote** The new cell formed by the 
+union of an egg and sperm. 
+- **age of viability** The point at which a 
+fetus can survive if born prematurely
+- **Teratogens** Environmental agents such 
+as a drug, chemical, virus, or other 
+factor that produce a birth defect. 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What is the nature of development before birth?
+2.  What factors affect a child during the mother’s pregnancy?  
+3.  What Chromosomes ?
+4.  What are Genes ?
+5.  What was human genome project and it significance ?
+6. What is Zygote,embryo,fetus, ?`443`
+7. What are the stages of development ?
+8. What is age of viability ?
+9. What are the common genetic difficulties during development ?`444`
+10. What are Teratogens ?
+11. What are the PRENATAL ENVIRONMENTAL INFLUENCES ?`444`
+12. Why do infants of stressed mother are more apt to have irritable infants who sleep and eat poorly ?
+13. What is fetal alcohol syndrome ? `445`
+14. How do you overcome infertility in mothers ?`446`
+---
+#### Summary
+---
+
+### Section 3:  Infancy and Childhood  
+#### Main Notes
+-  **neonate** A newborn child. 
+-  **Reflexes** Unlearned, involuntary 
+responses that occur automatically in 
+the presence of certain stimuli.
+-  **Habituation** The decrease in the 
+response to a stimulus that occurs after 
+repeated presentations of the same 
+stimulus.
+- **attachment** The positive emotional 
+bond that develops between a child 
+and a particular individual.
+- **Authoritarian parents** Parents who are 
+rigid and punitive and value unquestioning obedience from their children
+- **Permissive parents** Parents who give 
+their children relaxed or inconsistent 
+direction and, although they are warm, 
+require little of them.
+- **authoritative parents** Parents who are 
+firm, set clear limits, reason with their 
+children, and explain things to them.
+- **uninvolved parents** Parents who 
+show little interest in their children 
+and are emotionally detached.
+- **Temperament** Basic, innate disposition.
+- **Cognitive development** The process 
+by which a child’s understanding of 
+the world changes as a function of 
+age and experience
+
+ ![alt text](images/devStage.PNG)
+
+- **object permanence**, the 
+awareness that objects—and people—continue to exist even if they are out of sight. 
+-  **egocentric thought** A way of thinking 
+in which a child views the world 
+entirely from his or her own perspective.
+-  **principle of conservation** The 
+knowledge that quantity is unrelated 
+to the arrangement and physical 
+appearance of objects.  
+- **information processing** The way in 
+which people take in, use, and store 
+information. 
+- **metacognition** An awareness and 
+understanding of one’s own cognitive 
+processes. 
+- **Zone of proximal development** 
+(ZPD) According to Vygotsky, the 
+level at which a child can almost, but 
+not fully, comprehend or perform a 
+task on his or her own. 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What are the major competencies of newborns? 
+2. What are the milestones of physical and social development during childhood? 
+3. How does cognitive development proceed during childhood? 
+4. What is a neonate ? What causes the strange shape of a neonate ?
+5. What are reflexes ?
+6. What is the sucking reflex,gag reflex,babinski reflex,startle reflex ?`448`
+7. What is habituation ? Why does it happen ?
+8. What is attachment ?`452`
+9. What is imprinting and why does it happen ? Who discovered it ?`453`
+10. What are the ways to assess attachment ?`453` What is ainsworth attachment estimation method ?
+11. What is the fathers role in early development ?
+12. How does social interact help children ? `454`
+13. Do child-care arrangements outside the home benefi t children’s development?`455`
+14. What are different parenting styles ? `456`
+15. What is temperament ?
+16. What is Erikson’s Theory of Psychosocial Development ?`457` Criticism ?
+17. What is Cognitive development ?
+18. What is  Piaget’s Theory of Cognitive Development ? Criticism ? `459`
+19. How does each stage differ in Piagets theory for each individual ?
+20. What is object permanence ?How can we know that children lack object permanence?`460`
+21. What is egocentric thought ?
+22. What is principle of conservation ?
+23. What is information processing ? How does improvement in information processing occur ?
+24. What is metacognition ?
+25. What is Vygotsky’s View of Cognitive Development ?
+26. What is Zone of proximal development ?
+27. What is scaffolding in ZPD ?`461`
+28. 
+
+---
+#### Summary
+---
+
+### Section 4:  Adolescence: Becoming an Adult 
+ 
+#### Main Notes
+-  **Adolescence** The developmental stage 
+between childhood and adulthood. 
+- **Puberty** The period at which maturation of the sexual organs occurs, 
+beginning at about age 11 or 12 for 
+girls and 13 or 14 for boys. 
+ ![alt text](images/moralDev.PNG)
+
+- **Identity** The distinguishing character 
+of the individual: who each of us is, 
+what our roles are, and what we are 
+capable of
+
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. What major physical, social, 
+and cognitive transitions 
+characterize adolescence? 
+1. What is Adolescence ?
+3. What is Puberty ?
+4. What is KOHLBERG’S THEORY OF MORAL DEVELOPMENT ?Stages of Moral development ?Criticism ?`468`
+5. Carol Gilligan on moral Development ? `459`
+6. What The difference between the Kohlberg and Gilligan approaches to moral development ?
+7. What is ERIKSON’S THEORY OF PSYCHOSOCIAL DEVELOPMENT ? Stages 5 onwards ? Criticism ? `471`
+8. What is Identity ?
+9. Does puberty invariably foreshadow a stormy, rebellious period of adolescence?`472`
+10. What are boomerang children ? `472` adolescent egocentrism?
+11. Main causes of suicide ?`473`
+12. 
+---
+#### Summary
+---
+
+### Section 5: Adulthood 
+#### Main Notes
+- **emerging adulthood** The period 
+beginning in the late teenage years and 
+extending into the mid-20s.
+- **Menopause** The period during which 
+women stop menstruating and are no 
+longer fertile. 
+- Some psychologists—and popular opinion—suggest that physical 
+aging and dissatisfaction with one’s life mark a so-called “midlife crisis,”
+- **genetic preprogramming theories of aging** Theories that suggest that human 
+cells have a built-in time limit to their 
+reproduction and that they are no 
+longer able to divide after a certain time.
+- **wear-and-tear theories** of aging 
+Theories that suggest that the mechanical functions of the body simply stop 
+working effi ciently. 
+- 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1.  What are the principal kinds 
+of physical, social, and intellectual changes that occur in 
+early and middle adulthood, 
+and what are their causes? 
+2. How does the reality of late 
+adulthood diff er from the 
+stereotypes about that 
+ period? 
+3.  How can we adjust to death?
+4.  What is hormone therapy ? Its uses and Dangers ?
+5.  What is midlife crisis ?
+6.  What are the economic and emotional consequences for children living in 
+homes with only one parent?`479`
+7.  What are the reasons for these physical declines? Theories ? `481`
+8.  Why is iq lower in older age ? `482`
+9.  What aspects of video games do you think would be most helpful in preventing 
+cognitive declines in late adulthood?
+10. What other sorts of activities do you think would be helpful in averting such cognitive deterioration?
+11. One of the characteristics most frequently attributed to late adulthood is 
+forgetfulness. How accurate is this assumption?
+12. 
+
 ---
 #### Summary
 ---

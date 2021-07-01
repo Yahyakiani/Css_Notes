@@ -31,7 +31,7 @@ Issues. **Done**
 Intelligence. **Done**
 
 9. Social Influence and Group Dynamics: Social Facilitation, Attribution, Conformity, 
-Obedience, Altruism, Attitudes, Social Norms.
+Obedience, Altruism, Attitudes, Social Norms. **Done**
 
 10. Developmental Psychology: Physical, Cognitive, Social and Emotional 
 development in Childhood, Adolescence, Adulthood and Old Age.
