@@ -2186,7 +2186,8 @@ factors?
 3.  What aspects of development do psychologists agree upon ? `436` Limitations and Benefits
 4.  What appraoches do Developmental psychologists use  to determine the relative influence of genetic and environmental factors on behavior ? `437`
 5.  What is Cross-sectional research and Longitudinal research ? What are the draw backs in longitudinal research ?
-6. What is sequential research ?  
+6.  Issue with longitutal research ?
+7. What is sequential research ?  
 ---
 #### Summary
 ---
@@ -2241,6 +2242,7 @@ stimulus.
 - **attachment** The positive emotional 
 bond that develops between a child 
 and a particular individual.
+ ![alt text](images/parent.PNG)
 - **Authoritarian parents** Parents who are 
 rigid and punitive and value unquestioning obedience from their children
 - **Permissive parents** Parents who give 
@@ -2371,8 +2373,23 @@ reproduction and that they are no
 longer able to divide after a certain time.
 - **wear-and-tear theories** of aging 
 Theories that suggest that the mechanical functions of the body simply stop 
-working effi ciently. 
-- 
+working efficiently. 
+- Declines in cognitive functioning in late adulthood are, for the most 
+part, not inevitable. The key to maintaining cognitive skills may lie in intellectual 
+stimulation
+- **Disengagement theory of aging** 
+ A theory that suggests that aging 
+produces a gradual withdrawal from 
+the world on physical, psychological, 
+and social levels. 
+- activity theory of aging A theory that 
+suggests that the elderly who are most 
+successful while aging are those who 
+maintain the interests and activities 
+they had during middle age.
+- **life review** The process by which 
+people examine and evaluate their 
+lives. 
 #### Thoughts
 ---
 #### Keywords
@@ -2397,8 +2414,91 @@ cognitive declines in late adulthood?
 10. What other sorts of activities do you think would be helpful in averting such cognitive deterioration?
 11. One of the characteristics most frequently attributed to late adulthood is 
 forgetfulness. How accurate is this assumption?
-12. 
+12. How does alzeimer's disease happen ?`484`
+13. What is Disengagement theory of aging ?
+14. What is activity theory of aging ? 
+15. What stages do ppl go through when facing impending death ?`486`Kübler-Ross
+16. What is preparatory grief ?
+17. 
 
+---
+#### Summary
+---
+
+
+##  Organizational/Industrial Psychology
+
+### Book: Industrial/Organizational Psychology: An Applied Approach
+
+### Topics
+1. Leadership styles
+2. Decision making
+3. Work motivation
+4. Organizational Culture
+5. Stress and Conflict at Work and its Management `https://www.ehstoday.com/archive/article/21909463/the-mindbody-connection-workplace-conflict-stress-the-risk-of-injury`
+6. Organizational Socialization
+7. Job related Attitude
+8. Sexual Harassment 
+9. Glass Ceiling
+10. Human Computer interaction
+#### Main Notes
+- Legally, sexual harassment can take one of two forms: quid pro quo or hostile 
+environment
+- **Person-oriented leaders** such as country club leaders, Theory Y leaders, and 
+leaders high in consideration act in a warm and supportive manner and show 
+concern for their subordinates. Person-oriented leaders believe that employees 
+are intrinsically motivated, seek responsibility, are self-controlled, and do not 
+necessarily dislike work. Because of these assumptions, person-oriented leaders consult their subordinates before making decisions, praise their work.Under pressure, person-oriented leaders tend to become socially withdrawn.
+- **Task-oriented leaders** such as task-centered leaders, Theory X leaders, and 
+leaders high in initiating structure define and structure their own roles and those 
+of their subordinates to attain the group’s formal goals. Task-oriented leaders see 
+their employees as lazy, extrinsically motivated, wanting security, undisciplined, and 
+shirking responsibility. Because of these assumptions, task-oriented leaders tend to 
+manage or lead by giving directives, setting goals, and making decisions without 
+consulting their subordinates. Under pressure, they become anxious, defensive, and 
+dominant
+-  **IMPACT theory**, was developed by Geier, 
+Downey, and Johnson (), who believed that each leader has one of six behavioral styles: informational, magnetic, position, affiliation, coercive, or tactical. 
+Each style is effective in only a particular situation, or in what the researchers 
+call an organizational climate.`469`
+- According to House’s path–goal theory, a leader can adopt one of four 
+behavioral leadership styles to handle each situation: instrumental, supportive, 
+participative, or achievement-oriented.
+- According to Korman’s consistency theory, there is a positive correlation between 
+self-esteem and performance.
+- Another approach to increasing employee self-esteem is to train supervisors to 
+communicate a feeling of confidence in an employee. The idea here is that if an 
+employee feels that a manager has confidence in him, his self-esteem will increase, 
+as will his performance. Such a process is known as the **Pygmalion effect**. 
+In contrast, the **Golem effect** occurs when negative expectations of an 
+individual cause a decrease in that individual’s actual performance.
+- 
+- 
+#### Thoughts
+---
+#### Keywords
+#### Questions
+1. Types of Harrasment and What are they ? `116`
+2. Steps an organization must take to curb sexual harassment ?`118`
+3. Difference in emergence of leaders of both geenders in different groups ? `462`
+4. What are the different leadership styles ? `465`
+5. What is trait theory of leader performance ?
+6. Traits of unsuccessful leaders ?
+7. What is  Fiedler’s contingency model for leadership ?`468`
+8. What are impact leading styles ?
+9. How do you become an effective leader according to impact ?`470`
+10. What is o House’s path–goal theory ?`472`
+11. What is  situational leadership theory developed by Hersey and Blanchard ?`473`
+12. Traits related to work motivation ? `349`
+13. What is Korman’s consistency theory ? 
+14. Types of Self Esteem ? `350` hOW to increase self esteem ?
+15. What is  Galatea effect ??`350`
+16.  Specific Leader Skills ?`475`
+17.  What Vroom-Yetton Model for decision making ?Decision-Making Strategies Using the Vroom-Yetton Model ?
+18.  
+19.  
+20. 
+21. 
 ---
 #### Summary
 ---
