@@ -8,6 +8,7 @@
 ## Paragraph Checking Parameters
 `Note: Score from 1-10 will be assigned to each parameter`
 ### Essential Parameters
+- Frequency of Mistakes of Each type
 - Clarity
 - Grammar
 - Spellings
