@@ -1,6 +1,7 @@
 # Islamiat Notes
 - Default Book: Mastering O Level Islamiat by Muhammad Bilal Aslam
 ## General Questions
+### Life of Prophet PBUH
 1. What was the reason  for rise of makkah inspite of terrible location ?
 2. What was the sacriligious wars between kinana-quresh and hawazin tribe ? `https://en.wikipedia.org/wiki/Hawazin`
 3. What was Harb al-fijar ? And why was this pact taken ?`https://en.wikipedia.org/wiki/Harb_al-fijar`
@@ -30,7 +31,32 @@
 27. Why was the siege to taif raised eventually ? `117`
 28. Which years were called `Years of Deputation` and why ?`118`
 29. Causes of  Tabuk expedition and its effects ?`119`
-30. 
+30. How many men were there during Muhajirin and ansar pact ?
+
+### Pious Caliphs
+1. Choosing of Abu bakr as caliph ? `200`
+2. Causes of War of apstasy ? `203`
+3. Who were the major false prophets ?`204`
+4. What does mmusilma mean and why was he called such ?`204`
+5. What was Hazrat Abu bakrs policy towards apostates ? 
+6. Cause of battle against byzantine empire ?
+7. Causes of losses in batte of boat ? who lead this fight ?
+8. Causes of expedition of egypt ?
+9.  Contribution of Abu bakr to Islam ? `211`
+10. Who are the kharajites? `231`
+11. The term muhajir doesn't apply to the holy prophet PBUH. `Fact`
+12. What was umars title ? and Why ? `212`
+13. Which daughter of Caliph Umar was married to prophet PBUH ?`212`
+14. In which expedition Abu bakr gave his full wealth and Umar gave his half wealth ? `212`
+15. Cause of death of Umar by Firoz and why did he act in this manner ?`219` https://en.wikipedia.org/wiki/Omar#Assassination
+17. Administration of Umar ? `220`
+18. Allegation against Hazrat usman ?`225`
+19. What was Ali's source of Livehood ? `228`
+20. Why was Ali's selection as caliph considered questionable by some muslims ? `228`  
+21. Cause of Battle of Camel(Jamal) ?`229` 
+22. Battle of siffin ? `231`
+23. Murdur of Ali ? Why and by whom ? `232`
+
 ## Sirah of the Prophet Muhammad (PBUH)
 
 ### Section 1: Individual
