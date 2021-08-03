@@ -48,14 +48,55 @@
 12. What was umars title ? and Why ? `212`
 13. Which daughter of Caliph Umar was married to prophet PBUH ?`212`
 14. In which expedition Abu bakr gave his full wealth and Umar gave his half wealth ? `212`
-15. Cause of death of Umar by Firoz and why did he act in this manner ?`219` https://en.wikipedia.org/wiki/Omar#Assassination
+15. Cause of death of Umar by Firoz(Abu Lulu) and why did he act in this manner ?`219` https://en.wikipedia.org/wiki/Omar#Assassination
 17. Administration of Umar ? `220`
 18. Allegation against Hazrat usman ?`225`
 19. What was Ali's source of Livehood ? `228`
 20. Why was Ali's selection as caliph considered questionable by some muslims ? `228`  
 21. Cause of Battle of Camel(Jamal) ?`229` 
 22. Battle of siffin ? `231`
-23. Murdur of Ali ? Why and by whom ? `232`
+23. Who were the arbitrators at Battle of siffin ?
+24. Why did Ali's troops desert him after battle of Nahrwan ?
+25. Who was the battle of Nahrwan against ?`232`
+26. Murdur of Ali ? Why and by whom ? `232`
+
+
+## 6 Articles of Faith
+
+### Unity or Oneness of Allah
+1. What is Unity of Allah ?`234`
+2. What happens when a person believes in Oneness of Allah ?
+3. What is opposite to unity of Allah ?
+4. How does Tawheed refute Trinity and other concepts of Multitude of gods ?`235`
+5. What are the effects of tawheed on a persons life ? `236`
+6. 
+7. 
+
+### Angels
+1. Who is Ruh-ul-Quds or Ruh-ul-Amin ?
+2. Recording Angels ?
+3. What was the Prophet SAW response when jibril asked him about iman ?`239`
+
+### Divine Books
+1. What does belief in the books entail ?
+   
+
+### Prophets 240
+
+### Day of Judgement
+
+### Belief in Preordainment of everything good or bad
+- Destiny
+
+## Pillars of Islam
+
+1. WHat does believing in Prophet PBUH entail  ?
+2. What are the benefits of Salah ?
+3. What are the Farz of Wudu ?
+4. What prayers dont have azan ?`267`
+5. Effects of Fasting ?`280`
+6. Benefits of Zakat ? `276`
+7. Types of Jihad ?What does jihad mean literally ?
 
 ## Sirah of the Prophet Muhammad (PBUH)
 
