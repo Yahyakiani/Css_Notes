@@ -40,6 +40,14 @@ Equality, Social Justice, Moral Values, Tolerance, Rule of Law)
 System, Judicial System, Administrative System, 
 - Procedure of Ijma and Ijtiha
 
+
+
+
+- islamophobia manifestation dmensions , oic , pakistan or islamic world
+- hajetul widha dimensions
+- charter of madina dimensions compare with united nations charters
+- 
+
 ## Books
 Default: Understanding Psychology by Feldman
 

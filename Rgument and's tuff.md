@@ -7,6 +7,10 @@
 ### Internation PPL
 - UNGA President volkan bozkir
 
+### Sayings
+- It was William Wordsworth who wrote "The CHild is Father of the Man" in a Poem. (In a context of Educating children)
+- 
+
 ---
 
 ### Kashmir:
