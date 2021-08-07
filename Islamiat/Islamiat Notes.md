@@ -96,71 +96,146 @@
 4. What prayers dont have azan ?`267`
 5. Effects of Fasting ?`280`
 6. Benefits of Zakat ? `276`
-7. Types of Jihad ?What does jihad mean literally ?
+7. Types of Jihad ?What does jihad mean literally ?`298`
+8. Compare the position of Women before islam and after islam ?`302`
+9. In which specific matters, is there a difference in status among men and women ?`303`
+10. What rights does islam give women ?`304`
+11. Why polygamy was proscribed in certin situations ? `308`
+12. 
+13. 
 
-## Sirah of the Prophet Muhammad (PBUH)
+## Difference between Deen and Religion
 
-### Section 1: Individual
-#### Main Notes
-#### Suggestion and Thoughts
-#### Quranic Verses
----
-#### Hadiths
-#### Quotations
-#### Keywords
+- Religion is a mere set of Incantations, Rituals and Beliefs. Where as Deen is a way of life .
+- Without Deen in politics it simply becomes a fight for gaining power with no end goal of Higher morality or purpose.
+- **And whosoever adopts any other way except Islam that shall not 
+be accepted from him and in the Hereafter he shall be among the 
+losers.** - Al Quran 
+- Allah Says deen with him is al-Islam.
+  `https://www.alquranclasses.com/difference-between-deen-and-religion/`
+    Religion  | Deen
+    ------------- | -------------
+    Private Matter  | Collective matter
+    Attention of Religion is Allah and rituals | Attention of Deen is Humanity  
+    Religion is not political  | Deen is entrenched in politics
+    Religion has no opinion economic systems  | Deen in respect to islam has it own economic system
+    Where as religion is only restricted to matters of rituals and customs | insists  that  all  our thoughts and deeds should be performed with God consciousness.  
+ 
+- **Secularism** the belief that the state, morals, education, etc., should  be  independent  of  religion.
+![alt text](images/relig.PNG)
+- The basic definition of Deen is reward
+![alt text](images/deen.PNG)
+
+    Islam  | Secularism
+    ------------- | -------------
+    Every muslims know him higher goal  | There is no higher moral goal 
+    Guidance at individual Level | No guidance at individual level
+    Allah tells us in quran why he made us | No Ultimate Meaning of Life 
+    Allah is soveriegn and only he can make or alter laws | People are soveriegn and they can make laws even in conflict with divine laws
+    Allah must be put first in every affair | God has nothing to do with collective affairs
+
+
 #### Questions
----
-#### Summary
----
+1. What is a religion and what is a deen ? What is the difference between these 2 words ?
+2. Why is deen important for a political system ?
+3. Comparision between deen and religion ?
+4. What is Secularism ? and What is islam ?
+5. Describe the contention between Islam and Secularism ?
+6. What happens to religion under a secular system ? `https://www.qurtuba.edu.pk/thedialogue/The%20Dialogue/4_1/05_zamir.pdf`
 
-### Section 2: Diplomat
-#### Main Notes
-#### Suggestion and Thoughts
-#### Quranic Verses
----
-#### Hadiths
-#### Quotations
-#### Keywords
-#### Questions
----
-#### Summary
----
 
-### Section 3: Educator
-#### Main Notes
-#### Suggestion and Thoughts
-#### Quranic Verses
----
-#### Hadiths
-#### Quotations
-#### Keywords
-#### Questions
----
-#### Summary
----
+## Islam and Other religions
 
-### Section 4: Military Strategist
-#### Main Notes
-#### Suggestion and Thoughts
-#### Quranic Verses
----
-#### Hadiths
-#### Quotations
-#### Keywords
-#### Questions
----
-#### Summary
----
+  Islam | Other Religions
+  ------------- | -------------
+  Islam has Quran the direct speech of Allah | Their scriptures are usually passed down for centuries whose veractiy cannot be validated.
+  Strict adherence to Monotheism | Whereas in most other major religions other than judaism there is a pantheon of gods
+  We have the whole life of Prophet Muhammad before us as an example to strive for | Where as in other religions information about leaders or prophets obscure and hard to verify(Jesus of Nazareth content about where nazareth is)
+  In Islam direct connection with Allah | Religions such as christianity have a mediary in the form of pope and clergy between the people and God.
+  Islam provides guidance in collective aspects of life such as Political system, Economic system and Rules of warfare | In other major religions such as christianity this is not he case.
 
-### Section 5: Peace Maker
-#### Main Notes
-#### Suggestion and Thoughts
-#### Quranic Verses
----
-#### Hadiths
-#### Quotations
-#### Keywords
+
 #### Questions
----
-#### Summary
----
+1. How is Islam Superior ?
+2. What are the main differences  ?
+   
+
+## Sources of Shariah
+
+### Ijtihad
+`Source:`http://www.cssforum.com.pk/css-compulsory-subjects/islamiat/islamiat-notes/15108-concept-ijtihad-islam.html 
+
+- While defining Ijtihad Shatibi writes, “A process in which one exerts one’s efforts to one’s full capacity in order to acquire exact or probable knowledge or reach judgement in a given case.”
+- The Prophet Muhammad (Pbuh), while sending Ma’ad Ibn Jabal to Yemen as its governor, is reported to have asked him as to how he would decide matters coming up before him. ‘I will judge matters according to the Book of Allah,’ said Ma’ad. But if the book of Allah contains nothing to guide you’ then I will act on the precedents of the Prophet of Allah. But if the precedent fails? “Then I will exert to form my own judgement”. The Prophet (Pbuh) approved his answers.
+The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was applied to its fullest extent by the Prophet (Pbuh) in his private and public life and was fully acted upon by the Caliphs.
+
+- During the life of the Prophet, he got the divine message from God, and his life itself is an attempt to concretely apply what the text means. It is of course in a metaphorical sense. There was not much gap between the message and the meaning. When he died the question as to the meaning of texts arose. Each human being see things differently, so differences get resolved through discourse
+- **Qiyas** extend the laws to new cases that may be similar to the cases mentioned in the sources for which the laws cannot be discovered through literal interpretation (this is called the method of analogy, or qiyas.
+- **Istihsan** extend the laws to new cases that have not been covered by the previous two methods by looking at the general principles and objectives of the sharia (this method is known as istihsan
+- The work of the interpreter of the text is to ascertain the authenticity of the source(s) and then discover the laws through the interpretation of the sources; Qiyas and Istihsan.
+-  **Qualifications of a Mujtahid** 
+  1. a competence in the Arabic language which allows him to have a correct understanding of the Qur’an
+  2. an adequate knowledge of the Meccan and Medinese contents of the Qu'ran.Context
+  3. an adequate knowledge of the sunnah
+  4. 	he must practice what he preaches
+  5. he should have a thorough knowledge of the the rules and procedures for reasoning by analogy
+- **Closing Itihad** this decision has resulted in chronic intellectual stagnation, as thousands of potential mujtahids and scholars have been prohibited from offering workable solutions to newly emerging problems
+- The first step toward opening the door of ijtihad, according to Qazwini, should be the liberation of religious establishments from the influence of political regimes because they are dependant on them financially.
+- Reforming Muslim educational systems is also essential to contain all schools of though for a more inclusive understanding in a common muslim.
+-  lack of freedom and democracy as serious impediments to ijtihad
+-  Many issues facing Muslims today require ijtihad, and urgent attention can be: The role of women,Sunnis and Shiites, Economics,Muslims in non-Muslim countries.
+
+#### Questions
+1. What is Ijtihad ?
+2. Why is there a need for it ?
+3. Definition of Mujtahid or Muslim jurists ?
+4. Qualifications of a Mujtahid ?
+5. What were the consequences of Closing the doors of Ijtihad ?
+6. How can Ijtihad be revived ?
+7. What issues should be subjected to Ijtihad ?
+
+## Ijma and Qiya
+`Source:`http://www.cssforum.com.pk/css-compulsory-subjects/islamiat/75163-ijmaa-qiyas-outcome-ijtihad.html
+
+- After carrying out Ijtihad when the jurists agree upon some way-out it becomes Ijmaa` or consensus of opinion. So basically Ijtihad is an exercise the net result of which may be either in the form of Ijmaa`/ consensus of opinion or Qiyaas/analogical deduction.
+- For becoming a qualified jurist or mujtahids it is mandatory that one is well conversant with Arabic language and Islamic legal science, i.e. fiqh. In addition to it he/she must be having command upon the translation and exegesis of the Holy Quran and the ability to distinguish between authentic and non-authentic traditions. He must be fully aware of the methods of Qiyas or analogical deduction. He/she must be a person who is famous for piety and not the one who is notorious for his/her immoral activities
+- the mujtahids or jurists have been divided into three categories, namely Mujtahideen fil-Shara, Mujtahideen fil Madhab and Mujtahideen fil-Massail. 
+- On account of Ijtihad Islamic laws retains the capacity to develop and are free from stagnation. Ijtihad enables the Muslims to solve any complicated legal issue in the light of teachings of Islam that may arise at any moment of time. No doubt, there is great scope of Ijtihad in this modern age but two points are worth considering in this regard. Firstly, those issues which are clear in the Holy Quran and Sunnah or about which there is an absolute Ijmaa` do not come under the purview of Ijtihad. For example, Ijtihad cannot be made for exempting Muslims from Salat, Zakat, Fasting and Hajj or for permitting and legalising interest, drinking, obscenity lewdness, corruption etc. Secondly, people belonging to other professions who do not fulfil the requirements needed for becoming jurists have no authority to do Ijtihad. 
+- After the demise of the Holy Prophet (PBUH) the election of the first Caliph of Muslims Hazrat Abu Bakr (may Allah be pleased with him) was on the basis of Ijmaa`, when the absolute majority of companions of the Holy Prophet (PBUH) chose him as the first rightly-guided Caliph of Muslims. The Ijmaa` of one age can be repealed or modified by an Ijmaa` of any subsequent age with one exception that is the Ijmaa` of the companions of the Holy Prophet (PBUH) cannot be altered by the Ijmaa` of other ages. According to majority of Muslim scholars, at least three jurists are required for a valid Ijmaa`
+
+- Qiyas or analogical deduction is the fourth source of Shariah that literally means to measure accord or equality. Those issues which have not been dealt with directly by the Holy Quran and Sunnah, nor determined by Ijmaa` or consensus of opinion may be resolved through Qiyas or analogical deduction. 
+- Similarly, Abu Huraira (may Allah be pleased with him) reported that the talaq/divorce pronounced by an idiot and a mentally deranged person is not valid. Therefore, on account of analogy, it was declared that a talaq/divorce pronounced by a minor is also defective having no legal effect.
+
+
+
+
+#### Questions
+1. Benefits of Ijtehad ?
+2. What is Qiyas ?  
+
+
+## Political Theory in Islam
+`Source:` 
+- Belief in 
+
+
+#### Questions
+1. WHat is the ist principle in Political theory of islam ?
+
+
+
+
+
+
+
+
+
+
+
+### Sayings of Quran and Sunnah with Relevant Topics
+
+#### Political Islam
+- 'Whoso does not establish and decide by that which Allah has revealed, such are the disbelievers'
+- "They say: 'Have we also got authority ?' Say: 'All authority belongs to Allah alone'"
+- Prophet: 'I do not follow anything except what is revealed to me'
+- 'We Sent no Messanger except that he should be obeyed by Allah's command' 
