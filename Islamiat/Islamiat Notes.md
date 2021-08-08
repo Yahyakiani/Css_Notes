@@ -215,14 +215,26 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 
 
 ## Political Theory in Islam
-`Source:` 
-- Belief in 
+`Source:` islam-its-meaning-and-message-khurshid-ahmad
+- Belief in Allah's Unity and his soverignity is the basic foundation of Political philosophy in islam.He is the Ultimate Law giver. `161`
+- Main Charateristics of Islamic State:`162`
+  1. No person,group or class can lay claim to sovereignity of the world
+  2. Allah is the Law giver and ultimate authority rests with him
+  3. An islam state must in all respects be found on the laws given by Allah through his prophets.
+- In west laws are made and abrogated by the consensus of people no matter how moral or immoral. In Islam Allah is the highest authority and no law can be made that are in contention with the soul of Islamic principles.Such Normalization of Alcohol in west whereas in Islam it is haram and a dangerous evil.
+- Limitations in Human Actions provided they do not inhibited necessary freedom are essentional to keep humans from harming oneself or each other due to desires and strong emotions.
+- Purpose of Islamic State : To establish a system of well balanced and Just society in which people are not exploited on the basis of power and excessive wealth.
+
+
 
 
 #### Questions
 1. WHat is the ist principle in Political theory of islam ?
-
-
+2. What is the difference between political theory between west and islam ?
+3. WHat is the reason behind the limitations and restrictions set by Allah ?`165`
+4. What is the purpose of Islamic state ? `168` 
+5. Describe theory of Caliphate and nature of democracy in islam ? `171`
+6. 
 
 
 
