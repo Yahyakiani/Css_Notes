@@ -263,38 +263,85 @@ sturdy, independent farmers?
 13. What was the second great awakening ? ANy special attribute of sga ?
 14. Why did women outnumber men in the second great awakening ?
 15. Blacks in this awakening ?
-16. Which the the first industrial revolution ?`193`
+16. Where did the the first industrial revolution take place ?`193`
 17. How did this technology spread to other nations ?
-18. Why did the British government 
-attempt to prevent the export of 
-Britain’s industrial technology?
-19. What did the Industrial Revolution mean for ordinary people around the world ?
-20. How did industrialization change society ?`194`
-21. What was the effect of industrialization on american transport system and why wasnt it developed before ? `196`
-22. What was the turn pike era ?
-23. What kind of image did jefferson project of himself ? `199`
-24. What were Napoleaon's ambitions in america ?
-25. What led to the purchase of louisiana ?`203`
-26. How much was USA to pay france for the Louisiana ?
-27. WHat was the federalist response of inclusion of louisiana to the union ?`207`
-28. What was the burr conpiracy ?
-29. What led to the death of alexander hamilton ?
-30. What was the continential system ?`208`
-31. Effect of napoleonic war on the american merchant navy ?
-32. What was the peaceful coercion by Jefferson ? Explain embargo act ? `209`
-33. What political consequence did it have ?
-34. What was the cause of war with tribes in canada and british ?`212`
-35. Aftermath of war  ? `214`
-36. What was the treaty of Ghent ? `215`
-37. Reason why the british made peace with america ?
-38. Effects for the native americans of this peace ? 
-39. What was the impact of the Second Great Awakening on women, African Americans, and Native Americans?
-40. What was the long-term significance of the Marbury v. Madison ruling?
-41. How did Americans respond to the Louisiana Purchase?
-42. What foreign entanglements and questions of foreign policy did Jefferson have to deal with during his presidency? How did these affect his political philosophy?
-43. What were the consequences of the War of 1812? 
+18. Why did the British government attempt to prevent the export of Britain’s industrial technology?
+19. How did life change in industrialized nations than before ?`194`
+20. What did the Industrial Revolution mean for ordinary people around the world ?
+21. How did industrialization change society ?`194`
+22. What inventors did america produce after industrial revolution ?`195`
+23. What was the effect of industrialization on american transport system and why wasnt it developed before ? `196`
+24. What was the turn pike era ?
+25. What kind of image did jefferson project of himself ? `199`
+26. What were Napoleaon's ambitions in america ?
+27. What led to the purchase of louisiana ?`203`
+28. How much was USA to pay france for the Louisiana ?
+29. WHat was the federalist response of inclusion of louisiana to the union ?`207`
+30. What was the burr conpiracy ?
+31. What led to the death of alexander hamilton ?
+32. What was the continential system ?`208`
+33. Effect of napoleonic war on the american merchant navy ?
+34. What was the peaceful coercion by Jefferson ? Explain embargo act ? `209`
+35. What political consequence did it have ?
+36. What was the cause of war with tribes in canada and british ?`212`
+37. Aftermath of war  ? `214`
+38. What was the treaty of Ghent ? `215`
+39. Reason why the british made peace with america ?
+40. Effects for the native americans of this peace ? 
+41. What was the impact of the Second Great Awakening on women, African Americans, and Native Americans?
+42. What was the long-term significance of the Marbury v. Madison ruling?
+43. How did Americans respond to the Louisiana Purchase?
+44. What foreign entanglements and questions of foreign policy did Jefferson have to deal with during his presidency? How did these affect his political philosophy?
+45. What were the consequences of the War of 1812? 
 
 ---
+
+###  VARIETIES OF AMERICAN NATIONALISM
+#### Main Notes
+- LIKE A “FIRE BELL IN the night,” as Thomas Jefferson said, the issue of slavery arose 
+after the War of 1812 to threaten the unity of the nation.
+- Case of land bought by american and verdict of Marshall on it `229`
+- 
+
+---
+#### Keywords
+---
+#### Questions
+1. How did the economic developments and territorial expansion of this era affect American nationalism?
+2. What was the “era of good feelings,” and why was it given that name?
+3. How did the Marshall Court seek to establish a strong national government?
+4. Why was there a need for 2nd bank after war of 1812 ?`218`
+5. What steps were taken by this bank to stop the flow of confusing currencies ? 
+6. What was the effect of 1812 war on the textile industry ?
+7. What was the effect of 1812 war on the Transport system ?`219`
+8. which revenue could be used for building road and in which state ?
+9. What was the reason behind white migration to the west ?`220`
+10. How did trade begin with mexico ?`221`
+11. What was the era of good feeling ?`223`
+12. Who became president after jefferson ?
+13. Which state dominated the presidency in the early years ?
+14. what effect did this domination have  ?
+15. When did the federalist party cease to exist ?`223`
+16. What was the seminole war ?`224`
+17. Under what pretension was it done ?
+18. Who did it and why ?
+19. What cause the panic of 1819?`224`
+20. How many years did the depression follow after the panic of 1819 ?
+21. In 1819 how many free and slave states were there ?`225`
+22. What was the position of united states in the civil war of spanish against its colonies ?`230`
+23. What was the monroe doctrine ? Why was it given ?Its effect ?
+24. What was the corrupt bargain ?`232`
+25.  How did the War of 1812 stimulate the national economy?
+26.  What were the reasons for the rise of sectional differences in this era? What attempts were made to resolve these differences? How successful were those attempts?
+27. Why was the Monroe Doctrine proclaimed?
+28. What was the significance of Andrew Jackson’s victory in the election of 1828?
+29. 
+30. 
+ 
+
+
+---
+
 
 ### 20th Century    
 #### Main Notes
