@@ -343,6 +343,248 @@ after the War of 1812 to threaten the unity of the nation.
 ---
 
 
+### JACKSONIAN AMERICA  
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. How did the electorate expand during the Jacksonian era, and what were the limits 
+of that expansion?
+2. What events fed the growing tension between nationalism and states’ rights, and 
+what were the arguments on both sides of that issue?
+3. What was the second party system, and how did its emergence change national politics?
+4. What kind of change did the jacksonian era bring ?`235`
+5. Who could vote in the early 1800s in america ?
+6. Which even led to expansion of white male suffrage ?`236`
+7. What was the status of voting for free blacks in north and south ?
+8. What was the problem that lead to voters being bribed or intimidated ?
+9. What was one of the most striking trend in political workings in america that changed ?`237`
+10. What was the spoils system ? Did jackson endorse this system ?`240`
+11. How did jacksons supporters transform the presidential selection system ?
+12. What calhouns theory of nullification ?`242`
+13. What was the kitchen cabinet ?`243`
+14. What was clays compromise that save violence ?
+15. How did the perception of Indians change from jefferson to jackson era and why ?`244`
+16. What was the hard money soft money controversy ?`248`
+17. What was the bank war ?How did jackson weaken it ?
+18. Why the National republican party called themselves the whigs ?`249`
+19. What did they call andrew jackson and why ?
+20. What were the political philosophies of democrats and whigs ?`250`
+21. What was the anti-masonry movement ?Who supported it ?`250`
+22. Which religious ethnicities supported democrats and the whigs ?
+23. Who were the candidates for democrats and whigs ?
+24. What was the cause of weakness in whigs in presidential elections ?`251`
+25. What was the `specie circular` ?Who gave the executive order for it ?What did it cause ?`252`
+26. What was the independent treasury system in van burens govt ?`253`
+27. What was Andrew Jackson’s political philosophy, and how was it reflected in the policies and actions of his administration?
+28. Who benefited under Jacksonian democracy? Who suffered?
+29. How did Andrew Jackson change the office of the presidency?
+30. Who supported and who opposed the Bank of the United States, and why? Who was right?
+31. How and why did white attitudes toward Native Americans change, and how did these 
+changes lead to the Indian Removal Act and the Trail of Tears?
+31. How did Native Americans in the Southeast respond to white efforts to seize their land and remove them to the West?
+32. 
+---
+
+### AMERICA’S ECONOMIC REVOLUTION    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. What were the factors sparking the U.S. economic revolution of the 
+mid-nineteenth century?
+2. How did the U.S. population change between 1820 and 1840, and how did the 
+population change affect the nation’s economy, society, and politics?
+3. Why did America’s Industrial Revolution affect the northern economy and society 
+differently than it did the southern economy and society?
+What were the political responses to immigration in mid-nineteenth-century America? 
+Do you see any parallels to responses to immigration today?
+5. Why did the rail system supplant the canal system as the nation’s major transportation 
+network?
+6. How did the industrial workforce change between the 1820s and the 1840s? What 
+were the effects on American society of changes in the workforce?
+7. How did America’s Industrial Revolution and the factory system change family life and 
+women’s social and economic roles?
+8. How did agriculture in the North change as a result of growing industrialization and urbanization?
+9. How did agriculture changed in northest with respect to northwest ?
+10. What is northeast and northwest ?
+11. Name important discoveries and technologies that came in the 1850s in america ?
+12. What was the factory system ?`268`
+13. Third source of energy after water and steam which lead to expansion of factories and mills away from streams ?`269`
+14. How did america transition from merchant ruling class to industrial ruling class ?`269`
+15. What was the lowell system ?`269`
+16. How did the factories treat immigrant force with respect to local work force ?`270`
+17. What was the effect of factories on artisans ?`273`
+18. What led to the formation of trade unions ?
+19. What was the fate of black under industrialization ?`274`
+20. What invention ousted the use of firewood and hearths inside home ?`275`
+21. What were domestic virtues and what class did it belong to ?`277`
+
+---
+
+### COTTON, SLAVERY, AND THE OLD SOUTH   
+#### Main Notes
+- The traditional culture of the Southern United States has been called a "culture of honor", that is, a culture where people avoid intentionally offending others, and maintain a reputation for not accepting improper conduct by others.
+- The Southern culture of honor also includes a notion that ladies should not be insulted by gentlemen. Southern gentlemen are also expected to be chivalrous toward women, in words and deeds
+- The "culture of honor" in the Southern United States is hypothesized by some social scientists[1] to have its roots in the livelihoods of the early settlers who first inhabited the region. Unlike settlers with an agricultural heritage (mainly from the densely populated South East England and East Anglia) who settled in New England, the Southern United States was settled by herders from Scotland, Northern Ireland, Northern England and the West Country.[2] Herds, unlike crops, are vulnerable to theft.
+- James Henry Hammond, a U.S. senator from 
+South Carolina, was a leading advocate for 
+the overwhelming significance of cotton to 
+the economy of the South and the nation. He 
+famously made his point in 1858 in his 
+“Cotton Is King” speech
+---
+#### Keywords
+
+---
+#### Questions
+1. How did slavery shape the southern economy and society, and how did it make 
+the South different from the North?
+2. What was the myth and what was the reality of white society in the South? 
+Why was the myth so pervasive and widely believed?
+3. How did slaves resist their enslavement? How successful were their efforts? 
+What was the response of whites?
+4. Why did cotton become the leading crop of the South? `285`
+5. What was De bow's Commercial review about in the South ?`288`
+6. Why the region did so little to develop a larger industrial and commercial economy of its own. Why did it remain so different from the North ?
+7. What values embraced by the south hindered rapid industrial and commercial development ?`289`
+8. What was the number of slave holders im 1860s in the south ?`289`
+9. How, then, did the South come to be seen as a society dominated by wealthy slaveowning planters?`290`
+10. What was the view of rich southern planters of themselves ?`290`
+11. Primary reason why industry grew so little in the the industrial revolution era of 1850s in the south ?
+12. Why did industry fail to develop in the South to the extent that it did in the North?`same quest`
+13. What was the position of Southern women as compared to their northern counterparts ?`290`
+14. How did slavery function economically and socially?
+15. What was the cult of honor in the south ?`290`
+16. Position of women with respect to education the south ?`292`
+17. What was one shared value among all sections of white people in the south irrespective of class ?`293`
+18. How did the southern address the institution of slavery ?
+19. What were the southern slave codes ?What were the codes with respect to white people ?
+20. Why did the proportion of black to whites started to decline after 1808 ?`295`
+21. What argument did the southern give with respect to slaves and factory workers of the north ?`296`
+22. What methods did the black slaves employ to resist slavery in america ?
+23. What was the initial religion of slaves and how did it change ?`301`
+24. What was the effect of slavery on white slaveowners? On slaves? On nonslaveowning whites? 
+On free blacks?
+25. Through what means did slaves maintain a distinct African American culture?
+
+---
+
+### ANTEBELLUM CULTURE AND REFORM   
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. How did an American national culture of art, literature, philosophy, and communal 
+living develop in the nineteenth century?
+2. What were the issues on which social and moral reformers tried to “remake the 
+nation”? How successful were their efforts?
+3. Why did the crusade against slavery become the preeminent issue of the reform movement ?
+4. What were transcendentalists ? What was transcendentalists philosophy ?`308`
+5. Why was transcendentalism considered defence of nature ?`309`
+6. How did mormonisim begin ? Who started it ?`311`
+7. What is water cure ?`314`
+8. What was phrenology ?
+9. Why did medical science suffer in the 1850s ?`314`
+10. What were the reform movements of 1820s and 1830s ? --
+11. What was the first american feminist movement and who were its founders ?`316`
+12. When was the battle for women suffrage won ?
+13. What was state of opposition to slavery in the early nineteenth century ?`320`
+14. What were the goals of this early movement and what was the organization called ?
+15. Why did ACS met resistance from black african americans ?
+16. what was gradualism ??`320`
+17. What was william floyd stance regarding slavery ?
+18.  What was the position of black abolisionists about slavery ?`320`
+19. When did USA formally abolish slavery and in which amendment ?`321`
+20.  How did slave trade end in Britian and when  ?`322`
+21.  Why was ending slave trade easier than slavery itself ?
+22.   How do William Wilberforce’s arguments against slavery compare with those of the abolitionists in the United States? ``
+23. What was the name of greatest African American abolitionist ? and how did he become free ?`323`
+24. What were douglas demands ?
+25. What were the fear of southern whites and anti abolisionists in the north ?`324`
+26. What divided the abolitionism in the 1830s ?`324`
+27. Who caused the divison ?``
+28. What was the greatest abolitionist propoganda of all time ? and by whom ?`327`
+29.  What is “romanticism” and how was it expressed in American literature and art?
+30.  How did religion affect reform movements, and what was the effect of these movements on religion?
+31. What were the aims of the women’s movement of the nineteenth century? How 
+successful were women in achieving these goals?
+32. What arguments and strategies did the abolitionists use in their struggle to end 
+slavery? Who opposed them and why?
+
+---
+
+### THE IMPENDING CRISIS    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. How did the annexation of western territories intensify the conflict over slavery 
+and lead to deeper divisions between the North and the South?
+2. What compromises attempted to resolve the conflicts over the expansion of 
+slavery into new territories? To what degree were these compromises successful? 
+Why did they eventually fail to resolve the differences between the North and 
+the South?
+3. What were the major arguments for and against slavery and its expansion into 
+new territories?
+4. What was manifest destiny and who publicized it ?`330`
+5. Why did texas declared independence from mexico ?`331`
+6. Why did president jack initially refused inclusion of texas in the union ?`332`
+7. How the oregon territory resolved between british and the americans ?
+8. In the 20 years  before civil war how many attacks were there on the white population ?`334`
+9. How did the whites come in california ?`336`
+10. What was the point of contention in the mexican war ?
+11. How long did the mexican war last ?
+12. What was the treaty of guadalupe ?`338`
+13. How did the american reach an agreement with mexican government over texas and new mexico ?
+14. What was the primary debate about at the purchase of new mexico ?`338`
+15. What was the missuri compromise line ?``
+16. How did president polk placate the sectional debate of new territories ?`339`
+17. How did the first chinese immigrants come to america ?`340`
+18. What were the causes that led to the compromise of 1850 ?`341`
+19. What was the compromise of 1850 ?`342`
+20. What were the apprehensions of southern whites regarding fugitive law in the 1850 compromise against the northerners ?`343`
+21. How was the republican party founded ?`345`
+22. What had happened to produce such deep hostility between the two sections? `346`
+23. What was the pro slavery argument and who gave it ?`347`
+24. How did lincoln emerge as a prominent figure ?`350` 
+25. How were the boundary disputes over Oregon and Texas resolved? Why were the resolutions in the two cases so different?
+26. How did Polk’s decisions and actions as president intensify the sectional conflict?
+27. What was the issue at stake in “Bleeding Kansas,” and how did events in Kansas reflect 
+the growing sectional division between the North and the South?
+28. What was the Dred Scott decision? What was the decision’s impact on the sectional 
+crisis?
+29. How did the growing sectional crisis affect the nation’s major political parties
+
+---
+
+### THE CIVIL WAR    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. How did the North’s mobilization for war differ from mobilization in the South? 
+What accounts for these differences?
+2. What were the differences between the impact of the war in the North and the 
+South?
+3. What were the military strategies employed by the North and the South from the 
+opening clashes in 1861 through the Union victory in 1865, and how did these 
+strategies differ ?
+4. How many states had seceded by the time lincoln took office ?`355`
+5. When was the confederate nations of america was formed ?`355`
+6. What efforts were taken to come to a compromise in face of secessions ?`356`
+7. What was abraham lincoln to talk of secession in washington ?
+8. What events caused the start of civil war ?
+9. What were the advantages both sides had over each other ?
+10. What was the inital cause of fighting by the north in the civil war ?`358`
+11. 
+---
+
 ### 20th Century    
 #### Main Notes
 ---
