@@ -564,6 +564,8 @@ crisis?
 
 ### THE CIVIL WAR    
 #### Main Notes
+- At Shiloh in April 1862, Grant fought one of the bloodiest battles in the West and came out less well. President Lincoln fended off demands for his removal by saying, “I can’t spare this man–he fights.”
+- 
 ---
 #### Keywords
 ---
@@ -584,6 +586,70 @@ strategies differ ?
 10. What was the inital cause of fighting by the north in the civil war ?`358`
 11. 
 ---
+
+### RECONSTRUCTION AND THE NEW SOUTH    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. What were the various plans for Reconstruction proposed by Lincoln, Johnson, and 
+Congress? Which plan was enacted and why?
+2. What were the effects of Reconstruction for blacks and whites in the South?
+3. What were the political achievements and failures of the Grant administration?
+4. 
+---
+
+### THE CONQUEST OF THE FAR WEST    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. What various ethnic and racial groups populated the American West, and how were 
+the cultural characteristics of these groups reflected in the West?
+2. How did the arrival and settlement of substantial numbers of Anglo-Americans 
+transform the society and economy of the West?
+3. What role did the federal government play in shaping the development of the West?
+4. 
+---
+
+### INDUSTRIAL SUPREMACY    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. What factors drove America’s industrial expansion in the late nineteenth and early 
+twentieth centuries?
+2. Who were the critics of America’s new industrial economy, what were their 
+criticisms, and what solutions did they propose?
+3. How did the conditions and characteristics of the workforce change during this 
+period of rapid industrialization?
+4. 
+---
+
+
+### THE AGE OF THE CITY    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. What were some of the problems that resulted from rapid urbanization, and how 
+did urban governments respond to these problems?
+2. How did the sources of immigration to America shift in the late nineteenth 
+century, and what was the native response to the change?
+3. How did the rise of mass consumption affect leisure and entertainment ?
+4. What were some of the “push” and 
+“pull” factors that motivated the 
+migration of both Europeans and 
+non-Europeans?`465`
+5. Why did more Europeans than nonEuropeans migrate to the United States ?`466`
+6. 
+---
+
+
 
 ### 20th Century    
 #### Main Notes
