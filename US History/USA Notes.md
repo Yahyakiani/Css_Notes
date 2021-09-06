@@ -645,18 +645,138 @@ century, and what was the native response to the change?
 “pull” factors that motivated the 
 migration of both Europeans and 
 non-Europeans?`465`
-5. Why did more Europeans than nonEuropeans migrate to the United States ?`466`
+5. Why did more Europeans than non Europeans migrate to the United States ?`466`
 6. 
 ---
 
 
-
-### 20th Century    
+### THE GLOBAL CRISIS, 1921–1941   
 #### Main Notes
 ---
 #### Keywords
 ---
 #### Questions
+1. What are some of the views that Americans expressed as the world crises of the 
+1930s expanded?
+2. How did the economic crisis of the worldwide Great Depression help create new 
+political orders in many nations?
+3. What was the sequence of events between 1939 and 1941 that brought the 
+United States into military involvement in World War II?
+---
+
+
+
+
+
+### AMERICA IN A WORLD AT WAR   
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. What was the impact of the war on the U.S. economy?
+2. How was the military experience of the United States in World War II different 
+in Europe and the Pacific?
+3. How did the war affect life on the home front, especially for women, organized 
+labor, and minorities?
+---
+
+
+### THE COLD WAR    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. What made the growing tension between the United States and the Soviet Union 
+evolve into the Cold War?
+2. What is the theory of containment, and how did it drive U.S. foreign policy and 
+foreign interventions in the postwar era?
+3. Why did the U.S. government and the American people believe that there was a 
+threat of internal communist subversion?
+---
+
+
+### THE AFFLUENT SOCIETY    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. Why did the U.S. economy experience such a boom in the late 1950s and early 
+1960s? How did this boom affect American society?
+2. Who constituted the “other America,” who failed to share in the economic 
+prosperity and affluence of the postwar era? Why were they left out?
+3. What was the response to the Supreme Court decision in Brown v. Board of 
+Education? How did the Court’s decision affect African Americans and the early civil 
+rights movement? How did it affect white southerners?
+4. What policy guided foreign affairs under Eisenhower, and how was that policy 
+implemented around the world?
+5. 
+---
+
+
+### THE TURBULENT SIXTIES    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. What was the domestic reform agenda of Kennedy’s New Frontier, and how did 
+Johnson’s Great Society programs continue and expand on that agenda?
+2. Why did the civil rights movement become increasingly assertive and militant over 
+the course of the 1960s?
+3. How did U.S. involvement in Vietnam escalate through the 1960s? What were 
+the political and social consequences of that escalation, in both Vietnam and the 
+United States?
+4. 
+---
+
+### THE CRISIS OF AUTHORITY   
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+ What were some of the characteristics of the social and cultural revolutions of the 
+1960s and 1970s?
+2. How did the U.S. strategy in Vietnam change under Nixon? What was the result of 
+the change in strategy?
+3. What was the Watergate scandal and how did it affect the presidency?
+4. 
+---
+
+### THE AGE OF REAGAN    
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. What economic and energy problems plagued the presidencies of Gerald Ford and 
+Jimmy Carter? How did Ford and Carter attempt to deal with these problems?
+2. What was the “New Right,” and what effect did its rise have on American politics?
+3. What was Reaganomics, and how did this policy affect the national economy?
+---
+
+
+
+
+
+
+### THE AGE OF GLOBALIZATION  
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. How did the growth of the “new economy” affect how Americans worked and lived?
+2. How was the American population changing at the turn of the century? What 
+characterizes it, and what key challenges does it confront?
+3. How did the terrorist attack of September 11, 2001, affect the United States and 
+begin a new era in American foreign policy?
+4. 
+
+
 ---
 
 ## Miscellaneous Topics
