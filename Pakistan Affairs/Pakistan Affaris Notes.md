@@ -47,7 +47,7 @@
 37. At the time of partition total no of csps and how many came to pakistan ?`182`
 38. What was the name of operation to bring csps to pakistan during partition and why ?
 39. How many factories in Subcontinent and how many pakistan got ?`183`
-40. What solution did liaqat -nehru come to and when and what was it called ?
+40. What solution did liaqat-nehru come to and when and what was it called ?
 41. What policy did liaqat pursue regarding foreign policy ?`184`
 42. What was objective resolution ? What framework was being used before it in pakistan ?
 43. When was it adopted ?
@@ -57,11 +57,26 @@
 47. What was Rawalpindi conspiracy and who was involved ?
 48. why did liaqat started a movement of speeches ?`186`
 49. When did liaquat ali khan die and how ?
-50. What percentage of population lived in east pakistan  during partition ?
-51. When did awami league form and what was its main grieviences ?
-52. What was the final recommendation by basic principles commitee ?`187`
-53. 
-54. 
+50. Who became prime minister and governer general after ?
+51. What percentage of population lived in east pakistan  during partition ?
+52. When did awami league form and what was its main grieviences ?
+53. What was the final recommendation by basic principles commitee ?`187`
+54. When did protest happen again on language issue and who intervened ?
+55. Who dissolved government ? when ? and what were the main reasons behind it ?
+56. How many lives were lost in the ahmediya protests ?`188`
+57. What was the name of new cabinet ?
+58. who was made new prime minister ?
+59. What was bogra formula ?
+60. Who was made defense minister by bogra ?
+61. When did bogra meet nehru to settle kashmir issue ?
+62. When did pakistan become a member of seato ?`189`
+63. Why did iskandar mirza dissolve assembly and when ?`190`
+64. How did supreme court responded in this case ?
+65. Who replaced bogra as prime minister ?
+66. Constitution of 1956 ? What type was it ? who was president?
+67. What was the one unit formula and what was the main opposition to it ?`191`
+68. Who replace choudary muhammad ali as prime minister ?`193`
+69. 
 
 
 ### 
