@@ -1,7 +1,16 @@
 # Essay Pointers
 
+A very good 3 Point Strategy for a single Topic:`https://www.reddit.com/r/IWantToLearn/comments/7fmgpu/iwtl_how_to_write_convincing_argumentative_essays/`
+
+
 - Note Open This file in Vscode and Press `CTRL + SHIFT + V` for better viewing
 Sources: kashifcssblog(FB)
+
+Thesis, point, evidence, counterpoint, debunk counterpoint : For sentence Structure
+
+traditional essay-writing angles (GRIPE: Geography, Religion, Industry, Political, Economy)
+
+More :(SPERM: Social, Political, Economic, Religious, Military)
 
 ## Basic Structure
 
