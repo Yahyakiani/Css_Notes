@@ -45,14 +45,60 @@ to model a First-In-Last-Out (FILO), or Last-In-First-Out (LIFO), strategy in se
 - A **queue** is a data structure used to model a First-In-First-Out (FIFO) strategy. Conceptually,
 we add to the end of a queue and take away elements from its front `18`
 ```
-Declarative programming is a programming paradigm … that expresses the logic of a computation without describing its control flow.
-Imperative programming is a programming paradigm that uses statements that change a program’s state.
+Imperative Programming means any style of programming where your program is structured out of instructions describing how the operations performed by a computer will happen.
 
-Declarative Programming is like asking your friend to fix your car. You don’t care how to fix it, that’s up to her.
+Declarative Programming means any style of programming where your program is a description either of the problem or the solution - but doesn't explicitly state how the work will be done.
 
-Imperative Programming is like your friend calling your father that tells her how to fix your car step by step. 
+Functional Programming is programming by evaluating functions and functions of functions... As (strictly defined) functional programming means programming by defining side-effect free mathematical functions so it is a form of declarative programming but it isn't the only kind of declarative programming.
+
+Logic Programming (for example in Prolog) is another form of declarative programming. It involves computing by deciding whether a logical statement is true (or whether it can be satisfied). The program is typically a series of facts and rules - i.e. a description rather than a series of instructions.
+
+Term Rewriting (for example CASL) is another form of declarative programming. It involves symbolic transformation of algebraic terms. It's completely distinct from logic programming and functional programming.
+
 ```
-- 
+- A **linked list** is a linear data structure, in which the elements are not stored at contiguous memory locations.  A linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
+- **Recusion**  `https://www.tutorialspoint.com/data_structures_algorithms/recursion_basics.html`
+  Time Complexity: A call made to a function is Ο(1), hence the (n) number of times a recursive call is made makes the recursive function Ο(n).
+  Space Complexity: In case of recursion, the system needs to store activation record each time a recursive call is made. Hence, it is considered that space complexity of recursive function may go higher than that of a function with iteration.
+
+**Searching and Sorting Algorithms**
+- https://www.studytonight.com/data-structures/search-algorithms
+- Converting the binary search to linked list form is problematic, because there
+is no efficient way to split a linked list into two segments
+-  for time-critical problems, such as keeping track of aeroplanes in certain sectors of air space, it
+may be totally unacceptable for the software to take too long if the worst case arises.
+- https://www.geeksforgeeks.org/ for all sorting algos
+**Big-O notation:**
+  - 
+- Bubble Sort:
+  - Worst and Average Case Time Complexity: O(n*n). Worst case occurs when array is reverse sorted.
+  - Best Case Time Complexity: O(n). Best case occurs when array is already sorted.
+  - Auxiliary Space: O(1)
+  - Boundary Cases: Bubble sort takes minimum time (Order of n) when elements are already sorted.
+- Merge Sort:
+  - Time Complexity: Sorting arrays on different machines. Merge Sort is a recursive algorithm and time complexity can be expressed as following recurrence relation. 
+    T(n) = 2T(n/2) + θ(n)
+    The above recurrence can be solved either using the Recurrence Tree method or the Master method. It falls in case II of Master Method and the solution of the recurrence is θ(nLogn). Time complexity of Merge Sort is  θ(nLogn) in all 3 cases (worst, average and best) as merge sort always divides the array into two halves and takes linear time to merge two halves.
+  - Auxiliary Space: O(n)
+  - Algorithmic Paradigm: Divide and Conquer
+- Quick Sort:
+- Heap Sort:
+  - Time Complexity: Time complexity of heapify is O(Logn). Time complexity of createAndBuildHeap() is O(n) and the overall time complexity of Heap Sort is O(nLogn).
+
+    Efficiency –  The time required to perform Heap sort increases logarithmically while other algorithms may grow exponentially slower as the number of items to sort increases. This sorting algorithm is very efficient.
+    Memory Usage – Memory usage is minimal because apart from what is necessary to hold the initial list of items to be sorted, it needs no additional memory space to work
+    Simplicity –  It is simpler to understand than other equally efficient sorting algorithms because it does not use advanced computer science concepts such as recursion
+- Selection Sort:
+    - Time Complexity: O(n2) as there are two nested loops.
+    - Auxiliary Space: O(1) 
+    - The good thing about selection sort is it never makes more than O(n) swaps and can be useful when memory write is a costly operation.
+- Insertions Sort:
+  - Time Complexity: O(n^2) 
+  - Auxiliary Space: O(1)
+  - Boundary Cases: Insertion sort takes maximum time to sort if elements are sorted in reverse order. And it takes minimum time (Order of n) when elements are already sorted.
+  - Algorithmic Paradigm: Incremental Approach
+  
+  
 ---
 #### Keywords
 - correctness proofs
@@ -65,6 +111,8 @@ Imperative Programming is like your friend calling your father that tells her ho
 - loops
 - arrays
 - constructors, selectors and conditions
+- Linked List, Doubly Linked List, Circular Linked List
+- Seach Problems ,Their specification `23`
 ---
 #### Questions
 1. WHat is algorithm ?
@@ -77,3 +125,17 @@ Imperative Programming is like your friend calling your father that tells her ho
 8. What are invariants ?Thier other name ? What are they importent for ?
 9. What is XML and what is it used for ?
 10. What is a Queue, stack and Linked List ?
+11. What is Abstract Data Type ADT ?
+12. Difference between abstract class vs ADT
+13. What is recursion ? Time and space complexity ?
+14. Recursion vs iteration ?
+15. What are Linked List ? Why are ADTs used even through they are less efficient ?
+16.  Pictures of Array, Queue, Linked List ? Their selectors and constructors, Conditions ?
+17.  Advantages of Abstract Data types ?
+18.  What are the 2 searching algorithms ? Their time complexity ? Their step by step implementation ? Advantages ?
+19.  Which search algo works on ordered or unordered list/array ?
+20.  Do at implementation of these in c++. Once .
+21.  Algorithmic Paradigm
+22.  Why array based representation for Binary Heap? https://www.geeksforgeeks.org/heap-sort/
+23.  What is Binary Heap? https://www.geeksforgeeks.org/heap-sort/
+24.  What is Complete Binary Tree? https://www.geeksforgeeks.org/heap-sort/
