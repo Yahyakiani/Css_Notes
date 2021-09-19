@@ -1,5 +1,5 @@
 # Paper-I 
-## Section-A 
+## Section-B 
 ---
 ### Data Structures and Algorithms
 
@@ -130,7 +130,70 @@ traversal has O(n) complexity.`88`
 - Two different strings can have same hashcode because infinite num of string but finite hashcode
    ![alt text](load.PNG)
    ![alt text](objHash.PNG)
+   ![alt text](hash1.PNG)
+   ![alt text](hash2.PNG)
 - Most common hash function MD5
+- A bucket is simply a fast-access location (like an array index) that is the the result of the hash function
+- By the way, "separate list" hints at why open hashing is also known as "separate chaining".
+- Perfect Hash function: a hash function that maps each item into a unique slot (no collisions).
+- Two or more items would need to be in the same slot. This is referred to as a collision (it may also be called a “clash”).
+- Common way for constructing hash function:
+    1. **folding method** for constructing hash functions begins by dividing the item into equal-size pieces.These pieces are then added together to give the resulting hash value. For example, if our item was the phone number 436-555-4601, we would take the digits and divide them into groups of 2 (43,65,55,46,01). After the addition, 43+65+55+46+01, we get 210. If we assume our hash table has 11 slots, then we need to perform the extra step of dividing by 11 and keeping the remainder. In this case 210 % 11 is 1, 
+    2. Another numerical technique for constructing a hash function is called the **mid-square method**. We first square the item, and then extract some portion of the resulting digits. For example, if the item were 44, we would first compute 442=1,936. By extracting the middle two digits, 93, and performing the remainder step, we get 5 (93 % 11)
+```
+Following are the collision resolution techniques used:
+
+    Open Hashing (Separate chaining)
+    Closed Hashing (Open Addressing)
+        Liner Probing
+        Quadratic probing
+        Double hashing
+```
+
+
+- **Open Addressing Techniques**
+- When two items hash to the same slot, we must have a systematic method for placing the second item in the hash table. This process is called **collision resolution**
+- Linear Probing:A simple way to do this is to start at the original hash value position and then move in a sequential manner through the slots until we encounter the first slot that is empty, **Disadvantage: clustering**. linear probing has the best cache performance but is most sensitive to clustering
+- A variation of the linear probing idea is called **quadratic probing**. Instead of using a constant “skip” value, we use a rehash function that increments the hash value by 1, 3, 5, 7, 9, and so on.quadratic hashing falls in-between in both areas.
+-  **Double Hashing** is based upon the idea that in the event of a collision we use an another hashing function with the key value as an input to find where in the open addressing scheme the data should actually be placed at.double hashing has poor cache performance but exhibits virtually no clustering.Also more computation.
+-  **Chaining**: In the simplest chained hash table technique, each slot in the array references a linked list of inserted records that collide to the same slot. Insertion requires finding the correct slot, and appending to either end of the list in that slot; deletion requires searching the list and removal.
+-  **Coalesced hashing**
+A hybrid of chaining and open addressing, coalesced hashing links together chains of nodes within the table itself. Like open addressing, it achieves space usage and (somewhat diminished) cache advantages over chaining. Like chaining, it does not exhibit clustering effects; in fact, the table can be efficiently filled to a high density. Unlike chaining, it cannot have more elements than table slots.
+- **Probabilistic hashing**: Perhaps the simplest solution to a collision is to replace the value that is already in the slot with the new value
+- **Bucket Hashing** :One implementation for closed hashing groups hash table slots into buckets. The M slots of the hash table are divided into B buckets, with each bucket consisting of M/B slots. The hash function assigns each record to the first slot within one of the buckets. If this slot is already occupied, then the bucket slots are searched sequentially until an open slot is found. If a bucket is entirely full, then the record is stored in an overflow bucket of infinite capacity at the end of the table. All buckets share the same overflow bucket.
+
+**Expression Notations**
+- Infix, Prefix and Postfix Expressions
+- 
+
+**Trees**
+   ![alt text](tree1.PNG)
+  - Root is the topmost node of the tree
+  - Edge is the link between two nodes
+  - Child is a node that has a parent node
+  - Parent is a node that has an edge to a child node
+  - Leaf is a node that does not have a child node in the tree
+  - Height is the length of the longest path to a leaf
+  - Depth is the length of the path to its root
+  - Binary Tree:  a binary tree is a tree data structure in which each node has at the most two children, which are referred to as the left child and the right child
+  - Tree traversal: Depth-First Search (DFS) and Breadth-First Search (BFS).
+  - DFS “is an algorithm for traversing or searching tree data structure. One starts at the root and explores as far as possible along each branch before backtracking.
+  -  types of DFS: pre-order, in-order, and post-order.
+  - BFS “is an algorithm for traversing or searching tree data structure. It starts at the tree root and explores the neighbor nodes first, before moving to the next level neighbors.”
+
+- it is observed that BST's worst­case performance is closest to linear search algorithms, that is Ο . In real­timedata, we cannot predict data pattern and their frequencies. So, a need arises to balance out the existing BST.
+Named after their inventor Adelson, Velski & Landis, **AVL trees** are height balancing binary search tree. AVL tree checks the height of the left and the right sub­trees and assures that the difference is not more than 1. This difference is called the **Balance Factor**.
+
+To balance itself, an AVL tree may perform the following four kinds of rotations −
+Left rotation
+Right rotation
+Left­Right rotation
+Right­Left rotation
+
+
+  
+  **Greedy Algorithm**
+  - Greedy algorithms try to find a localized optimum solution, which may eventually lead to globally optimized solutions. However, generally greedy algorithms do not provide globally optimized solutions
   
 ---
 #### Keywords
@@ -181,3 +244,46 @@ traversal has O(n) complexity.`88`
 31.  What is a load factor in hashtable ? its purpose ? Formula
 32.  Open and close addressing in Hash maps ? which techniques are which in collision ?
 33.  What are objectives of hash function ?
+34.  What is chaining , Its advantages and disadvantages ?
+35.  What is Linear Probing,Quadratic Probing , Double Hash ? Advantages and Disadvantages ?
+36.  What is a bucket in hash tables?
+37.  What probablistic hashing, Bucket hashing , coalesed hashing ?
+38.  What are trees ?
+39.  Compare Insert,delete,search time complexity for tree, arrays, and linked List ?
+40.  What is the formula for calculating number of nodes based on height of a tree ?
+41.  What is height of a tree ?
+42.  What is leaf in a tree ?
+43.  What is depth ?
+44.  What are different types of tree traversal techniques ?
+45.  What is AVL tree ? How does it balance itself ?
+46.  What are graphs ? In what case graphs and trees are same ? Visual example ?
+47.  Describe these techniques and do a rough traversal ?
+48.  What are pre-order, in-order, and post-order traversal ? Do these traversal of trees ?
+49.  What are Infix, Prefix and Postfix ? How does conversion into each work ?
+50.  Easiest way to do deletion from a tree ? Increment type ?
+51.  What is genetic algorithm ? Who invented it ? 
+52.  Give a pseudo code of Genetic algorithm ?
+53.  Different components of GA. WHich one is the hardest ?
+54. What are Greedy algorithms ? How do they find solution ? Example of greedy algorithms ?
+
+
+---
+### Object Oriented Paradigm  
+
+#### Main Notes
+- Object-oriented paradigm:
+- Data abstraction:
+- Encapsulation:
+- Inheritance:
+- Polymorphism:
+  
+#### Keywords
+---
+#### Questions
+1. What is Object oriented paradigm ?
+2. What is data abstraction ? How do you do it ? Examples in c++ ?
+3. What is encapsulation ? Example ?
+4. What is inheritance ?
+5. What is polymorphism ?
+6. What is 
+---
