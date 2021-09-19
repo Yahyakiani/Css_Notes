@@ -8,4 +8,4 @@
 
 #### Pakistan
 - Experts say our books are : `frozen in history`
-- English medium led to `Mental slavery`
+- English medium led to `Mental slavery` Imran Khan

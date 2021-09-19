@@ -69,7 +69,34 @@ is no efficient way to split a linked list into two segments
 may be totally unacceptable for the software to take too long if the worst case arises.
 - https://www.geeksforgeeks.org/ for all sorting algos
 **Big-O notation:**
-  - 
+  - Sorting Techniques
+  - enumeration sorting Consider all items. If we know that there are N items which are
+    smaller than the one we are currently considering, then its final position will be at number N + 1.
+  - exchange sorting If two items are found to be out of order, exchange them. Repeat
+    till all items are in order.
+  - selection sorting Find the smallest item, put it in the first position, find the smallest
+    of the remaining items, put it in the second position . . .
+  - insertion sorting Take the items one at a time and insert them into an initially
+    empty data structure such that the data structure continues to be
+    sorted at each stage.
+  - divide and conquer Recursively split the problem into smaller sub-problems till you
+    just have single items that are trivial to sort. Then put the sorted
+    ‘parts’ back together in a way that preserves the sorting.
+ **Sorting algorithm stability**
+ - The easiest way to determine whether a given algorithm is stable is to consider whether
+the algorithm can ever swap identical items past each other
+Summary of comparison-based sorting algorithms : `82`
+- we can’t get time complexity better than O(nlog2 n) with comparison
+based algorithms.
+
+- We have seen that there is a variant of binary search trees which keeps
+the worst case the same as the average case, the so-called self-balancing binary search tree,
+but that is more complicated to both understand and program. For those trees, insertion,
+deletion, search, retrieval and update, can all be done with time complexity O(log2 n), and
+traversal has O(n) complexity.`88`
+- 
+
+
 - Bubble Sort:
   - Worst and Average Case Time Complexity: O(n*n). Worst case occurs when array is reverse sorted.
   - Best Case Time Complexity: O(n). Best case occurs when array is already sorted.
@@ -97,7 +124,13 @@ may be totally unacceptable for the software to take too long if the worst case 
   - Auxiliary Space: O(1)
   - Boundary Cases: Insertion sort takes maximum time to sort if elements are sorted in reverse order. And it takes minimum time (Order of n) when elements are already sorted.
   - Algorithmic Paradigm: Incremental Approach
-  
+
+
+- **Hastable**
+- Two different strings can have same hashcode because infinite num of string but finite hashcode
+   ![alt text](load.PNG)
+   ![alt text](objHash.PNG)
+- Most common hash function MD5
   
 ---
 #### Keywords
@@ -139,3 +172,12 @@ may be totally unacceptable for the software to take too long if the worst case 
 22.  Why array based representation for Binary Heap? https://www.geeksforgeeks.org/heap-sort/
 23.  What is Binary Heap? https://www.geeksforgeeks.org/heap-sort/
 24.  What is Complete Binary Tree? https://www.geeksforgeeks.org/heap-sort/
+25.  what is Sorting algorithm stability ?`72`
+26.  What are Hashtables ?Their average and worst case in Space,search,insert,Delete ?`https://en.wikipedia.org/wiki/Hash_table`
+27.  What is a hashcode ?Principle of storing data in hash table or hash map ?
+28.  What is hashing algorithm ? 
+29.  What is collision ?Why is collision possible ?
+30.  Techniques for resolving  collision ?
+31.  What is a load factor in hashtable ? its purpose ? Formula
+32.  Open and close addressing in Hash maps ? which techniques are which in collision ?
+33.  What are objectives of hash function ?
