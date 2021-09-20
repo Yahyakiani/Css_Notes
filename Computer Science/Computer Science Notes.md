@@ -272,18 +272,80 @@ Right­Left rotation
 
 #### Main Notes
 - Object-oriented paradigm:
-- Data abstraction:
-- Encapsulation:
+- **Data abstraction**: is a programming design technique that relies on the separation of interface
+and implementation.
+
+Abstraction separates code into interface and implementation. So while designing your
+component, you must keep interface independent of the implementation so that if you change
+underlying implementation then interface would remain intact.
+Benefits: Class internals are protected from inadvertent user-level errors, which might corrupt the
+state of the object.
+The class implementation may evolve over time in response to changing requirements or
+bug reports without requiring change in user-level code.
+
+- Encapsulation:Data encapsulation, also known as data hiding, is the mechanism whereby the implementation details of a class are kept hidden from the user. The user can only perform a restricted set of operations on the hidden members of the class by executing special functions commonly called methods.
 - Inheritance:
 - Polymorphism:
+- There are two simple ways in C++ to define constants:
+  Using #define preprocessor.
+  Using const keyword
+
+- **Files**
+  - seekg moves the file input pointer(position of reading frm file) while seekp moves file output pointer( position f writing to file). Another question from juice answerable simply by reading the documentation
+  - tellp():It returns the position of the current character in the output stream.	
+  - tellg():It returns the position of the current character in the input stream.
+
+   ![alt text](abvsencap.PNG)
+
+- A friend function is a friend of a class that is allowed to access to Public, private, or protected data in that same class. If the function is defined outside the class cannot access such information.
+
+A friend can be declared anywhere in the class declaration, and it cannot be affected by access control keywords like private, public, or protected.
   
 #### Keywords
 ---
 #### Questions
 1. What is Object oriented paradigm ?
-2. What is data abstraction ? How do you do it ? Examples in c++ ?
+2. What is data abstraction ? How do you do it ? Examples in c++ ? What are benefits ?
 3. What is encapsulation ? Example ?
 4. What is inheritance ?
 5. What is polymorphism ?
 6. What is 
+7. What are the ways to define a constant in C++ ? 
+8. What is a constructor and Destructor ? Give example c++ ?
+9. What are exceptions ? How to handle them in c++ ? How to derive new exceptions in c++ code from exception class ?
+10. What is the standard library for reading file in c++ ?
+11. Data types for that lib and what do they mean ?
+12. In how many modes can you open a file and their function ?
+13. How do you read from a file and write to a file c++ ?
+14. What are file position pointers ? What methods do they have to control them ?
+15. What is the difference between seekg and seekp?
+16. What are the additional attributes that can be used with seekg and seekp ?
+17. What is the difference between Tellg () and Tellp () functions?
+18. What is a Friend function ? example c++ ?
+19. Where is friend function specified ?
+20. How to specify a whole class as friend ?
+21. What things does the derived class not inherit ? List em ?
+22. What are the types of inheritance ?
+23. What are inline functions and how does compiler place them when they are called ? Recompiling issue ?
+24. Difference between abstract class and abstraction ?
+25. What are abstract classes and interfaces ?
+26. What are abstract classes used for ?
+27. How are interfaces made ?
+28. What happens if you do not override a pure virtual function in a derived class ?
+29. Diff between abstract and concrete class ?
+30. How do you make a pure virtual function ?
+31. What is function overloading ?
+32. What are static memeber or variables ? DO they have access to this ? Properties of Static Method ?
+33. How many parts can C++ standard library be divided into ?
+34. What is polymorphisms ? How does it work ? Example ?
+35. Abstraction vs Encapsulation
+36. What is  ternary operator?
+37. What are the different types of arguments?by value or reference ? Example ?`https://career.guru99.com/top-50-oops-interview-questions/`
+38.  What is static or dynamic binding ? In context of overloading and overriding ?
+39.  What is the difference between new and override?
+40.  What are the various types of constructors?
+41.  What is early and late Binding? 
+42.  What is the difference between structure and a class?
+43.  What are all the operators that cannot be overloaded?
+44.  
 ---
