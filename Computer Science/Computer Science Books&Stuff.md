@@ -13,3 +13,12 @@ Data Communication and Networking is an easy and a Short Subject
 In Operating System u'll be able tu understand the functionality of Computer SJF,Round robin And Some other techniques like that are Important in this subject that can be asked in CSS exam .
 In DSA u can Easily manage to understand the concept of Algorithm and trees.
 
+
+## Sample Structure: 
+ 
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+---
