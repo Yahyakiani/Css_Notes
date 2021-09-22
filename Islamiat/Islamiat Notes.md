@@ -13,7 +13,7 @@
 9. What were the effects of charter of madina in political,religious and civil spheres ?`79`
 10. What was called the magna carta of early islam ?`81`
 11. What were the effects of charter of madina ?
-12. What were the steps Propget Muhammad took to settle matters with Jews of madina ?
+12. What were the steps Prophet Muhammad took to settle matters with Jews of madina ?
 13. What was the significance of charter of madina ?
 14. What were the three jew tribes in yathrib named ?
 15. Who was the person nominated to judge the crimes of banu qureza ? Last tribe to be punished ?

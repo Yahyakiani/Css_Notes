@@ -128,10 +128,10 @@ traversal has O(n) complexity.`88`
 
 - **Hastable**
 - Two different strings can have same hashcode because infinite num of string but finite hashcode
-   ![alt text](load.PNG)
-   ![alt text](objHash.PNG)
-   ![alt text](hash1.PNG)
-   ![alt text](hash2.PNG)
+   ![alt text](./images/load.PNG)
+   ![alt text](./images/objHash.PNG)
+   ![alt text](./images/hash1.PNG)
+   ![alt text](./images/hash2.PNG)
 - Most common hash function MD5
 - A bucket is simply a fast-access location (like an array index) that is the the result of the hash function
 - By the way, "separate list" hints at why open hashing is also known as "separate chaining".
@@ -167,7 +167,7 @@ A hybrid of chaining and open addressing, coalesced hashing links together chain
 - 
 
 **Trees**
-   ![alt text](tree1.PNG)
+   ![alt text](./images/tree1.PNG)
   - Root is the topmost node of the tree
   - Edge is the link between two nodes
   - Child is a node that has a parent node
@@ -295,7 +295,7 @@ bug reports without requiring change in user-level code.
   - tellp():It returns the position of the current character in the output stream.	
   - tellg():It returns the position of the current character in the input stream.
 
-   ![alt text](abvsencap.PNG)
+   ![alt text](./images/abvsencap.PNG)
 
 - A friend function is a friend of a class that is allowed to access to Public, private, or protected data in that same class. If the function is defined outside the class cannot access such information.
 
@@ -350,11 +350,116 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 44.  
 ---
 
-## : 
- 
+## : Operating Systems
+ Book:`Operating System 8th Edition Silberschatz`
 #### Main Notes
+   ![alt text](./images/dataMigra.PNG)
+   - **Process Components**
+
+
+
+   ![alt text](./images/processComp.PNG)
+
+   - **Process control block**
+
+
+
+   ![alt text](./images/processCont.PNG)
+
+   - **Process Queue** 
+
+   ![alt text](./images/prqueue.PNG)
+
+
+   - **Medium Term Scheduler** 
+
+   ![alt text](./images/medi.PNG)
+
+
+   - **Sub Process** 
+
+   ![alt text](./images/subprocess.PNG)
 ---
 #### Keywords
 ---
 #### Questions
+1.  Draw structure of Operating System components ? Their purpose ?`22`
+2.  What is a bootstrap program or firmware ?`26`
+3.  What is interrupt ? Difference between interrupt by hardware and software ?
+4.  How are hardware and software interrupt called ?
+5.  What happens when cpu is interrupted ?
+6.  What is system call or monitor call ?
+7.  What is random access memory ?`27`
+8.  What is a typical instruction execution cycle ? For von neumann architecture ?
+9.  volatile vs non volatile storage ?`29`
+10. Difference between symmetric and asymmetric processing ?
+11. What are clustered systems ? Difference between clustered vs Multi processing systems ?`30`
+12. Symmetric vs asymmetric clustering ?
+13. Parallelization ?
+14. Parallel clusters ?
+15. What is distributed lock manager ?`31`
+16. Storage area networks ?`32`
+17. Multiprogramming ?
+18. Job pools ? Where ARE jobs kepts ? Why  ? Job execution cycle ?`33`
+19. What up happen to job in a non multiprogrammed system ?
+20. What is time sharing(Multi tasking ) ?
+21. What is a process ?`34`
+22. Swapping  ?
+23. What is advantage of virtual memory with respect to actual memory ?`34`
+24. Are modern systems interrupt driven ?
+25. What is a trap ?`35`
+26. How do we differentiate between user defined code and operating system code ?`35`
+27. What is mode bit ? Which kernel or user ?`35`
+28. What are privileged instructions ?`36`
+29. Can they be executed in user mode ?
+30. What is the use of timer in cpu ?`37`
+31. What is a program counter ?``
+32. Does single threaded and multithreaded program have one program counter ?`37`
+33. Responsibilities of OS in process management ?`38`
+34. What is caching ?`41`
+35. What is cache coherency in multiprocessors ?`42`
+36. Distributed system ? `45`
+37. Network ?
+38. Network operating system ?`45`
+39. Types of computing enviroments ?
+40. Client server computing ?`49`
+41. Type of client server system ?
+42. Computer serversystem 
+43. file server system ? Example ?
+44. Peer to peer server system ? example ?
+45. How does node determine what services are available in peer to peer ?`50`
+46. Web based computing ?
+47. What are load balancers ?
+48. What are system calls ?`69`
+49. Types of system calls ?
+50. Models of interprocess communication ?`79`
+51. System programs or system utilities ?`81`
+52. System programs vs application programs ?
+53. Mechanism vs policy ?`82`
+54. Layered approach in system structure ? Its advantage ?`86`
+55. What is a kernel  and a microkernel ? Advantage of micro kernel to kernel ?`87`
+56. What is a virtual Machine ?Advantage`91`?
+57. Process components ? Name them ?`116`
+58. What are the states of a process ?`117`
+59. What is Process control Block or task control block ? What information does it contain ?`118`
+60. Ready queue `120`
+61. What is device queue ? Which process are kept in it ?`121`
+62. What is a Sceduler ? Long term or job scheduler ? Short term or CPU scheduler ?`122`
+63. Major difference in cpu and job scheduler ?
+64. What happens when degree of multi programming is stable ? Who controls this degree ?
+65. Types of process ? I/O bound or cpu bound ?`123`
+66. What is medium scheduler ? How is it different from short and long term ?`123`
+67. What happens to cpu when an interrupt is called ?`124`
+68. What is content switching ?`124`
+69. When a process creates a new process, what two possibilities exist in terms of execution ?`126`
+70. How does subprocess is created and communitate ? Procedure ?`126`
+71. What system call is called when process is finished ?`129`
+72. What is cascading termination ?`130`
+73. What functions do process use to communicate ? Synchronous and Asynchronous Messaging ?`136`
+74. What is cooperative and Pre emptive scheduling ?Who uses non pre emptive sched ?`200`
+75. What is the dispatcher ?What is dispatch latence ?`201`
+76. What criterias are mostly used for scheduling algorithms ?`201`
+77. FCFS scheduling ? Its Negatives ?Is it pre emptive ?`202`
+78. Why non preemptive scheduling is disastrous for priority?
+79. 
 ---
