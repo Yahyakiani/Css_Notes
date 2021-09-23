@@ -379,6 +379,11 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
    - **Sub Process** 
 
    ![alt text](./images/subprocess.PNG)
+
+
+   - **Processing of a user program** 
+
+   ![alt text](./images/programMem.PNG)
 ---
 #### Keywords
 ---
@@ -461,5 +466,52 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 76. What criterias are mostly used for scheduling algorithms ?`201`
 77. FCFS scheduling ? Its Negatives ?Is it pre emptive ?`202`
 78. Why non preemptive scheduling is disastrous for priority?
-79. 
+79. How to calculate Average waiting time ?`Mathematical`
+80. What is round robin scheduling how does it work ?`208`
+81. What is processor sharing in Round robin ?
+82. What is Multi level Queue scheduling ?What are some of the Levels in the This queue ? What are foreground and background processes ? Is it preemptive ?`210`
+83. How are processes divided into different queues in multilevel ?
+84. What is Multilevel feedback queue ? Difference between multi   multi feedback ?`212`
+85. What processes are left in high priority queue  in feedback?
+86. What is processor affinity ?`216`
+87. What is a critical section ?`241`
+88. What are the approachs to solve critical section problem ?``
+89. What a preemptive and non preemptive kernels ?`242`
+90. Why, then, would anyone favor a preemptive kernel over a nonpreemptive one?
+91. What are semaphores ?
+92. What a mutex locks ? spinlock  ?Adaptive mutex? `web`
+93.   ?
+94. What is priority inversion ?Solutions ?`253`
+95. What is priority inheritance protocol ?
+96. Bounded buffer problem ? Solution ? Reader writer problem ? Solution ?
+97. Reader write lock solution ?`256`
+98. Table philosopher problem ? solutions `258` ?
+99.  Volatile non volatile and stable storage ?`274`
+100. What are deadlocks ? soltuions to resolve them ?`web`
+101. what are the 4 conditions for deadlocks to arise ?`299`
+102. Resource allocation graph  ? Get visual for understanding deadlock situations?`301`
+103. Cycles and Deadlock ? `302`
+104. Three methods to handle deadlock ?`304`
+105. Deadlock prevention ? What it effects ? Solutions fo Mutual Exclusion , Hold and wait , No preemption ,Circular wait ?`305`
+106. Solutions for Hold and wait ? 2nd ones disadvantages ?
+107. Deadlock Avoidance algorithns  ?`311`
+108. Resource-Allocation-Graph Algorithm ,Bankers algorithm ,
+109. Deadlock detection algorithms ?`web`
+110. Deadlock recovery methods ?`318`
+111. Ways of Binding Process ?`332`
+112. Logical address(virtual address) ? Physical Address ?`333`
+113. Dynamic Loading ?`335`
+114. What is dynamic Linking ? example ?`335`
+115. How is dynamic loading different from dynamic linking ?`336`
+116. What is Contiguous memory allocation ?`338`
+117. General dynamic memory allocation problem solutions ?`340`
+118. Fragmentation internal and external ? Compaction ?`341`
+119. Memory management techniques?`https://www.geeksforgeeks.orgpartition-allocation-methods-in-memory-management/`
+120. What is 50 percent rule in fragmentation ?`341`
+121. What is paging ?`342`What does it avoid ?
+122. What is a translation look aside buffer(TLB) ? TLB Miss ?`347`
+123. Paging ? Segmentation ? Paging vs segmentation ?
+124. What is re-entrant code or Pure code ?`350`
+125. 
+
 ---
