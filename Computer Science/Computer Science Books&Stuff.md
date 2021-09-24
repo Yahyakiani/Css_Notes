@@ -21,4 +21,5 @@ In DSA u can Easily manage to understand the concept of Algorithm and trees.
 #### Keywords
 ---
 #### Questions
+1. What does a generic process framework for software engineering encompass in activities ?`48`
 ---

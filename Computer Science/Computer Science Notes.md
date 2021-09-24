@@ -351,6 +351,7 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 ---
 
 ## : Operating Systems
+
  Book:`Operating System 8th Edition Silberschatz`
 #### Main Notes
    ![alt text](./images/dataMigra.PNG)
@@ -512,6 +513,47 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 122. What is a translation look aside buffer(TLB) ? TLB Miss ?`347`
 123. Paging ? Segmentation ? Paging vs segmentation ?
 124. What is re-entrant code or Pure code ?`350`
-125. 
+125. What is virtual memory ?Advantage ?`371`
+126.  What is demand paging ?`375`
+127.  Purpose of valid invalid bit ?`376`
+128.  But what happens if the process tries to access a page that was not brought into memory? `377`
+129.  What is Page fault ?
+130.  Pure demand paging ?`378`
+131.  What is zero fill on demand ?`383`
+132.  What is page replacement ?`384`
+133.  Page replacement algorithms ?`387`
+134.  FIFO replacement , LRU replacement ?
+135.  What are page buffering algorithms ?`395`
+136.  Difference between global frame allocation algos and local allocation algos ?`398`
+137.  What is thrashing ?`400`
+138.  Strategies for managing free memory for kernel processes ?`411`
+139.  What are the registers in I/O Port ?`572` Their definitions what they do ?
+140.  What are file access methods ? How do they work ? Advantages ?`445`
+141.  
+142.  
 
+---
+
+## Software Engineering 
+ Book:`Roger S. Pressman_ Bruce R. Maxin - Software Engineering_ A Practitioner’s Approach-McGraw-Hill Education (2014)`
+#### Main Notes
+- essence of software engineering practice: 
+ 1. Understand the problem (communication and analysis). 
+ 2. Plan a solution (modeling and software design). 
+ 3. Carry out the plan (code generation). 
+ 4. Examine the result for accuracy (testing and quality assurance). 
+-
+---
+#### Keywords
+---
+#### Questions
+1. What does a generic process framework for software engineering encompass in activities ?`48`
+2. What are umberalla activities ? Name them explain ?`49`
+3. Seven principles on Software Eng that david hooker gave ? `52`
+4. What is a software process? 
+5. What are the generic framework activities that are present in every software process? 
+6. How are processes modeled and what are process patterns? 
+7. What are the prescriptive process models and what are their strengths and weaknesses? 
+8. Why is agility a watchword in modern software engineering work? 
+9. What is agile software development and how does it differ from more traditional process models? 
 ---
