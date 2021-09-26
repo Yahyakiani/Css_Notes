@@ -542,12 +542,24 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
  2. Plan a solution (modeling and software design). 
  3. Carry out the plan (code generation). 
  4. Examine the result for accuracy (testing and quality assurance). 
--
+
+
+   - **Flows** 
+
+   ![alt text](./images/seflow.PNG)
+
+
+
+   - **Increment Modal** 
+
+   ![alt text](./images/seflow.PNG)
+
+
 ---
 #### Keywords
 ---
 #### Questions
-1. What does a generic process framework for software engineering encompass in activities ?`48`
+1. What does a generic process framework for software engineering encompass in activities ?How many steps ?`48`
 2. What are umberalla activities ? Name them explain ?`49`
 3. Seven principles on Software Eng that david hooker gave ? `52`
 4. What is a software process? 
@@ -555,5 +567,16 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 6. How are processes modeled and what are process patterns? 
 7. What are the prescriptive process models and what are their strengths and weaknesses? 
 8. Why is agility a watchword in modern software engineering work? 
-9. What is agile software development and how does it differ from more traditional process models? 
+9. What is agile software development and how does it differ from more traditional process models?
+10. What is a process pattern and its types ?`66`
+11. What is a prescriptive model ?`72` good in which situations and bad in which ?
+12. What is water fall modal ? How is it good ? Its other name ? What are its main drawbacks ?`73`
+13. What is blocking state in water fall ?
+14. What processes do incremental modals combine ?`75`
+15. What are evolutionary process modals ? evolutionary processes ?`76`
+16. Prototyping in evolutionary ? Problems with prototyping modal ?`77`
+17. What is concurrent modeling on general framework activities ?Example `81`
+18. Main problems with evolutionary models ?`83`
+19. 
+20.   
 ---
