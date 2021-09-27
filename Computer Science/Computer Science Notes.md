@@ -577,6 +577,79 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 16. Prototyping in evolutionary ? Problems with prototyping modal ?`77`
 17. What is concurrent modeling on general framework activities ?Example `81`
 18. Main problems with evolutionary models ?`83`
-19. 
-20.   
+19. What is component based development ?`84`
+20. What are formal methods ? Problems that formal methods remove ?
+21. What is aspect oriented software programming ?`85`
+22. what are cross cutting concerns ?
+23. What is a unified process ?Phases of unified process ?`87`
+24. Define the different phases?
+25. What is the personal software process ?its activities?`90`
+26. Why PSP is not highly used in industry ?
+27. What is agility ?
+28. What is agile process ?``
+29. Crucial element of agile prcoess ?`101`
+30. What are some agility principles ?
+31. What is extreme programming ?`103`
+32. What is project velocity ?`104`
+33. What is a spike solution ?
+34. What is pair programming ?`106`
+35. Industrial Extreme Programming and its principles ?`106`
+36. What is Scrum appraoch ? Its components ?`110`
+37. DSDM ? Dynamic System Development model ?`111`
+38. Iterative cycles of DSDM ?`111`
+39. Agile unified process ?`113`
+40. Requirement engineering ?`163`
+41. What are the tasks in requirement engineering ?`164`
+42. What is the purpose of quality attributes and what are they ?`261`
+43. Fundamental Design Concepts ?`263`
+44. Difference between coupling and cohesion ?`268`
+45. WHat are architectural design elements ?`276`
+46. What are some of the architectural styles ?`289`
+47. Check architectural design chapter last part :::
+48. Concerns associated with software quality ?`481`
+49. Goal of for SQA ?`485`
+50.  What is verification and validation ?`499`
+51.  General software testing strategies ?`504`
+52. Testing strategies for OOP ?`512`
+53. What alpha,beta,customer acceptance test ?`516`
+54. Classic System testing ?`517`
+55. What are the 4 p,s spectrums of management ?`716` 
+56. 
+57.   
+---
+
+
+## Digital Image Processing: 
+ Book:`Digital.Image.Processing.4th.Edition.pdf`
+ https://www.globalguideline.com/interview_questions/Questions.php?sc=Image_Processing_Expert
+#### Main Notes
+---
+#### Keywords
+- scaling, translation, rotation, and shearing
+---
+#### Questions
+1. What is spatial resolution ?`73`
+2. Intensity Resolution ?`74`
+3. Effect of reducing spatial resolution ?
+4. False contouring ?`76`
+5. Interpolation ? How ? Sizing how is it done ?`79`
+6. MEthods to do interpolation ?``
+7. What is image subtraction ? Used for ?`90`
+8. What is image multiplication and division used for ?`92`
+9. What are spatial operations ? Types and their definitions and uses ?`101`
+10. What are rubber sheet transformation ? Used for ?`103`
+11. Image registration ?`105` Uses ?
+12. What are some of the basic Intensity transformation techniques ?`124`
+13. Image negatives ?Uses ? How is it done ?
+14. Piece wise linear transformation method ? 
+15. What is contrast streching and Intensity level slicing  ? Uses ?`131`
+16. What are histograms ? What is Histogram processing ?`135`
+17. Histogram equalization , Histogram Matching ?`142`
+18. Image sampling and Quantization ?
+19. How is digital image produced ? Process ?`66`
+20.  Image Sensing and Acquisition ?
+21.  Basic Image filtering ? Smoothning , Sharpening ?
+22.  WHat are the principal source of noise in images ?`320`
+23.  Types of Noise ? How to remove them ?
+24.  
 ---
