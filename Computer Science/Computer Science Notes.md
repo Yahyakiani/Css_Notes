@@ -623,6 +623,8 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
  Book:`Digital.Image.Processing.4th.Edition.pdf`
  https://www.globalguideline.com/interview_questions/Questions.php?sc=Image_Processing_Expert
 #### Main Notes
+- Linear filtering is the filtering method in which the value of output pixel is linear combinations of the neighbouring input pixels. it can be done with convolution.For examples, mean/average filters or Gaussian filtering.
+- A non-linear filtering is one that cannot be done with convolution or Fourier multiplication. A sliding median filter is a simple example of a non-linear filter. 
 ---
 #### Keywords
 - scaling, translation, rotation, and shearing
@@ -651,5 +653,19 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 21.  Basic Image filtering ? Smoothning , Sharpening ?
 22.  WHat are the principal source of noise in images ?`320`
 23.  Types of Noise ? How to remove them ?
-24.  
+24.  Gausian noise ,Rayleigh noise , Erlang Noise, Exponential noise, Uniform noise ,Salt and Pepper noise ?
+25.  How to remove these noises ? WHich filter methods ?
+26. Linear vs Non linear filtering ?
+27. Adaptive filters ?
+28. What are the different color models ? How to inter convert them ? Advantages  and uses of one color model over the other ?
+29. What is intensity slicing and color coding ?
+30. Color segmentation, Color edge detection , Color image compression, Noise reduction in Color images ?
+31. What is morphological Process ?
+32. Erosion, Dilation ,Hit or miss transform ,Opening, closing, skeletionization,Thinning? Uses ? How its done and Examples ?
+33. Morphological Algorithms ?
+34. Pruning ?
+35. Grayscale morphology ? graysca; erosion and dilation
+36. Page 677 for most morphological operations
+37. 
+38. 
 ---
