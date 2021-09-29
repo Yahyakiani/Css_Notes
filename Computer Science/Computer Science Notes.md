@@ -669,3 +669,56 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 37. 
 38. 
 ---
+
+## DataBase: 
+Book:`Silberschatz_A_databases_6th_ed.pdf`
+ 
+#### Main Notes
+  - **Database Symbols** 
+
+   ![alt text](./images/dbsym.PNG)
+---
+#### Keywords
+---
+#### Questions
+1. What are diff data abstraction levels ?`33`
+2. Instance and schema ?types of schema ?`35`
+3. Physical Data independence , Logical .Difference between them ?
+4. Different types of data models ?`36`
+5. DML and types of DML ?`37`
+6. Data stored in DB must verify which constraints ?``
+7. What is mapping cardinalities ?`45 or 296`
+8. What is normalization ?``
+9. What is a storage manager and its purpose and components ?`48`
+10. Query processor components ?
+11. What is atomicity ,consistancy, durability ? Transaction ?
+12. What does transaction manager consist of ?`50`
+13. What is data mining ?`52`
+14. What is a super key, candidate key, primary key,foreign ? Examples ?`72`
+15.  What is referncial integrity constraint ? `https://www.ibm.com/docs/en/informix-servers/14.10?topic=integrity-referential`
+16.  All joins , Cartisan product,Union ,intersection,except, Set difference ?
+17.  What problem do Null values present ?`110`
+18.  All aggregate functions ?
+19.  What is integrity constraint ?`155`
+20.  What is an assertion ?`162`
+21.  What is aan index? How to create , uses ?
+22.  Participation constraint ?`297`
+23.  Weat entity set, strong entity set `307`
+24.  Specilization ? type of specilization and how depicted in ER diagrams?`323`
+25.  What is top down process and bottom up ? Differences , advantages ?
+26.  Generalization ?`324`
+27.  Constraints on generalization ?`326`
+28.  aggregation in ER diagram ?
+29.  UML and their types ?`335`
+30.  Query optimization ?`338`
+31.  Temporal change in data ?`345`
+32.  Decompositions and its types ? and normal forms ?`354`
+33.  Functional dependeny theory ?armstrong axioms ?`365`
+34.  Extraneous attribute ?
+35.  Dependency preservation ?
+36.  Comparison of BCNF and 3NF ?
+37.  Cross site scripting , XSRF, SQL injection ?
+38.  Functional Dependencies in DB ?
+39.  QUery concurrency ?
+40.  
+---
