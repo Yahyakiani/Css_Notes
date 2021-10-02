@@ -722,3 +722,28 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
 39.  QUery concurrency ?
 40.  
 ---
+## Computer and Networks: 
+ 
+#### Main Notes
+  - **Communication Model** 
+
+   ![alt text](./images/commModel.PNG)
+---
+#### Keywords
+---
+#### Questions
+1. Basic Communication model ?
+2. Types of Network ? `47`
+3. What is circuit switching and packet switching ? Diff ?
+4. Frame relay , ATM ?`48`
+5. How does internet work ?`50`
+6. Key features of a protocol ?`58`
+7. Network access layer, application layer,transport layer ?`59`
+8. How data travels from each layer from one computer to another ?`60`
+9. Heirarchy of layers in TCP/IP architecture ?`63`
+10. What is TCP and UDP ? USES? How do they work ?
+11. IP and IPv6 ? Differences ? Why IPv6 is needed ?
+12. Confirmed and non confirmed service how do they work ?`72` Net
+13. 
+14. 
+---
