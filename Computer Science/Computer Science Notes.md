@@ -730,20 +730,84 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
    ![alt text](./images/commModel.PNG)
 ---
 #### Keywords
+- Topology
+- 
 ---
 #### Questions
 1. Basic Communication model ?
 2. Types of Network ? `47`
 3. What is circuit switching and packet switching ? Diff ?
-4. Frame relay , ATM ?`48`
-5. How does internet work ?`50`
-6. Key features of a protocol ?`58`
-7. Network access layer, application layer,transport layer ?`59`
-8. How data travels from each layer from one computer to another ?`60`
-9. Heirarchy of layers in TCP/IP architecture ?`63`
-10. What is TCP and UDP ? USES? How do they work ?
-11. IP and IPv6 ? Differences ? Why IPv6 is needed ?
-12. Confirmed and non confirmed service how do they work ?`72` Net
-13. 
-14. 
+4. What are the 3 phases of circuit switching ?`297`
+5.  Explain the difference between datagram and virtual circuit operation.
+6. Types of circuit switching ? Space divison, Time divison ?
+7. What is the significance of packet size in a packet-switching network?
+8. Time Multiplexed switching ?
+9. Frame relay , ATM ?`48`
+10. How does internet work ?`50`
+11. Key features of a protocol ?`58`
+12. Network access layer, application layer,transport layer ?`59`
+13. How data travels from each layer from one computer to another ?`60`
+14. Heirarchy of layers in TCP/IP architecture ?`63`
+15. What is TCP and UDP ? USES? How do they work ?
+16. IP and IPv6 ? Differences ? Why IPv6 is needed ?
+17. Confirmed and non confirmed service how do they work ?`72` Net
+18. What is multiplexing - demultiplexer? How is it done ? Types of multiplexing ?`https://www.globalknowledge.com/us-en/resources/resource-library/articles/what-is-multiplexing/#gref`
+19. Difference between packet switching system and Multiplexing systems ?
+20. What are types of Multiplexing ?Types of it?`https://www.youtube.com/watch?v=fIZhDl35_XY`
+21. TDM and FDM ? What type of signals do they use ?
+22. Limitations of TDM and FDM ? Advantages of TDM and FDM?
+23. why TDM can be inefficient when diff users have different priorities ? 
+24. What is pulse stuffing ?
+25. What is intermodulation distortion ?
+26. What is echo cancellation ?
+27. Upward Multiplexing and Downward multiplexing ?
+28. What is flow control ?`238` Transmission time, propogation time ?
+29. Types of flow control : Stop and wait flow control, How it works?`239`
+30. Sliding window control,Piggybacking ?
+31. What is Error control ?`245` What is ARQ and types of ARQ ?
+32.  What is the advantage of sliding-window flow control compared to stop-and-wait flow control?
+33. What was some error checking methods ?
+34. Parity bit ? How its done ?Example
+35. Two dimensional Parity bit ? How is done ? example ?
+36. What is internet checksum ?How to perform ones complement operations? Both addition and multiplication `217`
+37. What is cyclic redundancy check ? How its done ?
+38. What is datagram lifetime its purpose ?`461`
+39. IP vs IPv6 ?`475`
+40. Give some reasons for using fragmentation and reassembly?
+41.  How is the IPv4 header checksum calculated?
+42.  What is the difference between the Traffic class and Flow Label fields in the IPv6 header?
+43.  Briefly explain the three types of IPv6 addresse
+44.  Convert IPv4 to binary and back ?`https://www.transtutors.com/questions/change-the-following-ipv4-addresses-from-binary-notation-to-dotted-decimal-notation--650742.html`
+45.  What the ways to cope with overflow in flow control ?`496`
+46.  Purpose of connection establishment ?`500`
+47.  What is the 2 way handshake problem ? Resolution ?
+48.  How to check sequence of packets in TCP and calculate ?
+49.  What handshake tcp users ?
+50.  How is connection established and terminated in TCP Process ?
+51.  Acceptance policy in TCP ?`517`
+52.  Retransmission strategies in TCP ?`518`
+53.  Acknowledge policy in TCP ?`519`
+54.  Check review questions `521`
+55.  Key strategies for routing ?`620`
+56. Properties of flooding in routing ?`622`
+57. Principle conditions for adaptive routing ?
+58. What are the approaches to routing ?`634`
+59. IRP vs ERP ?
+60. What is the purpose og BGP and Its functions ?`635`
+61. How is connection established in BGP and information exchanged ?
+62. Comparison between djskitra algo and bell man ford ?`649`
+63. What are the various congestion control techniques ?`661`
+64. Backpressure,Choke packet ,implicit congestion signaling ,Explicit congestion signaling ?   
+65.  Explicit congestion signaling catogeries ?`663`
+66.  What is ATM ?its use ?`317`
+67.  What is CLP  Cell loss priority ?`322`
+68.  frame relay vs ATMS ?`https://www.techtarget.com/searchnetworking/definition/frame-relay`
+69.  HEC ?
+70.  What are Hubs their purpose and example ?
+71.  What are bridges their purpose and example ?
+72.  What are switches their purpose and example ?
+73.  What is network topology ?
+74.  What is the difference between a store-and-forward switch and a cut-through switch?
+75.   
+76.  
 ---
