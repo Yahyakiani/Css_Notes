@@ -811,3 +811,16 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
 75.   
 76.  
 ---
+
+## Web Engineering & Technologies 
+ 
+#### Main Notes
+---
+#### Keywords
+---
+#### Questions
+1. Component of Web architecture ?
+2. classification of Web architecture ?
+3. Web Application layered architecture ?`https://www.altexsoft.com/blog/engineering/web-application-architecture-how-the-web-works/`
+4. 
+---
