@@ -238,12 +238,6 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 
 
 
-
-
-
-
-
-
 ### Sayings of Quran and Sunnah with Relevant Topics
 
 #### Political Islam
@@ -254,7 +248,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 
 
 
-## COncept of Islam 
+## COncept of Islam(Soft Copy)
 
 1. For whom islam has come with respect to other religions ?
 2. What is meaning of word islam ?
@@ -262,7 +256,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 4. What is kufr in islam ? Why is Kufr a form of ignorance and tyranny ?
 5. Consequences of Kufr ?
 
-## Importance of Deen in human life
+## Importance of Deen in human life(Hard Copy)
 
 1. What is a deen ?
 2. History of religion according to ibn khaldun ?
@@ -280,7 +274,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
    7.  How deen gives purpose ?
    8.  How does it give power to endure adversity of life ? Surah younus
 
-## Difference Between deen and Religion
+## Difference Between deen and religion(Hard Copy)
 
 1. Dr israr definiton of religion ?
 2. Literal meaning of mudhab/religion ?
@@ -289,7 +283,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 5.  
 
 
-## Islam and Other religions
+## Islam and Other religions(Hard Copy)
 1. How islam differs from other religions with respect to women ?
 2. Uniquess in name ?
 3. Code of life ?
@@ -303,5 +297,148 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 11. Prophesies fulfilled ?
 12. Flexibility ? Ijtehad ?
     
+
+
+## Islamic Beliefs
+1. How many beliefs in quran and in hadees ?
+2. Iman/Faith
+   1. Meaning of iman ?
+   2. Who is Momin ?
+   3. What does Faith lead to ?
+   4. Who is Muslim ?
+   5. What is Iman bil ghayb ?
+   6. Relation of islam to Faith ?
+   
+3. Tawheed ?
+   1. What is tawheed ?
+   2. How Tawheed is a revolutionary concept ?
+   3. What is the bedrock of islam ?
+   4. How doe kalma differentiate muslim,kafir,mushrik and atheist ?
+   5. What does `ilah` mean ?
+   6. Difference in Allah and Ilah ?
+   7. Why God is natural need for man ?
+   8. Catogeries of tawheed ?
+   9. Impact of tawheed
+      1. Individual impact ?
+      2. collective impacts ?
+
+4. Belief on Prophets ?
+    1. Purpose of Prophets ?
+    2. Why is there a need for prophets ?
+    3. What does islam say about prophets of other religions ?
+    4. Finality of Prophethood or seal of prophets ?
+       1. Necessicity for final Prophet ?
+       2. Charateristic of Final Prophethood ?
+       3. ghazali on finality of prophethood ?
+       4. Prophecies ?
+    5. Why Muhammah PBUH is the last messanger ?
+    6. Impact of Beliefs in Prophets
+
+5. Belief in Gods Angels ?
+   1. Why is it important ?
+   2. Types of Angels ?
+   3. What is the nature and characteristics of Angels ?
+   4. Who are mukarabun ?
+   5. With what name jibrael is called in quran ?
+   6. Four Prominant ? What are they called ?
+   7. Munkar - Nakir ? Kiramun katibeen ?
+   8. Why denial is related to kufr ?
+
+6. Belief in Allahs Books
+   1. Quran is final unification message of all previous book ?
+   2. For one nation or all ? QUran 
+   
+7. Belief in Life after death
+   1. concept of hell & heaven ?
+   2. Need of this concept ?
+   3. Impact of belief in hereafter ?
+   4. Social Impact
+
+
+8. Predestination(According to Hadees)
+   1. What is taqdeer ? 
+   2. How is it an integral part of tawheed ?
+   3. impact of predestination
+
+## Worships
+
+1. Worship/Ibadah ?
+   1. Derivation from ?
+   2. Meaning of Abd and Ibadah?
+   3. Meaning of Ibadah in Fiqh ?
+   4. Purpose of Ibadah ?
+      1. Huqool ul Ibad
+      2. Huqool ul Allah
+   5. Islamic Concept of Ibadah ?
+      1. Rituals,Action,Experience (Self Deniance),THoughts ?
+      2. Primary Ibadah ?
+      3. Secondary Ibadah ?
+      4. Reason of Existence with respect to Ibadah ?
+      5. Distinct Concept of Ibadah in Islam ?
+      6. Individual Benefits of Ibadah ?
+2. Saum ?
+   1. According to Imam ghazali ?
+   2. Purpose and Impact of Saum
+   3. Literal Meaning ?
+   4. Importance according to Quran and Hadees ?
+   5. Hidden Ibadah ?
+   6. Physical benefits ?
+   7. Impact of Saum
+      1. Collective
+      2. Individual/Spiritual
+      3. Moral
+   8. How is it related to jihad ?
+   9. Distinctive reward ?
+3. Hajj ?
+   1. Literal Meaning ?
+   2. Meaning according to islamic juriprudence
+   3. Purpose and Impact of Hajj
+   4. Who is it compulsory on ?
+   5. Importance of Hajj in quran and hadees ?
+4. Zakat
+   1. literal Meaning ?
+   2. What is zakat ?
+   3. How many times mentioned ?
+   4. MA manan said what according to zakat in his book ?
+   5. Purpose and impact 
+      1. Collective 
+      2. Spiritual/Individual
+      3. Moral
+      4. Economic
+   6. How does it inhibit financial evils ?
+   7. importance of Zakat in quran and hadees
+   8. What was ottoman empire incident ?
+   9. Importance of Zakat in quran and hadees ?
+   10. Beneficiaries of Zakat ? How many (IMAMRGFF)?
+   11. Who are Mulafati Qulubuhum ?
+   12. Who are not allowed zakat ?
+   13. Zakat to non-muslims ? Caliph Umer reference ?
+   14. Zakat is incumbant upon ?
+   15. Zakat percentage ? on which wealth ? 
+5.  Salat?
+    1.  Literal Meaning of Salat ?
+    2.  Meaning in Islam ?
+    3.  Importance of Salat in quran and hadees ?
+    4. Purpose and impact 
+      1. Collective 
+      2. Spiritual/Individual
+      3. Moral
+    5. When was it made obligatory ? Which event ?
+    6. What was the first thing made obligatory to ummah ?
+    7. Physical benefits ?
+    8. Iqbal verse ?  
+
+## Women in Islam
+1. Status of Women before Islam
+2. Treatment of Women in other religions and civilizations 
+3. status of women in islam 
+4. Spiritual Aspect
+5. Rights(Social,Economic,Political, Marital)
+6. Inheritance
+7. Polygamy
+8. Misconception regarding women status in islam
+9. Women in contemporary world
+10. Veil Freedom and the law against hijab in islam
+11. Ahadiths & Ayats
 
 
