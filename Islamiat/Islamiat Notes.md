@@ -433,12 +433,24 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 2. Treatment of Women in other religions and civilizations 
 3. status of women in islam 
 4. Spiritual Aspect
-5. Rights(Social,Economic,Political, Marital)
-6. Inheritance
-7. Polygamy
-8. Misconception regarding women status in islam
-9. Women in contemporary world
-10. Veil Freedom and the law against hijab in islam
-11. Ahadiths & Ayats
-
-
+5. Rights(Social,Economic,Political, Marital) ? Who was Rufaida al Aslamia ?
+6. Haq Mehr ? Umer reference ?
+7. How right of Khula(divorce) differs in islam and west ?
+8. Inheritance
+   1. Situation of inheritance before islam ? 
+      1. Kubaisha complained what to prophet ?
+   2. Injustice regarding women inheritance in islam
+9.  What is mohtashib ? reference to women in islam 
+10. Polygamy ? (Quran Ayat)
+11. Misconception regarding women status in islam
+12. Why polyandry not allowed ?
+13. Women in contemporary world
+14. Veil Freedom and the law against hijab in islam
+    1.  Literal Meaning of Hijab ?
+    2.  Meaning in islam
+    3.  Purpose of Hijab (Hibjab experiment in new York)
+    4.  Is hijab a social need or freedom violation ? Historical reference (Christian Nuns, Jewish women)
+    5.  When was law passed ? What was argued against it ?
+    6.  Why contemporary is reluctant to wear hijab ?
+15. Women after the Prophet ? 
+16.  Ahadiths & Ayats
