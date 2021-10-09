@@ -454,3 +454,28 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
     6.  Why contemporary is reluctant to wear hijab ?
 15. Women after the Prophet ? 
 16.  Ahadiths & Ayats
+
+## Human Rights
+1. Define Human Rights ?
+2. Difference between western and Human rights ?
+3. Basic human rights are for whom ? What are they ?(MNEMONIC)
+4. Position of Slavery in Islam ?
+   1. In what ways did islam encourage people to free enslaved people ?
+   2. How many slaves did Prophet free ? Abdur rehman bin Auf freed how many slaves according to Maududi ?
+   3. Who were comfort women during World war 2 ? (Korea -China)(Western treatment)
+5. Right of Citizen in an islamic state ? (MNEMONIC)
+6. Right of Enemies at war ?(MNEMONIC)
+   1. Rights of Combatants ?
+   2. Rights of Non-Combatants ?
+7. Rights of Non Muslims in Islam (Dhimmi)?
+8. Comparison of UDHR(Universal Declaration of Human Rights) with Prophets last sermon ?
+   1. When were both create ?
+   2. Concept of Individual Freedom of west vs Islam ?
+   3.  
+9.  Misconceptions of human rights in Islam by the west ?
+10. Concept of Human Dignity in Islam ?
+    1.  Position of Human in Islam ?
+    2.   
+
+
+
