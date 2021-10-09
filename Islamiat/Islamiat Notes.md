@@ -6,7 +6,7 @@
 2. What was the sacriligious wars between kinana-quresh and hawazin tribe ? `https://en.wikipedia.org/wiki/Hawazin`
 3. What was Harb al-fijar ? And why was this pact taken ?`https://en.wikipedia.org/wiki/Harb_al-fijar`
 4. At what age did prophet Muhammad (SAW) marry Khadija bint Khuwalid ?
-5. What place is also called Jabl-e-Noor ?
+5. What place is also called Jabl-e-Noor ? and why is it famous ?
 6. From whom house did prophet preach ? Whose house is called the house of islam ?
 7. How long did the boycott of Banu hashim last ?
 8. In a cave of which mountain did Prophet (SAW) and Hazrat Abu bakr stayed after their escape from Makkah ?
@@ -137,7 +137,7 @@ losers.** - Al Quran
 
 #### Questions
 1. What is a religion and what is a deen ? What is the difference between these 2 words ?
-2. Why is deen important for a political system ?
+2. Why is deen important for a political system ? Verse(Juda ho deen siyasat se to reh jati he changezi)
 3. Comparision between deen and religion ?
 4. What is Secularism ? and What is islam ?
 5. Describe the contention between Islam and Secularism ?
@@ -251,3 +251,57 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 - "They say: 'Have we also got authority ?' Say: 'All authority belongs to Allah alone'"
 - Prophet: 'I do not follow anything except what is revealed to me'
 - 'We Sent no Messanger except that he should be obeyed by Allah's command' 
+
+
+
+## COncept of Islam 
+
+1. For whom islam has come with respect to other religions ?
+2. What is meaning of word islam ?
+3. What did maulana maududi say regarding ISlam in non living matter ?
+4. What is kufr in islam ? Why is Kufr a form of ignorance and tyranny ?
+5. Consequences of Kufr ?
+
+## Importance of Deen in human life
+
+1. What is a deen ?
+2. History of religion according to ibn khaldun ?
+3. Shibli regarding religion ?
+4. Iqbal verse regarding Religion ?
+5. Why Deen was needed and  why Allah sent prophets in continuation ?
+6. WHat are the individual benefits of Deen ? Surah al Imran, Al Qamar,At-talaq ?
+7. Social Benefits of Deen ?
+   1. How is islam a deen ?In respect to secular and spiritual Life ?
+   2. What problems ensue if we seperate these 2 issues ? ascetism and Materialism 
+   3.  How is Deen a source of law ? Islam in this aspect
+   4.  How is Deen a source of Knowledge ?(Al-Anbya -Water example ?)
+   5.  How deen explains metaphysical aspects ?
+   6.  Darkness to ligth reference ? Al-ibrahim
+   7.  How deen gives purpose ?
+   8.  How does it give power to endure adversity of life ? Surah younus
+
+## Difference Between deen and Religion
+
+1. Dr israr definiton of religion ?
+2. Literal meaning of mudhab/religion ?
+3. grammatical meaning of mudhab ? bOOk reference ? tasheel ul adab
+4. Difference in Private or Collective matter ? Deen or religion ?
+5.  
+
+
+## Islam and Other religions
+1. How islam differs from other religions with respect to women ?
+2. Uniquess in name ?
+3. Code of life ?
+4. Simple and Rational ?
+5. Moderation in world and Hereafter ? MAtter and Spirit ?
+6. Not for a specific time or nation ?
+7. Direct relation with Allah ?
+8. unique concept of worship ?
+9. Authentic source ?
+10. Political Matter in islam and Other ?
+11. Prophesies fulfilled ?
+12. Flexibility ? Ijtehad ?
+    
+
+
