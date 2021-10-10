@@ -795,7 +795,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 2. Treatment of Women in other religions and civilizations 
 3. status of women in islam 
 4. Spiritual Aspect
-5. Rights(Social,Economic,Political, Marital) ? Who was Rufaida al Aslamia ?
+5. Rights(Social,Economic,Political(MEHR Decision Umer)) ? Who was Rufaida al Aslamia ?
 6. Haq Mehr ? Umer reference ?
 7. How right of Khula(divorce) differs in islam and west ?
 8. Inheritance
@@ -813,15 +813,14 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
     3.  Purpose of Hijab (Hibjab experiment in new York)
     4.  Is hijab a social need or freedom violation ? Historical reference (Christian Nuns, Jewish women)
     5.  When was law passed ? What was argued against it ?
-    6.  Why contemporary is reluctant to wear hijab ?
+    6.  Why contemporary woman is reluctant to wear hijab ?
 15. Women after the Prophet ? 
 16.  Ahadiths & Ayats
-
 ---
 
 ## Human Rights
 1. Define Human Rights ?
-2. Difference between western and Human rights ?
+2. Difference between western and islamic Human rights ?
 3. Basic human rights are for whom ? What are they ?(MNEMONIC)
 4. Position of Slavery in Islam ?
    1. In what ways did islam encourage people to free enslaved people ?
@@ -838,8 +837,67 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
    3.  
 9.  Misconceptions of human rights in Islam by the west ?
 10. Concept of Human Dignity in Islam ?
-    1.  Position of Human in Islam ?
-    2.   
+    1. Position of Human in Islam ?
 
+## Seerah of Prophet PBUH
+1. Seerah roots and What it means ?
+2. Difference in Seerah and Sunna ?
 
+### As a Diplomat 
+1. Breaching of Treaties (Hilf-ul-Fudul)
+2. Fixation of Asward Stone
+3. Migration to Abyssinia(Diplomatic Thinking)
+4. Jourey to Taif(Propogation) 
+5. Al Aqaba Pledges
+6. Constitution of Madina 
+7. Treaty of Hudabiya
+8. King Letters
+9. Hospitality Point(Dar ul zefan )
+10. Delegation of Najran
+11. Escaped Sahabi after treaty of hudabiya
+12. Role Model for Modern Diplomacy
+13. Treaty of Najran(Treatment of Non muslims in Islamic state)
+14. Muslima Ambassador
+    
+### As a Military Strategist 
+1. Objective of Warfare altered 
+2. Economic Blockade ( Makkah Caravan )
 
+### As a Peace Maker
+1. Islam is a Message of Peace
+2. Establishment of Pluraristic society(Constitution of Madinah)
+3. Ensuring Peace and Avoiding Confrontation(Escaped Sahabi after treaty of hudabiya)
+4. Treaty and Agreements
+5. Friendly Ties with Neighbour State
+6. Promoted the culture of Diplomatic Immunity (Muslima Ambassador)
+7. Fixation of Black Stone
+8. Religious Freedom(Taif)
+9. Taif Example( No retaliation Aganist agressors)
+10. Prohibited Killing Without Justification
+11. Conquest of Makkah
+12. Ending Long Lasting Hostility between Aws and Kharaj Made 
+
+## As a Educator
+1. Concept of Education in Islam( From Birth to death , Every man women should acquire,)
+2. First islamic University (Ashabe Sufa)
+3. Study of foreign Language ( Zaid bin sabit )
+4. Way of Teaching(speed of speech, pitch high low for flow,use of gestures,example and references)
+5. Encourage questions ()
+6. Analogical teaching ( Namaz, Neher)
+7. Prisoner of war release condition badr
+8. Taught through action (abloution)
+9. use of visualization for teaching(jabir waqiya)
+10. Repeated things ()
+11. Made learners writes 
+12. Rewarded and appreciated positive behaviours (Ibn abbas)
+
+## As an Individual
+1. Obedience of Allah
+2. Love for Allah
+3. Generosity
+4. Courtesy
+5. Sadiq and Ameen
+6. Hall mark of Justice
+7. Loving Father (Ans abi malik)
+8. Best Husband
+9. Hardworking 
