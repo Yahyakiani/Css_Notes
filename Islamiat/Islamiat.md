@@ -94,45 +94,72 @@ Battle in yemen between iran and coalition of Saudi Arabia.
 - Other religions focused only with the spiritual aspect of humanity such as Morality,beliefs and rituals.While islam encompasses all aspects of human life.
 
 
+LSPERM
 
 Deen
 - Individual
 Guidance 
 Soul satisfaction
 comfort and Hope
+Abstention from lying
+Discipline and Self Control
+Hidden Ibadat
+Self scrutiny
+Infuses spirit of Jihad immunity from hypocriscy
+Distinctive reward
+Right and wrong
+Courageous
+Obedient and determined
+Virtuous
+Inculcate self respect and self esteem
+Slavery Iqbal
+Physical Cleanliness 
+Punctuality
+
 -Social 
-Guidance in LSPERM
 Source of Knowledge
 Explains Metaphysical Things
-Power to endure adversity of life
+Power to endure adversities of life
+Tolerance
+Establishes social control
+Rule of Law
+Mutual Care and respect
+Taraweh(social congregation)
+Cultural Interaction(Hajj)
+
+
+-Moral 
+Destroy ego
+Inculcate generosity
+HUMBLEness 
+Patience and tolerance
+Compassion
+Decreases Lust for Weath
+Modesty
+taqwa
+accountability
+Inclination towards good deeds
+Consistancy on the right path
+
 - Distinctive aspect of Islam
 Complete Code of Life
 Uniqueness of name
 simple and rational
 moderation in world and hereafter
-Not for Specific Time or Nation
+Eternal
 Direct Relation with Allah
-Eternal Message
+Universal Message
 Based on Authentic Sources
 Prophesies Fulfilled
 Flexibility
+
+
 - Tawheed
 Unity of Allah
 Revolutionary Concept
 Not only Utterance
 Worship
 
--Impact of Tawheed:
-
-Right and wrong
-Courageous
-Soul Satisfaction
-Hopeful
-Obedient and determined
-Virtuous
-Modesty
-Inculcate self respect and self esteem
-Slavery
 
 - Charateristic of Final Prophethood
 Universal
@@ -141,4 +168,3 @@ Ummah unity
 (Ghazali)
 prophesies
 
-- Impact of Beliefs in Prophet

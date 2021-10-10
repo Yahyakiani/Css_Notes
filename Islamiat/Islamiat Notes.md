@@ -1,6 +1,14 @@
 # Islamiat Notes
 - Default Book: Mastering O Level Islamiat by Muhammad Bilal Aslam
 
+
+## MNEMONICS (Check Islamiat for heading Points)
+- Beneficiaries of ZAKAT: `IMAMRGFF`(IMAM ragaf pronounce)
+- Individual impacts of All IBADAH: `I SSSHADI at GC ORWPP` (Iqbals shadi at garrison cantt of rawalpindi Pakistan)
+- Social impacts of All IBADAH:`TEST in MSC with CR and CI`
+- Moral impacts of All IBADAH:`GD shb HID his L with TARP`
+- Distinctive aspects of Islam:`NAME DSP CUF` (NAME DSP Chaudary Umer Farouq)
+
 ## Main Notes
 ### General
 -	"Give to a beggar even if he comes on a horse." Imam Malik's Muwatta {sadqa}
