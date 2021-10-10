@@ -93,3 +93,52 @@ Battle in yemen between iran and coalition of Saudi Arabia.
 - Other religions were for a specific time while islam is till qayamat.
 - Other religions focused only with the spiritual aspect of humanity such as Morality,beliefs and rituals.While islam encompasses all aspects of human life.
 
+
+
+Deen
+- Individual
+Guidance 
+Soul satisfaction
+comfort and Hope
+-Social 
+Guidance in LSPERM
+Source of Knowledge
+Explains Metaphysical Things
+Power to endure adversity of life
+- Distinctive aspect of Islam
+Complete Code of Life
+Uniqueness of name
+simple and rational
+moderation in world and hereafter
+Not for Specific Time or Nation
+Direct Relation with Allah
+Eternal Message
+Based on Authentic Sources
+Prophesies Fulfilled
+Flexibility
+- Tawheed
+Unity of Allah
+Revolutionary Concept
+Not only Utterance
+Worship
+
+-Impact of Tawheed:
+
+Right and wrong
+Courageous
+Soul Satisfaction
+Hopeful
+Obedient and determined
+Virtuous
+Modesty
+Inculcate self respect and self esteem
+Slavery
+
+- Charateristic of Final Prophethood
+Universal
+Mentioned in previous books
+Ummah unity
+(Ghazali)
+prophesies
+
+- Impact of Beliefs in Prophet
