@@ -2,12 +2,17 @@
 - Default Book: Mastering O Level Islamiat by Muhammad Bilal Aslam
 
 
-## MNEMONICS (Check Islamiat for heading Points)
+## MNEMONICS (Check Islamiat for heading Points and SEERAH)
 - Beneficiaries of ZAKAT: `IMAMRGFF`(IMAM ragaf pronounce)
 - Individual impacts of All IBADAH: `I SSSHADI at GC ORWPP` (Iqbals shadi at garrison cantt of rawalpindi Pakistan)
 - Social impacts of All IBADAH:`TEST in MSC with CR and CI`
 - Moral impacts of All IBADAH:`GD shb HID his L with TARP`
 - Distinctive aspects of Islam:`NAME DSP CUF` (NAME DSP Chaudary Umer Farouq)
+- Peace Maker & Diplomat:`I'M AK from PK taking DP with LAME HAT CHNN`(I'M Akshe Kumar from Pakistan taking DP with LAME HAT CHaN)
+- Educator: `BAAZ raho from NEW VIP`
+- Individual: `F LOG out of CJ SHH account` (Fucking LOG out of Chief Justice Sindh Highcourt Harrapa's account)
+- Rights: `CJ FH PASS TREE`(Chaudary Junaid From Hyderabad PASS TREE)
+- 
 
 ## Main Notes
 ### General
@@ -615,8 +620,8 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 
 ## Concept of Islam(Soft Copy)
 
-1. What is meaning of word islam ?
-2. Concepth of islam with respect to other religions ?
+1. Concepth of islam with respect to other religions ?
+2. What is meaning of word islam ?
 3. For whom islam has come with respect to other religions ?
 4. What did maulana maududi say regarding ISlam in non living matter ?
 5. What is kufr in islam ? Why is Kufr a form of ignorance and tyranny ?
@@ -690,7 +695,6 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
        1. Necessicity for final Prophet ?
        2. Charateristic of Final Prophethood ?
     5. Why Muhammah PBUH is the last messanger ?
-    6. Impact of Beliefs in Prophets ?
 
 5. Belief in Gods Angels ?
    1. Why is it important ?
@@ -727,8 +731,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
    2. Meaning of Abd and Ibadah ?
    3. Meaning of Ibadah in Fiqh ?
    4. Purpose of Ibadah ?
-      1. Huqool ul Ibad
-      2. Huqool ul Allah
+      1. Huqool ul Allah
    5. Islamic Concept of Ibadah ?
       1. Rituals,Action,Experience (Self Deniance),THoughts ?
       2. Primary Ibadah ?
@@ -867,13 +870,13 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 1. Islam is a Message of Peace
 2. Establishment of Pluraristic society(Constitution of Madinah)
 3. Ensuring Peace and Avoiding Confrontation(Escaped Sahabi after treaty of hudabiya)
-4. Treaty and Agreements
+4. Treaty and Agreements 
 5. Friendly Ties with Neighbour State
 6. Promoted the culture of Diplomatic Immunity (Muslima Ambassador)
 7. Fixation of Black Stone
 8. Religious Freedom(Taif)
 9. Taif Example( No retaliation Aganist agressors)
-10. Prohibited Killing Without Justification
+10. Prohibited Killing Without Justification (kill all humanity saying)
 11. Conquest of Makkah
 12. Ending Long Lasting Hostility between Aws and Kharaj Made 
 
@@ -887,17 +890,16 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 7. Prisoner of war release condition badr
 8. Taught through action (abloution)
 9. use of visualization for teaching(jabir waqiya)
-10. Repeated things ()
 11. Made learners writes 
 12. Rewarded and appreciated positive behaviours (Ibn abbas)
 
 ## As an Individual
 1. Obedience of Allah
 2. Love for Allah
-3. Generosity
-4. Courtesy
-5. Sadiq and Ameen
-6. Hall mark of Justice
+3. Generosity 
+4. Courtesy (usman)
+5. Sadiq and Ameen 
+6. Hall mark of Justice (fatima)
 7. Loving Father (Ans abi malik)
-8. Best Husband
-9. Hardworking 
+8. Best Husband ()
+9. Hardworking (Khandak)
