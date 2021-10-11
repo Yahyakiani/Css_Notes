@@ -537,7 +537,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 5. Encourage questions ()
 6. Analogical teaching ( Namaz, Neher)
 7. Prisoner of war release condition badr
-8. Taught through action (abloution)
+8. Taught through action (abolution)
 9. use of visualization for teaching(jabir waqiya)
 11. Made learners writes 
 12. Rewarded and appreciated positive behaviours (Ibn abbas)
@@ -552,6 +552,15 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 7. Loving Father (Ans abi malik)
 8. Best Husband ()
 9. Hardworking (Khandak)
+    
+
+## Tolerance & Forgiveness
+1. Habshi story
+2. Taif incident
+3. Conquest of Makkah
+4. Hamza acceptance of Islam
+5. Banu Hamhim incident(Shibe abi talib)
+6. Khandak 2 Pathar
 
 
 ## Salient Features of Islamic System
@@ -564,26 +573,25 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 4. Catogeries of Maroofat ?
 5. What are recommended,Mandatory and Permissibly define ?
 6. Mandab , Mubah ?
-7. Types of Munkarat ?
+7. Types of Munkarat ? (waste waster Wuzu = Makrooh,Garlic Makrooh,Gossip Makrooh)
 8. Example of Makruh ?
-9. Why systems were was created in islam ?
 
 #### Social System
 1. Concept of equality of mankind (Ummah ?)
-2. Institution of Family (Also compare with west family disintergration)
-   1. How islam protects society through purdah ?
+2. Institution of Family (Also compare with west family disintergration,Divorce rate,Single motherhood,High mental disorder)
+   1. How islam protects society through purdah ?(celibacy bad)
    2. how islam makes marriage easier ?
    3. Contemporary state of marriage ? Harder ?
    4. Head of the House hold 
    5. Basic Conditions for seperation ?
 3. Relatives
-   1. What does islam say on treatment of close relations ?
+   1. What does islam say on treatment of close relations ?(3 day non talk, Breaking relation Bad)
    2. Near relations in Arabic ?
-   3. Islams stance on favouring on Relationships ?
+   3. Islams stance on favouring on Relationships ? (Fatima Example)
 4. Neighbours
    1. Catogeries of Neighbours ?
    2. How to treat them ?
-   3. Prophet on rights of neighbour ?
+   3. Prophet on rights of neighbour ?`He is not a believer whose stomach is filled while the neighbor to his side goes hungry` - al abbas
 5. Quranic Injunctions
    1. tyrant
    2. Cooperate
@@ -599,27 +607,27 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 2. Fundamental Concept of Political System  ?
 3. 2nd concept.(Risalat ) ?
 4. 3rd concept . Islam in divine right(Khilafat)?
-5. concept of Political sys in west ? 
-6. Compare between Islam and Clerical West rule ?
-7. How to best describe islamic political system ?
-8. How is islamic system like democracy ?
+5. concept of Political sys in west ? (Cannabis in USA,Right of rule to ppl,Secularism)
+6. Popular soverignity what problem ?(Cannabis)
+7. Compare between Islam and Clerical West rule ?
+8. How to best describe islamic political system ?
+9. How is islamic system like democracy ?
    1. No class divison
    2. No divine right to rule
    3. No dictatorship
    4. Rule of Law
    5. Shurah Institution
    6. Ideological state
-   7. Union of Capitalism-communism (zakat)
+   7. Union of Capitalism-communism (zakat,monopolization)
    8. Independent Judiciary
-9.  Why is there limited popular soverignity ?
-10. Unique system of Citizenship in islam
-11. Structure of government
+11. Unique system of Citizenship in islam
+12. Structure of government
     1.  Executive  (Amir)
         1.  Basic qualification of Amir
         2.  Obligation of AMir
     2. Legislature (Shura). Purpose ,Elect by whom
        1. What should legistions be like ?
-    1. Judicary
+    3. Judicary
        1. Power from Who? Answerable to whom ?
        2. Jurisdiction of court ?
 
@@ -637,25 +645,87 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 10. Hoarding
 11. Social Welfare(Bait ul Maal)
 
-- Comparison between Capitalism, COmmunism and Islamic System
+- Comparison between Capitalism, Communism and Islamic System
 
 
 - Goals of Islamic System ?
-1. Begging, Immoral Activities(Sex,Prostitution),Brother Hood, Justice,Circulation wealth
+1. Begging, Immoral Activities(Sex,Prostitution),Brother Hood, Justice,Circulation wealth,welfare society
    
 - Economic Resources in a System
-  1. Zakat,Jizya,Fay, Khums, Kharaj,Asher(10%)
+  1. Zakat,Jizya,Fay(Booty), Kharaj(Agriculture),Asher(10%)
   2. Who put Asher ?
 
 - Can Islamic State put Taxes ?
 
 - Riba/usury
   1. Literal means ?
-  2. Sharia says ?
+  2. Sharia says ? (Battle against Allah)
   3. Why riba considered bad ? uneven risk
 - System against Riba
   1. Mudarba ? Musharaka ?
   2. AL rayan Bank
 
 #### Judicial System
+1. Need of Judicial System ?
+2. Remedial Justice ?Upon whom ? (Greek)
+3. Natural Justice ? Upon whom ? (Roman)
+4. Anglo-Saxon (Formal Justice)
+5. Core goal of Islamic Justicial system ? (sent prophets to establish adal)
+6. Who establishes judicial system  in islamic system ?
+7. Characteristics of Judicial System
+   1. Proportional Punishment
+   2. Self defence is no offense
+   3. Innocent until proven guilty
+   4. Right to fair trial
+   5. timely dispensation justice
+   6. Rule of Law
+   7. Justice with fairness
+      1. Types of Justice (According to Isphahani)
+   8. Impartiality
+   9.  Judicial Autonomy
+   10. Competent Judge
+       1.  Qualifications: Muslim,Sane and Adult,Free citizen,Good Character ?,well versed in islamic law
+8. Best law givers Prophet said US Supreme Court.
+
+
+## Islamic Civilization  (From Shanza)
+
+1. Civilization means ?
+2. Meaning of Islamic Civilization ?
+3. Civilization is an Advanced state of a Society .
+4. Characteristics of Civilization
+   1. Means of Subsistence
+   2. Settlement Pattern
+   3. Form of Government 
+   4. Social Stratefication
+   5. Economic System
+5. Meaning,Definition and Characteristics of a Culture
+   1. What is Culture ?
+   2. Characteristic
+      1. Social Construct
+      2. Learned
+      3. Dynamic
+      4. Shared
+6. Islamic Civilization
+   1. Laid Foundation by the Prophet( Cairo,bagdad,Abbasids)
+   2. Salient Features
+      1. Tawheed
+      2. Universal Dimension
+      3. Open and Pluraristic
+      4. Balanced
+      5. Eternal
+      6. Complete Code of Life
+      7. Progressive and Flexibly
+      8. Equality and Brotherhood
+      9. Self Purification
+      10. Dignity of Man
+   
+
+### Clash of Civilizations
+1. WHo coined this Idea ? Samuel Huntington
+2. Francis Fukuyama says ?
+3. how does huntington theory evolve ?
+4. Causes of Clash according Huntington
+5. Flaw in theory of Huntington
+
 
