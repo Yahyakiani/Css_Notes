@@ -105,7 +105,8 @@ Abstention from lying
 Discipline and Self Control
 Hidden Ibadat
 Self scrutiny
-Infuses spirit of Jihad immunity from hypocriscy
+Infuses spirit of Jihad 
+immunity from hypocriscy
 Distinctive reward
 Right and wrong
 Courageous

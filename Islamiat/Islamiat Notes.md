@@ -5,14 +5,15 @@
 ## MNEMONICS (Check Islamiat for heading Points and SEERAH)
 - Beneficiaries of ZAKAT: `IMAMRGFF`(IMAM ragaf pronounce)
 - Individual impacts of All IBADAH: `I SSSHADI at GC ORWPP` (Iqbals shadi at garrison cantt of rawalpindi Pakistan)
-- Social impacts of All IBADAH:`TEST in MSC with CR and CI`
-- Moral impacts of All IBADAH:`GD shb HID his L with TARP`
+- Social impacts of All IBADAH:`TEST in MSC with [CR] and [CI]`
+- Moral impacts of All IBADAH:`GD shb HID his C L with TARP`(GD shb HID his Choti L with TARP)
 - Distinctive aspects of Islam:`NAME DSP CUF` (NAME DSP Chaudary Umer Farouq)
-- Peace Maker & Diplomat:`I'M AK from PK taking DP with LAME HAT CHNN`(I'M Akshe Kumar from Pakistan taking DP with LAME HAT CHaN)
+- Peace Maker & Diplomat:`I'M [AK] from [PK] taking DP with LAME HAT CHN`(I'M Akshe Kumar from Pakistan taking DP with LAME HAT CHaN)
 - Educator: `BAAZ raho from NEW VIP`
-- Individual: `F LOG out of CJ SHH account` (Fucking LOG out of Chief Justice Sindh Highcourt Harrapa's account)
-- Rights: `CJ FH PASS TREE`(Chaudary Junaid From Hyderabad PASS TREE)
-- 
+- Seerat Individual: `F LOG out of CJ SHH account` (Fucking LOG out of Chief Justice Sindh Highcourt Harrapa's account)
+- Human Rights: `CJ FH PASS TREE`(Chaudary Junaid From Hyderabad PASS TREE)
+- Judicial System: `SJC ka IT dept RIP`(Supreme Judicial Council ka IT dept Rest In Peace)
+- Economic System: `SJ F M H Z HOPE` ( Shahrukh's Fucking Money Hurt Zahra,s HOPE)
 
 ## Main Notes
 
@@ -495,52 +496,46 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 1. Seerah roots and What it means ?
 2. Difference in Seerah and Sunna ?
 
-### As a Diplomat 
+### As a Diplomat and Peace Maker
 1. Breaching of Treaties (Hilf-ul-Fudul)
-2. Fixation of Asward Stone
-3. Migration to Abyssinia(Diplomatic Thinking)
-4. Jourey to Taif(Propogation) 
-5. Al Aqaba Pledges
-6. Constitution of Madina 
-7. Treaty of Hudabiya
-8. King Letters
-9. Hospitality Point(Dar ul zefan )
-10. Delegation of Najran
+2. Islam is a Message of Peace
+3. Fixation of Asward Stone
+4. Migration to Abyssinia(Diplomatic Thinking)
+5. Jourey to Taif(Propogation) 
+6. Al Aqaba Pledges
+7. Constitution of Madina 
+8. Treaty of Hudabiya
+9.  King Letters
+10. Hospitality Point(Dar ul zefan )
 11. Escaped Sahabi after treaty of hudabiya
-12. Role Model for Modern Diplomacy
-13. Treaty of Najran(Treatment of Non muslims in Islamic state)
-14. Muslima Ambassador
-    
+12. Treaty of Najran: Friendly Ties with Neighbour State
+13. Prohibited Killing Without Justification (kill all humanity saying)
+14. Conquest of Makkah
+15. Ending Long Lasting Hostility between Aws and Kharaj Made
+16. Treaty of Najran(Treatment of Non muslims in Islamic state)
+17. Muslima Ambassador
+- Role Model for Modern Diplomacy
+
 ### As a Military Strategist 
 1. Objective of Warfare altered 
 2. Economic Blockade ( Makkah Caravan )
 
 ### As a Peace Maker
-1. Islam is a Message of Peace
-2. Establishment of Pluraristic society(Constitution of Madinah)
-3. Ensuring Peace and Avoiding Confrontation(Escaped Sahabi after treaty of hudabiya)
-4. Treaty and Agreements 
-5. Friendly Ties with Neighbour State
-6. Promoted the culture of Diplomatic Immunity (Muslima Ambassador)
-7. Fixation of Black Stone
-8. Religious Freedom(Taif)
-9. Taif Example( No retaliation Aganist agressors)
-10. Prohibited Killing Without Justification (kill all humanity saying)
-11. Conquest of Makkah
-12. Ending Long Lasting Hostility between Aws and Kharaj Made 
+ 
+ 
 
 ## As a Educator
-1. Concept of Education in Islam( From Birth to death , Every man women should acquire,)
-2. First islamic University (Ashabe Sufa)
-3. Study of foreign Language ( Zaid bin sabit )
-4. Way of Teaching(speed of speech, pitch high low for flow,use of gestures,example and references)
-5. Encourage questions ()
-6. Analogical teaching ( Namaz, Neher)
-7. Prisoner of war release condition badr
-8. Taught through action (abolution)
-9. use of visualization for teaching(jabir waqiya)
-11. Made learners writes 
-12. Rewarded and appreciated positive behaviours (Ibn abbas)
+1. Concept of Education in Islam( From Birth to death , Every man women should acquire,) (E)
+2. First islamic University (Ashabe Sufa) (A)
+3. Study of foreign Language ( Zaid bin sabit ) (Z)
+4. Pattern of Teaching(speed of speech, pitch high low for flow,use of gestures,example and references) (P)
+5. Encourage questions () (Q)
+6. Analogical teaching ( Namaz, Neher) (A)
+7. Prisoner of war release condition badr (B)
+8. Taught through action (abolution) (T)
+9. use of visualization for teaching(jabir waqiya) (V)
+10. Made learners writes (W)
+11. Rewarded and appreciated positive behaviours (Ibn abbas) (I)
 
 ## As an Individual
 1. Obedience of Allah
@@ -640,10 +635,9 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 5. Distinction between halal and haram
 6. Equity not Equality
 7. Principle of Moderation in Materialism
-8. Principle of Justice
+8. Principle of Justice (Milawat,Monopoly)
 9. Economic Freedom
 10. Hoarding
-11. Social Welfare(Bait ul Maal)
 
 - Comparison between Capitalism, Communism and Islamic System
 
@@ -652,7 +646,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 1. Begging, Immoral Activities(Sex,Prostitution),Brother Hood, Justice,Circulation wealth,welfare society
    
 - Economic Resources in a System
-  1. Zakat,Jizya,Fay(Booty), Kharaj(Agriculture),Asher(10%)
+  1. Zakat,Jizya,Fai (Tribute), Kharaj(Agriculture),Ushr(10% of Irrigated land tax,Mechandise)
   2. Who put Asher ?
 
 - Can Islamic State put Taxes ?
@@ -662,8 +656,8 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
   2. Sharia says ? (Battle against Allah)
   3. Why riba considered bad ? uneven risk
 - System against Riba
-  1. Mudarba ? Musharaka ?
-  2. AL rayan Bank
+  1. Mudarba ? Musharaka ? Ijara ? (Shariah compliant Bonds and Insurance (Sakuk and Takaful))
+  2. AL rayan Bank 
 
 #### Judicial System
 1. Need of Judicial System ?
@@ -679,11 +673,10 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
    4. Right to fair trial
    5. timely dispensation justice
    6. Rule of Law
-   7. Justice with fairness
       1. Types of Justice (According to Isphahani)
-   8. Impartiality
-   9.  Judicial Autonomy
-   10. Competent Judge
+   7. Impartiality
+   8.  Judicial Autonomy
+   9.  Competent Judge
        1.  Qualifications: Muslim,Sane and Adult,Free citizen,Good Character ?,well versed in islamic law
 8. Best law givers Prophet said US Supreme Court.
 
@@ -720,12 +713,154 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
       9. Self Purification
       10. Dignity of Man
    
+## Public Administration (Hard Copy)
+1. Concept of Public Administration (Amanah-Authority)
+   1. Role of Caliph ()
+2. Characteristics
+   1. Administration on Justice
+   2. Transparency 
+   3. Equity/Fairness
+   4. Accountability
+   5. Rule of Law
+   6. Public Welfare
+   7. Accessable and Approachable Administration
+   8. Freedom of Expression
+3. Administration under Pious Caliph
+   1. Structure of Executive
+      1. State under caliph
+      2. Province under governor
+      3. District under amil
+      4. Gather in hajj and Accountability
+   2. Revolutionary concept Bait ul Mal
+   3. Establish Courts
+   4. Police Department
+   5. Irrigation Canals
+   6. Census of Population
+   7. Divide conquered land into provinces
+   8. Hijri Calendar start
+   9. Created a standard of Measures
+4. Letters of Hazrat Umer
+   1. How many letters ?
+   2. Letter to Abu Musa Al ashari ? Governor of Kufe ? Basis of Letter ?(Guidelines for judiciary)
+      1. Burden on Proof on whom ?
+      2. Perceptive and Judicious
+      3. Qualification of Witness
+         1. Non Adulturous
+         2. Not fake testing
+         3. Conflict of Interest
+         4. Not Rash/Calm
+      4. How umer selected Judges ?
+   3. Letter to Abu ubaidah Ibn Jarah
+      1. Damacus and Wine Incident 
+   4. Utbah bin Khazwan ( Iraq Governor)
+      1. Protect non muslims,fulfill responsibility,its is imposed by Allah,keep it.
+5. Letters of Hazrat Ali
+   1. Malik al ashtar (Egypt-Advisory letter)
+      1. Good deeds greatest treause, Public treat kindly, Do not transgress
+      2. Strenght of state ?
+      3. Importance of Good council and how to choose them
+      4. Guidance from who ? 
+      5. Nepotism ?
+      6. what shortens life of the state
+   2. Letter to Abdullah bin Al abbas (Basra Governor)
+      1. Not Pleased or Grieved over what ?
+      2. Worry about what ?
+      3. What should please and grief for ?
+   3. Letter of one of his officers on complain of Majoosi
+6. Accountability
+   1. Concept of Accountability
+   2. Types of Accountability
+      1. Self Accountability
+      2. Accountability of the administration
+      3. Abu Bakr (After made caliph)
+      4. Civil Servants
+         1. Qualities/Duties of Civil Servants 
+            1. Avoid problems cause public service crisis
+            2. Competent
+            3. Fairness
+            4. Truthful
+            5. Abstain from miss appropriation
+            6. Avoid Favouritism
+            7. Promote Merit
+            8. Fair use state resources
 
+      
 ### Clash of Civilizations
 1. WHo coined this Idea ? Samuel Huntington
 2. Francis Fukuyama says ?
 3. how does huntington theory evolve ?
 4. Causes of Clash according Huntington
 5. Flaw in theory of Huntington
+
+### Concept and Structure of Muslim Ummah and Suggestion for Revival
+1. Concept of Ummah (Universal)  (62 times mention in quran- Encyclopedia of Islam)
+2. West concept of Nation based on ?
+3. Meaning of Ummah
+4. Formation of Ummah
+   1. Purpose ?(WHat Allah says) (Surah Al imran- Best Nation)
+   2. Arab before ummah
+   3. classes in Arabs(Arbai Ajmi Hadees)
+   4. Prophet left nation
+   5. Expansion of Ummah
+5. Characteristics of Muslim Ummah( Use Aspect MNEMONIC where possible)
+   1. Unique concept of Nation
+   2. Islam does not deny patriotism
+   3. What does montgomery watt say about islam ?
+   4. Combination of Different ppls
+6. Threats to Ummah
+   1. Ideological Conflict with the West
+   2. Islamophobia 
+   3. Sectarianism
+   4. Extremeism
+   5. Acculturation
+   6. Ignorant to the needs of the Modern World
+7. Revival of Ummah
+   1. Political Emancipation,Economic Progress,Education
+   2. Rejection of Western culture
+   3. OIC,Islamic Chamber of Commerce and Industry
+8. Pakistan efforts
+   1. Yemen Issue,Kuala Lumpur Summit,Palestine Cause,Uyghur Cause
+   
+### Islamic Concept of Peace in Light of Quran and Sunnah
+1. Concept of Islam (Syed Amir ali,Maududi,Ghazali)
+2. Peace in Ayyat
+3. Peace in Ahadith
+4. Manifestation of Peace in the Form of Sunnah
+
+### Jihad (Chugtai-186)
+1. Intoduction 
+   1. Meaning
+   2. Does not mean holy war
+   3. What is qital ?
+   4. compare with crusade
+   5. jihad/9-11
+   6. Sometimes 6th pillar
+   7. Different views on Jihad modern world
+      1. Just war,Struggle for the expansion of Islam (Islamic Modernist-Islamic Revivalist)
+   8. (Self ,State level jihad)
+2. Modern understanding of Jihad
+   1. dr fazlur rehman on jihad
+   2. Mehmood ayub (Harmony)
+3. Muslim Public Opinion of Jihad
+   1. Different connotations in Muslim ummah
+4. Types of Jihad
+   1. Jihad Al Asgar 
+   2. Jihad Al akbar
+   3. Greater jihad reference (Jabir bin Abdullah)
+5. Misconception regarding Jihad 
+   1. Confuse Qital in Islam( Tabook Example)
+   2. Farzae kifaya 
+   3. Muslim Monarchs Misconception
+6. Objectives of Holy war in islam (Molana Safih ur rehman mubarik puri-Seerah writer)
+   1. Fight againsts aggression (Transgression ayat-Bakarh)
+   2. Assist the oppressed even in non islamic land (not fight in the cause of Allah and of those who being weak are ill treated,nisah)
+   3. To eradicate Mischief and Fitna (Figt them on until no more mischief and the religion become Allah's-bakarah)
+   4. To eliminate cruelty (Prophet on stopping cruelty with hand mouth and heart)
+   5. To remove hindrances in the way of islam
+7. Principles of war in Islam
+   1. rights of war
+8. Modern day militancy and jihad
+9. 
+
 
 
