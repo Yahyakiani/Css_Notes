@@ -629,15 +629,16 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 #### Economic System
 - Basic Features
 1. `Prohibition of Interest`
-2. `Zakat and Sadaqat`
+2. `Zakat and Sadaqat` (Concentration of Weath)
 3. Concept of Sustenance in islam ?
-4. Allah ownership 
-5. Distinction between halal and haram
+4. Allah ownership (Communision,capitalism,islam)
+5. Distinction between halal and haram (Deceptive Marketing)
 6. Equity not Equality
 7. Principle of Moderation in Materialism
 8. Principle of Justice (Milawat,Monopoly)
 9. Economic Freedom
 10. Hoarding
+11. Concept of Social Welfare (Bait ul Maal)
 
 - Comparison between Capitalism, Communism and Islamic System
 
@@ -866,4 +867,14 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 9. 
 
 
+## Questions
+
+1. Define Tauheed ? What is its impact on individual Life and Society ?
+- Introduction (Bedrock,revolutionary)
+- Meaning of Tawheed
+- Types of Tawheed
+- Importance in Quran and Sunnah(Ikhlas and Fatih)
+- Impacts
+  - Individual
+  - Social
 

@@ -99,32 +99,33 @@ LSPERM
 Deen
 - Individual
 Guidance 
-Soul satisfaction
+Soul satisfaction (In remembrance of Allah hearts find rest:(Surah Ar-rad))
 comfort and Hope
-Abstention from lying
-Discipline and Self Control
+Abstention from Sin()
+Discipline and Self Control (Fasting is Prescribed to you as it was prescribed to those before you so you may learn self restraint)
 Hidden Ibadat
-Self scrutiny
+Self scrutiny(Akhirat Khauf)
 Infuses spirit of Jihad 
 immunity from hypocriscy
-Distinctive reward
+Distinctive reward (Saum: )
 Right and wrong
 Courageous
 Obedient and determined
 Virtuous
-Inculcate self respect and self esteem
-Slavery Iqbal
-Physical Cleanliness 
-Punctuality
-
--Social 
-Source of Knowledge
+Inculcate self respect and self esteemv(Allah gives so he does not bow before anyone else)
+Slavery Iqbal (Freedom for slavery other dieties,ppl)
+Physical Cleanliness (He loves those who keep themselves pure and clean: Surah bakarah)
+Punctuality (Pray is obligatory for the believers at the prescribed times: Surah Nisah)
 Explains Metaphysical Things
 Power to endure adversities of life
+
+-Social 
+Mutual Cooperation (Ummah)
 Tolerance
 Establishes social control
 Rule of Law
-Mutual Care and respect
+Equality (Arbi and Ajmi)
+Mutual Care and respect (The best of deeds is prayer at proper time and kindess to the parents:Sahih Muslim)
 Taraweh(social congregation)
 Cultural Interaction(Hajj)
 

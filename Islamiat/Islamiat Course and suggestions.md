@@ -90,3 +90,7 @@ Default: Understanding Psychology by Feldman
 - ![alt text](images/rev.PNG)
 - Islamic Law must be expressed in precise and accurate wording. No ambiguity.
 - ![alt text](images/must.PNG)
+
+
+(Economic,Tawheed,Hajj,Prophet of Peace and Safety)
+Islamic economic financial 
