@@ -9,11 +9,11 @@
 - Moral impacts of All IBADAH:`GD shb HID his C L with TARP`(GD shb HID his Choti L with TARP)
 - Distinctive aspects of Islam:`NAME DSP CUF` (NAME DSP Chaudary Umer Farouq)
 - Peace Maker & Diplomat:`I'M [AK] from [PK] taking DP with LAME HAT CHN`(I'M Akshe Kumar from Pakistan taking DP with LAME HAT CHaN)
-- Educator: `BAAZ raho from NEW VIP`
+- Educator: `QA of ZAB W PTV at EI`(Q/A of Zulfiqar Ali Bhutto With PTV at E-sector Islamabad)
 - Seerat Individual: `F LOG out of CJ SHH account` (Fucking LOG out of Chief Justice Sindh Highcourt Harrapa's account)
 - Human Rights: `CJ FH PASS TREE`(Chaudary Junaid From Hyderabad PASS TREE)
 - Judicial System: `SJC ka IT dept RIP`(Supreme Judicial Council ka IT dept Rest In Peace)
-- Economic System: `SJ F M H Z HOPE` ( Shahrukh's Fucking Money Hurt Zahra,s HOPE)
+- Economic System: `SJ F M H Z HOPE` ( Shahrukh Jatoi's Fucking Money Hurt Zahra,s HOPE)
 
 ## Main Notes
 
@@ -471,7 +471,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 16.  Ahadiths & Ayats
 ---
 
-## Human Rights
+## Human Rights (Hard Notes)
 1. Define Human Rights ?
 2. Difference between western and islamic Human rights ?
 3. Basic human rights are for whom ? What are they ?(MNEMONIC)
@@ -529,23 +529,23 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 2. First islamic University (Ashabe Sufa) (A)
 3. Study of foreign Language ( Zaid bin sabit ) (Z)
 4. Pattern of Teaching(speed of speech, pitch high low for flow,use of gestures,example and references) (P)
-5. Encourage questions () (Q)
+5. Encourage questions () (Q) (Purdah ahtamam ayat)
 6. Analogical teaching ( Namaz, Neher) (A)
 7. Prisoner of war release condition badr (B)
 8. Taught through action (abolution) (T)
 9. use of visualization for teaching(jabir waqiya) (V)
-10. Made learners writes (W)
+10. Made learners writes (W) (Wahi into writing)
 11. Rewarded and appreciated positive behaviours (Ibn abbas) (I)
 
 ## As an Individual
-1. Obedience of Allah
-2. Love for Allah
-3. Generosity 
+1. Obedience of Allah (Namaz Feet swollen, Ayesha Check)
+2. Love for Allah (Prophet spent all life in obedience, Muhammad does not utter anything himself)
+3. Generosity (Faqeer Date,)
 4. Courtesy (usman)
 5. Sadiq and Ameen 
 6. Hall mark of Justice (fatima)
 7. Loving Father (Ans abi malik)
-8. Best Husband ()
+8. Best Husband (equality among wives)
 9. Hardworking (Khandak)
     
 
@@ -715,7 +715,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
    
 ## Public Administration (Hard Copy)
 1. Concept of Public Administration (Amanah-Authority)
-   1. Role of Caliph ()
+   1. Role of Caliph (Abu bakr examples)
 2. Characteristics
    1. Administration on Justice
    2. Transparency 
@@ -744,12 +744,12 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
    2. Letter to Abu Musa Al ashari ? Governor of Kufe ? Basis of Letter ?(Guidelines for judiciary)
       1. Burden on Proof on whom ?
       2. Perceptive and Judicious
-      3. Qualification of Witness
+      3. Not Rash/Calm
+      4. How umer selected Judges ?
+      5. Qualification of Witness
          1. Non Adulturous
          2. Not fake testing
          3. Conflict of Interest
-         4. Not Rash/Calm
-      4. How umer selected Judges ?
    3. Letter to Abu ubaidah Ibn Jarah
       1. Damacus and Wine Incident 
    4. Utbah bin Khazwan ( Iraq Governor)
@@ -761,14 +761,17 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
       3. Importance of Good council and how to choose them
       4. Guidance from who ? 
       5. Nepotism ?
-      6. what shortens life of the state
+      6. Who to make Chief Judges ?
+      7. why treat soldier good ?
+      8. uncertain what to what ?
+      9. what shortens life of the state ?
    2. Letter to Abdullah bin Al abbas (Basra Governor)
       1. Not Pleased or Grieved over what ?
       2. Worry about what ?
       3. What should please and grief for ?
    3. Letter of one of his officers on complain of Majoosi
 6. Accountability
-   1. Concept of Accountability
+   1. Concept of Accountability ( Stable Society)
    2. Types of Accountability
       1. Self Accountability
       2. Accountability of the administration
