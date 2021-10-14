@@ -600,55 +600,71 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 2. Islamic Concept of Morality (GD sahab)
 
 #### Political System
-1. What was confusion with political system of islam ?
-2. Fundamental Concept of Political System  ?
-3. 2nd concept.(Risalat ) ?
-4. 3rd concept . Islam in divine right(Khilafat)?
+1. Fundamental Concept of Political System ? ()
+   1. Christianity seperates religion from Politics While islam does not.()
+      1. " "Render unto Caesar the things that are Caesar's, and unto God the things that are God's":synoptic gospel
+      2. Christian kings say divine right to rule
+   2. concept . Islam in no divine right(Khilafat)It is viceregency
+2. Fundamental Principles of Islamic Political System
+   1. No person,group or class can lay claim to sovereignity of the world
+   2. Allah is the Law giver and ultimate authority rests with him
+   3. An islam state must in all respects be found on the laws given by Allah through his prophets.
+3. Basic Charateristics of Islamic Political system/ Duties and Responsibilites of an Islamic State
+   1. Use(MNEMONICs)
+   2. 
+
+4. What is confusion with political system of islam ? (Theocracy/Democracy)
 5. concept of Political sys in west ? (Cannabis in USA,Right of rule to ppl,Secularism)
-6. Popular soverignity what problem ?(Cannabis)
-7. Compare between Islam and Clerical West rule ?
-8. How to best describe islamic political system ?
-9. How is islamic system like democracy ?
+   1. Popular soverignity what problem ?(Cannabis)
+6. Compare between Islam and Clerical West rule ?
+7.  Unique system of Citizenship in islam (Non geographical But ideological)
+8.  Structure of government
+    1. Executive  (Amir)
+        1. Basic qualification of Amir
+        2. Obligation of AMir
+    2. Legislature (Shura). Purpose ,Elect by whom
+       1. What should legistions be like ? 
+    3. Judicary
+       1. Power from Who? Answerable to whom ?
+       2. Jurisdiction of court ?
+ 
+9.  How is islamic system like democracy ?
    1. No class divison
    2. No divine right to rule
    3. No dictatorship
    4. Rule of Law
    5. Shurah Institution
    6. Ideological state
-   7. Union of Capitalism-communism (zakat,monopolization)
-   8. Independent Judiciary
-11. Unique system of Citizenship in islam
-12. Structure of government
-    1.  Executive  (Amir)
-        1.  Basic qualification of Amir
-        2.  Obligation of AMir
-    2. Legislature (Shura). Purpose ,Elect by whom
-       1. What should legistions be like ?
-    3. Judicary
-       1. Power from Who? Answerable to whom ?
-       2. Jurisdiction of court ?
+   7.  Union of Capitalism-communism (zakat,monopolization)
+   8.  Independent Judiciary
 
 #### Economic System
+- Introduction
+  - (Different types of systems in the world)Communism,Capitalism 
+  - Islam provides a distinct feature.Middle way 
+- Purpose of Economic System  in Islam
+  - Establish a Social welfare state
+  - Goals of Islamic System ?
+    - Begging, Immoral Activities(Sex,Prostitution),Brother Hood, Justice,Circulation wealth,welfare     society
 - Basic Features
 1. `Prohibition of Interest`
 2. `Zakat and Sadaqat` (Concentration of Weath)
 3. Concept of Sustenance in islam ?
 4. Allah ownership (Communision,capitalism,islam)
 5. Distinction between halal and haram (Deceptive Marketing)
-6. Equity not Equality
-7. Principle of Moderation in Materialism
+6. Equity not Equality (Limit Economic Inequality not to much)
+7. Principle of Moderation in Materialism(Asceticism,Materialism)
 8. Principle of Justice (Milawat,Monopoly)
-9. Economic Freedom
-10. Hoarding
+9. Economic Freedom(Do what ever you want in confines of law)
+10. Hoarding ()
 11. Concept of Social Welfare (Bait ul Maal)
 
 - Comparison between Capitalism, Communism and Islamic System
 
 
-- Goals of Islamic System ?
-1. Begging, Immoral Activities(Sex,Prostitution),Brother Hood, Justice,Circulation wealth,welfare society
+
    
-- Economic Resources in a System
+- Economic Resources in a Islamic System
   1. Zakat,Jizya,Fai (Tribute), Kharaj(Agriculture),Ushr(10% of Irrigated land tax,Mechandise)
   2. Who put Asher ?
 
@@ -658,18 +674,23 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
   1. Literal means ?
   2. Sharia says ? (Battle against Allah)
   3. Why riba considered bad ? uneven risk
-- System against Riba
+   
+- Alternative System against Riba
   1. Mudarba ? Musharaka ? Ijara ? (Shariah compliant Bonds and Insurance (Sakuk and Takaful))
   2. AL rayan Bank 
 
 #### Judicial System
-1. Need of Judicial System ?
-2. Remedial Justice ?Upon whom ? (Greek)
-3. Natural Justice ? Upon whom ? (Roman)
-4. Anglo-Saxon (Formal Justice)
-5. Core goal of Islamic Justicial system ? (sent prophets to establish adal)
-6. Who establishes judicial system  in islamic system ?
-7. Characteristics of Judicial System
+
+1. Introduction
+   1. Remedial Justice ?Upon whom ? (Greek)
+   2. Natural Justice ? Upon whom ? (Roman)
+   3. Anglo-Saxon (Formal Justice)
+2. Need of Judicial System ? ( To maintain order, stop law of jungle)
+3. Core goal of Islamic Justicial system ? (sent prophets to establish adal)
+4. Importance of Justice in quran and Sunnah
+   1. Had Fatima daughter of Mohammad committed theft, I would have cut her hands off (Bukhari)
+   2. Do no conceal testimony and whosoever conceals it,surely his heart is sinful (Baqarah)
+5. Characteristics of Judicial System
    1. Proportional Punishment
    2. Self defence is no offense
    3. Innocent until proven guilty
@@ -678,10 +699,10 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
    6. Rule of Law
       1. Types of Justice (According to Isphahani)
    7. Impartiality
-   8.  Judicial Autonomy
+   8.  Judicial Autonomy/Seperation of Judicary from Executive
    9.  Competent Judge
        1.  Qualifications: Muslim,Sane and Adult,Free citizen,Good Character ?,well versed in islamic law
-8. Best law givers Prophet said US Supreme Court.
+6. Best law givers Prophet said US Supreme Court.
 
 
 ## Islamic Civilization  (From Shanza)
@@ -924,4 +945,90 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
       3. Jews and Makkan union broken.Muslim focus on jews only
       4. Creation of conducive enviroment since peace (Delegation,Letter sent)
       5. Clear victory ayat for sad muslims  
+
+
+
+## Major Battles in Islam
+
+### Battles with Quraysh
+
+1. **Battle of Badr**
+   1. Causes : (Threat to Makkan Economy,Abu sufyan Caravan incident,Revelation of Jihad)
+   ![alt text](images/musl.PNG)
+   1. Muslim Advantages: Allah With, Water spot,Sun behind back,High morale
+   2. Casualties: 13 Muslims,(70 Non Mus)
+   3. PrisonerS: 70 Non Mus( Such as Abbas)
+   4. Treatment of Prisoners
+      1. Ransom self if afford
+      2. Too poor for ransom.Free anyway
+      3. who read and write.Teach a number of boys girls and free
+      4. Treated Kindly
+   5. Effects:
+      1. Victory of Good over evil: Supermacy of islam
+      2. Consolidation of Islam
+      3. Decimation of Quraysh Leadership
+2. **Battle of UHD**
+   1. Causes: Revenge cause of Badr,Qureysh caravan Captured by Muslims,
+   ![alt text](images/uhud.PNG)
+   2. Council of War: Abdullah bin ubay said fight inside Madine, Young guys wanted fight out
+      1. Prophet decided to fight out,Obay deserted
+   3. Pass of Uhud: Prophet set 50 archers not to leave in any case.They relented and left after seeing booty.
+   4. Khalid bin waleed saw this came back. resulted in loss for muslims
+   5. Losses: Musim 74, Quresh 20.
+      1. Prophet forbade mutiliation of corpse. Hamza death in this war.
+   6. EffectS: Martydom of several muslim, Fall in prestige of Muslim,Psychological sobering for muslims
+3. **Battle of Ditch**
+   1. Cause: End problem of muslim once for all
+   2. Strength
+      1. Muslims:3000 men 50 cavalry
+      2. Quresh: 10k to 15k
+   3. Council of war: Salman farsi gave idea of ditch
+   4. Siege of Madina: Last 30 days,Bani Qurayza joined quresh violating Madina contract,
+   5. Reason for quesh defeat: Ditch new challenge, No unity in various tribes,
+   6. Effects of Ditch Battle: Impoverish Quraysh,Prestige of Quraysh fell,Expulsion of Jews
+4. **War with Jews** (3 Tribes: Banu Qunayqa, Nadir, Qurayza)
+   1. Causes of Hostilities: Satirized Prophet with Hypocrites,Intentionally Mispronounced Quran, Ditch Muslims in ditch war
+   2. What happened to each tribe:
+      1. War why: Pin on muslim women dress incident.Qaynuqa: Expelled
+      2. Nadir: Tried to assassinate Prophet through rock: Expelled to Khyber
+      3. Qurayza: Open hostile in Ditch. Saad bin Muaz sentenced them to death: 700 jews executed and women and children made slaves
+5. **Khyber**
+   1. causes: Khyber become center of paganism and conspiracy by jews, Strategic location of khyber
+   2. Kyber was a cluster of some 20 fortresses
+   3. 1600 muslim with 200 cavalry
+   4. Al Qamus was the strongest fortress. Under Ali command they were defeated
+   5. No one came to help jews because treaty of hudabiya with quresh
+6. **Battle of Makkah**
+   1. Cause : Breaking treaty of Hudabiya
+   2. Strategy Used: Light fires in light in night to greatly exaggerate number, Abu sufyan surrendered
+      1. Makhzoom were eager to fight, Eenter makkah from  4 sides.
+      2. Condition of safety: Stay in own house, in sufyan house, in Kabbah
+   3. After; Broke 360 idols in Kabbah("Truth has come and Falsehood is vanished")
+   4. Hinda forgiven, Ikrima bin ABu jahl also forgiven
+   5. Effect of Fall of Makkah
+      1. Start of Muslim expansion
+      2. Most Arabs admitted he was True prophet
+      3. End of Polytheism from Makkah
+7. **Battle of Hunanin**
+   1. Between hawazin tribe and Muslim ( 12k Muslims,20,000 Hawazin)
+   2. Effect: Kyber area and other became muslim,Last great battle of Prophet,Put an end to hostily of hawazin
+8. **Tabook**
+   1. Between Muslim and Christians, Heraclius was king, He wanted to attack madina
+   2. Muslims 30k (20k foot,10k cavalry):Hypocrites deserted muslim army in this as welll
+   3. Christians run away 
+   4. Effect: End Munafiqeen once for all,New allies in the region,Muslim a power to be reckoned with
+9. Battle of Yamama(Part of Apostasy wars)
+   1.  Started by Abubakr
+   2.  Causes: Muslima become a self proclaimed Prophet(Prophet called him muslima the liar)
+   3.  Outside yamama town.Wahshi killed
+   4.  Khalid bin waleed led to victory
+   5.  2000 muslim died, 10,000 muslim tribe died
+   6. Effect: End of apostasy in Central arabia,Led to compilation of quran
+10. Battle of Yarmouk(Against christians,Jews)
+    1.  Led to siege of jerusalem
+    2.  Amr bin as was commander
+    3.  Enemy surrendered
+    4.  Hamza Umer left to take keys of city.
+    5.  Did not pray in church incident afraid of setting a precedent.
+   
 
