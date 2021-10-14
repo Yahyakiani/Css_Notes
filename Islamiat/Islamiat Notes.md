@@ -15,6 +15,9 @@
 - Judicial System: `SJC ka IT dept RIP`(Supreme Judicial Council ka IT dept Rest In Peace)
 - Economic System: `SJ F M H Z HOPE` ( Shahrukh Jatoi's Fucking Money Hurt Zahra,s HOPE)
 
+## Bethane ki strategy(In general Ideas):
+- Like Justice in Tawheed: Say Justice is attribute of Allah hence it is so and so ...
+
 ## Main Notes
 
 ## General Questions
@@ -498,7 +501,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 
 ### As a Diplomat and Peace Maker
 1. Breaching of Treaties (Hilf-ul-Fudul)
-2. Islam is a Message of Peace
+2. Islam is a Message of Peace ( Ali meer, Maududi)
 3. Fixation of Asward Stone
 4. Migration to Abyssinia(Diplomatic Thinking)
 5. Jourey to Taif(Propogation) 
@@ -520,7 +523,6 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 1. Objective of Warfare altered 
 2. Economic Blockade ( Makkah Caravan )
 
-### As a Peace Maker
  
  
 
@@ -913,13 +915,13 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
    4. Treaty hudabiya 4 points( no umra this year,makkan guy give back but not madina guy,10 year peace,both party free to ally anyone)
    5. Disappoint of Muslim/Umer
       1. Unfair exchange agreement
-      2. not act Prophet as prophet of Allah in writing,
+      2. not acpt Prophet as prophet of Allah in writing,
       3. Unable to do umar even when it is in sight
    6. Abu jandal incident (Based on agreemnet he sent back,Prophet said trust in Allah)
    7. Consequence of Treaty
       1. Makkans accepted muslims as legitimate Rivals
       2. Peace and intermingling .Made more muslims
       3. Jews and Makkan union broken.Muslim focus on jews only
-      4. Creation of conducive enviroment since peace
+      4. Creation of conducive enviroment since peace (Delegation,Letter sent)
       5. Clear victory ayat for sad muslims  
 

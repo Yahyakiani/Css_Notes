@@ -104,11 +104,11 @@ comfort and Hope
 Abstention from Sin()
 Discipline and Self Control (Fasting is Prescribed to you as it was prescribed to those before you so you may learn self restraint)
 Hidden Ibadat
-Self scrutiny(Akhirat Khauf)
+Self scrutiny(Akhirat Khauf,introspection)
 Infuses spirit of Jihad 
-immunity from hypocriscy
+immunity from hypocriscy (Hipocrites in lowest hell)
 Distinctive reward (Saum: )
-Right and wrong
+Right and wrong (inital wrong bad,segregation of right and wrong in quran)
 Courageous
 Obedient and determined
 Virtuous
@@ -126,7 +126,7 @@ Tolerance
 Establishes social control
 Rule of Law
 Equality (Arbi and Ajmi)
-Mutual Care and respect (The best of deeds is prayer at proper time and kindess to the parents:Sahih Muslim)
+Mutual Care and respect(Idea of Human Dignity) (The best of deeds is prayer at proper time and kindess to the parents:Sahih Muslim)
 Taraweh(social congregation)
 Cultural Interaction(Hajj)
 
