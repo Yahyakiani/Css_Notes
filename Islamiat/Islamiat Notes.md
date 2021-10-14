@@ -2,7 +2,7 @@
 - Default Book: Mastering O Level Islamiat by Muhammad Bilal Aslam
 
 
-## MNEMONICS (Check Islamiat for heading Points and SEERAH)
+## MNEMONICS (Check Islamiat.md for heading Points and check SEERAH)
 - Beneficiaries of ZAKAT: `IMAMRGFF`(IMAM ragaf pronounce)
 - Individual impacts of All IBADAH: `I SSSHADI at GC ORWPP` (Iqbals shadi at garrison cantt of rawalpindi Pakistan)
 - Social impacts of All IBADAH:`TEST in MSC with [CR] and [CI]`
@@ -877,4 +877,49 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 - Impacts
   - Individual
   - Social
+  
+2. Charter of Madinah
+   - Introduction (First piece of Written constitution in islam) (Made you into tribes ,so you may know one another.Surah-Al hujurat) (47 Clauses)
+   - Need of this Charater ( end intertribal war (Aws-Khazraj),maintain peace and co-operation all groups,Establish Authority of Allah and Rasool as Mediator)
+   - Significance of Charter
+     - Magna Carta
+     - Bound Muslim in single community (Muhajirin and Ansar)
+     - Ended Warfare and replace loyal from tribe to Allah and rasool (AK)
+   - Characteristics of Charter
+     - Political
+       - Muslim-jews one political ummah
+       - Duties of War and Peace(Prophet declare war,one party peace-acceptable both,Fight together(jews,muslims))
+       - Soverignity of Allah and Prophet(Mediator)
+       - No civil Strife(Will be love,peace and faithful ness with each other)
+       - No refuge to Qurash and their property
+     - Civic
+       - Blood Money(Muhajirin-ansar)
+       - Muslim save each other from debt
+       - No muslim kill other muslim on behalf of non muslim
+       - Right of retaliation
+       - Responsibility of murder on person and Tribe
+     - Religious 
+       - Freedom of Worship and tolerance
+       - Jew become muslims ,he will be offered refuge
+   - Effect of this charter on Muslims
+     - Transformation of political,social and religios life
+     - Protect life
+     - Established peace and political Unity
+     - Complete civil and criminal Law
+3. Treat of Hudabiya (Check O levels book for this)
+   1. Background(dream after battle of ditch ,umra)
+   2. Opposition from Makkans (Strange, Not keep worst enemy out, No blood shed in holy months,Stayed at place called hudabiyah)
+   3. Bayt e rizwan( Hazrat usman not return, Pledge to fight until death for islam in case of hostilities)
+   4. Treaty hudabiya 4 points( no umra this year,makkan guy give back but not madina guy,10 year peace,both party free to ally anyone)
+   5. Disappoint of Muslim/Umer
+      1. Unfair exchange agreement
+      2. not act Prophet as prophet of Allah in writing,
+      3. Unable to do umar even when it is in sight
+   6. Abu jandal incident (Based on agreemnet he sent back,Prophet said trust in Allah)
+   7. Consequence of Treaty
+      1. Makkans accepted muslims as legitimate Rivals
+      2. Peace and intermingling .Made more muslims
+      3. Jews and Makkan union broken.Muslim focus on jews only
+      4. Creation of conducive enviroment since peace
+      5. Clear victory ayat for sad muslims  
 

@@ -120,6 +120,7 @@ Explains Metaphysical Things
 Power to endure adversities of life
 
 -Social 
+Source of Knowledge (On how to work in society)
 Mutual Cooperation (Ummah)
 Tolerance
 Establishes social control
