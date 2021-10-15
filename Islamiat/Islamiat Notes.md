@@ -952,7 +952,7 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
 
 ### Battles with Quraysh
 
-1. **Battle of Badr**
+1. **Battle of Badr** 2 hijri
    1. Causes : (Threat to Makkan Economy,Abu sufyan Caravan incident,Revelation of Jihad)
    ![alt text](images/musl.PNG)
    1. Muslim Advantages: Allah With, Water spot,Sun behind back,High morale
@@ -967,38 +967,39 @@ The Qur’anic verse ‘their affairs are (conducted) by mutual counsel’, was 
       1. Victory of Good over evil: Supermacy of islam
       2. Consolidation of Islam
       3. Decimation of Quraysh Leadership
-2. **Battle of UHD**
+2. **Battle of UHD** 3 hijri
    1. Causes: Revenge cause of Badr,Qureysh caravan Captured by Muslims,
    ![alt text](images/uhud.PNG)
    2. Council of War: Abdullah bin ubay said fight inside Madine, Young guys wanted fight out
       1. Prophet decided to fight out,Obay deserted
-   3. Pass of Uhud: Prophet set 50 archers not to leave in any case.They relented and left after seeing booty.
-   4. Khalid bin waleed saw this came back. resulted in loss for muslims
-   5. Losses: Musim 74, Quresh 20.
+   3. Mount of Uhud: advantages (high ground Prophet set 50 archers not to leave in any case.They relented and left after seeing booty.
+   4. Attack on Prophet
+   5. Khalid bin waleed saw this came back. resulted in loss for muslims
+   6. Losses: Musim 74, Quresh 20.
       1. Prophet forbade mutiliation of corpse. Hamza death in this war.
-   6. EffectS: Martydom of several muslim, Fall in prestige of Muslim,Psychological sobering for muslims
-3. **Battle of Ditch**
-   1. Cause: End problem of muslim once for all
+   7. EffectS: Martydom of several muslim, Fall in prestige of Muslim,Psychological sobering for muslims
+3. **Battle of Ditch** 5 hijri
+   1. Cause: Abu Sufyan challange at Uhud (meet at Badr next year) muslims went, quraish didn't come for fight; defiance enraged; End problem of muslim once for all
    2. Strength
       1. Muslims:3000 men 50 cavalry
       2. Quresh: 10k to 15k
    3. Council of war: Salman farsi gave idea of ditch
-   4. Siege of Madina: Last 30 days,Bani Qurayza joined quresh violating Madina contract,
-   5. Reason for quesh defeat: Ditch new challenge, No unity in various tribes,
-   6. Effects of Ditch Battle: Impoverish Quraysh,Prestige of Quraysh fell,Expulsion of Jews
+   4. Siege of Madina: because of trecnch; Last 30 days, abu sufyan enlisted Bani Qurayza; Saad bin Muaz reminded them of Madina accord; they openly no prophet or charter violating Madina contract,
+   5. Reason for quesh defeat: Ditch new challenge, No unity in various tribes, food supply; 
+   6. Effects of Ditch Battle: Impoverish Quraysh,Prestige of Quraysh fell,Expulsion of Jews; medina still held caravan route
 4. **War with Jews** (3 Tribes: Banu Qunayqa, Nadir, Qurayza)
    1. Causes of Hostilities: Satirized Prophet with Hypocrites,Intentionally Mispronounced Quran, Ditch Muslims in ditch war
    2. What happened to each tribe:
-      1. War why: Pin on muslim women dress incident.Qaynuqa: Expelled
+      1. War why: Pin on muslim women dress incident.Qaynuqa: Expelled Muhammad (PBUH) gave all 400 men a death sentence. Abdullah bin Obay came to their rescue. Finally, Bani Qaynuqa was expelled from Madina.
       2. Nadir: Tried to assassinate Prophet through rock: Expelled to Khyber
-      3. Qurayza: Open hostile in Ditch. Saad bin Muaz sentenced them to death: 700 jews executed and women and children made slaves
+      3. Qurayza: Open hostile in Ditch. their ally Awz pleaded to be lenient; Prophet nominated Saad bin Muaz(Awz) sentenced them (Torah) to death: 700 jews executed and women and children made slaves
 5. **Khyber**
    1. causes: Khyber become center of paganism and conspiracy by jews, Strategic location of khyber
-   2. Kyber was a cluster of some 20 fortresses
-   3. 1600 muslim with 200 cavalry
-   4. Al Qamus was the strongest fortress. Under Ali command they were defeated
-   5. No one came to help jews because treaty of hudabiya with quresh
-6. **Battle of Makkah**
+   3. Kyber was a cluster of some 20 fortresses
+   4. 1600 muslim with 200 cavalry
+   5. Al Qamus was the strongest fortress. Under Ali command they were defeated
+   6. No one came to help jews because treaty of hudabiya with quresh
+7. **Battle of Makkah**
    1. Cause : Breaking treaty of Hudabiya
    2. Strategy Used: Light fires in light in night to greatly exaggerate number, Abu sufyan surrendered
       1. Makhzoom were eager to fight, Eenter makkah from  4 sides.
