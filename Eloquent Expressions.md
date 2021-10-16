@@ -3,15 +3,10 @@
 - a watershed moment
 - succinctly summed up
 - Chinese government’s loutish bullying
-
-> an uphill battle
-
+- an uphill battle
 - the rights of the Kashmiris have been sacrificed at the altar of expediency (convenience)
-- treated with kid gloves
-- reserve opprobrium for geopolitical opponents
-- eleventh-hour change
 - since antiquity !
-- But with these caveats in mind !
+> But with these caveats in mind !
 
 > Most tellingly epitomised by Trump
 
@@ -34,8 +29,10 @@
 - a much needed healthcare umbrella
 - Other units of the federation
 
-> Emulate his pioneering stride for future success
+- Emulate his pioneering stride for future success
 
+> She often got a vicarious thrill from watching bungee jumping
+ 
 - Administrative sleight of hand
 - Undercurrents of the brewing political crisis
 
@@ -63,23 +60,19 @@
 - all seem to herald the emergence of a less cooperative and more fragile international system
 - An exercise in futility
 - expanding prism of views
-
-> Collusion
-
+- Collusion
 - applying subterfuge to obfuscate the issue at international level.
 - compounds their suffering
 - Sacrificed at the altar of nepotism !
 - After a Protacted delay !
-
-> Cogent
-
+- Cogent
 - The war of words has once again started to heat up
 - A system in constant conflict runs the risk of becoming dysfunctional such pakistani politics.
 - Absolved some of the top guns of the BJP.
 - Makes this exercise redundant.
 - Governments rhetoric has reached a fever pitch.
 - Put an act of peace between the countries
-- Exhibition a manner of peace between the nations
+. Exhibition a manner of peace between the nations
 - Pakistan's principled stand on the kashmir issue
 - Twin plagues of corona and Locusts are being us
 - Scale of injustice
@@ -88,4 +81,8 @@
 - Cataclysms of Trump administration
 - Curate an ideology ! (carefully chosen and thoughtfully organized or presented)
 - Religion is the doctored pitch
-- provocative but ultimately toothless arguments.
+- provocative but ultimately toothless arguments
+
+> a city ravaged by the scourge of unemployment 
+
+> Harbinger

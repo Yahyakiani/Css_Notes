@@ -119,34 +119,34 @@ Punctuality (Pray is obligatory for the believers at the prescribed times: Surah
 Explains Metaphysical Things
 Power to endure adversities of life
 
--Social 
-Source of Knowledge (On how to work in society)
-Mutual Cooperation (Ummah)
-Tolerance
-Establishes social control
-Rule of Law
-Equality (Arbi and Ajmi)
-Mutual Care and respect(Idea of Human Dignity) (The best of deeds is prayer at proper time and kindess to the parents:Sahih Muslim)
+**Social** 
+- Source of Knowledge (On how to work in society)
+- Mutual Cooperation (Ummah)
+- Tolerance
+- Establishes social control
+- Rule of Law
+- Equality (Arbi and Ajmi)
+- Mutual Care and respect(Idea of Human Dignity) (The best of deeds is prayer at proper time and kindess to the parents:Sahih Muslim)
 Taraweh(social congregation)
 Cultural Interaction(Hajj)
 
 
--Moral 
-Destroy ego
-Inculcate generosity
-HUMBLEness 
-Patience and tolerance
-Compassion
-Decreases Lust for Weath
-Modesty
-taqwa
-accountability
-Inclination towards good deeds
-Consistancy on the right path
+**Moral** 
+- Destroy ego
+- Inculcate generosity
+- HUMBLEness 
+- Patience and tolerance
+- Compassion
+- Decreases Lust for Weath
+- Modesty
+- taqwa
+- accountability
+- Inclination towards good deeds
+- Consistancy on the right path
 
-- Distinctive aspect of Islam
-Complete Code of Life
-Uniqueness of name
+**Distinctive aspect of Islam**
+- Complete Code of Life
+- Uniqueness of name
 simple and rational
 moderation in world and hereafter
 Eternal
@@ -157,14 +157,14 @@ Prophesies Fulfilled
 Flexibility
 
 
-- Tawheed
+Tawheed
 Unity of Allah
 Revolutionary Concept
 Not only Utterance
 Worship
 
 
-- Charateristic of Final Prophethood
+Charateristic of Final Prophethood
 Universal
 Mentioned in previous books
 Ummah unity
