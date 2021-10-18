@@ -44,6 +44,7 @@
 - Unmitigated growth of
 
 > Conflate the 2 subjects
+
 > Evocative
 
 - Cumulatively put
@@ -86,3 +87,6 @@
 > a city ravaged by the scourge of unemployment 
 
 > Harbinger
+
+- Draconian
+- akin to adding a fourth wheel to a tricycle and hoping it will eventually transform into a driverless electric car
