@@ -90,3 +90,7 @@
 
 - Draconian
 - akin to adding a fourth wheel to a tricycle and hoping it will eventually transform into a driverless electric car
+
+> Attitude has been cavalier
+
+> In one of the starkest warnings 
