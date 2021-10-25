@@ -8,7 +8,7 @@
 - since antiquity !
 > But with these caveats in mind !
 
-> Most tellingly epitomised by Trump
+- Most tellingly epitomised by Trump
 
 - Project a lie
 - has also come to Pervade sections of society
@@ -28,16 +28,11 @@
 - Against the weak benchmark
 - a much needed healthcare umbrella
 - Other units of the federation
-
 - Emulate his pioneering stride for future success
-
-> She often got a vicarious thrill from watching bungee jumping
- 
+- She often got a vicarious thrill from watching bungee jumping
 - Administrative sleight of hand
 - Undercurrents of the brewing political crisis
-
-> regurgitation of untruths !
-
+- regurgitation of untruths !
 - This suggests
 - spark a conflict
 - potential to ballon into something destructive.
@@ -94,3 +89,5 @@
 > Attitude has been cavalier
 
 > In one of the starkest warnings 
+
+> become a bone of contention
