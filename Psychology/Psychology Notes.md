@@ -1115,13 +1115,19 @@ they represented a more general and positive life force.
 #### Thoughts
 ---
 #### Keywords
+- castration anxiety`496`
+- Penis envy `496`
+- 
 #### Questions
 1. How do psychologists define and use the concept of personality?
 2. What do the theories of Freud and his successors tell us about the structure and development of personality? 
 3. What would happen if the personality is only driven by superego or id ?
 4. What was the controversy concerned with freuds phallic stage ? 
 5. Is identification similar in all cultures?
-6. Can you think of ways in which Freud’s theories of unconscious motivations are commonly used in popular culture? How accurately do you think such popular uses of Freudian theories reflect Freud’s ideas?
+6. Criticism on Freuds theory ? 3 `498`
+7. karen horneys perspective ?`500`
+8. Alfred adler neo freudian perspective ?`500`
+9. Can you think of ways in which Freud’s theories of unconscious motivations are commonly used in popular culture? How accurately do you think such popular uses of Freudian theories reflect Freud’s ideas?
    
 ---
 #### Summary
@@ -1132,7 +1138,7 @@ they represented a more general and positive life force.
 
 #### Main Notes
 - **Personality**  The pattern of enduring characteristics that produce consistency and individuality in a given person.
-- **Traits** are consistant characteristics and behaviour of a personality displayed in different situations.
+- **Traits** are consistant characteristics and behaviour of a personality displayed in different situations.`502`
 - **Trait theory** A model of personality that seeks to identify the basic traits necessary to describe a personality.Everyone has traits but to differing degrees.
 - A growing consensus exists that the Big Five(OCEAN) represent the best description of personality traits we have today.
 - **Self Efficacy** is our personal belief in ourself whether we are capable of something or not.
@@ -1162,29 +1168,28 @@ strong genetic components
 #### Keywords
 #### Questions
 1. What are the major aspects of trait, learning, biological and evolutionary, and humanistic approaches to personality? `Page 514`
-2. What led to the study of alternative approaches to psychoanalytic theory ? `Page 502`
-3. What is trait theory ?
-4. What are traits ?
-5. What is All ports trait theory?
-6. What is the definition and  difference between cardinal, central and secondary traits ?`Page 503`
-7. What is factor analysis in trait theories ?
-8. What are catell trait factor analysis methods for personality determination ? `Page 503`
-9. According to Hans Eysnck, 3 major factors what are extraversion,neuroticism and psychoticism ?
-10. What are Big 5 personality states, who gave them and what do they mean ?
-11. What are the virtues of trait appraoch ? `Page 504`
-12. Do you think people should attempt to override their first judgments about others’ personalities and make more thoughtful judgments? Why or why not?
-13. Why would the ability to judge personality characteristics quickly be valuable from an evolutionary perspective?
-14. What is B.F skinners behaviours approach. How does it define personality ?
-15. What is SOCIAL COGNITIVE APPROACHES TO PERSONALITY ? Give example of it ? Give name of a propoent of this appraoch ?
-16. What is self-efficacy ? How do we develop self efficacy ?
-17. What is situationism in CAPS ? What is CAPS(cognition-affection processing system) given by Walter mischel? Give example ? `Page 507`
-18. How much consistancy exists in personality ? `Page 507` Walter Mishcel thoughts and CAPS system.
-19. How can low self-esteem lead to a cycle of failure ?`Page 507`
-20. Evaluate different personality approaches ?
-21. What is biological and evolution personality appraoch ?
-22. Which personality traits are more like to be hereditary ? Give example ? 
-23. What is temperament ?
-24. Does the identification of specifi c genes linked to personality, coupled with the 
+2. What is trait theory ?`502`
+3. What are traits ?`502`
+4. What is All ports trait theory?`503`
+5. What is the definition and  difference between cardinal, central and secondary traits ?`Page 503`
+6. What is factor analysis in trait theories ?
+7. What are catell trait factor analysis methods for personality determination ? `Page 503`
+8. According to Hans Eysnck, 3 major factors what are extraversion,neuroticism and psychoticism ?
+9.  What are Big 5 personality states, who gave them and what do they mean ?
+10. What are the virtues of trait appraoch ? `Page 504`
+11. Do you think people should attempt to override their first judgments about others’ personalities and make more thoughtful judgments? Why or why not?
+12. Why would the ability to judge personality characteristics quickly be valuable from an evolutionary perspective?
+13. What is B.F skinners behaviours approach. How does it define personality ?
+14. What is SOCIAL COGNITIVE APPROACHES TO PERSONALITY ? Give example of it ? Give name of a propoent of this appraoch ?
+15. What is self-efficacy ? How do we develop self efficacy ?
+16. What is situationism in CAPS ? What is CAPS(cognition-affection processing system) given by Walter mischel? Give example ? `Page 507`
+17. How much consistancy exists in personality ? `Page 507` Walter Mishcel thoughts and CAPS system.
+18. How can low self-esteem lead to a cycle of failure ?`Page 507`
+19. Evaluate different personality approaches ?
+20. What is biological and evolution personality appraoch ?
+21. Which personality traits are more like to be hereditary ? Give example ? 
+22. What is temperament ?
+23. Does the identification of specifi c genes linked to personality, coupled with the 
 existence of temperaments from the time of birth, mean that we are destined to have certain types of personalities?`Page 510`
 25. What fault does humanist theorists consider all other approaches have ?`Page 511`
 26. According to rogers what leads to anixety in Humanistic approach ? and how to reduce it ? `Page 512`
