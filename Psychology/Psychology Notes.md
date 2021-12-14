@@ -499,9 +499,15 @@ amount of light into the eye?
 ---
 #### Keywords
 #### Questions
-- What is learning?
+- What is learning? `229`
+- habituation ?example `229`
 - How do we learn to form associations between stimuli and responses?
 - How do we know when a behavior has been influenced by learning—or even is a result of learning?(Nature and Nurture problem.Whether learning involved or maturation.`Page 229`)
+- What is classical conditioning >`230`
+- What things can be learned by classical conditioning ? phobias and ptsd `232`
+- Extinction ? how to do it ? Spontaneous reemergence ?`233`
+- Spontaneous recovery how does it connect with drug recidivism ?`234`
+- Stimulus generalization and stimulus discrimination ? example ?`234`
 - How were traditional understanding of classical conditioning were challanged ? By John Garica a learning psychologist.He showed that humans and animals were `biologically prepared` to avoid foods that made them sick.They even `learned taste aversion` to aviod these foods.`Page 235`
 ---
 #### Summary
@@ -565,9 +571,13 @@ be phased out gradually.
 #### Questions
 - What is the role of reward and punishment in learning? 
 - What are some practical methods for bringing about behavior change, both in ourselves and in others?
-- `Difference between classical conditioning and operant conditioning ?` In classical the original behaviours are a biological response to a stimulus and conditioning is done to voluntary responses.But in the latter case the organism works on its enviroment to bring about a desireable outcome.Like  studying hard can result in good grades.
-- What is the difference between primary and secondary reinforcer ? Primary reinforcer satisfies some basic biological need.While secondary reinforcer is a stimulus that becomes reinforcing because of its associated with the primary reinforcer. Like food is primary reinforcer but through money we can get food so money is secondary reinforcer.
-- Why Refinforcement beats punishment ? Punishment is frequently ineffective particularly if it is not immediatly applied after that specific behaviour or if the person can leave.Like an employee quiting if he is reprimanded.In such instances that behaviour that is being punished is replaced with even a less desirable one.(`Page 241`).Even worse in case of physical punishment it conveys the idea that physical aggression is a desirable and  permissable.Also Punishment do not convey any information about appropriate alternative behaviour .
+- Difference between classical conditioning and operant conditioning ? 
+  - In classical the original behaviours are a biological response to a stimulus and conditioning is done to voluntary responses.But in the latter case the organism works on its enviroment to bring about a desireable outcome.Like  studying hard can result in good grades.
+- How do we know when a behavior has been influenced by learning—or even is a result of learning?`237`
+- What is the difference between primary and secondary reinforcer ? 
+  - Primary reinforcer satisfies some basic biological need.While secondary reinforcer is a stimulus that becomes reinforcing because of its associated with the primary reinforcer. Like food is primary reinforcer but through money we can get food so money is secondary reinforcer.
+- Why Reinforcement beats punishment ? 
+  - Punishment is frequently ineffective particularly if it is not immediatly applied after that specific behaviour or if the person can leave.Like an employee quiting if he is reprimanded.In such instances that behaviour that is being punished is replaced with even a less desirable one.(`Page 241`).Even worse in case of physical punishment it conveys the idea that physical aggression is a desirable and  permissable.Also Punishment do not convey any information about appropriate alternative behaviour .
 - Why do PRS results last longer than CRS ? Slot machines and candy machine example. `Page 243`
 - How do you reinforce what doesnt come naturally ? THrough shaping 
 ---
