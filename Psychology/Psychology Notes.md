@@ -569,7 +569,9 @@ be phased out gradually.
 ---
 #### Keywords
 #### Questions
-- What is the role of reward and punishment in learning? 
+- What is the role of reward and punishment in learning?`250`
+- positive reinforcer, negative reinforcer and punishment ? examples ?`240`
+- Types of punishment ? examples `240`
 - What are some practical methods for bringing about behavior change, both in ourselves and in others?
 - Difference between classical conditioning and operant conditioning ? 
   - In classical the original behaviours are a biological response to a stimulus and conditioning is done to voluntary responses.But in the latter case the organism works on its enviroment to bring about a desireable outcome.Like  studying hard can result in good grades.
@@ -578,7 +580,12 @@ be phased out gradually.
   - Primary reinforcer satisfies some basic biological need.While secondary reinforcer is a stimulus that becomes reinforcing because of its associated with the primary reinforcer. Like food is primary reinforcer but through money we can get food so money is secondary reinforcer.
 - Why Reinforcement beats punishment ? 
   - Punishment is frequently ineffective particularly if it is not immediatly applied after that specific behaviour or if the person can leave.Like an employee quiting if he is reprimanded.In such instances that behaviour that is being punished is replaced with even a less desirable one.(`Page 241`).Even worse in case of physical punishment it conveys the idea that physical aggression is a desirable and  permissable.Also Punishment do not convey any information about appropriate alternative behaviour .
-- Why do PRS results last longer than CRS ? Slot machines and candy machine example. `Page 243`
+- Effect of 
+- Why do PRS () results last longer than CRS(Continous reinforcement schedule) ? Slot machines and candy machine example. `Page 243`
+- Fixed ratio schedule, variable ratio schedule, fixed interval shedule ,variable interval schedule ?`244`
+- n stimulus control training? example `245`
+- shaping ?example`246`
+- 
 - How do you reinforce what doesnt come naturally ? THrough shaping 
 ---
 #### Summary
@@ -616,10 +623,13 @@ lower for children in forced immigration groups.
 
 #### Questions
 1. What is the role of cognition and thought in learning? 
-2. To which observation of media aggression produces subsequent aggression on the part of viewers is a crucial—and controversial—question.`Page 255`
-3. What about real-life exposure to actual violence? Does it also lead to increases in aggression? The answer is yes. Exposure to actual fi rearm violence (being shot or being shot at) doubles the probability that an adolescent will commit serious violence over the next two years.
-4.  Do the differences in teaching approaches between cultures affect how people learn? Yes, Styles in learning
-5. When people check their messages as soon as their device beeps, is that an example 
+2. What is cognitive learning theory ?`252`
+3. Difference between cognitive learning theory  vs classical or operant learning ?`252`
+4. 
+5. To which observation of media aggression produces subsequent aggression on the part of viewers is a crucial—and controversial—question.`Page 255`
+6. What about real-life exposure to actual violence? Does it also lead to increases in aggression? The answer is yes. Exposure to actual fi rearm violence (being shot or being shot at) doubles the probability that an adolescent will commit serious violence over the next two years.
+7.  Do the differences in teaching approaches between cultures affect how people learn? Yes, Styles in learning
+8. When people check their messages as soon as their device beeps, is that an example 
 of classical conditioning, operant conditioning, or cognitive learning? Why? 
 6. In the example of people checking their messages, what is the stimulus and what is 
 the response? 
@@ -628,6 +638,7 @@ positive or negative reinforcement? Is the behavior ever punished? How so?
 8. If the message-checking behavior is so frequent that it becomes a problem, as 
 Senator Cochran described, what strategies could be used to stop or control the 
 behavior? 
+9. styles of learning ? `257`
 
 
 ---
