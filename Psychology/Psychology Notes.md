@@ -37,7 +37,7 @@ reports, psychologists could come to a better understanding of the structure of 
 
 - **Functionalism** The perspective that replaced structuralism is known as functionalism. Rather 
 than focusing on the mind’s structure, functionalism concentrated on what the mind 
-does and how behavior functions.Functionalists, whose perspective became prominent in the early 1900s, asked what role behavior plays in allowing people to adapt 
+does and how behavior functions.Functionalists, whose perspective became prominent in the early 1900s, asked what role behavior plays in allowing people to adapt 
 to their environments. For example, a functionalist might examine the function of 
 the emotion of fear in preparing us to deal with emergency situations. 
 
@@ -70,7 +70,7 @@ also made notable contributions to the treatment of abnormal behavior,
 
   1.  **Neuroscience perspective** The approach  that views behavior from the perspective of the brain, the nervous system, and other biological functions. 
   2.  **Psychodynamic perspective** The approach based on the view that behavior is motivated by unconscious inner forces over which the individual has little control.
-  3.  **Behavioral perspective** The approach that suggests that observable, measurable behavior should be the focus of study.
+  3.  **Behavioral perspective** The approach that suggests that observable, measurable behavior should be the focus of study.
   4.  **cognitive perspective** The approach that focuses on how people think, understand, and know about the world.
   5.   **Humanistic perspective** The approach that suggests that all individuals naturally strive to grow, develop, and be in control of their lives and behavior. 
 
@@ -172,7 +172,7 @@ the release of endorphins, leading to the reduction of pain
 - **Spinal cord** A bundle of neurons that leaves the brain and runs down the length of the back and is the main means for transmitting messages between the brain and the body.
 
 - `Example:` The spinal cord is not just a communication channel. It also controls some simple behaviors on its own, without any help from the brain. An example is the way the knee jerks forward when it is tapped with a rubber hammer. This behavior is a type of refl ex , an automatic, involuntary response to an incoming 
-stimulus. A refl ex is also at work when you touch a hot stove and immediately withdraw your hand. Although the brain eventually analyzes and reacts to the situation (“Ouch—hot stove—pull away!”), the initial withdrawal is directed only by neurons in the spinal cord.
+stimulus. A refl ex is also at work when you touch a hot stove and immediately withdraw your hand. Although the brain eventually analyzes and reacts to the situation (“Ouch—hot stove—pull away!”), the initial withdrawal is directed only by neurons in the spinal cord.
 
 - **Reflex** An automatic, involuntary response to an incoming stimulus.
 
@@ -191,7 +191,7 @@ spinal cord and brain and reaches the extremities of the body.
 
 - **Autonomic division** The part of the peripheral nervous system that controls involuntary movement of the heart, glands, lungs, and other organs. 
 
-- **Sympathetic division** The part of the autonomic division of the nervous system that acts to prepare the body for action in stressful situations, engaging all the organism’s resources to 
+- **Sympathetic division** The part of the autonomic division of the nervous system that acts to prepare the body for action in stressful situations, engaging all the organism’s resources to 
 respond to a threat. 
 
 -  **Parasympathetic division** The part of the autonomic division of the nervous system that acts to calm the body after an emergency has ended. 
@@ -205,7 +205,7 @@ respond to a threat.
 
    
   - **Evolution of Nervous System**The complexities of the nervous system can be better understood if we take the course of evolution into consideration. The forerunner of the human nervous system 
-is found in the earliest simple organisms to have a spinal cord. Basically, those organisms were simple input-output devices: When the upper side of the spinal cord was 
+is found in the earliest simple organisms to have a spinal cord. Basically, those organisms were simple input-output devices: When the upper side of the spinal cord was 
 stimulated by, for instance, being touched, the organism reacted with a simple 
 response, such as jerking away. Such responses were completely a consequence of 
 the organism’s genetic makeup. 
@@ -216,7 +216,7 @@ would consider a primitive brain.
  Today, the nervous system is hierarchically organized, meaning that relatively 
 newer (from an evolutionary point of view) and more sophisticated regions of the 
 brain regulate the older, and more primitive, parts of the nervous system. As we 
-move up along the spinal cord and continue upward into the brain, then, the functions controlled by the various regions become progressively more advanced
+move up along the spinal cord and continue upward into the brain, then, the functions controlled by the various regions become progressively more advanced
 
 - **Evolutionary psychology** The branch of psychology that seeks to identify behavior patterns that are a result of our genetic inheritance from our ancestors. 
 
@@ -250,7 +250,7 @@ illness, they trigger the production of chemicals that can treat the disease.
 - **Hormones Chemicals** that circulate through the blood and regulate the functioning or growth of the body. 
 - Although the endocrine system is not part of the brain, it is closely linked to the hypothalamus.
 
-- Neural messages move through neurons in specific lines (like a signal carried by wires strung along telephone poles), whereas hormones travel throughout the body, similar to the way radio waves are transmitted across the entire landscape. Just as radio waves evoke a response only when a 
+- Neural messages move through neurons in specific lines (like a signal carried by wires strung along telephone poles), whereas hormones travel throughout the body, similar to the way radio waves are transmitted across the entire landscape. Just as radio waves evoke a response only when a 
 radio is tuned to the correct station, hormones flowing through the bloodstream 
 activate only those cells that are receptive and “tuned” to the appropriate hormonal 
 message. 
@@ -483,7 +483,7 @@ amount of light into the eye?
 - Unconditioned stimulus UCS A stimulus that naturally brings out a response of interest without being conditioned
 - A response that is natural and needs no conditioning. Like salivation at the sight of food for dog.
 - Conditioned Response A response that after conditioned is produced after occurance of a neutral stimulus.
-- The sequence and timing of  Neutral stimulus and uncondition stimulus is of grave importance.Research has shown that conditioning is most effective if the neutral stimulus precedes the unconditioned stimulus by half a second or a few seconds.
+- The sequence and timing of  Neutral stimulus and uncondition stimulus is of grave importance.Research has shown that conditioning is most effective if the neutral stimulus precedes the unconditioned stimulus by half a second or a few seconds.
 1. Neutral stimulus  after uncondition stimulus : Little chance of becoming a condition stimulus
 2. Neutral stimulus  before uncondition stimulus : Good chance of becoming a condition stimulus
 - Emotional responses are especially likely to be learned through classical conditioning.
@@ -655,21 +655,21 @@ behavior?
 - **Three system approach to memory** 
   ![alt text](images/m1.PNG)
   ![alt text](images/m2.PNG)
-- **Sensory memory** The initial, momentary storage of information, lasting only an instant. 
+- **Sensory memory** The initial, momentary storage of information, lasting only an instant. 
 - **Short-term memory** Memory that holds information for 15 to 25 seconds. 
 - **Long-term memory** Memory that stores information on a relatively permanent basis, although it may be difficult to retrieve. 
 - 
-- **Iconic memory** reflects information from the visual system. 
+- **Iconic memory** reflects information from the visual system. 
 - **Echoic memory** stores auditory information coming from the ears.
 - Psychologist George Sperling in 1960 proved existence of sensory memory through 12 letter experimentation in rows.`Page 264`
 - **Chunk** is a meaningful group of stimuli that can be stored in memory
 - Process through which sensory memory is transformed to short termn is not known.
 - **Rehearsal** Transfer of Information from short term memory to long term memory is done through reharsal.It serves 2 purposes.Retain the information in short term memory through repetition and transfer the info to long term memory.
--  if the information in short-term memory is rehearsed using a process called elaborative rehearsal, it is much more likely to be transferred into long-term memory. **Elaborative rehearsal** occurs when the information is considered and organized in some fashion.using organizational strategies such as these—called `mnemonics` —we can vastly improve our retention of information. **Mnemonics** formal techniques for organizing information in a way that makes it more likely to be remembered.
+-  if the information in short-term memory is rehearsed using a process called elaborative rehearsal, it is much more likely to be transferred into long-term memory. **Elaborative rehearsal** occurs when the information is considered and organized in some fashion.using organizational strategies such as these—called `mnemonics` —we can vastly improve our retention of information. **Mnemonics** formal techniques for organizing information in a way that makes it more likely to be remembered.
 -  **Working Memory** A set of active temporary memory stores that actively manipulate and rehearse information.
 -  Working memory is thought to contain a `central executive processor` that is 
 involved in reasoning and decision making. The central executive coordinates three 
-distinct storage-and-rehearsal systems: the visual store, the verbal store, and the episodic buffer.
+distinct storage-and-rehearsal systems: the visual store, the verbal store, and the episodic buffer.
   ![alt text](images/memo.PNG)
 
 -  Researchers now regard long-term memory as having several different components, or memory modules
@@ -687,7 +687,7 @@ distinct storage-and-rehearsal systems: the visual store, the verbal store, and 
 
 - Activating one memory triggers the activation of related memories in a process known as **spreading activation**.
 - **Engram** is a term for Physical memory trace.
-- Roughly seven (plus or minus two) chunks of information can be transferred
+- Roughly seven (plus or minus two) chunks of information can be transferred
 
 #### Thoughts
 ---
@@ -697,18 +697,19 @@ distinct storage-and-rehearsal systems: the visual store, the verbal store, and 
 - Recency Effect
 - 
 #### Questions
-1. What is memory?
-2. Are there diff erent kinds of memory?
+1. What is memory?`263`
+2. Are there diff erent kinds of memory?`264`
 3. What are the biological bases of memory?
-4. `What is the distinction between Long term and short term memory?` The distinction between short- and long-term memory is also supported by the serial position effect, in which the ability to recall information in a list depends on where in the list an item appears. For instance, often a primacy effect occurs, in which items presented early in a list are remembered better. There is also a recency effect, in which items presented late in a list are remembered best.
-5. `Where is long termn memory located in the brain ?` Different parts of brain specialize in different types of memory activities.`Hippocampus`, a part of the brain’s limbic system plays a central role in the consolidation of memories.`Amygdala` is especially involved with memories involving emotion. For example, if you are frightened by a large Doberman, you’re likely to 
+4. Working memory and how it operates ?What sections are there ? `267`
+5. `What is the distinction between Long term and short term memory?` The distinction between short- and long-term memory is also supported by the serial position effect, in which the ability to recall information in a list depends on where in the list an item appears. For instance, often a primacy effect occurs, in which items presented early in a list are remembered better. There is also a recency effect, in which items presented late in a list are remembered best.
+6. `Where is long termn memory located in the brain ?` Different parts of brain specialize in different types of memory activities.`Hippocampus`, a part of the brain’s limbic system plays a central role in the consolidation of memories.`Amygdala` is especially involved with memories involving emotion. For example, if you are frightened by a large Doberman, you’re likely to 
 remember the event vividly.
 6. `How is the transformation of information into a memory reflected at the level of neurons?` One answer is `long-term potentiation`, which shows that certain neural pathways 
 become easily excited while a new response is being learned. At the same time, the number of synapses between neurons increase as the dendrites branch out to receive 
 messages. These changes reflect a process called consolidation , in which memories 
 become fixed and stable in long-term memory
 7. Why might researchers want only to reduce the intensity of a traumatic memory rather than erase it altogether?
-8. What might be some of the practical or ethical issues involved with erasing unwanted memories?
+8. What might be some of the practical or ethical issues involved with erasing unwanted memories?
 9.  `Why are memory traces are distributed throughout the brain ?` when you recall a beautiful beach sunset, your recollection draws on memory stores located in visual areas of the brain 
 (the view of the sunset), auditory areas (the sounds of the ocean). Diff areas process differet types of memory.
 
@@ -767,9 +768,9 @@ French in the 10th grade, and then in the 11th grade you took Spanish. When in t
 diffi culty recalling the Spanish translation of a word because all you can think of is 
 its French equivalent.
 
-- In contrast, retroactive interference refers to diffi culty in the recall of information because of later exposure to different material. If, for example, you have diffi -
+- In contrast, retroactive interference refers to diffi culty in the recall of information because of later exposure to different material. If, for example, you have diffi -
 culty on a French achievement test because of your more recent exposure to Spanish, 
-retroactive interference is the culprit (see Figure 3). One way to remember the difference between proactive and retroactive interference is to keep in mind that proactive 
+retroactive interference is the culprit (see Figure 3). One way to remember the difference between proactive and retroactive interference is to keep in mind that proactive 
 interference progresses in time—the past interferes with the present—whereas retro-
 active interference retrogresses in time, working backward as the present interferes 
 with the past.
@@ -835,7 +836,7 @@ answered.
 - **G-Factor** The single underlying factor assumed to measure intelligence in the early theories .It recorded spaital visualization skill,verbal competency and mathematical expertise.
 - **Fluid Intelligence** Intelligence that reflects information processing ability, along with reasoning and memory.`E.g`Ability to reason abstractly.Group a series of letters according to some criteria or remember a set of numbers.
 - **Cystallized Intelligence** Accumulation of Information, skills and strategies that people can apply for problem-solving.`E.g` Asked to take part in a discussion regarding political structure.We have to reply on our past experience and knowledge to come up arguments.
-- **Theory of Multiple Intelligences** Howard gardner gave this theory. According to him there are 8 basic intelligences which are musical, bodily kinesthetic, logicalmathematical, linguistic, spatial, interpersonal, intrapersonal, and naturalist.These are relatively independent of each other.They are connected to different aspects of the brain.Every person has them in different degree.They do not work in isolation but rather in harmony with one another. Like writing an essay on nature would involve different aspects of intelligence from visualization to linguistical capability.Howard also says that there may be more such intelligences like `existential intelligence` thinking about our purpose. Dalai lama would show this sort of intelligence.
+- **Theory of Multiple Intelligences** Howard gardner gave this theory. According to him there are 8 basic intelligences which are musical, bodily kinesthetic, logicalmathematical, linguistic, spatial, interpersonal, intrapersonal, and naturalist.These are relatively independent of each other.They are connected to different aspects of the brain.Every person has them in different degree.They do not work in isolation but rather in harmony with one another. Like writing an essay on nature would involve different aspects of intelligence from visualization to linguistical capability.Howard also says that there may be more such intelligences like `existential intelligence` thinking about our purpose. Dalai lama would show this sort of intelligence.
 - When tasks require more general global intelligence more areas of brain are activated.
 -  **Emotional intelligence** The set of skills that underlie the accurate assessment, evaluation, expression, and regulation of emotions.
 - **Practical Intelligence** According to sternberg .Intelligence related to your overall success in life.   Sternberg argues there are 2 basic forms of intelligence. Creative and Analytical intelligence .
@@ -880,10 +881,10 @@ level of performance is average or
 #### Main Notes
 - **Mental retardation (or intellectual disability)** A condition characterized by significant limitations both in intellectual functioning and in conceptual, social, and practical adaptive skills.Occurs in 1% to 3% of population.Types of mental retardation: Mild retardation(55-69 IQ),moderate retardation(40-54) IQ,Severe retardation(25-39)IQ,Profound Retardation(Below 25)IQ.Only mild and moderate can function independently and hold families with little supervision. Others require life long care.
 -**Causes**
-1. **Down syndrome**, the type of mental retardation represents another major cause of mental retardation.Down syndrome results when a person is born with 47 chromosomes instead of the usual 46.
+1. **Down syndrome**, the type of mental retardation represents another major cause of mental retardation.Down syndrome results when a person is born with 47 chromosomes instead of the usual 46.
 2. Birth complications, such as a temporary lack of oxygen, 
 may also cause retardation. 
-3. In some cases, mental retardation occurs after birth following a head injury, a stroke, or infections such as meningitis.
+3. In some cases, mental retardation occurs after birth following a head injury, a stroke, or infections such as meningitis.
 4. Majority of cases of mental retardation are classified as familial 
 retardation, in which no apparent biological defect exists but there is a history of 
 retardation in the family. Whether the family background of retardation is caused by 
@@ -908,7 +909,7 @@ or by some underlying genetic factor is usually impossible to determine.
 - Cultural Background and experience can effect the performance of an iq test taker.
 - **Culture-fair IQ test** A test that does not discriminate against the members of any minority group. 
 - **Heritability** A measure of the degree to which a characteristic is related to genetic, inherited factors. 
--  Average person today gets more items correct on IQ tests than the average person several generations ago, scores have risen signifi cantly—a phenomenon named `the Flynn effect`.e cause of the Flynn effect is not clear.It may due to better nutrition, better parenting, or improvements in the general social environment, including education. 
+-  Average person today gets more items correct on IQ tests than the average person several generations ago, scores have risen signifi cantly—a phenomenon named `the Flynn effect`.e cause of the Flynn effect is not clear.It may due to better nutrition, better parenting, or improvements in the general social environment, including education. 
 education
 -  
 #### Thoughts
@@ -917,8 +918,8 @@ education
 #### Questions
 1. Are traditional IQ tests culturally biased? 
 2. Are there racial differences in intelligence? 
-3. To what degree is intelligence influenced by the environment and to what degree by heredity?
-4.  Group, blacks tend to average 10 to 15 IQ points lower than whites.Does this variation reflect a true difference in intelligence, or are the questions biased with regard to the kinds of knowledge they test? `Good reason to believe that some standardized IQ tests contain elements that discriminate against minority-group members whose experiences differ from those of the white majority`
+3. To what degree is intelligence influenced by the environment and to what degree by heredity?
+4.  Group, blacks tend to average 10 to 15 IQ points lower than whites.Does this variation reflect a true difference in intelligence, or are the questions biased with regard to the kinds of knowledge they test? `Good reason to believe that some standardized IQ tests contain elements that discriminate against minority-group members whose experiences differ from those of the white majority`
 5.  
 ---
 #### Summary
@@ -951,7 +952,7 @@ must be satisfied.
 - **Self-actualization** A state of self-fulfillment in which people realize their highest potential in their own unique way. 
 - Maslows, approach spawned other approaches.Edward Deci and Richard Ryan (2008) have considered human needs in terms of psychological well-being. They suggest in their `self-determination theory`
 that people have the three basic needs of competence, autonomy, and relatedness. 
-Competence is the need to produce desired outcomes, while autonomy is the perception that we have control over our own lives. Finally, relatedness is the need to be 
+Competence is the need to produce desired outcomes, while autonomy is the perception that we have control over our own lives. Finally, relatedness is the need to be 
 involved in close, warm relationships with others. In the view of self-determination 
 theory, these three psychological needs are innate and universal across cultures, and 
 they are essential as basic biological needs
@@ -969,7 +970,7 @@ they are essential as basic biological needs
 ### Section 2: Human Needs and Motivation: Eat, Drink, and Be Daring
 #### Main Notes
 - **Obesity** Body weight that is more than 20% above the average weight for a person of a particular height. 
-- . Internal mechanisms regulate not only the quantity of food they take in, but also the kind of food they desire.
+- . Internal mechanisms regulate not only the quantity of food they take in, but also the kind of food they desire.
 -  Hypothalamus acts as the brain’s “feeding center” and is primarily responsible 
 for monitoring food intake.
 - **Weight set point** The particular level of weight that the body strives to maintain. 
@@ -978,7 +979,7 @@ for monitoring food intake.
 -  Psychologists suggest that oversensitivity to external eating cues based on 
 social factors, coupled with insensitivity to internal hunger cues, produce obesity. 
 Others argue that overweight people have higher `weight set points` than other people 
-do. Because their set points are unusually high, their attempts to lose weight by eating less may make them especially sensitive to external, food-related cues and therefore more apt to overeat and perpetuate their obesity.
+do. Because their set points are unusually high, their attempts to lose weight by eating less may make them especially sensitive to external, food-related cues and therefore more apt to overeat and perpetuate their obesity.
 - Another biologically based explanation for obesity relates to fat cells in the body. 
 Starting at birth, the body stores fat either by increasing the number of fat cells or 
 by increasing the size of existing fat cells. Furthermore, any loss of weight past infancy 
@@ -1007,7 +1008,7 @@ and easy results
 -  **Need for achievement** A stable, learned characteristic in which a person obtains satisfaction by striving for and attaining a level of excellence.`Levels`People high in achievement motivation generally choose tasks that are of intermediate difficulty .In contrast, people with low achievement motivation tend to be motivated primarily by a desire to avoid failure.They too difficult or too easy tasks.
 -  The measuring instrument used most frequently is the Thematic Apperception Test (TAT).Write a task achievement oriented story.`Page 379`
 -  **Need for affiliation** An interest in establishing and maintaining relationships with other people.
--  **Need for power** A tendency to seek impact, control, or infl uence over others and to be seen as a powerful individual.  Men with high power needs tend to show unusually high levels of aggression, drink heavily, act in a sexually exploitative manner.
+-  **Need for power** A tendency to seek impact, control, or infl uence over others and to be seen as a powerful individual.  Men with high power needs tend to show unusually high levels of aggression, drink heavily, act in a sexually exploitative manner.
 
 
 
@@ -1030,7 +1031,7 @@ the parallel notion that obesity is undesirable
 - **Emotions** Feelings that have both congnitive and physiological elements and that influence behaviour.
 - we can experience emotions that involve little or no conscious thought.
 **Function of Emotions**
-  1. `Preparing us for action` . Emotions act as a link between events in our environment and our responses.
+  1. `Preparing us for action` . Emotions act as a link between events in our environment and our responses.
   2.  `Shaping our future behavior` . Emotions promote learning that will help us make 
 appropriate responses in the future. For instance, your emotional response to 
 unpleasant events teaches you to avoid similar circumstances in the future.
@@ -1048,8 +1049,8 @@ to help them predict our future behavior.
 exist in descriptions of emotions among various cultures.
 - Some theorists suggest that specifi c bodily reactions cause us to experience 
 a particular emotion—we experience fear, for instance, because the heart is pounding 
-and we are breathing deeply. In contrast, other theorists suggest that the physiological reaction results from the experience of an emotion.
-- **James-Lange theory of emotion** The concept that emotional experience is a result of changes in physiology caused by events in our enviroment.Given by William James and Carl Lange.They suggested that for every major emotion there is an accompanying physiological or “gut” 
+and we are breathing deeply. In contrast, other theorists suggest that the physiological reaction results from the experience of an emotion.
+- **James-Lange theory of emotion** The concept that emotional experience is a result of changes in physiology caused by events in our enviroment.Given by William James and Carl Lange.They suggested that for every major emotion there is an accompanying physiological or “gut” 
 reaction of internal organs—called a `visceral experience`.`Page 385`
 **Issues** 
   1. Emotional experiences frequently occur even before there is time for certain physiological changes to be set into motion.
@@ -1063,11 +1064,11 @@ changes in terms of emotion.
 
 - **Cannon-Bard theory of emotion** The belief that both physiological arousal and emotional experience are produced simultaneously by the same nerve stimulus.  Walter Cannon and 
 later Philip Bard suggested an alternative view.
-**Development** More recent research has led to some important modifi cations of the theory. For one thing, we now understand that the hypothalamus and the limbic system, not the thalamus, play a major role in emotional experience. In addition, the simultaneous occurrence of the physiological and emotional responses, which is a fundamental assumption of the Cannon-Bard theory, has yet to be demonstrated conclusively
-- **THE SCHACHTER-SINGER THEORY** The belief that emotions are determined jointly by a nonspecific kind of physiological arousal and its interpretation, based on environmental cues. Example `Page 387`.Schachter and Singer believed, they were right in 
+**Development** More recent research has led to some important modifi cations of the theory. For one thing, we now understand that the hypothalamus and the limbic system, not the thalamus, play a major role in emotional experience. In addition, the simultaneous occurrence of the physiological and emotional responses, which is a fundamental assumption of the Cannon-Bard theory, has yet to be demonstrated conclusively
+- **THE SCHACHTER-SINGER THEORY** The belief that emotions are determined jointly by a nonspecific kind of physiological arousal and its interpretation, based on environmental cues. Example `Page 387`.Schachter and Singer believed, they were right in 
 assuming that when the source of physiological arousal is unclear, we may look to 
 our surroundings to determine what we are experiencing.
-- The amygdala , in the brain’s temporal lobe, is important in the experience of emotions for it provides a link between the perception of an emotionproducing stimulus and the recall of that stimulus later.
+- The amygdala , in the brain’s temporal lobe, is important in the experience of emotions for it provides a link between the perception of an emotionproducing stimulus and the recall of that stimulus later.
 - **Facial-affect program** Activation of a set of nerve impulses that make the face display the appropriate expression.
 - **Facial-feedback hypothesis** 
 The hypothesis that facial expressions not only reflect emotional experience but also help determine how people experience and label emotions. For instance, the muscles activated when we smile may send a message to the brain indicating the experience of happiness—even if there is nothing in the environment that would produce that particular emotion.Some psychologist argue that facial expressions are necessary for an emotion to be experienced.
@@ -1109,7 +1110,7 @@ gullible.
   2. At **anal stage**, the major source of pleasure changes from the mouth to the anal region, 
 and children obtain considerable pleasure from both retention and expulsion of feces. 
 If toilet training is particularly demanding, fi xation might occur. Fixation during the 
-anal stage might result in unusual rigidity, orderliness, punctuality—or extreme disorderliness or sloppiness—in adulthood.
+anal stage might result in unusual rigidity, orderliness, punctuality—or extreme disorderliness or sloppiness—in adulthood.
   3. **Phallic stage** According to Freud, a period beginning around age 3 during which a child’s pleasure focuses on the genitals. 
 - **Oedipal conflict** A child’s sexual interest in his or her opposite-sex parent, typically resolved through identification with the same-sex parent.
 - **Identification** The process of wanting to be like another person as much as possible, imitating that person’s behavior and adopting similar beliefs and values.
@@ -1125,13 +1126,13 @@ anal stage might result in unusual rigidity, orderliness, punctuality—or extre
 ![alt text](images/defense.PNG)
 
 - Some people fall prey to defense mechanisms to such an extent that they must constantly direct a large amount of psychic energy toward hiding and rechanneling unacceptable impulses. When this occurs, everyday living becomes difficult. In such cases, the result is a mental disorder produced by anxiety—what Freud called `neurosis`.
-- **Neo-Freudian psychoanalysts** Psychoanalysts who were trained in traditional Freudian theory but who later rejected some of its major points.
-- Freud generated an important method of treating psychological disturbances called `psychoanalysis`.
+- **Neo-Freudian psychoanalysts** Psychoanalysts who were trained in traditional Freudian theory but who later rejected some of its major points.
+- Freud generated an important method of treating psychological disturbances called `psychoanalysis`.
 
 -  **JUNG’S COLLECTIVE UNCONSCIOUS** Carl Jung (pronounced “yoong”), one of the most influential neo-Freudians, rejected Freud’s view of the primary importance of unconscious sexual urges. Instead, he looked at the primitive urges of the unconscious more positively and argued that 
 they represented a more general and positive life force.
 - **Collective unconscious** According to Jung, a common set of ideas, feelings, images, and symbols that we inherit from our ancestors, the whole human race, and even animal ancestors from the distant past.
-- **Archetypes** According to Jung, universal symbolic representations of a particular person, object, or experience. (such as good and evil).Like a `mother archetype`, which contains reflections of our ancestors’ relationships with mother figures, is suggested by the prevalence of mothers in art, religion, literature, and mythology.Personality types derived from Jung’s personality approach form the basis for the `Myers-Briggs personality test`.
+- **Archetypes** According to Jung, universal symbolic representations of a particular person, object, or experience. (such as good and evil).Like a `mother archetype`, which contains reflections of our ancestors’ relationships with mother figures, is suggested by the prevalence of mothers in art, religion, literature, and mythology.Personality types derived from Jung’s personality approach form the basis for the `Myers-Briggs personality test`.
 - `Page 500` Other Neo-freudians. Karen horney sometimes called the first female psychologist,She suggested that personality develops in context of social relationships especially with parents.. and Alfred adler says primary human motivation is striving for superiority.
 #### Thoughts
 ---
@@ -1167,7 +1168,7 @@ they represented a more general and positive life force.
 - Compared with other learning theories of personality, social cognitive approaches 
 are distinctive in their emphasis on the reciprocity between individuals and their 
 environment. Not only is the environment assumed to affect personality, but people’s 
-behavior and personalities are also assumed to “feed back” and modify the environment.
+behavior and personalities are also assumed to “feed back” and modify the environment.
 - **Self esteem** is not unidimensional. we view ourselves positively in one aspect and negatively in another.
 
 ![alt text](images/estm.PNG)
@@ -1224,18 +1225,18 @@ existence of temperaments from the time of birth, mean that we are destined to h
 ### Section 3:  Assessing Personality: Determining What Makes Us Distinctive  
 
 #### Main Notes
-- **Psychological tests** Standard measures devised to assess behavior objectively; used by psychologists to help people make decisions about their lives and understand more about themselves.
-- **Reliability** refers to a test’s measurement consistency. If a test is reliable, it yields the same result each time it is administered to a specifi c person or group. In contrast, unreliable tests give different results each time they are administered
+- **Psychological tests** Standard measures devised to assess behavior objectively; used by psychologists to help people make decisions about their lives and understand more about themselves.
+- **Reliability** refers to a test’s measurement consistency. If a test is reliable, it yields the same result each time it is administered to a specifi c person or group. In contrast, unreliable tests give different results each time they are administered
 - Tests have **validity** when they actually measure what they are designed to measure. If a test is constructed to measure sociability, for instance, we need to know that it actually measures sociability and not some other trait.
 - **Norms**, standards of test performance that permit the comparison of one person’s score on a test with the scores of others who have taken the same test. For example, a norm permits test-takers who have received a certain score on a test to know that they have scored in the top 10% of all those who have taken the test. 
 - **Self-report measures** A method of gathering data about people by asking them questions about a sample of their behavior.
 - **Minnesota Multiphasic Personality Inventory-2 (MMPI-2)** A widely used self-report test that identifies people with psychological difficulties and is employed to predict some everyday behaviors
-- **Test standardization** A technique used to validate questions in personality tests by studying the responses of people with known diagnoses.
-- **Projective personality test** A test in which a person is shown an ambiguous stimulus and asked to describe it or tell a story about it.Like `Rorschach inkblots` .Devised by Swiss psychiatrist Hermann Rorschach (1924),
+- **Test standardization** A technique used to validate questions in personality tests by studying the responses of people with known diagnoses.
+- **Projective personality test** A test in which a person is shown an ambiguous stimulus and asked to describe it or tell a story about it.Like `Rorschach inkblots` .Devised by Swiss psychiatrist Hermann Rorschach (1924),
 - **Rorschach test** A test that involves showing a series of symmetrical visual stimuli to people who then are asked what the figures represent to them.Many critics complain that the Rorschach does not provide much valid information about underlying personality traits.
 - **Thematic Apperception Test (TAT)** A test consisting of a series of pictures 
 about which a person is asked to write a story.
-- **Behavioral assessment** Direct measures of an individual’s behavior used to describe personality characteristics.
+- **Behavioral assessment** Direct measures of an individual’s behavior used to describe personality characteristics.
 #### Thoughts
 ---
 #### Keywords
@@ -1264,8 +1265,8 @@ about which a person is asked to write a story.
 - **Stress** A person’s response to events that are threatening or challenging. 
 - **Stressors** Cause stress
 - There are three general types of stressors: cataclysmic events, personal stressors, and background stressors.
-- **Cataclysmic events** are strong stressors that occur suddenly and typically affect many people simultaneously. Disasters such as tornadoes and plane crashes as well as terrorist 
-attacks are examples of cataclysmic events that can affect hundreds or thousands of people simultaneously. Difference between earthquake and terrorist attack in Cataclysmic events.`Page 528`
+- **Cataclysmic events** are strong stressors that occur suddenly and typically affect many people simultaneously. Disasters such as tornadoes and plane crashes as well as terrorist 
+attacks are examples of cataclysmic events that can affect hundreds or thousands of people simultaneously. Difference between earthquake and terrorist attack in Cataclysmic events.`Page 528`
 - **Personal stressors** include major life events such as the death of a parent or spouse, the loss of one’s job, a major personal failure, or even something positive such as getting married. Typically, personal stressors produce an immediate major reaction that soon tapers off. For example, stress arising from the death of a loved one tends to be greatest just after the time of death, but people begin to feel less stress and are better able to cope with the loss after the 
 passage of time. 
 - Some victims of major catastrophes and severe personal stressors experience `posttraumatic stress disorder, or PTSD`, in which a person has experienced a significantly stressful event that has long-lasting effects that may include re-experiencing the event in vivid flashbacks or dreams. An episode of PTSD may be triggered by an otherwise innocent stimulus, such as the sound of a honking horn, that leads a person to re-experience a past event that produced considerable stress.
@@ -1280,8 +1281,8 @@ minor irritations and may have
 long-term ill effects if they continue 
 or are compounded by other stressful 
 events
--  In fact, the number of daily `hassles` people face is associated with psychological symptoms and health problems such as flu, sore throat, and backaches. The flip side of hassles is `uplifts`, the minor positive events that make us feel good—even if only temporarily.What is especially intriguing about uplifts is that they are associated with people’s psychological health in just the opposite way that hassles are: The greater the number of uplifts we experience, the fewer the psychological symptoms we report later.
--  Exposure to stressors generates a rise in hormone secretions by the adrenal glands, an increase in heart rate and blood pressure, and changes in how well the skin conducts electrical impulses.
+-  In fact, the number of daily `hassles` people face is associated with psychological symptoms and health problems such as flu, sore throat, and backaches. The flip side of hassles is `uplifts`, the minor positive events that make us feel good—even if only temporarily.What is especially intriguing about uplifts is that they are associated with people’s psychological health in just the opposite way that hassles are: The greater the number of uplifts we experience, the fewer the psychological symptoms we report later.
+-  Exposure to stressors generates a rise in hormone secretions by the adrenal glands, an increase in heart rate and blood pressure, and changes in how well the skin conducts electrical impulses.
 - Continued exposure to stress results in a decline in the body’s overall 
 level of biological functioning because of the constant secretion of stress-related 
  hormones. Over time, stressful reactions can promote deterioration of body tissues 
@@ -1317,7 +1318,7 @@ disagree. They believe that people’s biological responses are specific to the 
 appraise a stressful event. If a stressor is seen as unpleasant but not unusual, then 
 the biological response may be different than if the stressor is seen as unpleasant, 
 out of the ordinary, and unanticipated. 
-- **Consequences of stress** First, stress has direct physiological results, including an increase in blood pressure, an increase in hormonal activity, and an overall decline in the functioning of the immune system. Second, stress leads people to engage in behaviors that are 
+- **Consequences of stress** First, stress has direct physiological results, including an increase in blood pressure, an increase in hormonal activity, and an overall decline in the functioning of the immune system. Second, stress leads people to engage in behaviors that are 
 harmful to their health, including increased nicotine, drug, and alcohol use; poor 
 eating habits; and decreased sleep. Finally, stress produces indirect consequences that 
 result in declines in health: a reduction in the likelihood of obtaining health care.
@@ -1338,8 +1339,8 @@ example of problem-focused coping. In addition, one might take a time-out
 from stress by creating positive events. For example, taking a day off from 
 caring for a relative with a serious, chronic illness to go a health club or spa 
 can bring significant relief from stress. 
-- One of the least effective forms of coping is **avoidant coping**. In avoidant coping, a person may use wishful thinking to reduce stress or use more direct escape routes, such as drug use, alcohol use, and overeating. An example of wishful thinking to avoid a test would be to say to oneself, “Maybe it will snow so hard tomorrow that the test will be canceled.”
-- **Defense mechanisms** defense mechanisms are unconscious strategies that people use to reduce anxiety by concealing the source of stress from themselves and others.
+- One of the least effective forms of coping is **avoidant coping**. In avoidant coping, a person may use wishful thinking to reduce stress or use more direct escape routes, such as drug use, alcohol use, and overeating. An example of wishful thinking to avoid a test would be to say to oneself, “Maybe it will snow so hard tomorrow that the test will be canceled.”
+- **Defense mechanisms** defense mechanisms are unconscious strategies that people use to reduce anxiety by concealing the source of stress from themselves and others.
 - Another defense mechanism used to cope with stress is `emotional insulation` in 
 which a person stops experiencing any emotions at all and thereby remains unaffected and unmoved by both positive and negative experiences. The problem with defense mechanisms, of course, is that they merely hide the problem and do not deal with reality. 
 - **Learned helplessness** A state in which 
@@ -1424,7 +1425,7 @@ produces an increased incidence of coronary heart disease.
 
 ### Section 3:  Promoting Health and Wellness  
 #### Main Notes
-- **Reactance** A negative emotional and cognitive reaction that results from the restriction of one’s freedom. For instance, a man who is placed on a strict diet may experience reactance and tend to eat even more than he did before his diet was restricted.
+- **Reactance** A negative emotional and cognitive reaction that results from the restriction of one’s freedom. For instance, a man who is placed on a strict diet may experience reactance and tend to eat even more than he did before his diet was restricted.
 - **Positively framed messages** suggest that a change in behavior will lead to a gain and thus emphasize the benefits of carrying out a health related behavior. For instance, suggesting that skin cancer is curable if it is detected early and that you can reduce your chances of getting the disease by using a sun screen places information in a positive frame. 
 - **Negatively framed messages** highlight what you can lose by not performing a behavior. For instance, a physician might say that if you don’t use sunscreen, you’re more likely to get skin cancer, which can kill you if it’s not detected early. 
 - **subjective well-being** People’s own evaluation of their lives in terms of both their thoughts and their emotions.
@@ -1471,21 +1472,21 @@ their actions.Although, some of the more severe forms of psychological disturban
 major depression and schizophrenia, are influenced by genetic factors and malfunctions in neurotransmitter signals
   2. **Psychoanalytic perspective** 
 The perspective that suggests that 
-abnormal behavior stems from childhood confl icts over opposing wishes 
-regarding sex and aggression. To uncover the roots of people’s disordered behavior, the psychoanalytic perspective scrutinizes their early life history. However, because there is no conclusive 
+abnormal behavior stems from childhood confl icts over opposing wishes 
+regarding sex and aggression. To uncover the roots of people’s disordered behavior, the psychoanalytic perspective scrutinizes their early life history. However, because there is no conclusive 
 way to link people’s childhood experiences with the abnormal behaviors they display 
 as adults, we can never be sure that the causes suggested by psychoanalytic theory 
 are accurate. Moreover, psychoanalytic theory paints a picture of people as having 
-relatively little control over their behavior because much of it is guided by unconscious impulses.`Criticism:` In the eyes of some critics, this perspective suggests that people 
+relatively little control over their behavior because much of it is guided by unconscious impulses.`Criticism:` In the eyes of some critics, this perspective suggests that people 
 have little responsibility for their own behavior. 
-  3. **Behavioral perspective** The perspective that looks at the behavior itself as 
+  3. **Behavioral perspective** The perspective that looks at the behavior itself as 
 the problem.Using the basic principles of learning, behavioral 
 theorists see both normal and abnormal behaviors as responses to various stimuli—
 responses that have been learned through past experience and are guided in the 
 present by stimuli in the individual’s environment. To explain why abnormal behavior 
-occurs, we must analyze how an individual has learned it and observe the circumstances in which it is displayed. 
+occurs, we must analyze how an individual has learned it and observe the circumstances in which it is displayed. 
  The emphasis on observable behavior represents both the greatest strength and 
-the greatest weakness of the behavioral approach to abnormal behavior. This perspective provides the most precise and objective approach for examining behavioral 
+the greatest weakness of the behavioral approach to abnormal behavior. This perspective provides the most precise and objective approach for examining behavioral 
 symptoms of specifi c disorders, such as attention-defi cit hyperactivity disorder 
 (ADHD).`Criticism:` At the same time, though, critics 
 charge that the perspective ignores the rich inner world of thoughts, attitudes, and 
@@ -1494,22 +1495,22 @@ emotions that may contribute to abnormal behavior.
 that suggests that people’s thoughts 
 and beliefs are a central component of 
 abnormal behavior. The medical, psychoanalytic, and behavioral perspectives view people’s behavior as the result of factors largely beyond their control. To many critics of these views, 
-however, people’s thoughts cannot be ignored. `Treatment:` A primary goal of treatment using the cognitive perspective is to explicitly teach new, more adaptive ways of thinking. 
+however, people’s thoughts cannot be ignored. `Treatment:` A primary goal of treatment using the cognitive perspective is to explicitly teach new, more adaptive ways of thinking. 
  For instance, suppose that you develop the erroneous belief that “doing well on 
-this exam is crucial to my entire future” whenever you take an exam. Through therapy, you might learn to hold the more realistic and less anxiety-producing thought, 
+this exam is crucial to my entire future” whenever you take an exam. Through therapy, you might learn to hold the more realistic and less anxiety-producing thought, 
 “my entire future is not dependent on this one exam.”`Criticism:` The cognitive perspective is not without critics. For example, it is possible that maladaptive cognitions are the symptoms or consequences of disorders rather than 
 their cause. Furthermore, there are circumstances in which negative beliefs may not 
 be irrational at all but simply refl ect the unpleasant environments in which people 
 live—after all, there are times when a single exam may be extremely important.
-  5. **Humanistic perspective** The perspective that emphasizes the responsibility 
+  5. **Humanistic perspective** The perspective that emphasizes the responsibility 
   people have for their own behavior, 
-  even when such behavior is abnormal.`Criticism:` Although the humanistic perspective has been criticized for its reliance on unscientific, unverifiable information and its vague, almost philosophical formulations, it 
+  even when such behavior is abnormal.`Criticism:` Although the humanistic perspective has been criticized for its reliance on unscientific, unverifiable information and its vague, almost philosophical formulations, it 
   offers a distinctive view of abnormal behavior. It stresses the unique aspects of being 
   human and provides a number of important suggestions for helping those with 
-  psychological problems.`Treatment:` Rather than assuming that individuals require a “cure,” the humanistic perspective suggests that they can, by and large, set their own limits of what is 
+  psychological problems.`Treatment:` Rather than assuming that individuals require a “cure,” the humanistic perspective suggests that they can, by and large, set their own limits of what is 
   acceptable behavior. As long as they are not hurting others and do not feel personal 
   distress, people should be free to choose the behaviors in which they engage.
-  6. **Sociocultural perspective** The perspective that assumes that people’s 
+  6. **Sociocultural perspective** The perspective that assumes that people’s 
   behavior—both normal and abnormal—
   is shaped by the kind of family group, 
   society, and culture in which they live. `Treatment:` . Furthermore, sociocultural explanations provide relatively little 
@@ -1522,7 +1523,7 @@ diagnoses of schizophrenia tend to be higher among members of lower socioeconomi
 groups than among members of more affluent groups. 
 - **Diagnostic and Statistical Manual of Mental Disorders** A system, 
 devised by the American Psychiatric 
-Association, used by most professionals to diagnose and classify abnormal 
+Association, used by most professionals to diagnose and classify abnormal 
 behavior. 
 - **Axis** Factors which have to be considered in assessing a patient
  1. Axis I: Clinical Disorders. Disorders that produce distress and impair 
@@ -1537,24 +1538,24 @@ and outcome of psychological disorders.
  5. Axis V: Global Assessment of Functioning. Overall level of mental, social, 
 occupational, and leisure functioning. 
 
-- **THE SHORTCOMINGS OF DSM** When clinical psychologist David Rosenhan and eight colleagues sought admission to separate mental hospitals across the United States in the 1970s, each stated 
+- **THE SHORTCOMINGS OF DSM** When clinical psychologist David Rosenhan and eight colleagues sought admission to separate mental hospitals across the United States in the 1970s, each stated 
 that he or she was hearing voices—“unclear voices” that said “empty,” “hollow,” 
 and “thud”—and each was immediately admitted to the hospital. However, the 
 truth was that they actually were conducting a study, and none of them was really 
 hearing voices.We might assume that Rosenhan and his colleagues would have been quickly 
 discovered as the impostors they were, but this was not the case. Instead, each of 
-them was diagnosed as severely abnormal on the basis of observed behavior. Mental health professionals labeled most as suffering from schizophrenia and kept them 
-in the hospital 3–52 days.`Rosenhan’s classic study illustrate` that placing labels on individuals powerfully influences the way mental health workers perceive and interpret their 
+them was diagnosed as severely abnormal on the basis of observed behavior. Mental health professionals labeled most as suffering from schizophrenia and kept them 
+in the hospital 3–52 days.`Rosenhan’s classic study illustrate` that placing labels on individuals powerfully influences the way mental health workers perceive and interpret their 
 actions. It also points out that determining who is psychologically disordered is not 
-always a clear-cut or accurate process.`Issues:` some critics argue that labeling an individual as abnormal provides a de-humanizing, lifelong stigma. (Think, for example, of political contenders whose candidacies have been terminated by the disclosure that they received treatment for severe 
+always a clear-cut or accurate process.`Issues:` some critics argue that labeling an individual as abnormal provides a de-humanizing, lifelong stigma. (Think, for example, of political contenders whose candidacies have been terminated by the disclosure that they received treatment for severe 
 psychological disorders.`Advantages:` DSM-IV-TR has had 
-an important influence on the way in which mental health professionals view psychological disorders. It has increased both the reliability and the validity of diagnostic categorization. In addition, it offers a logical way to organize examination of the 
+an important influence on the way in which mental health professionals view psychological disorders. It has increased both the reliability and the validity of diagnostic categorization. In addition, it offers a logical way to organize examination of the 
 major types of mental disturbance.
 - **Phobias** Intense, irrational fears of specifi c objects or situations.
 - **Panic disorder** Anxiety disorder that 
 takes the form of panic attacks lasting 
 from a few seconds to several hours. Panic attacks seemingly come out of nowhere and are 
-unconnected to any specifi c stimulus.In addition to the physical symptoms, panic disorder affects how the brain processes information. For instance, people with panic disorder have reduced reactions in the anterior cingulate cortex to stimuli (such as viewing a fearful face) that normally produce a strong reaction in those without the disorder. It may be that recurring high levels of emotional arousal that patients with panic disorder experience 
+unconnected to any specifi c stimulus.In addition to the physical symptoms, panic disorder affects how the brain processes information. For instance, people with panic disorder have reduced reactions in the anterior cingulate cortex to stimuli (such as viewing a fearful face) that normally produce a strong reaction in those without the disorder. It may be that recurring high levels of emotional arousal that patients with panic disorder experience 
 desensitizes them to emotional stimuli.
 - **Generalized anxiety disorder** 
 The experience of long-term, 
@@ -1577,7 +1578,7 @@ no medical cause.
 - Hypochondriasis** A disorder in which 
 people have a constant fear of illness 
 and a preoccupation with their health. It is a form of Somatoform disorder.
-- **Conversion disorder** A major somatoform disorder that involves an actual 
+- **Conversion disorder** A major somatoform disorder that involves an actual 
 physical disturbance, such as the 
 inability to use a sensory organ or the 
 complete or partial inability to move 
@@ -1614,7 +1615,7 @@ a person alternates between periods of
 euphoric feelings of mania and periods 
 of depression.
 - **schizophrenia** A class of disorders in 
-which severe distortion of reality occurs.A number of characteristics reliably distinguish schizophrenia from other disorders. They include the following:`Page 578`
+which severe distortion of reality occurs.A number of characteristics reliably distinguish schizophrenia from other disorders. They include the following:`Page 578`
 - Thinking and logic is frequently faulty and peculiar, which is referred to as a `formal thought disorder` . “Why do you 
 think people believe in God?” 
  Uh, let’s, I don’t know why, let’s see, balloon travel. He holds it up for you, the 
@@ -1627,7 +1628,7 @@ point where others cannot overlook it. In other cases, known as reactive schizop
 the onset of symptoms is sudden and conspicuous. The treatment outlook for reactive 
 schizophrenia is relatively favorable, but process schizophrenia has proved more 
 diffi cult to treat.`Cause`  dopamine hypothesis suggests that schizophrenia occurs 
-when there is excess activity in the areas of the brain that use dopamine as a neurotransmitter.
+when there is excess activity in the areas of the brain that use dopamine as a neurotransmitter.
 
   ![alt text](images/schizo.PNG)
 
@@ -1657,7 +1658,7 @@ A disorder in which individuals have
 difficulty developing a secure sense 
 of who they are.
 -  **Narcissistic personality disorder** 
-A personality disturbance characterized by an exaggerated sense of 
+A personality disturbance characterized by an exaggerated sense of 
 self- importance.
 -  **Childhood Disorders** 
 -  **Attention-deficit hyperactivity disorder (ADHD)** A disorder marked 
@@ -1741,12 +1742,12 @@ you are studying.
 ---
 #### Keywords
 #### Questions
-1. How prevalent are psychological disorders?
+1. How prevalent are psychological disorders?
 2. What indicators signal a need for the help of a mental health practitioner? 
 3. How common are the kinds of psychological disorders ? Every second person you meet in theUnited States is likely to suffer at some point during his or her life from a psychological disorder. `Page 588`
 4. What is comorbidity ?
 5. Why was self-defeating personality disorder and premenstrual dysphoric disorder removed from DSM ? `Page 590`
-6. Do you think college students might be at particular risk for developing a psychological disorder? Why?
+6. Do you think college students might be at particular risk for developing a psychological disorder? Why?
 7. Why might having a parent lose a job during the school year lead to an increased 
 risk for depression?
 Give an example of abnormality changes according to cultures ? `Page 592` Red indian talking to ancestors example.
@@ -1771,13 +1772,13 @@ patients may deal with the problems
 more effectively. 
 - Anxiety associated with unacceptable conflicts and impluses can produce abnormal behavior in the form of what 
 Freud called neurotic symptoms .
-- **Psychoanalysis** Freudian psychotherapy in which the goal is to release 
+- **Psychoanalysis** Freudian psychotherapy in which the goal is to release 
 hidden unconscious thoughts and 
 feelings in order to reduce their power 
 in controlling behavior. They often use a technique developed by Freud called **free association** Psychoanalysts using this technique tell patients to say aloud whatever comes to mind, 
 regardless of its apparent irrelevance or senselessness.**Resistance**
 is an inability or unwillingness to discuss or reveal particular memories.**Transference** is the transfer to a psychoanalyst feelings of 
-love or anger that had been originally directed to a patient’s parents or other authority fi gures.
+love or anger that had been originally directed to a patient’s parents or other authority fi gures.
 - **Behavioral treatment** approaches 
  Treatment approaches that build on 
 the basic processes of learning, such as 
@@ -1798,7 +1799,7 @@ stimulus that they fear.
 - One example of the systematic application of operant conditioning principles is 
 the `token system`, which rewards a person for desired behavior with a token such as 
 a poker chip or some kind of play money. Although it is most frequently employed 
-in institutional settings for individuals with relatively serious problems and sometimes with children as a classroom management technique
+in institutional settings for individuals with relatively serious problems and sometimes with children as a classroom management technique
 - **Contingency contracting** `Page 605`
 - Behavioural therapists also use observational learning .
 - **Dialectical behavior therapy** A form 
@@ -1809,7 +1810,7 @@ ideal.
 -  **cognitive treatment approaches** Treatment approaches that teach people to 
 think in more adaptive ways by changing their dysfunctional cognitions about the world and themselves.
 -  **cognitive-behavioral approach** 
-A treatment approach that incorporates basic principles of learning to 
+A treatment approach that incorporates basic principles of learning to 
 change the way people think. 
 - **Rational-emotive behavior therapy** 
 A form of therapy that attempts to 
@@ -1818,14 +1819,14 @@ into a more realistic, rational, and
 logical set of views by challenging 
 dysfunctional beliefs that maintain 
 irrational behavior. 
-- In `cognitive appraisal`, clients are asked to evaluate situations, themselves, and others in terms of their memories, values, beliefs, thoughts, and 
+- In `cognitive appraisal`, clients are asked to evaluate situations, themselves, and others in terms of their memories, values, beliefs, thoughts, and 
 expectations. During the course of treatment, therapists help clients discover ways 
 of thinking more appropriately about themselves and others
 #### Thoughts
 ---
 #### Keywords
 #### Questions
-1. What are the goals of psychologically and biologically based treatment approaches? 
+1. What are the goals of psychologically and biologically based treatment approaches? 
 2. What are the psychodynamic, behavioral, and cognitive approaches to treatment?
 3. What is Psychotherapy ?
 4. What is Biomedical Therapy ?
@@ -1869,11 +1870,11 @@ own problems.
 - **Person-centered therapy**(also called client-centered therapy) Therapy 
 in which the goal is to reach one’s 
 potential for self-actualization. 
-- **Interpersonal therapy (IPT)** Shortterm therapy that focuses on the 
+- **Interpersonal therapy (IPT)** Shortterm therapy that focuses on the 
 context of current social relationships. 
 -  **Group therapy**   Therapy in which 
 people meet in a group with a therapist to discuss problems.Groups vary greatly in terms of the particular model they employ; 
-there are psychoanalytic groups, humanistic groups, and groups corresponding to the other therapeutic approaches
+there are psychoanalytic groups, humanistic groups, and groups corresponding to the other therapeutic approaches
 -  **Family therapy** An approach that 
 focuses on the family and its dynamics
 -  **spontaneous remission** Recovery 
@@ -1885,7 +1886,7 @@ without treatment.
 1. What are the humanistic approaches to treatment? 
 2. What is interpersonal therapy? 
 3. How does group therapy differ from individual types of therapy? 
-4. How effective is psychotherapy, and which kind of psychotherapy works best in a given situation? 
+4. How effective is psychotherapy, and which kind of psychotherapy works best in a given situation? 
 5. What is person centered therapy ? Is it used today ?
 6. Evaluate humanistic therapy ?`Page 612` 
 7. What is group therapy ? 
@@ -1904,7 +1905,7 @@ without treatment.
 - **Drug therapy** Control of psychological 
 disorders through the use of drugs. 
 - **Antipsychotic drugs** Drugs that 
-temporarily reduce psychotic symptoms such as agitation, hallucinations, 
+temporarily reduce psychotic symptoms such as agitation, hallucinations, 
 and delusions. 
 
 ![alt text](images/drug.PNG)
@@ -1943,12 +1944,12 @@ message itself
 occurs when a person holds two 
 contradictory attitudes or thoughts 
 (referred to as cognitions).Smokers know smoking leads to lung cancer. `637` Way to modify cognition.
-- **Social cognition** The cognitive processes by which people understand and 
+- **Social cognition** The cognitive processes by which people understand and 
 make sense of others and themselves.
 - **schemas** Sets of cognitions about 
 people and social experiences. schema for “teacher,”
 - **Impression Formation** The process by which an individual organizes information about another person to form an overall impression of that person.
-- **central traits** The major traits considered in forming impressions of others.
+- **central traits** The major traits considered in forming impressions of others.
 - Happy people form more favorable impressions and make more 
 positive judgments than people who are in a bad mood
 - **Attribution theory** The theory of 
@@ -1960,7 +1961,7 @@ behavior are.
 - **situational causes** (of behavior) 
 Perceived causes of behavior that 
 are based on environmental factors.
-- **Dispositional causes** (of behavior) Perceived causes of behavior that are based 
+- **Dispositional causes** (of behavior) Perceived causes of behavior that are based 
 on internal traits or personality factors.
 **Bias** is a natural inclination for or against an idea, object, group, or individual. It is often learned and is highly dependent on variables like a person’s socioeconomic status, race, ethnicity, educational background.
 - These are Biases
@@ -1968,7 +1969,7 @@ on internal traits or personality factors.
 an initial understanding that a person 
 has positive traits is used to infer other 
 uniformly positive characteristics.
-- **Assumed-similarity bias** The tendency to think of people as being 
+- **Assumed-similarity bias** The tendency to think of people as being 
 similar to oneself even when meeting 
 them for the first time.
 - **Self-serving bias** The tendency to 
@@ -2137,10 +2138,10 @@ or harm to, another person.
 - **Catharsis** The process of discharging 
 built-up aggressive energy.
 - **Frustration-aggression theory** tries to explain aggression in terms of 
-events like this one. It suggests that frustration (the reaction to the thwarting or blocking of goals) produces anger, which leads to a readiness to 
+events like this one. It suggests that frustration (the reaction to the thwarting or blocking of goals) produces anger, which leads to a readiness to 
 act aggressively.
 - **Diffusion of responsibility** The 
-tendency for people to feel that responsibility for acting is shared, or diffused, 
+tendency for people to feel that responsibility for acting is shared, or diffused, 
 among those present.
 - Model of helping Process
  ![alt text](images/help.PNG)
@@ -2154,7 +2155,7 @@ self-sacrifice.
 #### Keywords
 #### Questions
 1. Why are we attracted to certain people, and what progression do social relationships follow?
-2. What factors underlie aggression and prosocial behavior?
+2. What factors underlie aggression and prosocial behavior?
 3. What are the factors that initially attract two people to each other ?`658`
 4. Why do we tend to like those who are similar to us ?`659`
 5. Difference between liking and loving ? 
@@ -2198,7 +2199,7 @@ method that investigates behavior as
 participants age. 
 - **sequential research** A research 
 method that combines cross-sectional 
-and longitudinal research by considering a number of different age groups 
+and longitudinal research by considering a number of different age groups 
 and examining them at several points 
 in time. 
 #### Thoughts
@@ -2272,7 +2273,7 @@ bond that develops between a child
 and a particular individual.
  ![alt text](images/parent.PNG)
 - **Authoritarian parents** Parents who are 
-rigid and punitive and value unquestioning obedience from their children
+rigid and punitive and value unquestioning obedience from their children
 - **Permissive parents** Parents who give 
 their children relaxed or inconsistent 
 direction and, although they are warm, 
@@ -2315,9 +2316,9 @@ task on his or her own.
 ---
 #### Keywords
 #### Questions
-1. What are the major competencies of newborns? 
-2. What are the milestones of physical and social development during childhood? 
-3. How does cognitive development proceed during childhood? 
+1. What are the major competencies of newborns? 
+2. What are the milestones of physical and social development during childhood? 
+3. How does cognitive development proceed during childhood? 
 4. What is a neonate ? What causes the strange shape of a neonate ?
 5. What are reflexes ?
 6. What is the sucking reflex,gag reflex,babinski reflex,startle reflex ?`448`
@@ -2353,7 +2354,7 @@ task on his or her own.
 #### Main Notes
 -  **Adolescence** The developmental stage 
 between childhood and adulthood. 
-- **Puberty** The period at which maturation of the sexual organs occurs, 
+- **Puberty** The period at which maturation of the sexual organs occurs, 
 beginning at about age 11 or 12 for 
 girls and 13 or 14 for boys. 
  ![alt text](images/moralDev.PNG)
@@ -2400,7 +2401,7 @@ cells have a built-in time limit to their
 reproduction and that they are no 
 longer able to divide after a certain time.
 - **wear-and-tear theories** of aging 
-Theories that suggest that the mechanical functions of the body simply stop 
+Theories that suggest that the mechanical functions of the body simply stop 
 working efficiently. 
 - Declines in cognitive functioning in late adulthood are, for the most 
 part, not inevitable. The key to maintaining cognitive skills may lie in intellectual 
@@ -2423,7 +2424,7 @@ lives.
 #### Keywords
 #### Questions
 1.  What are the principal kinds 
-of physical, social, and intellectual changes that occur in 
+of physical, social, and intellectual changes that occur in 
 early and middle adulthood, 
 and what are their causes? 
 2. How does the reality of late 
@@ -2439,14 +2440,14 @@ homes with only one parent?`479`
 8.  Why is iq lower in older age ? `482`
 9.  What aspects of video games do you think would be most helpful in preventing 
 cognitive declines in late adulthood?
-10. What other sorts of activities do you think would be helpful in averting such cognitive deterioration?
+10. What other sorts of activities do you think would be helpful in averting such cognitive deterioration?
 11. One of the characteristics most frequently attributed to late adulthood is 
 forgetfulness. How accurate is this assumption?
 12. How does alzeimer's disease happen ?`484`
 13. What is Disengagement theory of aging ?
 14. What is activity theory of aging ? 
 15. What stages do ppl go through when facing impending death ?`486`Kübler-Ross
-16. What is preparatory grief ?
+16. What is preparatory grief ?
 17. 
 
 ---
@@ -2476,7 +2477,7 @@ environment
 leaders high in consideration act in a warm and supportive manner and show 
 concern for their subordinates. Person-oriented leaders believe that employees 
 are intrinsically motivated, seek responsibility, are self-controlled, and do not 
-necessarily dislike work. Because of these assumptions, person-oriented leaders consult their subordinates before making decisions, praise their work.Under pressure, person-oriented leaders tend to become socially withdrawn.
+necessarily dislike work. Because of these assumptions, person-oriented leaders consult their subordinates before making decisions, praise their work.Under pressure, person-oriented leaders tend to become socially withdrawn.
 - **Task-oriented leaders** such as task-centered leaders, Theory X leaders, and 
 leaders high in initiating structure define and structure their own roles and those 
 of their subordinates to attain the group’s formal goals. Task-oriented leaders see 
@@ -2486,7 +2487,7 @@ manage or lead by giving directives, setting goals, and making decisions without
 consulting their subordinates. Under pressure, they become anxious, defensive, and 
 dominant
 -  **IMPACT theory**, was developed by Geier, 
-Downey, and Johnson (), who believed that each leader has one of six behavioral styles: informational, magnetic, position, affiliation, coercive, or tactical. 
+Downey, and Johnson (), who believed that each leader has one of six behavioral styles: informational, magnetic, position, affiliation, coercive, or tactical. 
 Each style is effective in only a particular situation, or in what the researchers 
 call an organizational climate.`469`
 - According to House’s path–goal theory, a leader can adopt one of four 
