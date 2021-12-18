@@ -703,7 +703,7 @@ distinct storage-and-rehearsal systems: the visual store, the verbal store, and 
 4. Working memory and how it operates ?What sections are there ? `267`
 5. `What is the distinction between Long term and short term memory?` The distinction between short- and long-term memory is also supported by the serial position effect, in which the ability to recall information in a list depends on where in the list an item appears. For instance, often a primacy effect occurs, in which items presented early in a list are remembered better. There is also a recency effect, in which items presented late in a list are remembered best.
 6. `Where is long termn memory located in the brain ?` Different parts of brain specialize in different types of memory activities.`Hippocampus`, a part of the brain’s limbic system plays a central role in the consolidation of memories.`Amygdala` is especially involved with memories involving emotion. For example, if you are frightened by a large Doberman, you’re likely to 
-remember the event vividly.
+remember the event vividly.`272`
 6. `How is the transformation of information into a memory reflected at the level of neurons?` One answer is `long-term potentiation`, which shows that certain neural pathways 
 become easily excited while a new response is being learned. At the same time, the number of synapses between neurons increase as the dendrites branch out to receive 
 messages. These changes reflect a process called consolidation , in which memories 
@@ -1142,10 +1142,10 @@ they represented a more general and positive life force.
 - 
 #### Questions
 1. How do psychologists define and use the concept of personality?
-2. What do the theories of Freud and his successors tell us about the structure and development of personality? 
+2. What do the theories of Freud and his successors tell us about the structure and development of personality? `494`
 3. What would happen if the personality is only driven by superego or id ?
-4. Different stages of development freud theory ?
-5. What was the controversy concerned with freuds phallic stage ? 
+4. Different stages of development freud theory ?`495`
+5. What was the controversy concerned with freuds phallic stage ? `495`
 6. Is identification similar in all cultures?
 7. Criticism on Freuds theory ? 3 `498`
 8. karen horneys perspective ?`500`
@@ -1210,9 +1210,9 @@ strong genetic components
 18. How much consistancy exists in personality ? `Page 507` Walter Mishcel thoughts and CAPS system.
 19. How can low self-esteem lead to a cycle of failure ?`Page 507` self esteem in cultures ?
 20. Evaluate different personality approaches ?
-21. What is biological and evolution personality appraoch ?
-22. Which personality traits are more like to be hereditary ? Give example ? 
-23. What is temperament ?
+21. What is biological and evolution personality appraoch ? twins ?`509`
+22. Which personality traits are more like to be hereditary ? Give example ? `509`
+23. What is temperament ?`509`
 24. Does the identification of specifi c genes linked to personality, coupled with the 
 existence of temperaments from the time of birth, mean that we are destined to have certain types of personalities?`Page 510`
 25. What fault does humanist theorists consider all other approaches have ?`Page 511`
