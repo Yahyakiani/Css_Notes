@@ -4,7 +4,13 @@
 - Default Book: `Understanding Psychology by Feldman` (UP)
 - Jargon: symptoms,victim,maladaptive
 - Alway read the Recap chapter part after each chapter
-## Part 1
+## Progress
+| Chapters | Progress | 
+|----------------|---------------|
+| Personality | &#10004; Done
+| Learning   | &#10004; Done
+| Memory   |   &#9744; Done
+| Intelligence   |   &#9744; In Progress
 
 ---
 ### Definition and scope
@@ -712,6 +718,7 @@ become fixed and stable in long-term memory
 8. What might be some of the practical or ethical issues involved with erasing unwanted memories?
 9.  `Why are memory traces are distributed throughout the brain ?` when you recall a beautiful beach sunset, your recollection draws on memory stores located in visual areas of the brain 
 (the view of the sunset), auditory areas (the sounds of the ocean). Diff areas process differet types of memory.
+10. What are semantic networks ?`270`
 
 ---
 
@@ -746,10 +753,19 @@ that are so vivid they represent a virtual snapshot of the event.e.g memory of a
 ---
 #### Keywords
 #### Questions
-1. What causes diffi culties and failures in remembering?
-2. Difference between recall and recognition ?
-3. Why do mistaken identities or memory prone erros happen in court of law ? One reason it happens is that questions word by prosecutor or police officers effect the they recall that information. Second is weapons when a criminal brings out a gun it serves as an attention magnet and victims pay less attention to their surroundings and focus on the weapon.
-4. What is the controversy regarding repressed memories ? When the source of memory becomes unclear and ambigious.People become confused and doubt whether the memories is real of fabricated .
+1. What causes diffi culties and failures in remembering?`283`
+2. Difference between recall and recognition ?`276`
+3. Levels of Processing theory ?`277` Different levels and example ?
+4. Explicit vs implicit memeory and example ?`278`
+5. What is priming ?Example ?`278`
+6. Source amnesia ? Example ? `279`
+7. memory is a constructive process ?What does it mean ? `280`
+8. What is schema and its relevance ? Its association with prejudice ? and its experiment example ?`281`
+9. Why do mistaken identities or memory prone erros happen in court of law ? `One reason it happens is that questions word by prosecutor or police officers affect the way they recall that information. Second is weapons when a criminal brings out a gun it serves as an attention magnet and victims pay less attention to their surroundings and focus on the weapon.`
+10. What is the controversy regarding repressed memories ? When the source of memory becomes unclear and ambigious.People become confused and doubt whether the memories is real of fabricated .`281`
+11. Why are children unreliable witnesses ?example `282`
+12. How do false memories develop ?`282`
+13. Autobiographical memories ?Example ?`283`
 
 
 ---
@@ -818,13 +834,16 @@ commercial memory enhancers are effective
 
 #### Questions
 1. Why do we forget information? Failure due to encode.lack of attention.Never transfered the information to long term memory. 
-2. What are the major memory impairments?
-3. Difference between interference and decay?In decay, the old books are constantly crumbling and rotting away, leaving room for new arrivals. Interference processes suggest that new books knock the old ones off the shelf, where they become inaccessible. 
-4. `Forgetting is caused by the actual loss or modifi cation of information or by problems in the retrieval of information ?` Most research suggests that material that has apparently been lost 
+2. What is decay ?`287`
+3. Who do we forget ?`287` Prcesses which contribute towards decay ?
+4. Proactive interference and retroactive interference ? Example ?`288`
+5. What are the major memory impairments?
+6. Difference between interference and decay?In decay, the old books are constantly crumbling and rotting away, leaving room for new arrivals. Interference processes suggest that new books knock the old ones off the shelf, where they become inaccessible. 
+7. `Forgetting is caused by the actual loss or modification of information or by problems in the retrieval of information ?` Most research suggests that material that has apparently been lost 
 because of interference can eventually be recalled if appropriate stimuli are presented 
 (Tulving & Psotka, 1971; Anderson, 1981), but the question has not been fully 
 answered. 
-5. 
+5. Amnesia ? retrograde amnesia ? Anterograde amnesia ?`290`
 ---
 #### Summary
 ---
