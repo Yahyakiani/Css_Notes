@@ -7,10 +7,12 @@
 ## Progress
 | Chapters | Progress | 
 |----------------|---------------|
-| Personality | &#10004; Done
-| Learning   | &#10004; Done
-| Memory   |   &#9744; Done
-| Intelligence   |   &#9744; In Progress
+| [Personality](#personality) | &#10004; Done
+| [Learning](#learning)   | &#10004; Done
+| [Memory](#memory)   |   &#10004; Done
+| [Intelligence](#intelligence)   |   &#10004; Done
+| [Motivation and Emotion](#motivation-and-emotion)   |   &#9744; In Progress
+| [Health Psychology](#health-psychology)   |   &#9744; In Progress
 
 ---
 ### Definition and scope
@@ -478,7 +480,7 @@ amount of light into the eye?
 #### Summary
 
 --- 
-## Part 4 : Learning and Memory
+## Learning
 ### Section 1: Classical Conditioning
 #### Main Notes
 - **Learning** A relatively permanent change brought about by experience.
@@ -704,7 +706,7 @@ distinct storage-and-rehearsal systems: the visual store, the verbal store, and 
 - 
 #### Questions
 1. What is memory?`263`
-2. Are there diff erent kinds of memory?`264`
+2. Are there different kinds of memory?`264`
 3. What are the biological bases of memory?
 4. Working memory and how it operates ?What sections are there ? `267`
 5. `What is the distinction between Long term and short term memory?` The distinction between short- and long-term memory is also supported by the serial position effect, in which the ability to recall information in a list depends on where in the list an item appears. For instance, often a primacy effect occurs, in which items presented early in a list are remembered better. There is also a recency effect, in which items presented late in a list are remembered best.
@@ -885,14 +887,21 @@ level of performance is average or
 ---
 #### Keywords 
 #### Questions
-1. What are the diff erent definitions and conceptions of intelligence? 
-2. What are the major approaches to measuring intelligence ?
-3.  what do intelligence tests measure?
-4. How is information process associated with general intelligence ? Research shows that people who spend more time on inital encoding of the problem, identifying different aspects of the problem and recalling information from long term memory to associate with the problem score higher than those who do not.Also speed of information processing shows another aspect of intelligence.  
-5. What kinds of human intelligence might machines be unable to mimic?
-6. Do you believe society should place limitations on just how smart machines can become?
-7. What was Galton’s motivation to identify people of high intelligence ? Sense of superiorty in showing that people of high social class were more intelligent.
-8. Difference between test validity and test reliability ?
+1. What are the different definitions and conceptions of intelligence? `334`
+2. Fluid and crystallized intelligence ? `334`
+3. Gardners theory of multiple intelligences ?`335`
+4. Information processing appraoch on intelligence ?`336`
+5. Practical intelligence ?`339`
+6. Emotional intelligence ?`339`
+7. What are the major approaches to measuring intelligence ?`341`
+8. Evolution of intelligence tests ?`341`
+9. Francis dalton's take, Alfred binet test ?`341 ->`
+10. IQ formula ?`342`
+11. what do intelligence tests measure?
+12. How is information processing associated with general intelligence ? `Research shows that people who spend more time on inital encoding of the problem, identifying different aspects of the problem and recalling information from long term memory to associate with the problem score higher than those who do not.Also speed of information processing shows another aspect of intelligence.`  
+13. What kinds of human intelligence might machines be unable to mimic?
+14. What was Galton’s motivation to identify people of high intelligence ? Sense of superiorty in showing that people of high social class were more intelligent.
+15. Difference between test validity and test reliability ?
 ---
 #### Summary
 ---
@@ -917,9 +926,10 @@ or by some underlying genetic factor is usually impossible to determine.
 ---
 #### Keywords
 #### Questions
-1. How are the extremes of intelligence characterized? 
-2. How can we help people reach their full potential? 
-3. Major cause of retardation ? `Fetal Alcohol syndrome`.Mothers drinking while pregnant.Research shows even little alcohol can cause damage to the fetus during pregnancy.
+1. How are the extremes of intelligence characterized?
+2. Mental Retardation ?`349` 
+3. How can we help people reach their full potential? 
+4. Major cause of retardation ? `Fetal Alcohol syndrome`.Mothers drinking while pregnant.Research shows even little alcohol can cause damage to the fetus during pregnancy.
 ---
 #### Summary
 ---
@@ -935,15 +945,16 @@ education
 ---
 #### Keywords
 #### Questions
-1. Are traditional IQ tests culturally biased? 
-2. Are there racial differences in intelligence? 
-3. To what degree is intelligence influenced by the environment and to what degree by heredity?
-4.  Group, blacks tend to average 10 to 15 IQ points lower than whites.Does this variation reflect a true difference in intelligence, or are the questions biased with regard to the kinds of knowledge they test? `Good reason to believe that some standardized IQ tests contain elements that discriminate against minority-group members whose experiences differ from those of the white majority`
-5.  
+1. Are traditional IQ tests culturally biased? `354`
+2. Are there racial differences in intelligence? `355`
+3. What is flynn effect ?What are the reasons for flynn effect ?`357`
+4. To what degree is intelligence influenced by the environment and to what degree by heredity?
+5.  Group, blacks tend to average 10 to 15 IQ points lower than whites.Does this variation reflect a true difference in intelligence, or are the questions biased with regard to the kinds of knowledge they test? `Good reason to believe that some standardized IQ tests contain elements that discriminate against minority-group members whose experiences differ from those of the white majority`
+6.  
 ---
 #### Summary
 ---
-##  Motivation and Emotion 
+## Motivation and Emotion 
 
 ### Section 1: Explaining Motivation
 
@@ -1276,7 +1287,7 @@ about which a person is asked to write a story.
 #### Summary
 ---
 
-##  Health Psychology: Stress, Coping, and Well-Being 
+## Health Psychology
 
 ### Section 1: Stress and Coping
 #### Main Notes
