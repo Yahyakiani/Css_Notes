@@ -13,6 +13,7 @@
 | [Intelligence](#intelligence)   |   &#10004; Done
 | [Motivation and Emotion](#motivation-and-emotion)   |   &#9744; In Progress
 | [Health Psychology](#health-psychology)   |   &#9744; In Progress
+| [Sensation and Percepion](#sensation-and-perception)   |   &#9744; In Progress
 
 ---
 ### Definition and scope
@@ -992,7 +993,15 @@ they are essential as basic biological needs
 ---
 #### Keywords
 #### Questions
-1.  How does motivation direct and energize behavior?
+1.  Only List all the motivation theories ?
+2.  How does motivation direct and energize behavior?
+3.  Motivation ? Instinct ? Examples ?`363`
+4.  Instinct approaches to behaviour ?`363`
+5.  Drive-reduction approaches to motivation ?`364` Deficieny of drive reduction approach ?
+6.  Arousal approaches to motivation ?`365`
+7.  Incentive approaches to motivation ?`366` What is the problem with this theory ?
+8.  Maslows's hierarchy of needs ?`368`
+9.  Self determination theory ?
 ---
 #### Summary 
 ---
@@ -1048,10 +1057,13 @@ and easy results
 #### Questions
 1.  What biological and social factors underlie hunger?
 2.  How are needs relating to achievement, affiliation, and power motivation exhibited?
-3.  Why may some people’s weight set points be higher than those of others? One biological explanation is that obese individuals have a higher level of the hormone leptin, which appears to be designed, from an evolutionary standpoint, to “protect” the body against weight loss.
-4.  What are the causes of anorexia nervosa and bulimia? Cause has roots in society’s valuation of slenderness.Another explaination  is mental imbalance in chemicals.
-the parallel notion that obesity is undesirable
-5. Why do obesity increases as countries become more developed ?
+3.  What could be the roots of obesity ?`375`
+4.  2 known eating disorders ?`376`
+5.  how does high need for achievement differ in high and low motivated individuals?`379`
+6.  how do men and women display high need for power ?`380`
+7.  Why may some people’s weight set points be higher than those of others? `One biological explanation is that obese individuals have a higher level of the hormone leptin, which appears to be designed, from an evolutionary standpoint, to “protect” the body against weight loss.`
+8.  What are the causes of anorexia nervosa and bulimia? `Cause has roots in society’s valuation of slenderness.Another explaination  is mental imbalance in chemicals.the parallel notion that obesity is undesirable`
+9. Why do obesity increases as countries become more developed ?
 ---
 #### Summary
 ---
@@ -1107,14 +1119,18 @@ The hypothesis that facial expressions not only reflect emotional experience but
 ---
 #### Keywords
 #### Questions
-1. What are emotions, and how do we experience them? 
-2. What are the functions of emotions? 
+1. What are emotions, and how do we experience them? `382`
+2. What are the functions of emotions? `383`
 3. What are the explanations for emotions?
 4. How does nonverbal behavior relate to the expression of emotions? 
 5. A current controversy focuses on whether the emotional response predominates over the cognitive response or vice versa ?`page 382`
-6. Are basic facial expressions inborn or are they learned ?
-7. How could blind athletes have learned when they would be expected to “smile politely,” even if they did not feel happiness ?
-8. Although it seems like basic emotions are expressed similarly across cultures, can you think of examples of nonverbal behaviors that differ across cultures?
+6. James lang theory of emotion and its set backs ?`385- ^`
+7. Cannon bard theory ? drawbacks ?`386- ^`
+8. Schater singer theory and its experiment ?`387`
+9. Are basic facial expressions inborn or are they learned ?`390`
+10. Facial effect program and facial feedback hypothesis ?experiment on feedback.`390`
+11. How could blind athletes have learned when they would be expected to “smile politely,” even if they did not feel happiness ?
+12. Although it seems like basic emotions are expressed similarly across cultures, can you think of examples of nonverbal behaviors that differ across cultures?
 ---
 #### Summary
 ---
