@@ -11,7 +11,7 @@
 | [Learning](#learning)   | &#10004; Done
 | [Memory](#memory)   |   &#10004; Done
 | [Intelligence](#intelligence)   |   &#10004; Done
-| [Motivation and Emotion](#motivation-and-emotion)   |   &#9744; In Progress
+| [Motivation and Emotion](#motivation-and-emotion)   |   &#10004; Done
 | [Health Psychology](#health-psychology)   |   &#9744; In Progress
 | [Sensation and Percepion](#sensation-and-perception)   |   &#9744; In Progress
 
@@ -996,12 +996,13 @@ they are essential as basic biological needs
 1.  Only List all the motivation theories ?
 2.  How does motivation direct and energize behavior?
 3.  Motivation ? Instinct ? Examples ?`363`
-4.  Instinct approaches to behaviour ?`363`
+4.  Instinct approaches to behaviour ?`363` shortcomings ?
 5.  Drive-reduction approaches to motivation ?`364` Deficieny of drive reduction approach ?
-6.  Arousal approaches to motivation ?`365`
+6.  Arousal approaches to motivation ?`365` shortcomings ?
 7.  Incentive approaches to motivation ?`366` What is the problem with this theory ?
-8.  Maslows's hierarchy of needs ?`368`
-9.  Self determination theory ?
+8.  Cognitive approaches to motivation Theories ? shortcomings ?
+9.  Maslows's hierarchy of needs ?`368` shortcomings ?
+10. Self determination theory ? 
 ---
 #### Summary 
 ---
@@ -1423,21 +1424,22 @@ challenge, and control
 11. What effect does continued exposure to stressors have on health ?`Page 530`
 12. What are Psychophysiological disorders and psychosomatic disorders ? Describe any change ?
 13. How does stress affect us ? `Page 531`
-14. What is General adaptation syndrome (GAS)? What are its stages ? Define the stages ?
-15. How do people move out of the third stage after they have entered it?
-16. What is the criticism on seyle,s theory ?
-17. What are the consequences of stress ?
-18. Why is stress so damaging to the immune system?
-19. What is coping and catogeries of coping ?
-20. What is the least successful form of coping ?
-21. What are defense mechanism ?   Give examples ?  
-22. What is emotional Insinuation ? Why is it not useful ?
-23. What is learned helplessness and how is it learned ?`Page 535`
-24. What are coping style ? What is hardiness ? `Page 535`
-25. How do hardy people approach stressful situations ?
-26. What is resilience ?
-27. How social support affects brain processing ?
-28. How can we deal with the stress in our lives? `Page 537`
+14. What is General adaptation syndrome (GAS)? What are its stages ? Define the stages ?`532`
+15. How do people move out of the third stage after they have entered it?`532`
+16. What is the criticism on seyle,s theory ?`533`
+17. What are the consequences of stress ?`534`
+18. Why is stress so damaging to the immune system?`534`
+19. What is coping and catogeries of coping ?`534`
+20. List different coping strategies ?`534 ->`
+21. What is the least successful form of coping ?
+22. What are defense mechanism ?   Give examples ?  
+23. What is emotional Insinuation ? Why is it not useful ?
+24. What is learned helplessness and how is it learned ?`Page 535`
+25. What are coping style ? What is hardiness ? `Page 535`
+26. How do hardy people approach stressful situations ?
+27. What is resilience ?
+28. How social support affects brain processing ?
+29. How can we deal with the stress in our lives? `Page 537`
 ---
 #### Summary
 ---
