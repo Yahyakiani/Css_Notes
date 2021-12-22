@@ -12,7 +12,7 @@
 | [Memory](#memory)   |   &#10004; Done
 | [Intelligence](#intelligence)   |   &#10004; Done
 | [Motivation and Emotion](#motivation-and-emotion)   |   &#10004; Done
-| [Health Psychology](#health-psychology)   |   &#9744; In Progress
+| [Health Psychology](#health-psychology)   |   &#10004; Done
 | [Sensation and Percepion](#sensation-and-perception)   |   &#9744; In Progress
 
 ---
@@ -354,17 +354,18 @@ many neurons in the cortex are extraordinarily specialized.**Feature Detection**
 1. What is Sensation and how do psychologists study it ?
 2. What is the relationship between physical stimulus and the kinds of sensory response that result from it ?
 3. How do we see colors ?
-4. What processes underlie that vision system (Sense of vision)?
-5. What role does ear play in senses of sound, motion and balance ?
-6. How do smell and taste  function ?
-7. What are skin senses and how do they relate to pain ?
-8. What principles underlie our organization of visual world and allow us to make sense of it ?
-9. How are we able to perceive 3D world when our retina can only sense 2D information ?
-10. What clues do visual illusions give us about our understanding of general visual mechanism >
-11. Difference between Sensation and Perception ?
-12. How do we differenciate one person from another in context of sensation and perception ?
-13. What would happen if our ears were more sensitive than they already are ?
-14. Why would frequent multitaskers be more distractible than those who multitask 
+4. What processes underlie that vision system (Sense of vision) ?
+5. Why shouldn’t the pupil be open completely all the time, allowing the greatest amount of light into the eye?`160`
+6. What role does ear play in senses of sound, motion and balance ?
+7. How do smell and taste  function ?
+8. What are skin senses and how do they relate to pain ?
+9. What principles underlie our organization of visual world and allow us to make sense of it ?
+10. How are we able to perceive 3D world when our retina can only sense 2D information ?
+11. What clues do visual illusions give us about our understanding of general visual mechanism >
+12. Difference between Sensation and Perception ?
+13. How do we differenciate one person from another in context of sensation and perception ?
+14. What would happen if our ears were more sensitive than they already are ?
+15. Why would frequent multitaskers be more distractible than those who multitask 
 less frequently?
 15. Why a person sitting in a quiet room is more startled by phone ringing than a person sitting in a noisy room.
 16. Why shouldn’t the pupil be open completely all the time, allowing the greatest 
@@ -436,7 +437,7 @@ amount of light into the eye?
 2. Why does space sickness occur ? Due to weightless ness of otholiths.
 3. Do humans communicate through smell ? 
 4. Why do non tasters seek out relatively sweet foods as compared to super tasters ? less receptor cells.
-5. `What are the causes for synesthesia ?` Possible explainations: Dense neural networks between different sensory areas of brain or lack of neural control that inhibits connection between sensory areas.
+5. `What are the causes for synesthesia(see color with sound) ?` Possible explainations: Dense neural networks between different sensory areas of brain or lack of neural control that inhibits connection between sensory areas.
 ---
 #### Summary
 
