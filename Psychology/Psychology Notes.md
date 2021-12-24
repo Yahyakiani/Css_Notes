@@ -470,10 +470,18 @@ amount of light into the eye?
 - Motion Parallax : The change in position of an object caused by the movement of your body.
 ---
 #### Questions
-- What principles underlie organization of the visual world and allow us to make sense of the world ?
-- How are we able to sense the world in 3D when our retina are only capable of sensing on 2-D Images ?
-- What clues do illusions give us about our understanding of general perceptual mechanisms ?
+- What principles underlie organization of the visual world and allow us to make sense of the world ?`180`
+- Overarching rule in gestalt law of organization ?`181`
+- Types of processing ?`181`
+- What is top down and bottom up processing >`182`
+- What is depth perception ?`183`
 - Why top down processing cannot occur on its own ?
+- binocular disparity ?`183`
+- How are we able to sense the world in 3D when our retina are only capable of sensing on 2-D Images ?`183`
+- How can percieve depth and distance with only one eye ?`183`
+- perception constancy ?`184`
+- What clues do illusions give us about our understanding of general perceptual mechanisms ?`185`
+-  Can stimuli that we’re not consciously aware of change our behavior? In some ways? `188`
 - How does tdp and bup occur ?
 - `How do we make transformation from 2d to 3d  and Percieve distance?` There is a distance between the 2 eyes and so the images reach each eye are different.The brain integrates that images into one.It also recognizes the difference in the images and uses that difference to determine the distance of an object.E.g Pencil at arm length example.(`Page 183:UP`)
 - Why does perceptual constancy problem in moon viewing occurs ? Explain
