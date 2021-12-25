@@ -13,7 +13,9 @@
 | [Intelligence](#intelligence)   |   &#10004; Done
 | [Motivation and Emotion](#motivation-and-emotion)   |   &#10004; Done
 | [Health Psychology](#health-psychology)   |   &#10004; Done
-| [Sensation and Percepion](#sensation-and-perception)   |   &#9744; In Progress
+| [Sensation and Percepion](#sensation-and-perception)   |   &#10004; Done
+| [Central and Peripheral Nervous System](#central-and-peripheral-nervous-system)   |   In Progress
+| [Social Psychology](#social-psychology)   |   In Progress
 
 ---
 ### Definition and scope
@@ -148,8 +150,8 @@ message it delivers is basically one of two types: excitatory or inhibitory
 - If neurotransmitters remained at the site of the synapse, receiving neurons would 
 be awash in a continual chemical bath, producing constant stimulation or constant 
 inhibition of the receiving neurons—and effective communication across the synapse 
-would no longer be possible. To solve this problem, neurotransmitters are either 
 deactivated by enzymes or—more commonly—reabsorbed by the terminal button in 
+would no longer be possible. To solve this problem, neurotransmitters are either 
 an example of chemical recycling called **reuptake** .
 
 - Some antidepressant drugs, called SSRIs, or selective serotonin reuptake inhibitors , permit certain neurotransmitters to remain active for a longer period at certain synapses in the brain, thereby reducing the symptoms of depression
@@ -173,6 +175,9 @@ called **“runner’s high”**
 psychologists. For example, the act of taking placebos (pills or other substances that 
 contain no actual drugs but that patients believe will make them better) may induce 
 the release of endorphins, leading to the reduction of pain
+
+### Questions
+1. 
 
 ### Central and Peripheral Nervous System
 
@@ -2052,37 +2057,31 @@ on what sets them apart from others and what makes them special
 ---
 #### Keywords
 #### Questions
-1. What are attitudes, and how 
-are they formed, maintained, 
-and changed?
-2. How do people form impressions of what others are like 
-and of the causes of their 
-behavior?
-3. What are the biases that 
-influence the ways in which 
-people view others’ behavior?
+1. What are attitudes, and how are they formed, maintained, and changed?`633`
+2. What factor effect change in our attitudes ?`633`
+3. Central route processing and peripheral route processing of the message ?`634`
 4. How we can change our attitude and with what speed ?`633`
-5. What is attitude communicator ?
-6. What are information processing routes ?
-7. What is Central route processing ?Example.
-8. What is Peripheral route processing ?Example.
-9. Are some people more likely than others to use central route 
-processing rather than peripheral route processing?`635`
+5.  What is attitude communicator ?
+6. Cognitive dissonance ? example ?How to resolve cognitive dissonance ?`636-637`
+7. Social cognition 
+8.  What is Central route processing ?Example.`634`
+9.  What is Peripheral route processing ?Example.`634`
 10. What is  Cognitive dissonance ? Example `636`
-11. How is conflict resolved in cognitive dissonance ?
-12. What is Social cognition ?
-13. What is impression formation and how does it happen ?
-14.  What are central traits ? Example
-15.  How does mood effect impression formation ?
+11. What is Social cognition ?
+12. How do people form impressions of what others are like and of the causes of their behavior?`638`
+13. How does mood effect impression formation ?`638`
+14. What are the biases that influence the ways in which people view others’ behavior?
+15. Are some people more likely than others to use central route 
 16.  What is Attribution theory ? `639`Example
-17.  What is situational causes ?Example
-18.  What is Dispositional causes ?Example
-19.  What is halo effect ? Example
-20.  What is Assumed-similarity bias ? Example ? `640`
-21.  What is self serving bias ?
-22.  What is Fundamental attribution error ? Example
-23.  Why is the fundamental attribution error so common?
-24.  
+17.  Steps for attribution theory ?`639`
+18.  What is situational causes ?Example`639`
+19.  What is Dispositional causes ?Example`640`
+20.  What is halo effect ? Example`640`
+21.  What is Assumed-similarity bias ? Example ? `640`
+22.  What is self serving bias ?`641`
+23.  What is Fundamental attribution error ? Example`641`
+24.  Why is the fundamental attribution error so common?`641`
+25.  Collectivistic orientation  and individualist orientation ?`642`
 ---
 #### Summary
 ---
@@ -2124,19 +2123,18 @@ response to the commands of others.`Stanley Milgram experiment:649`
 ---
 #### Keywords
 #### Questions
-1. What are the major sources 
-and tactics of social influence?
-2. What is social influence ?
+1. What are the major sources and tactics of social influence?
+2. What is social influence ?`644`
 3. Why can conformity pressures in groups be so strong?`644`
 4. What happens when group norms are disregarded ?`644`
-5. What are groups ? Explain group pressure or social pressue  and their types ?
+5. What are groups ? Explain group pressure or social pressue  and their types ?`644`
 6. To what degree can a group produce conformity and it depends on what factors ? `645`
 7. What are social supporters ?
 8. What is group think ? How does it happen? How does it effect adversly  Example `646`
 9. What is compliance ?Techniques to gain compliance ? `647`
 10. What is foot in the door technique ?Why does the foot-in-the-door technique work?
-11. What is I/O psychology ?
-12. What is obedience ?
+11. What is I/O psychology ?`649`
+12. What is obedience ? Shock experiment ?`649`
 13. Difference between compliance and obedience ?
 14. Why did so many individuals comply with the experimenter’s demands in Stanley Milgram experiment?`650`
 15. 
@@ -2164,15 +2162,14 @@ the neural basis of social behavior
 ---
 #### Keywords
 #### Questions
-1. What is modern racism ?
-2. What is discrimination ?
-3. What are stereotypes, prejudice, and discrimination?
+1. What is modern racism ?`652`
+2. What are stereotypes, prejudice, and discrimination?`652`
+3. How to stereotyping lead to a self-fulfilling prophecy ?`652`
 4. How do stereotypes, prejudice, and discrimination differ and how do we learn them?`653`
-5. What are the approaches in learning discrimintion,prejudice and stereotypes ?
-6. What does observational learning approach and social identity theory tell us on discrimintion ?
-7. How can we reduce prejudice and discrimination?`656`
-8. What is social neuroscience ?
-9. 
+5. social identity theory and observational learning theory ?`653`
+6. How can you measure bias ? `Implicit Association Test 655`
+7. What are the approaches in learning discrimintion,prejudice and stereotypes ?`656`
+9. How can we reduce prejudice and discrimination?`656` 
 ---
 #### Summary
 ---
@@ -2212,23 +2209,23 @@ self-sacrifice.
 #### Keywords
 #### Questions
 1. Why are we attracted to certain people, and what progression do social relationships follow?
-2. What factors underlie aggression and prosocial behavior?
+2. What factors underlie aggression and prosocial behavior?`658`
 3. What are the factors that initially attract two people to each other ?`658`
 4. Why do we tend to like those who are similar to us ?`659`
 5. Difference between liking and loving ? 
-6. Types of love
+6. Types of love`660`
 7. Why might college students who use social networking sites more heavily have 
 greater satisfaction in life than those who use it less?
 8. What aspects of social networking sites allow students to explore their identities? 
 What might be the drawbacks of such experimentation?
 9. What is Psychologist Robert Sternberg differentiation of Love ?
 10. What is aggression ? Freud on aggression and Konrad Lorenz instinct approach ?`662`
-11. What is Catharsis?
+11. What is Catharsis?`663`
 12. Explain  Frustration-aggression theory ?`664`
 13. What kinds of stimuli act as aggressive cues? in this theory ?
-14. Explain OBSERVATIONAL LEARNING APPROACHES sometimes called social learning approach ?
-15. What is Diffusion of responsibility ?
-16. Explain  model of the helping process ? 
+14. Explain OBSERVATIONAL LEARNING APPROACHES sometimes called social learning approach ?`664`
+15. What is Diffusion of responsibility ?`665`
+16. Explain  model of the helping process ? `665`
 17. What is Altruism ?
 18. Difference between prosocial behavior and altruism ?
 19. what leads people to make moral decisions?`666`
