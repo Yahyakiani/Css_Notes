@@ -2260,17 +2260,13 @@ in time.
 ---
 #### Keywords
 #### Questions
-1. How do psychologists study 
-the degree to which development is an interaction of 
-hereditary and environmental 
-factors?
-1. What is nature-nurture issue ?
-2.  How and to what degree do environment and heredity both produce their effects?
+1. How do psychologists study the degree to which development is an interaction of hereditary and environmental factors?`Twin research and Research on animals with similar genetic makeup`
+2. What is nature-nurture issue ?`Level of influence in development`
 3.  What aspects of development do psychologists agree upon ? `436` Limitations and Benefits
 4.  What appraoches do Developmental psychologists use  to determine the relative influence of genetic and environmental factors on behavior ? `437`
-5.  What is Cross-sectional research and Longitudinal research ? What are the draw backs in longitudinal research ?
-6.  Issue with longitutal research ?
-7. What is sequential research ?  
+5.  What is Cross-sectional research and Longitudinal research ? What are the draw backs in longitudinal research ?`437`
+6.  Issue with longitutal research ?`438`
+7. What is sequential research ?  `438`
 ---
 #### Summary
 ---
@@ -2298,12 +2294,12 @@ factor that produce a birth defect.
 2.  What factors affect a child during the mother’s pregnancy?  
 3.  What Chromosomes ?
 4.  What are Genes ?
-5.  What was human genome project and it significance ?
-6. What is Zygote,embryo,fetus, ?`443`
+5.  What was human genome project and it significance ?`442`
+6. What is Zygote,embryo,fetus, ?`442`
 7. What are the stages of development ?
-8. What is age of viability ?
+8. What is age of viability ?`443`
 9. What are the common genetic difficulties during development ?`444`
-10. What are Teratogens ?
+10. What are Teratogens ?`444`
 11. What are the PRENATAL ENVIRONMENTAL INFLUENCES ?`444`
 12. Why do infants of stressed mother are more apt to have irritable infants who sleep and eat poorly ?
 13. What is fetal alcohol syndrome ? `445`
@@ -2488,18 +2484,18 @@ stereotypes about that
 3.  How can we adjust to death?
 4.  What is hormone therapy ? Its uses and Dangers ?
 5.  What is midlife crisis ?
-6.  What are the economic and emotional consequences for children living in 
-homes with only one parent?`479`
-7.  What are the reasons for these physical declines? Theories ? `481`
-8.  Why is iq lower in older age ? `482`
-9.  What aspects of video games do you think would be most helpful in preventing 
+6.  What are the economic and emotional consequences for children living in homes with only one parent?`479`
+7.   genetic preprogramming theories of aging and wear-and-tear theories of aging ?`481`
+8.  What are the reasons for these physical declines? Theories ? `481`
+9.  Why is iq lower in older age ? `482`
+10. What aspects of video games do you think would be most helpful in preventing 
 cognitive declines in late adulthood?
 10. What other sorts of activities do you think would be helpful in averting such cognitive deterioration?
 11. One of the characteristics most frequently attributed to late adulthood is 
 forgetfulness. How accurate is this assumption?
 12. How does alzeimer's disease happen ?`484`
-13. What is Disengagement theory of aging ?
-14. What is activity theory of aging ? 
+13. What is Disengagement theory of aging ?`485`
+14. What is activity theory of aging ? `485`
 15. What stages do ppl go through when facing impending death ?`486`Kübler-Ross
 16. What is preparatory grief ?
 17. 
