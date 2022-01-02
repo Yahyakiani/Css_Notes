@@ -4,6 +4,7 @@
 - Default Book: `Understanding Psychology by Feldman` (UP)
 - Jargon: symptoms,victim,maladaptive
 - Alway read the Recap chapter part after each chapter
+- Insert Twin example whereever you can
 ## Progress
 | Chapters | Progress | 
 |----------------|---------------|
@@ -16,6 +17,7 @@
 | [Sensation and Percepion](#sensation-and-perception)   |   &#10004; Done
 | [Central and Peripheral Nervous System](#central-and-peripheral-nervous-system)   |   In Progress
 | [Social Psychology](#social-psychology)   |   In Progress
+| [Psychological Disorders](#psychological-disorders)   |   In Progress
 
 ---
 ### Definition and scope
@@ -1637,7 +1639,7 @@ seems strange and unreasonable.
 diffi culties that take on a physical 
 (somatic) form, but for which there is 
 no medical cause. 
-- Hypochondriasis** A disorder in which 
+- **Hypochondriasis** A disorder in which 
 people have a constant fear of illness 
 and a preoccupation with their health. It is a form of Somatoform disorder.
 - **Conversion disorder** A major somatoform disorder that involves an actual 
@@ -1740,51 +1742,43 @@ to others.
 ---
 #### Keywords
 #### Questions
-1. How can we distinguish normal from abnormal behavior? 
-2. What are the major perspectives on psychological disorders used by mental health professionals? 
+1. What are the different definitions of abnormality ? `Page 557`
+2. What are the major perspectives on psychological disorders used by mental health professionals?`559` 
 3. What are the major categories of psychological disorders?
-4. What are the different definitions of abnormality ? `Page 557`
-5. What is the medical perspective and what was the criticism leveled against it ?Treatment?
-6. What is the psychoanalytic perspective and what was the criticism leveled against it ?Treatment?
-7. What is the Behavioural perspective and what was the criticism leveled against it ?Treatment?
-8. What is the Cognitive perspective and what was the criticism leveled against it ?Treatment?
-9. What is the humanist perspective and what was the criticism leveled against it ?Treatment?
-10. What is the social perspective ?Treatment?
-11. How is behavioural perspective different from psycho and medical perspective ? 
-12. What are Phobias ? example ?
-13. What are Panic disorders ?  example ? How does it effect body and brain ?
-14. Difference beteen phobia and panic disorders?
-15. What are general anxiety disorder ? example?
-16. what is ocd ? example ?
-17. What is compulsion ?
-18. Causes fo anxiety disorders ?`Page 571`According to all perspectives ?
-19.  What are Somatoform disorders ? Example. 
-20.  What are conversion disorders ?
-21.  What dissociative disorders ? Example ?
-22.  What is DID ?
-23.  What is DA ? Example 
-24.  What is Dissociative fugue ?Explain why it happens ?
-25.  What is mood disorder ? Exmaple ?
-26.  What is major depression ? Are women more susceptible to it ?
-27.  What is mania ? Example ?
-28.  What is bipolar disorder ?`Page 576`
-29.  What are the causes of mood disorders ?`Page 577`
-30.  What is schizophrenia ? `Page 578`
-31.  What are hallucinations ?
-32.  What is formal thought disorder ?
-33.  Types schizophernia happens ?
-34.  Difference between Type I and  Type II schizophrenia ?
-35.  Biological causes of schizophrenia ?`Page 581`
-36.  What is dopamine hypothesis ?
-37.  What are enviromental causes of schizophrenia ? `Page 582`
-38.  What is predisposition model of schizophrenia ? `Page 583`
-39.  What is antipersonality disorder ?
-40.  What is a sociopath ? Describe sociopaths ?`Page 584`
-41.  What causes such an unusual constellation of problem behaviors? in sociopaths ? `Page 584`
-42.  What is bpd ? Cause ?
-43.  What is narcisistic personality disorder ? cause ?
-44.  What is adhd ? what causes it ?
-45.  What is autism ?
+4. DSM-IV-TR ? Its pros and cons ?`562` Criticism on DSM ?`564`
+5.  What are Phobias ? example ?
+6.  What are Panic disorders ?  example ? How does it effect body and brain ?
+7.  Difference beteen phobia and panic disorders?
+8.  What are general anxiety disorder ? example?
+9.  what is ocd ? example ?
+10. What is compulsion ?
+11. Causes fo anxiety disorders ?`Page 571`According to all perspectives ?
+12.  What are Somatoform disorders ? Example. 
+13.  What are conversion disorders ?
+14.  What dissociative disorders ? Example ?
+15.  What is DID ?
+16.  What is DA ? Example 
+17.  What is Dissociative fugue ?Explain why it happens ?
+18.  What is mood disorder ? Exmaple ?causes`577`
+19.  What is major depression ? Are women more susceptible to it ?
+20.  What is mania ? Example ?
+21.  What is bipolar disorder ?`Page 576`
+22.  What is schizophrenia ? `Page 578`
+23.  What are hallucinations ?
+24.  What is formal thought disorder ?
+25.  Types schizophernia happens ?`579`
+26.  Difference between Type I and  Type II schizophrenia ?
+27.  Biological causes of schizophrenia ?`Page 581`
+28.  What is dopamine hypothesis ?
+29.  What are enviromental causes of schizophrenia ? `Page 582`
+30.  What is predisposition model of schizophrenia ? `Page 583`
+31.  What is antipersonality disorder ?
+32.  What is a sociopath ? Describe sociopaths ?`Page 584`
+33.  What causes such an unusual constellation of problem behaviors? in sociopaths ? `Page 584`
+34.  What is bpd ? Cause ?
+35.  What is narcisistic personality disorder ? cause ?
+36.  What is adhd ? what causes it ?
+37.  What is autism ?
 ---
 #### Summary
 ---
@@ -2378,7 +2372,7 @@ task on his or her own.
 10. What are the ways to assess attachment ?`453` What is ainsworth attachment estimation method ?
 11. What is the fathers role in early development ?
 12. How does social interact help children ? `454`
-13. Do child-care arrangements outside the home benefi t children’s development?`455`
+13. Do child-care arrangements outside the home benefit children’s development?`455`
 14. What are different parenting styles ? `456`
 15. What is temperament ?
 16. What is Erikson’s Theory of Psychosocial Development ?`457` Criticism ?
@@ -2507,77 +2501,5 @@ forgetfulness. How accurate is this assumption?
 
 ##  Organizational/Industrial Psychology
 
-### Book: Industrial/Organizational Psychology: An Applied Approach
+### Book: Psychology Merged EvilishTouch `29`
 
-### Topics
-1. Leadership styles
-2. Decision making
-3. Work motivation
-4. Organizational Culture
-5. Stress and Conflict at Work and its Management `https://www.ehstoday.com/archive/article/21909463/the-mindbody-connection-workplace-conflict-stress-the-risk-of-injury`
-6. Organizational Socialization
-7. Job related Attitude
-8. Sexual Harassment 
-9. Glass Ceiling
-10. Human Computer interaction
-#### Main Notes
-- Legally, sexual harassment can take one of two forms: quid pro quo or hostile 
-environment
-- **Person-oriented leaders** such as country club leaders, Theory Y leaders, and 
-leaders high in consideration act in a warm and supportive manner and show 
-concern for their subordinates. Person-oriented leaders believe that employees 
-are intrinsically motivated, seek responsibility, are self-controlled, and do not 
-necessarily dislike work. Because of these assumptions, person-oriented leaders consult their subordinates before making decisions, praise their work.Under pressure, person-oriented leaders tend to become socially withdrawn.
-- **Task-oriented leaders** such as task-centered leaders, Theory X leaders, and 
-leaders high in initiating structure define and structure their own roles and those 
-of their subordinates to attain the group’s formal goals. Task-oriented leaders see 
-their employees as lazy, extrinsically motivated, wanting security, undisciplined, and 
-shirking responsibility. Because of these assumptions, task-oriented leaders tend to 
-manage or lead by giving directives, setting goals, and making decisions without 
-consulting their subordinates. Under pressure, they become anxious, defensive, and 
-dominant
--  **IMPACT theory**, was developed by Geier, 
-Downey, and Johnson (), who believed that each leader has one of six behavioral styles: informational, magnetic, position, affiliation, coercive, or tactical. 
-Each style is effective in only a particular situation, or in what the researchers 
-call an organizational climate.`469`
-- According to House’s path–goal theory, a leader can adopt one of four 
-behavioral leadership styles to handle each situation: instrumental, supportive, 
-participative, or achievement-oriented.
-- According to Korman’s consistency theory, there is a positive correlation between 
-self-esteem and performance.
-- Another approach to increasing employee self-esteem is to train supervisors to 
-communicate a feeling of confidence in an employee. The idea here is that if an 
-employee feels that a manager has confidence in him, his self-esteem will increase, 
-as will his performance. Such a process is known as the **Pygmalion effect**. 
-In contrast, the **Golem effect** occurs when negative expectations of an 
-individual cause a decrease in that individual’s actual performance.
-- 
-- 
-#### Thoughts
----
-#### Keywords
-#### Questions
-1. Types of Harrasment and What are they ? `116`
-2. Steps an organization must take to curb sexual harassment ?`118`
-3. Difference in emergence of leaders of both geenders in different groups ? `462`
-4. What are the different leadership styles ? `465`
-5. What is trait theory of leader performance ?
-6. Traits of unsuccessful leaders ?
-7. What is  Fiedler’s contingency model for leadership ?`468`
-8. What are impact leading styles ?
-9. How do you become an effective leader according to impact ?`470`
-10. What is o House’s path–goal theory ?`472`
-11. What is  situational leadership theory developed by Hersey and Blanchard ?`473`
-12. Traits related to work motivation ? `349`
-13. What is Korman’s consistency theory ? 
-14. Types of Self Esteem ? `350` hOW to increase self esteem ?
-15. What is  Galatea effect ??`350`
-16.  Specific Leader Skills ?`475`
-17.  What Vroom-Yetton Model for decision making ?Decision-Making Strategies Using the Vroom-Yetton Model ?
-18.  
-19.  
-20. 
-21. 
----
-#### Summary
----
