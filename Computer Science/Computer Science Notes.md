@@ -181,14 +181,14 @@ A hybrid of chaining and open addressing, coalesced hashing links together chain
   -  types of DFS: pre-order, in-order, and post-order.
   - BFS “is an algorithm for traversing or searching tree data structure. It starts at the tree root and explores the neighbor nodes first, before moving to the next level neighbors.”
 
-- it is observed that BST's worst­case performance is closest to linear search algorithms, that is Ο . In real­timedata, we cannot predict data pattern and their frequencies. So, a need arises to balance out the existing BST.
-Named after their inventor Adelson, Velski & Landis, **AVL trees** are height balancing binary search tree. AVL tree checks the height of the left and the right sub­trees and assures that the difference is not more than 1. This difference is called the **Balance Factor**.
+- it is observed that BST's worstcase performance is closest to linear search algorithms, that is Ο . In realtimedata, we cannot predict data pattern and their frequencies. So, a need arises to balance out the existing BST.
+Named after their inventor Adelson, Velski & Landis, **AVL trees** are height balancing binary search tree. AVL tree checks the height of the left and the right subtrees and assures that the difference is not more than 1. This difference is called the **Balance Factor**.
 
 To balance itself, an AVL tree may perform the following four kinds of rotations −
 Left rotation
 Right rotation
-Left­Right rotation
-Right­Left rotation
+LeftRight rotation
+RightLeft rotation
 
 
   
