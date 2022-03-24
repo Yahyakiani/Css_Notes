@@ -1166,6 +1166,9 @@ The hypothesis that facial expressions not only reflect emotional experience but
 - If personality only left to superego it would create a perfectionist personality unable to comprise with its circumstances that life very often requires.If left to id, It would create a primitive beast who would only be concerned with satisfying his every desire through whatever means. So ego acts as a mediator between id and superego through a principle of `give and take`.
 - **Psychosexual Stages** Stages of development through which a child passes and comes in conflict with the demands of society and his own sexual urges.
 ![alt text](images/stages.PNG)
+
+
+### PAGOL - psycho wale sare pagol hain
   1. **oral stage** According to Freud, a stage from birth to age 12 to 18 months, in which an infant’s center of pleasure is the mouth. Fixation at the oral stage might produce an adult 
 who was unusually interested in oral activities—eating, talking, smoking—or who 
 showed symbolic sorts of oral interests such as being “bitingly” sarcastic or very 
@@ -1181,12 +1184,19 @@ anal stage might result in unusual rigidity, orderliness, punctuality—or extre
 - **Genital stage** According to Freud, the period from puberty until death, marked by mature sexual behavior (that is, sexual intercourse).
 - **Fixations** Conflicts and concerns that persist beyond the developmental stage.
 
+#### SP sahab ne 4 Rotion ka kaha for 2 Dakus
 - **Defense mechanisms** In Freudian theory, unconscious strategies that people use to reduce anxiety by concealing the source of it from themselves and others.
 - The lack of evidence is due, in part, to the fact that Freud’s conception of personality is built on unobservable abstract concepts.
 -  Furthermore, Freud can be faulted for seeming to view women as inferior to men because he argued that women have weaker superegos than men and in some ways unconsciously yearn to be men (the concept of `penis envy`).
   
 
 ![alt text](images/defense.PNG)
+
+- **criticism on freud**
+  - We also know now that important changes in personality can occur in adolescence and adulthood—something that Freud did not believe happened. Instead, he argued that personality 
+  largely is set by adolescence
+  - Lack of evidence
+  - Finally, Freud made his observations and derived his theory from a limited population. His theory was based almost entirely on upper-class Austrian women liv
 
 - Some people fall prey to defense mechanisms to such an extent that they must constantly direct a large amount of psychic energy toward hiding and rechanneling unacceptable impulses. When this occurs, everyday living becomes difficult. In such cases, the result is a mental disorder produced by anxiety—what Freud called `neurosis`.
 - **Neo-Freudian psychoanalysts** Psychoanalysts who were trained in traditional Freudian theory but who later rejected some of its major points.
