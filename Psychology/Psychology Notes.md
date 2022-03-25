@@ -1302,14 +1302,19 @@ existence of temperaments from the time of birth, mean that we are destined to h
 - **Reliability** refers to a test’s measurement consistency. If a test is reliable, it yields the same result each time it is administered to a specifi c person or group. In contrast, unreliable tests give different results each time they are administered
 - Tests have **validity** when they actually measure what they are designed to measure. If a test is constructed to measure sociability, for instance, we need to know that it actually measures sociability and not some other trait.
 - **Norms**, standards of test performance that permit the comparison of one person’s score on a test with the scores of others who have taken the same test. For example, a norm permits test-takers who have received a certain score on a test to know that they have scored in the top 10% of all those who have taken the test. 
-- **Self-report measures** A method of gathering data about people by asking them questions about a sample of their behavior.
-- **Minnesota Multiphasic Personality Inventory-2 (MMPI-2)** A widely used self-report test that identifies people with psychological difficulties and is employed to predict some everyday behaviors
 - **Test standardization** A technique used to validate questions in personality tests by studying the responses of people with known diagnoses.
+- **Self-report measures** A method of gathering data about people by asking them questions about a sample of their behavior.3 types : MMPI, the 16PF, and the NEO Personality Inventory.
+- **READ TESTS PART FROM VARIATION BOOK PAGE 560** :: Strength weakness, Factors
+  - **Minnesota Multiphasic Personality Inventory-2 (MMPI-2)** A widely used self-report test that identifies people with psychological difficulties and is employed to predict some everyday behaviors
+    - It measures ten personality traits that, when manifested to an extreme degree, are thought to be symptoms of disorders. Examples include traits such as paranoia, depression, and hysteria
+    - Are the MMPI clinical scales valid?  Originally, it was assumed that the ten clinical subscales would provide direct indexes of specifi c types of disorders. In other words, a high score on the depression scale would be indicative of depression, a high score on the paranoia scale would be indicative of a paranoid disorder, and so forth. However, relations between MMPI scores and various types of mental illness are much more complex.Certain score `Profiles` are indicative of disorders.
+    - Strengths and Weaknesses of Self-Report Inventories : 
+
 - **Projective personality test** A test in which a person is shown an ambiguous stimulus and asked to describe it or tell a story about it.Like `Rorschach inkblots` .Devised by Swiss psychiatrist Hermann Rorschach (1924),
-- **Rorschach test** A test that involves showing a series of symmetrical visual stimuli to people who then are asked what the figures represent to them.Many critics complain that the Rorschach does not provide much valid information about underlying personality traits.
-- **Thematic Apperception Test (TAT)** A test consisting of a series of pictures 
-about which a person is asked to write a story.
-- **Behavioral assessment** Direct measures of an individual’s behavior used to describe personality characteristics.
+  - **Rorschach test** A test that involves showing a series of symmetrical visual stimuli to people who then are asked what the figures represent to them.Many critics complain that the Rorschach does not provide much valid information about underlying personality traits.
+  - **Thematic Apperception Test (TAT)** A test consisting of a series of pictures 
+  about which a person is asked to write a story.
+  - **Behavioral assessment** Direct measures of an individual’s behavior used to describe personality characteristics.
 #### Thoughts
 ---
 #### Keywords
