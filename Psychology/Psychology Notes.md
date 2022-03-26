@@ -77,7 +77,7 @@ also made notable contributions to the treatment of abnormal behavior,
 
 
 ### Recent Trends and Models of Psychology
-
+**CHN ka BP high he**
 - For Recent trends must go thorough page 73 and 74 of Understanding Psychology by Feldman
   Total 5 modern perspectives:
 
