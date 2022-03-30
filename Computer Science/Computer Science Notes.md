@@ -1,7 +1,43 @@
 # Paper-I 
 ## Section-B 
 ---
+### Programming Fundamentals 
+
+**Loops**
+- There are mainly two types of loops:
+
+    **Entry Controlled loops**: In this type of loops the test condition is tested before entering the loop body. For Loop and While Loop are entry controlled loops.
+    **Exit Controlled Loops**: In this type of loops the test condition is tested or evaluated at the end of loop body. Therefore, the loop body will execute atleast once, irrespective of whether the test condition is true or false. do – while loop is exit controlled loop
+        
+    **For loop**
+    **Initialization Expression**: In this expression we have to initialize the loop counter to some value. for example: int i=1;
+    **Test Expression**: In this expression we have to test the condition. If the condition evaluates to true then we will execute the body of loop and go to update expression otherwise we will exit from the for loop. For example: i <= 10;
+    **Update Expression**: After executing loop body this expression increments/decrements the loop variable by some value. for example: i++;
+
+    A **pointer** is a variable whose value is the address of another variable. Like any variable or constant, you must declare a pointer before you can work with it. The general form of a pointer variable declaration is
+
+  `type *var-name;`
+
+  `References vs Pointers`
+
+References are often confused with pointers but three major differences between references and pointers are −
+
+    You cannot have NULL references. You must always be able to assume that a reference is connected to a legitimate piece of storage.
+
+    Once a reference is initialized to an object, it cannot be changed to refer to another object. Pointers can be pointed to another object at any time.
+
+    A reference must be initialized when it is created. Pointers can be initialized at any time.
+
+single vs double quote
+
+In C and in C++ single quotes identify a single character, while double quotes create a string literal. 'a' is a single a character literal, while "a" is a string literal containing an 'a' and a null terminato
+
+virtual vs pure virutal function
+
+A virtual function is a member function of base class which can be redefined by derived class. A pure virtual function is a member function of base class whose only declaration is provided in base class and should be defined in derived class otherwise derived class also becomes abstract
+
 ### Data Structures and Algorithms
+
 
 - **Source**:`Data Structures and Algorithms.pdf`
 #### Main Notes
@@ -557,6 +593,20 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 
 ---
 #### Keywords
+- Process Models: https://www.geeksforgeeks.org/software-engineering-iterative-waterfall-model
+- ERD- ER MODEL: https://www.youtube.com/watch?v=QpdhBUYk7Kk
+- UML: https://www.youtube.com/watch?v=UI6lqHOVHic&list=PLUoebdZqEHTwbYD8oo6Wr81Xb7uCAh_oz
+- Requirements Engineering Process: https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/?ref=gcse
+- Elicitation techniques: https://www.softwaretestinghelp.com/requirements-elicitation-techniques/#7_Observation
+- Requirement verification and validation(Check bottom): https://www.geeksforgeeks.org/software-engineering-verification-and-validation/?ref=gcse
+- Functional vs Non Functional Requirements: https://www.geeksforgeeks.org/functional-vs-non-functional-requirements/?ref=leftbar-rightbar
+- Coupling and Cohesion: https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/?ref=lbp 
+- Should know few Steps of Design activitiy: Such as Modularization, Abstraction, Data hiding, Cohesion and coupling,Refactoring. check book or website `296`
+- Software Evolution: https://www.geeksforgeeks.org/software-engineering-software-evolution/?ref=gcse
+- Software Testing and Onward: https://www.geeksforgeeks.org/software-testing-basics/?ref=gcse
+#### Cohesion is an indication of the relative functional strength of a module. 
+is a natural extension of the information-hiding concept described in Section 12.3.6. A cohesive module performs a single task, requiring little interaction with other components in other parts of a program. Stated simply, a cohesive module should (ideally) do just one thing. Although you should always strive for high cohesion (i.e., single-mindedness)
+
 ---
 #### Questions
 1. What does a generic process framework for software engineering encompass in activities ?How many steps ?`48`
