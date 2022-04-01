@@ -593,8 +593,10 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 
 ---
 #### Keywords
+- **Very good notes on Major topics**:https://ecomputernotes.com/software-engineering/principles-of-software-design-and-concepts
 - Process Models: https://www.geeksforgeeks.org/software-engineering-iterative-waterfall-model
-- ERD- ER MODEL: https://www.youtube.com/watch?v=QpdhBUYk7Kk
+- ERD: https://www.youtube.com/watch?v=QpdhBUYk7Kk
+- ER MODEL VS Relational MODEL:
 - UML: https://www.youtube.com/watch?v=UI6lqHOVHic&list=PLUoebdZqEHTwbYD8oo6Wr81Xb7uCAh_oz
 - Requirements Engineering Process: https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/?ref=gcse
 - Elicitation techniques: https://www.softwaretestinghelp.com/requirements-elicitation-techniques/#7_Observation
@@ -604,6 +606,18 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 - Should know few Steps of Design activitiy: Such as Modularization, Abstraction, Data hiding, Cohesion and coupling,Refactoring. check book or website `296`
 - Software Evolution: https://www.geeksforgeeks.org/software-engineering-software-evolution/?ref=gcse
 - Software Testing and Onward: https://www.geeksforgeeks.org/software-testing-basics/?ref=gcse
+- Architectural Design for Web Apps  `304`
+- SQA goals and measures: https://www.geeksforgeeks.org/goals-and-measures-of-software-quality-assurance/?ref=rp
+- SQL Activities: https://www.geeksforgeeks.org/software-engineering-software-quality-assurance/?ref=gcse
+- Differences between Quality Assurance and Quality Control: https://www.geeksforgeeks.org/differences-between-quality-assurance-and-quality-control/?ref=rp
+- Architectural designs: https://www.geeksforgeeks.org/software-engineering-architectural-design/?ref=lbp
+- Aspect oriented Programming: https://www.differencebetween.com/difference-between-aop-and-vs-oop/
+- Design Concepts: http://computationalsciencewithsuman.blogspot.com/p/introduction-fundamental-design-concepts.html
+- Software Project Management: https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/?ref=gcse
+- Project Management Process: https://www.geeksforgeeks.org/software-engineering-project-management-process/?ref=lbp
+- Difference between Project Management and Process Management: https://www.geeksforgeeks.org/difference-between-project-management-and-process-management/?ref=gcse
+
+
 #### Cohesion is an indication of the relative functional strength of a module. 
 is a natural extension of the information-hiding concept described in Section 12.3.6. A cohesive module performs a single task, requiring little interaction with other components in other parts of a program. Stated simply, a cohesive module should (ideally) do just one thing. Although you should always strive for high cohesion (i.e., single-mindedness)
 
