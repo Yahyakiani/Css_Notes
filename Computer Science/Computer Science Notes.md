@@ -246,6 +246,27 @@ RightLeft rotation
 - Linked List, Doubly Linked List, Circular Linked List
 - Seach Problems ,Their specification `23`
 ---
+#### Links
+- Algorithm and Criteria: https://www.geeksforgeeks.org/introduction-to-algorithms/?ref=gcse
+- Algorithm representation: https://www.public.asu.edu/~atrow/ser101/notes/ProblemSolving/representation.html
+- Algorithm vs Pseudo code vs program: https://www.geeksforgeeks.org/difference-between-algorithm-pseudocode-and-program/?ref=gcse
+- Flowchart: https://www.geeksforgeeks.org/an-introduction-to-flowcharts/
+- Algorithm analysis and Asymptotic Notation: https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/?ref=lbp
+- Iterative substituton: Backward Substitution: Tracing Tree: https://www.youtube.com/watch?v=4V30R3I1vLI
+- Linked list and types: https://www.geeksforgeeks.org/types-of-linked-list/?ref=gcse
+- Stack ADT Implement: https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
+- Searching Algorithms: https://www.geeksforgeeks.org/searching-algorithms/?ref=gcse
+- Hash tables: https://www.geeksforgeeks.org/hashing-data-structure/
+- In Open Hashing each cell in the array points to a list containg the collisions. The hashing has produced the same index for all items in the linked list. In Closed Hashing you use only one array for everything. You store the collisions in the same array
+- Hash table bucketing: https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/BucketHash.html
+- Binary trees: https://www.geeksforgeeks.org/binary-tree-set-3-types-of-binary-tree/?ref=lbp
+- AVL : https://www.geeksforgeeks.org/complexity-different-operations-binary-tree-binary-search-tree-avl-tree/?ref=leftbar-rightbar
+- AVL Left and right  rotation: https://www.youtube.com/watch?v=jDM6_TnYIqE
+- Red black tree: https://www.geeksforgeeks.org/red-black-tree-set-1-introduction-2/?ref=lbp 
+- BFS and DFS: https://www.youtube.com/watch?v=pcKY4hjDrxk&t=951s
+- Prim and krushals traversal : https://www.youtube.com/watch?v=4ZlRH0eK-qQ
+- Tree traversals : https://youtu.be/BHB0B1jFKQc
+
 #### Questions
 1. WHat is algorithm ?
 2. What are programming paradigms ?
@@ -566,9 +587,28 @@ A friend can be declared anywhere in the class declaration, and it cannot be aff
 139.  What are the registers in I/O Port ?`572` Their definitions what they do ?
 140.  What are file access methods ? How do they work ? Advantages ?`445`
 141.  
-142.  
 
----
+
+#### Links:
+- overall Link: https://www.geeksforgeeks.org/operating-systems/?ref=lbp#ss
+- Types of Operating System: https://www.geeksforgeeks.org/types-of-operating-systems/?ref=lbp
+- For how operating sytem starts and UEFI vs BIOS : https://www.geeksforgeeks.org/uefiunified-extensible-firmware-interface-and-how-is-it-different-from-bios/
+- symmetric and asymmetric multiprocessing: https://www.geeksforgeeks.org/difference-between-asymmetric-and-symmetric-multiprocessing/?ref=gcse
+- 
+- Difference between buffer and cache: https://www.geeksforgeeks.org/difference-between-buffer-and-cache/
+- Multiple Difference questions: https://www.geeksforgeeks.org/process-table-and-process-control-block-pcb/
+- **Interrupt Latency** : Interrupt latency, also called interrupt response time, is the length of time that it takes for a computer interrupt to be acted on after it has been generated. In most computers, a trade-off exists among interrupt latency, throughput, and processor utilization.
+- calculate average waiting time in RR: https://www.youtube.com/watch?v=sl9xcJ3rsHg
+- Deadlock Detection for Single instance wait for grpah: https://www.youtube.com/watch?v=2-7JGoy52Qo
+- Bankers algorithm execution: https://www.youtube.com/watch?v=bYFVbzLLxfY
+- **Difference between Deadlock, Starvation, and Livelock:**
+A livelock is similar to a deadlock, except that the states of the processes involved in the livelock constantly change with regard to one another, none progressing. Livelock is a special case of resource starvation; the general definition only states that a specific process is not progressing.
+- Starvation is a problem which is closely related to both, Livelock and Deadlock. In a dynamic system, requests for resources keep on happening. Thereby, some policy is needed to make a decision about who gets the resource when. This process, being reasonable, may lead to a some processes never getting serviced even though they are not deadlocked.
+- Resource Allocation Graph single and multi-instance: https://www.geeksforgeeks.org/resource-allocation-graph-rag-in-operating-system/
+- Deadlock in Distributed system: https://www.geeksforgeeks.org/deadlock-detection-in-distributed-systems/
+- Spooling vs Buffering: https://www.geeksforgeeks.org/difference-between-spooling-and-buffering/
+- 
+
 
 ## Software Engineering 
  Book:`Roger S. Pressman_ Bruce R. Maxin - Software Engineering_ A Practitioner’s Approach-McGraw-Hill Education (2014)`
