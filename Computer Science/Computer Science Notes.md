@@ -607,8 +607,28 @@ A livelock is similar to a deadlock, except that the states of the processes inv
 - Resource Allocation Graph single and multi-instance: https://www.geeksforgeeks.org/resource-allocation-graph-rag-in-operating-system/
 - Deadlock in Distributed system: https://www.geeksforgeeks.org/deadlock-detection-in-distributed-systems/
 - Spooling vs Buffering: https://www.geeksforgeeks.org/difference-between-spooling-and-buffering/
-- 
+- Important : How address is converted and other stuff: https://www.geeksforgeeks.org/memory-allocation-techniques-mapping-virtual-addresses-to-physical-addresses/
+- A **page fault** is an interruption that occurs when a software program attempts to access a memory block not currently stored in the system's RAM. This exception tells the operating system to find the block in virtual memory so it can be sent from a device's storage (SSD or HD) to RAM.
+- Steps When page fault occurs and Virtual Memory: https://www.geeksforgeeks.org/virtual-memory-in-operating-system/
+- **Memory Interleaving** is designed to compensate for the relatively slow speed of dynamic random-access memory (DRAM) or core memory by spreading memory addresses evenly across memory banks.
+- **A translation lookaside buffer (TLB)** is a memory cache that stores the recent translations of virtual memory to physical memory. It is used to reduce the time taken to access a user memory location. It can be called an address-translation cache. It is a part of the chip's memory-management unit (MMU).
+- How to handle thrashing look last: https://www.geeksforgeeks.org/techniques-to-handle-thrashing/
+- Dynamic loading vs static loading and dynamic linking vs static linking: https://www.tutorialspoint.com/operating_system/os_memory_management.html
+- SImple vs virtual paging: In simple paging, all the pages of a process must be in main memory for process to run, unless overlays are used.
 
+But in virtual memory, not all pages of a process need be in main memory frames for the process to run. Pages may be read in as needed
+- **Demand paging** is a process by which the operating system loads or copies a disk page into the physical memory, if an attempt to access the page is made and the page is not already present in the physical memory.
+
+STEPS:
+
+    Attempt to access the page 
+    If the page is present in memory, process instructions 
+    If the page is not, then a page-fault trap occurs
+    Check if the memory reference is a valid reference to a location on secondary memory. If not, the process is terminated (illegal memory access). Otherwise, we have to page in the required page.
+    Schedule disk operation to read the desired page into main memory.
+    Restart the operation that was interrupted
+
+- Page replacement algorithms: https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/
 
 ## Software Engineering 
  Book:`Roger S. Pressman_ Bruce R. Maxin - Software Engineering_ A Practitioner’s Approach-McGraw-Hill Education (2014)`
