@@ -803,6 +803,17 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
    ![alt text](./images/dbsym.PNG)
 ---
 #### Keywords
+- ER Diagrams: https://www.youtube.com/watch?v=F_xDqBa5w-s
+- Number of pOssible superkeys: https://www.geeksforgeeks.org/number-of-possible-superkeys-in-dbms/
+- Find Candidate keys and prime attributes: https://www.youtube.com/watch?v=L0LEtrIDYrE
+- Better way to find candidate keys watch both: https://www.geeksforgeeks.org/finding-attribute-closure-and-candidate-keys-using-functional-dependencies/
+- find number of superkeys: https://www.youtube.com/watch?v=sihST6iDHco
+- Domain, key and relational constraint: https://www.geeksforgeeks.org/relational-model-in-dbms/
+- 2nf conversion watch subsequent : https://www.youtube.com/watch?v=O16btnzfuYU
+- Highest normal form of any relation: https://www.youtube.com/watch?v=nSnaGLtwgMc
+- DEcompositions: https://www.youtube.com/watch?v=h_Va-DLQnBQ
+- Good examp of natural join: https://www.youtube.com/watch?v=zb8ESEf36Zc 
+- Query optimization: https://www.tutorialspoint.com/distributed_dbms/distributed_dbms_query_optimization_centralized_systems.htm
 ---
 #### Questions
 1. What are diff data abstraction levels ?`33`
@@ -855,6 +866,8 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
 ---
 #### Keywords
 - Topology
+- OSI 7 Layers: APS men TNd karwa kr DP li
+- Bit Stuffing : https://www.geeksforgeeks.org/framing-in-data-link-layer/
 - 
 ---
 #### Questions
