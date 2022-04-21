@@ -868,6 +868,17 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
 - Topology
 - OSI 7 Layers: APS men TNd karwa kr DP li
 - Bit Stuffing : https://www.geeksforgeeks.org/framing-in-data-link-layer/
+- Process of finding domain name from ip
+- How is mail transfered from one user to another
+- **DNS cache poisoning** is the act of entering false information into a DNS cache, so that DNS queries return an incorrect response and users are directed to the wrong websites. DNS cache poisoning is also known as 'DNS spoofing.
+- how Http sends file: https://www.geeksforgeeks.org/http-non-persistent-persistent-connection/
+- how  ftp works: https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/
+- how dhcp works:https://www.youtube.com/watch?v=RUZohsAxPxQ
+- supernetting: https://www.youtube.com/watch?v=MnqP_TVwkbs, smaller supernetting example: https://www.youtube.com/watch?v=QqEcCzhlWis
+- use this channel for all types of conversions of number systems: https://www.youtube.com/watch?v=rsxT4FfRBaM
+- add subtract binary: https://www.youtube.com/watch?v=C5EkxfNEMjE&t=209s
+- IP version 6 Header Format : VP Flow mein he  with PN in Hand.SaD Example: 128 bits
+- ICMP packet: TCC ED
 - 
 ---
 #### Questions
