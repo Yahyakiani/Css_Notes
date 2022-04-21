@@ -1,6 +1,13 @@
 
 ##  Sensation and Perception 
 
+- **Types of Perception**
+    Vision.
+    Touch.
+    Sound.
+    Taste.
+    Smell
+
 - **Weber’s law** A basic law of psychophysics stating that a just noticeable 
 difference is a constant proportion to 
 the intensity of an initial stimulus 
@@ -123,6 +130,208 @@ that modify behavior. They include reinforcement scheduling, shaping, generaliza
 approach to the study of learning that 
 focuses on the thought processes that 
 underlie learning 
-   - latent learning p. 198
-   - observational learning p. 200
-- 
+   - **latent learning** Behaviour is acquired but not shown unless a motivation is present.
+     - Latent learning puts question on Operant Conditioning `pg 254` 
+
+   - **observational learning or Social learning theory** Learning by 
+observing the behavior of another 
+person, or model.
+     - **Given by** Albert Bandura
+     - Observational learning is particularly important in acquiring skills in which the 
+operant conditioning technique of shaping is inappropriate. Piloting an airplane and 
+performing brain surgery, for example, are behaviors that could hardly be learned 
+by using trial-and-error methods without grave cost—literally—to 
+   - **Insight learning theory** is proposed by Wolfgang Kohler. Insight learning is the sudden understanding of the relation between a problem and a solution. By learning through insight, the correct solution not only appears seemingly out of nowhere but also repeated readily of subsequent presentations of that problem
+
+- **levels-of-processing theory** The 
+theory of memory that emphasizes the 
+degree to which new material is 
+mentally analyzed.
+
+  - At **shallow levels**, 
+information is processed merely in terms of its physical and sensory aspects. For 
+example, we may pay attention only to the shapes that make up the letters in the 
+word dog . 
+  - At an **intermediate level of processing**, the shapes are translated into meaningful units—in this case, letters of the alphabet. Those letters are considered in the 
+context of words, and specific phonetic sounds may be attached to the letters. 
+  - **deepest level of processing**, information is analyzed in terms of its meaning. We may see it in a wider context and draw associations between the meaning 
+of the information and broader networks of knowledge
+
+- **Forgetting and reasons for forgetting**
+  - **Decay** is the loss of information through nonuse. 
+    - **Physical Explaination** This explanation for forgetting 
+assumes that memory traces, the physical changes that take place in the brain when 
+new material is learned, simply fade away over time
+  -  **interference** The phenomenon by 
+which information in memory disrupts 
+the recall of other information
+     - **proactive interference** Interference in 
+which information learned earlier 
+disrupts the recall of newer material. 
+     - **retroactive interference** Interference 
+in which there is diffi culty in the recall 
+of information learned earlier because 
+of later exposure to different materia
+  - **cue-dependent forgetting** Forgetting 
+that occurs when there are insuffi cient 
+retrieval cues to rekindle information 
+that is in memory
+  - **Medical Problems** Alzheimer’s disease An illness 
+characterized in part by severe 
+memory problems. 
+
+##  Motivation and Emotion 
+
+#### Theories of Motivation or Approaches
+
+-  **Instinct Approaches**: According 
+to instinct approaches to motivation, people and animals are born preprogrammed 
+with sets of behaviors essential to their survival. Those instincts provide the energy 
+that channels behavior in appropriate directions. Hence, sexual behavior may be a 
+response to an instinct to reproduce, and exploratory behavior may be motivated by 
+an instinct to examine one’s territory. 
+   - **motivation** The factors that direct and 
+energize the behavior of humans and 
+other organisms. 
+   - **instincts** Inborn patterns of behavior 
+that are biologically determined rather 
+than learned
+   - **Problem**: This conception presents several diffi culties, however. For one thing, psychologists do not agree on what, or even how many, primary instincts exist. One early 
+psychologist, William McDougall (1908), suggested that there are 18 instincts
+
+
+- **Drive-reduction** approaches to 
+motivation suggest that a lack of some basic biological requirement such as water 
+produces a drive to obtain that requirement (in this case, the thirst drive). 
+  - **Example**:  A drive is 
+motivational tension, or arousal, that energizes behavior to fulfi ll a need. Many basic 
+drives, such as hunger, thirst, sleep, and sex, are related to biological needs of the 
+body or of the species as a whole. These are called primary drives . Primary drives 
+contrast with secondary drives in which behavior fulfi lls no obvious biological need. 
+In secondary drives , prior experience and learning bring about needs. For instance, 
+some people have strong needs to achieve academically and professionally
+  - We usually try to satisfy a primary drive by reducing the need underlying it. For 
+example, we become hungry after not eating for a few hours
+  - **Problem** drive-reduction theories provide a good explanation of how primary 
+drives motivate behavior, they cannot fully explain a behavior in which the goal is 
+not to reduce a drive but rather to maintain or even increase the level of excitement 
+or arousal.  Similarly, many people pursue thrilling activities such as riding a roller coaster or steering a raft down the rapids of a river
+
+- **Homeostasis**, the body’s tendency to maintain a steady internal state, underlies primary drives. Using feedback loops, homeostasis brings deviations in body functioning back to an optimal state, similar to the way a thermostat does.
+
+- **Arousal approaches to motivation**  According to arousal approaches to motivation, each person 
+tries to maintain a certain level of stimulation and activity. As with the drivereduction model, this model suggests that if our stimulation and activity levels 
+become too high, we try to reduce them. But, in contrast to the drive-reduction 
+model, the arousal model also suggests that if levels of stimulation and activity are 
+too low, we will try to increase them by seeking stimulation. 
+ 
+  - **Example :** People vary widely in the optimal level of arousal they seek out, with some people 
+looking for especially high levels of arousal. For example, people who participate in 
+daredevil sports, high-stakes gamblers, and criminals who pull off high-risk robberies 
+may be exhibiting a particularly high need for arousal 
+
+- **Incentive approaches** to motivation suggest that motivation stems from the 
+desire to obtain valued external goals, or incentives. In this view, the desirable properties of external stimuli—whether grades, money, affection, food, or sex—account 
+for a person’s motivation 
+
+  -  **Problem** it does 
+not provide a complete explanation of motivation because organisms sometimes seek 
+to fulfi ll needs even when incentives are not apparent.
+
+- **Cognitive approaches to motivation** suggest that motivation is a product of people’s 
+thoughts, expectations, and goals—their cognitions. 
+  - **Example** :For instance, the degree to which 
+people are motivated to study for a test is based on their expectation of how well 
+studying will pay off in terms of a good grade
+  - Explain: Cognitive theories of motivation draw a key distinction between intrinsic and 
+extrinsic motivation. 
+
+  - **Intrinsic motivation** causes us to participate in an activity for our 
+own enjoyment rather than for any concrete, tangible reward that it will bring us. In 
+contrast, 
+  - **extrinsic motivation** causes us to do something for money, a grade, or some 
+other concrete, tangible reward. For example, when a physician works long hours 
+because she loves medicine
+
+- **Maslow’s model** places motivational needs in a hierarchy and suggests that 
+before more sophisticated, higher-order needs can be met, certain primary needs 
+must be satisfied
+  - **Problem** Although research has been unable to validate the specific ordering of Maslow’s 
+stages, and it is difficult to measure self-actualization objectively, Maslow’s hierarchy 
+of needs is important for two reasons: It highlights the complexity of human needs, 
+and it emphasizes the idea that until more basic biological needs are met, people will 
+be relatively unconcerned with higher-order needs 
+  - **Abraham Maslow**
+
+
+- **self-determination theory** that people have the three basic needs of competence, autonomy, and relatedness. 
+Competence is the need to produce desired outcomes, while autonomy is the perception that we have control over our own lives.Finally, relatedness is the need to be 
+involved in close, warm relationships with others. In the view of self-determination 
+theory, these three psychological needs are innate and universal across cultures, and 
+they are essential as basic biological needs 
+  - **Given By**  Edward Deci and Richard Ryan
+
+- **Functions of Emotions**
+  1. **Preparing us for action** . Emotions act as a link between events in our environment and our responses. For example, if you saw an angry dog charging 
+toward you, your emotional reaction would be fear.
+  2. **Shaping our future behavior** . Emotions promote learning that will help us make 
+appropriate responses in the future. For instance, your emotional response to 
+unpleasant events teaches you to avoid similar circumstances in the future. 
+  3. **Helping us interact** more effectively with others . We often communicate the 
+emotions we experience through our verbal and nonverbal behaviors, making 
+our emotions obvious to observers. T 
+
+#### Theories of Emotion
+
+-  **James-Lange theory of emotion**  James and Lange proposed that we experience emotions as a result of 
+physiological changes that produce specifi c sensations. The brain interprets these 
+sensations as specifi c kinds of emotional experiences (see the fi rst part of Figure 2). 
+This view has come to be called the James-Lange theory of emotion
+   - They suggested that for every major emotion there is an accompanying physiological or “gut” 
+reaction of internal organs—called a **visceral experience**
+   - **Drawback** James-Lange theory has some serious drawbacks, however. For the theory 
+to be valid, visceral changes would have to occur relatively quickly because we 
+experience some emotions—such as fear upon hearing a stranger rapidly approaching 
+on a dark night—almost instantaneously. Yet emotional experiences frequently occur 
+even before there is time for certain physiological changes to be set into motion. 
+Because of the slowness with which some visceral changes take place, it is hard to 
+see how they could be the source of immediate emotional experience
+     - **Another issue**:  Physiological arousal does not 
+invariably produce emotional experience. For example, a person who is jogging has 
+an increased heartbeat and respiration rate as well as many of the other physiological 
+changes associated with certain emotions. Yet joggers typically do not think of such 
+changes in terms of emotion
+   - **William James and Carl Lange**
+
+- **CANNON-BARD THEORY** This theory rejects the view that physiological arousal alone 
+leads to the perception of emotion. Instead, the theory assumes that both physiological 
+arousal and the emotional experience are produced simultaneously by the same nerve 
+stimulus, which Cannon and Bard suggested emanates from the thalamus in the brain.
+  - **Explain**  thalamus is the initial site of the emotional response. Next, the thalamus sends a signal 
+to the autonomic nervous system,
+  - **Criticism** Recent research 
+has led to some important modifications of the theory. For one thing, we now understand that the hypothalamus and the limbic system, not the thalamus, play a major 
+role in emotional experience. In addition, the simultaneous occurrence of the physiological and emotional responses, which is a fundamental assumption of the Cannon.Bard theory, has yet to be demonstrated conclusively.
+  - **Walter Cannon and Philip Bard**
+   
+- **SCHACHTER-SINGER THEORY(Cognitive Perspective)** According to an explanation that focuses on the role of cognition, the SchachterSinger theory of emotion, this might very well happen. This approach to explaining emotions emphasizes that we identify the emotion we are experiencing by 
+observing our environment and comparing ourselves with others
+  - **Explaination** Schachter and Singer’s classic experiment `page 387`
+
+
+### Intelligence Chapter Mix from  theories file and Book
+
+## Personality : From Book fully
+
+
+## Health PSychology and Stress
+
+- **general adaptation syndrome**  (GAS) A theory developed by Selye  
+that suggests that a person’s response 
+to a stressor consists of three stages: 
+alarm and mobilization, resistance, 
+and exhaustion.(532)
+  - 
+  -  **Hans Selye**
+
+- Effects of Stress
