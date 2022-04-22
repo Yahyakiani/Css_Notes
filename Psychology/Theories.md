@@ -335,3 +335,468 @@ and exhaustion.(532)
   -  **Hans Selye**
 
 - Effects of Stress
+
+
+## Devlopment
+
+- **Developmental Research Techniques**
+  - **cross-sectional research** A research 
+method that compares people of 
+different ages at the same point in time
+  -  **longitudinal research** A research 
+method that investigates behavior as 
+participants age. 
+  - **sequential research** A research 
+method that combines cross-sectional 
+and longitudinal research by considering a number of different age groups 
+and examining them at several points 
+in time. 
+- **Stages of Development**
+  - germinal period
+  - embryonic period
+  - fetal period
+  -  age of viability
+  -  sensitive periods
+-  **Factors that effect development**
+   -  Genetic
+      -  Phenylketonuria
+      -  Sickle-cell anemia
+      -  Tay-Sachs disease
+      -  Down syndrome
+   - **Enviromental**
+     - Mother’s nutrition .
+     - Mother’s illness .
+     - Mother’s emotional state
+     - Mother’s use of drugs
+     - Alcohol(h fetal alcohol syndrome) 
+ 
+- **Parenting Styles and Social Development**
+  - **authoritarian parents** Parents who are 
+rigid and punitive and value unquestioning obedience from their child
+  - **permissive parents** Parents who give 
+their children relaxed or inconsistent 
+direction and, although they are warm, 
+require little of them.
+  - **authoritative parents** Parents who are 
+fi rm, set clear limits, reason with their 
+children, and explain things to them.
+  - **uninvolved parents** Parents who 
+show little interest in their children 
+and are emotionally detached
+
+  ![alt text](images/parent.PNG)
+
+- **Erikson’s Theory of Psychosocial Development**
+  - Developmental changes that occur throughout life as a 
+series of eight stages of psychosocial development; of these, four occur during childhood. Psychosocial development involves changes in our interactions and understanding of one another as well as in our knowledge and understanding of ourselves 
+as members of society. 
+ Erikson suggests that passage through each of the stages necessitates the resolution of a crisis or confl ict.
+  - **Given by** Erik Erikson
+  - **Criticism** Male Centric
+  - Page 458 and 470
+  - Mnemonic : 
+
+- **Piaget’s Theory of Cognitive Development**
+  -  **Jean Piaget**
+
+-  **INFORMATION-PROCESSING APPROACHES to development**
+   -  According to this approach, quantitative changes occur in children’s ability to 
+organize and manipulate information. From this perspective, children become 
+increasingly adept at information processing, much as a computer program may 
+become more sophisticated as a programmer modifi es it on the basis of experience. 
+Information-processing approaches consider the kinds of “mental programs” that 
+children invoke when approaching problems
+   - Types of development in Info-processing
+     - Speed of Processing
+     - Improvement in Memory
+     - Metacognition (An awareness and understanding of one’s own cognitive processes.)
+- **Vygotsky’s View of Cognitive Development(Social)**
+  - Lev Vygotsky, the culture in which we are raised 
+signifi cantly affects our cognitive development. In an increasingly infl uential view, 
+Vygotsky suggests that the focus on individual performance of both Piagetian and 
+information-processing approaches is misplaced. Instead, he holds that we cannot 
+understand cognitive development without taking into account the social aspects of 
+learning
+  - **Vygotsky argues that cognitive development** occurs as a consequence of social 
+interactions in which children work with others to jointly solve problems. Through 
+such interactions, children’s cognitive skills increase, and they gain the ability to 
+function intellectually on their own. More specifi cally, he suggests that children’s 
+cognitive abilities increase when they encounter information that falls within their 
+zone of proximal development. The zone of proximal development (ZPD) is the 
+level at which a child can almost, but not fully, comprehend or perform a task on 
+his or her own.
+
+-  **KOHLBERG’S THEORY OF MORAL DEVELOPMENT**
+    ![alt text](images/moralDev.PNG)
+    - According to Kohlberg, people pass through a 
+series of stages in the evolution of their sense of justice and in the kind of reasoning 
+they use to make moral judgments (Kohlberg, 1984). Largely because of the various 
+cognitive limitations that Piaget described.
+   - **Limitation** One glaring shortcoming of Kohlberg’s research is that he primarily used male participants.
+   - **Lawrence Kohlberg**
+
+- **Gilligan THeory of Moral Development** According to Gilligan, men view morality 
+primarily in terms of broad principles, such as justice and fairness. In contrast, women 
+see it in terms of responsibility toward individuals and willingness to make sacrifi ces 
+to help a specifi c individual within the context of a particular relationship. Compassion 
+for individuals is a more salient factor in moral behavior for women than it is for men. women may develop identity through the establishment of relationships. In her view, a primary component of women’s identity is the construction of caring networks among themselves and others.
+
+  - **Carol Gilligan** 
+   
+
+- **Aging Theories**
+  - **Genetic preprogramming theories of aging** suggest that human cells have a built-in time limit to their reproduction. These theories suggest that after a certain time cells stop dividing or 
+become harmful to the body—as if a kind of automatic self-destruct button had 
+been pushed. 
+  - In contrast, **wear-and-tear theories** of aging suggest that the mechanical functions of the body simply work less effi ciently as people age. Waste by products of energy production eventually accumulate, and mistakes are made when cells divide. Eventually the body in effect wears out like an old automobile.
+  - **Social**
+    -  **disengagement theory of aging** 
+ A theory that suggests that aging 
+produces a gradual withdrawal from 
+the world on physical, psychological, 
+and social levels. 
+    - **activity theory of aging** A theory that 
+suggests that the elderly who are most 
+successful while aging are those who 
+maintain the interests and activities 
+they had during middle age
+
+- **Elisabeth Kübler-Ross five broad stages of death**: 
+  - Denial
+  - Anger
+  - Bargaining
+  - Depression
+  - Acceptance
+
+## Social Psychology (From book)
+
+- **Cognitive dissonance theory** postulates that an underlying psychological tension is created when an individual's behavior is inconsistent with his or her thoughts and beliefs. This underlying tension then motivates an individual to make an attitude change that would produce consistency between thoughts and behaviors.(636)
+  - How cD is solved
+    - Modify one or both cognitions
+    - Change importance of cognition
+    - Add additional cognition
+    - Deny relation between cognitions
+  - **Leon Festinger**
+- https://www.simplypsychology.org/attribution-theory.html
+- **Attribution Theory**
+  - Attribution theory deals with how the social perceiver uses information to arrive at causal explanations for events. It examines what information is gathered and how it is combined to form a causal judgment”. Heider (1958) believed that people are naive psychologists trying to make sense of the social world
+  - Ideas by Fritiz: Situational Attribution and Dispositional Attribution
+  - **Types of Attribution** biases people make
+    
+    - **hALO EFFECT**:initial understanding 
+that a person has positive traits is used to infer other uniformly positive 
+characteristics
+    - **assumed-similarity bias** The tendency to think of people as being 
+similar to oneself even when meeting 
+them for the fi rst time.
+    - **self-serving bias** The tendency to 
+attribute personal success to personal 
+factors (skill, ability, or effort) and to 
+attribute failure to factors outside 
+oneself
+    - **fundamental attribution error** 
+A tendency to overattribute others’ 
+behavior to dispositional causes and 
+minimize of the importance of 
+situational causes.
+  - **Fritz Heider**
+- **Correspondent inference theory**
+  - Jones and Davis (1965) thought that people pay particular attention to intentional behavior
+  - They say that we tend to do this when we see a correspondence between motive and behavior.  For example, when we see a correspondence between someone behaving in a friendly way and being a friendly person.
+  -  Jones and Davis say we draw on five sources of information:
+  -  
+  - **Edward E. Jones and Keith E. Davis**
+  - Rest from Notes
+  - **Factors in COnformity**
+    - Characteristic of Group : high value or not
+    - Situation to respond : if public more conformity
+    - kind of task: If ambigous or no knowledge then more conformity
+    - Unanimity of group: 
+    - Techniques of Compliance:
+      - **Foot-in-the-door technique** ask a person to agree to a small request and later ask that person to comply with a more important one
+      -  **Door-in-the-face technique** someone makes a large request, expects it to be refused, and follows it with a smaller one
+      -  **Not-so-free sample** the need for reciprocation—in the form of a purchase, of course
+      -  **That’s-not-all technique**  a salesperson offers you a deal at an infl ated price. But immediately after the initial offer, the salesperson offers an incentive, discount, or bonus to clinch the deal.
+ -  **Prejudice and its explaination**
+    -  According to **observational learning approaches** to stereotyping and prejudice, the 
+behavior of parents, other adults, and peers shapes children’s feelings about members of various groups. For instance, bigoted parents may commend their children for expressing prejudiced attitudes
+     - **social identity theory**, we use group membership as a source of pride and self-worth. 
+Social identity theory suggests that people tend to be ethnocentric, viewing the 
+world from their own perspective and judging others in terms of their group membership.
+
+- **Approaches to aggression**
+  - INSTINCT APPROACHES drive. Konrad Lorenz, an ethologist (a 
+scientist who studies animal behavior), expanded Freud’s notions by arguing that 
+humans, along with members of other species, have a fighting instinct, which in 
+earlier times ensured protection of food supplies and weeded out the weaker of the 
+species (Lorenz, 1966, 1974). Lorenz’s instinct approach led to the controversial notion 
+that aggressive energy constantly builds up in an individual until the person fi nally discharges it in a process called catharsis.
+  -  **Frustration-aggression theory** tries to explain aggression in terms of 
+events like this one. It suggests that frustration (the reaction to the thwarting or blocking of goals) produces anger, which leads to a readiness to 
+act aggressively. Whether actual aggression occurs depends on the presence of aggressive cues, stimuli that have been associated in the past with 
+actual aggression or violence and that will trigger aggression again
+  - According to **observational learning theory**, 
+people observe the behavior of models and the subsequent consequences of that 
+behavior. If the consequences are positive, the behavior is likely to be imitated when 
+observers fi nd themselves in a similar situation
+
+
+## Abnormal and Clinical Psychology
+
+- **Causes and concept of Abnormality**
+![alt text](images/disorders.PNG)
+
+- **anxiety disorder** The occurrence of 
+anxiety without an obvious external 
+cause that affects daily functioning.
+  - **PHOBIC DISORDER**  phobia , an intense, irrational fear of a specifi c object or situation. For example, claustrophobia is a fear of enclosed places, acrophobia is a fear 
+of high places, xenophobia is a fear of strangers, social phobia is the fear of being 
+judged or embarrassed by others, and—as in Donna’s case—electrophobia is a fear 
+of electricity. 
+  - **panic disorder** Anxiety disorder that 
+takes the form of panic attacks lasting 
+from a few seconds to several hours
+  - **Panic attacks** seemingly come out of nowhere and are 
+unconnected to any specifi c stimulus. Because they don’t 
+know what triggers their feelings of panic, victims of panic 
+attacks may become fearful of going places
+
+  -  **generalized anxiety disorder** 
+The experience of long-term, 
+persistent anxiety and worry
+     -  **obsessive-compulsive disorder** In obsessive-compulsive disorder (OCD) , people 
+are plagued by unwanted thoughts, called obsessions, or feel that they must carry 
+out behaviors, termed compulsions, which they feel driven to perform
+  - **Causes of Anxiety Disorders**
+    - **Genetic factors** clearly are part of the picture. For example, if one member of a pair 
+of identical twins has panic disorder, there is a 30% chance that the other twin will 
+have it also. 
+    - There are also **biological causes** at work in OCD. For example, researchers have 
+found differences in the brains of those with the disorder compared to those without.
+    - **behavioral perspective** have taken a different 
+approach that emphasizes environmental factors. They consider anxiety to be a 
+learned response to stress. For instance, suppose a dog bites a young girl. When the 
+girl next sees a dog, she is frightened and runs away—a behavior that relieves her 
+anxiety and thereby reinforces her avoidance behavior. After repeated encounters 
+with dogs in which she is reinforced for her avoidance behavior.
+    - **cognitive perspective** suggests that anxiety disorders grow out of 
+inappropriate and inaccurate thoughts and beliefs about circumstances in a person’s 
+world. For example, people with anxiety disorders may view a friendly puppy as a 
+ferocious and savage pit bull.
+
+- **somatoform disorders** Psychological 
+diffi culties that take on a physical 
+(somatic) form, but for which there is 
+no medical cause. 
+  -  **hypochondriasis** A disorder in which 
+people have a constant fear of illness 
+and a preoccupation with their health.
+  -  **conversion disorder** A major somatoform disorder that involves an actual 
+physical disturbance, such as the 
+inability to use a sensory organ or the 
+complete or partial inability to move 
+an arm or leg. 
+
+-  **Dissociative Disorders**
+   -  **dissociative identity disorder** (DID) 
+ A disorder in which a person displays 
+characteristics of two or more distinct 
+personalities.  
+   - **Dissociative amnesia** is another dissociative disorder in which a signifi cant, selective memory loss occurs. Dissociative amnesia is unlike simple amnesia, which involves 
+an actual loss of information from memory and typically results from a physiological 
+cause. In contrast, in cases of dissociative amnesia, the “forgotten” material is still present in memory—it simply cannot be recalled. The term repressed memories is sometimes 
+used to describe the lost memories of people with dissociative amnesia.
+   - A more unusual form of amnesia is a condition known as **dissociative fugue** . In 
+this state, people take sudden, impulsive trips and sometimes assume a new identity. 
+After a period of time—days, months, or sometimes even years—they suddenly realize that they are in a strange place and completely forget the time they have spent 
+wandering
+
+-  **Mood Disorders**
+   -  **mood disorder** A disturbance in 
+emotional experience that is strong 
+enough to intrude on everyday living 
+   -  **major depression** A severe form 
+of depression that interferes with 
+concentration, decision making, and 
+sociability. 
+      - Women twice as like to suffer. one exp, women face double pressue from working in home and job.
+    - **bipolar disorder** A disorder in which 
+a person alternates between periods of 
+euphoric feelings of mania and periods 
+of depression
+      - Some mood disorders clearly have **genetic and biochemical roots**. In fact, most 
+evidence suggests that bipolar disorders are caused primarily by biological factors. 
+
+- **schizophrenia** A class of disorders in 
+which severe distortion of reality occurs
+  - **Disorganized (hebephrenic) schizophrenia**Inappropriate laughter and giggling, silliness, 
+incoherent speech, infantile behavior, strange and 
+sometimes obscene behavior.
+  - **Paranoid schizophrenia** Delusions and hallucinations of persecution or 
+of greatness, loss of judgment, erratic and 
+unpredictable behavior
+  - **Catatonic schizophrenia** Major disturbances in movement; in some phases, 
+loss of all motion, with patient frozen into a single 
+position, remaining that way for hours and 
+sometimes even days; in other phases, hyperactivity 
+and wild, sometimes violent, movement
+  - **Undifferentiated schizophrenia** Variable mixture of major symptoms of 
+schizophrenia; classifi cation used for patients who 
+cannot be typed into any of the more specifi c 
+categories
+  - **Residual schizophrenia** Minor signs of schizophrenia after a more serious 
+episode
+
+  - **Causes**
+    - **Biological**
+      - **Imbalance of Neural chemicals**  **dopamine hypothesis** suggests that schizophrenia occurs when there is excess activity in the areas of the brain that use dopamine as a neurotransmitter.
+      - **structural abnormalities** exist in the 
+brains of people with schizophrenia perhaps as a result of exposure to a virus during 
+prenatal development
+    - **Enviromental** 
+      - Freud believed that people with schizophrenia lack egos that are strong enough to cope 
+with their unacceptable impulses. They regress to the oral stage—a time when the 
+id and ego are not yet separated. Therefore, individuals with schizophrenia essentially lack an ego and act out impulses without concern for reality. 
+    -  **cognitive perspective** on schizophrenia suggest that the 
+       - problems in thinking that people with the disorder experience point to a cognitive 
+cause. Some suggest that schizophrenia results from overattention to stimuli in the 
+environment. Rather than being able to screen out unimportant
+
+     - **Predisposition model of schizophrenia** Used today
+       - This model suggests that individuals may inherit a predisposition or 
+an inborn sensitivity to schizophrenia that makes them particularly vulnerable to 
+stressful factors in the environment, such as social rejection or dysfunctional family 
+communication patterns. 
+
+-  **Personality Disorders** 
+   -  A disorder 
+characterized by a set of infl exible, 
+maladaptive behavior patterns that 
+keep a person from functioning 
+appropriately in society.
+   - **antisocial personality disorder** 
+A disorder in which individuals show 
+no regard for the moral and ethical 
+rules of society or the rights of others
+   -  **borderline personality disorder** 
+A disorder in which individuals have 
+diffi culty developing a secure sense 
+of who they are. 
+   -  **narcissistic personality disorder** 
+A personality disturbance characterized by an exaggerated sense of 
+self- importance
+- **Treatment of Disorders**
+  - **psychodynamic therapy** Therapy that 
+seeks to bring unresolved past confl icts 
+and unacceptable impulses from the 
+unconscious into the conscious, where 
+patients may deal with the problems 
+more effectively
+  - **psychoanalysis** Freudian psychotherapy in which the goal is to release 
+hidden unconscious thoughts and 
+feelings in order to reduce their power 
+in controlling behavior
+  - Methods Used
+    - **Free Association**
+    - **Dream Interpretation** 
+    - **Transference** The transfer of feelings 
+to a psychoanalyst of love or anger 
+that had been originally directed to a 
+patient’s parents or other authority 
+figures. 
+  - **issues**
+    - Length ,Expensive,Dont know whether work or not. Whether patient got better.Cannot be proved
+-  **behavioral treatment** **approaches** 
+ Treatment approaches that build on 
+the basic processes of learning, such as 
+reinforcement and extinction, and 
+assume that normal and abnormal 
+behavior are both learned. 
+   - `Classical Conditioning Techniques`
+   -  **aversive conditioning** A form of 
+therapy that reduces the frequency of 
+undesired behavior by pairing an 
+aversive, unpleasant stimulus with 
+undesired behavior. 
+      - Like drugs with Alcohol
+    - **systematic desensitization** A behavioral technique in which gradual 
+exposure to an anxiety-producing 
+stimulus is paired with relaxation to 
+extinguish the response of anxiety. 
+      - Steps 
+        - Create **Hierarchy of Fear** first.Aeroplane Example
+        - Once you had developed this hierarchy and learned relaxation techniques, you 
+            would learn to associate the two sets of responses
+        - imagine yourself in the first 
+situation identifi ed in your hierarchy and so on
+    - **Exposure Treatments** Although systematic desensitization has proven to be a successful treatment, today it is often replaced with a less complicated form of therapy 
+called exposure. Exposure is a behavioral treatment for anxiety in which people are 
+confronted either suddenly or gradually with a stimulus that they fear.
+   -  `OPERANT CONDITIONING TECHNIQUES`
+   -  **Contingency contracting**, the therapist and client (or 
+teacher and student or parent and child) draw up a written 
+agreement. The contract states a series of behavioral goals the 
+client hopes to achieve. It also specifies the positive consequences for the client if the client reaches goals—usually an 
+explicit reward such as money or additional privileges 
+   - **observational learning**, the process in which the behavior of other people is modeled, to systematically teach people new skills and ways of handling their 
+fears and anxieties. For example, modeling helps when therapists are teaching basic 
+social skills, such as maintaining eye
+   -  **Good things** works especially well for eliminating anxiety disorders, treating 
+phobias and compulsions, establishing control over impulses, and learning complex 
+social skills to replace maladaptive behaviour
+   - **Issues** Critics of behavior therapy believe that because it emphasizes changing external 
+behavior, people do not necessarily gain insight into thoughts and expectations that 
+may be fostering their maladaptive behavior
+- **cognitive treatment approaches** Treatment approaches that teach people to 
+think in more adaptive ways by 
+changing their dysfunctional cognitions about the world and themselves. 
+  - **rational-emotive behavior therapy** 
+A form of therapy that attempts to 
+restructure a person’s belief system 
+into a more realistic, rational, and 
+logical set of views by challenging 
+dysfunctional beliefs that maintain 
+irrational behavior. 
+  - **Good things** Cognitive approaches to therapy have proved successful in dealing with a broad 
+range of disorders, including anxiety disorders, depression, substance abuse, and 
+eating disorders
+- **humanistic therapy** Therapy in which 
+the underlying rationale is that people 
+have control of their behavior, can 
+make choices about their lives, and are 
+essentially responsible for solving their 
+own problems.
+  - **Person-centered therapy** (also called client-centered therapy ) aims to enable people 
+to reach their potential for self-actualization. By providing a warm and accepting 
+environment, therapists hope to motivate clients to air their problems and feelings. 
+In turn, this enables clients to make realistic and constructive choices and decisions 
+about the things that bother them in their current lives,
+    -  therapists provide what Rogers 
+calls **unconditional positive regard**
+  - **Issues** humanistic treatments lack specifi city, a problem that has troubled 
+their critics. Humanistic approaches are not very precise and are probably the least 
+scientifi cally and theoretically developed type of treatment.
+- **Biomedical Therapy**
+  -  **drug therapy** Control of psychological 
+disorders through the use of drugs.
+  -  **antipsychotic drugs** Drugs that 
+temporarily reduce psychotic symptoms such as agitation, hallucinations, 
+and delusions.such as `promazine`
+  - **How it works**  work? Most block dopamine receptors at the brain’s 
+synapse
+  -  **antidepressant drugs**   Medications 
+that improve a severely depressed 
+patient’s mood and feeling of wellbeing. 
+  - **antianxiety drugs**   Drugs that reduce 
+the level of anxiety a person experiences essentially by reducing excitability and increasing feelings of well-being. 
+    - Antianxiety drugs such as Xanax and Valium
+  - **Electroconvulsive therapy** (ECT)   
+ A procedure used in the treatment of 
+severe depression in which an electric 
+current of 70–150 volts is briefly 
+administered to a patient’s head.
+
+
+
+
+
