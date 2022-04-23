@@ -8,19 +8,19 @@
     Taste.
     Smell
 
-- **Weber’s law** A basic law of psychophysics stating that a just noticeable 
+- **Weber’s law** A basic law of psychophysics stating that a just noticeable 
 difference is a constant proportion to 
 the intensity of an initial stimulus 
 (rather than a constant amount)
   - **Example:** For example, Weber found that the just noticeable difference for weight is 1:50. 
-Consequently, it takes a 1-ounce increase in a 50-ounce weight to produce a noticeable difference, and it would take a 10-ounce increase to produce a noticeable difference if the initial weight were 500 ounces.
+Consequently, it takes a 1-ounce increase in a 50-ounce weight to produce a noticeable difference, and it would take a 10-ounce increase to produce a noticeable difference if the initial weight were 500 ounces.
   - **Explains** Weber’s law helps explain why a person in a quiet room is more startled by the 
 ringing of a telephone than is a person in an already noisy room. To produce the 
-same amount of reaction in a noisy room, a telephone ring might have to approximate the loudness of cathedral bells.
+same amount of reaction in a noisy room, a telephone ring might have to approximate the loudness of cathedral bells.
 
 - **Theories of Vision**
   -  **Trichromatic theory of color vision**  This theory suggests that there 
-are three kinds of cones in the retina, each of which responds primarily to a specifi c 
+are three kinds of cones in the retina, each of which responds primarily to a specific 
 range of wavelengths. One is most responsive to blue-violet colors, one to green, and 
 the third to yellow-red (Brown & Wald, 1964). According to trichromatic theory, perception of color is infl uenced by the relative strength with which each of the three 
 kinds of cones is activated. If we see a blue sky, the blue-violet cones are primarily 
@@ -30,7 +30,7 @@ explain color vision completely. Why should the colors in the afterimage be diff
 from those in the original?
      - **Given By** Thomas Young
   
-  -  **Opponent-process theory of color vision**  there are a blue-yellow pairing, a red-green pairing, and a black-white pairing. If an object refl ects light that contains more blue than yellow, it will stimulate 
+  -  **Opponent-process theory of color vision**  there are a blue-yellow pairing, a red-green pairing, and a black-white pairing. If an object reflects light that contains more blue than yellow, it will stimulate 
 the fi ring of the cells sensitive to blue, simultaneously discouraging or inhibiting the 
 fi ring of receptor cells sensitive to yellow—and the object will appear blue. If, in 
 contrast, a light contains more yellow than blue, the cells that respond to yellow will 
@@ -41,7 +41,7 @@ we stare at the yellow in the fi gure, for instance, our receptor cells for the 
 component of the yellow-blue pairing become fatigued and are less able to respond 
 to yellow stimuli. In contrast, the receptor cells for the blue part of the pair are not 
 tired, because they are not being stimulated. When we look at a white surface, the 
-light refl ected off it would normally stimulate both the yellow and the blue receptors 
+light reflected off it would normally stimulate both the yellow and the blue receptors 
 equally. But the fatigue of the yellow receptors prevents this from happening. They 
 temporarily do not respond to the yellow, which makes the white light appear to be 
 blue
@@ -55,7 +55,7 @@ fi nding has led to the place theory of hearing , which states that different ar
 the basilar membrane respond to different frequencies 
     - **Criticism**  place theory does not tell the full story of hearing, because very low 
 frequency sounds trigger neurons across such a wide area of the basilar membrane 
-that no single site is involved. Consequently, an additional explanation for hearing 
+that no single site is involved. Consequently, an additionalexplanation for hearing 
 has been proposed: frequency theory
   - **frequency theory of hearing** suggests that 
 the entire basilar membrane acts as a microphone, vibrating as a whole in response 
@@ -65,17 +65,17 @@ sounds to which we are exposed, with the number of nerve impulses being a direct
 function of a sound’s frequency. Thus, the higher the pitch of a sound (and therefore 
 the greater the frequency of its wave crests), the greater the number of nerve impulses 
 that are transmitted up the auditory nerve to the brain
-  - **Both Issue**  Neither place theory nor frequency theory provides the full explanation for hearing. Place theory provides a better explanation for the sensing of high-frequency.sounds, whereas frequency theory explains what happens when low-frequency 
+  - **Both Issue**  Neither place theory nor frequency theory provides the fullexplanation for hearing. Place theory provides a better explanation for the sensing of high-frequency.sounds, whereas frequency theory explains what happens when low-frequency 
 sounds are encountered. Medium-frequency sounds incorporate both processes 
 
 - **Gate-control theory of pain** , particular 
-nerve receptors in the spinal cord lead to specifi c areas of the 
+nerve receptors in the spinal cord lead to specific areas of the 
 brain related to pain. When these receptors are activated 
 because of an injury or problem with a part of the body, a 
 “gate” to the brain is opened, allowing us to experience the 
 sensation of pain (Melzack & Katz, 2004). 
 However, another set of neural receptors can, when stimulated, close the “gate” to the brain, thereby reducing the experience of pain. The gate can be shut in two different ways.
-  -  nonpainful stimuli compete with 
+  -  nonpainful stimulicompete with 
 and sometimes displace the neural message of pain, thereby shutting off the painful 
 stimulus. This explains why rubbing the skin around an injury  
   - Gate-control theory also may explain cultural differences in the experience of 
@@ -97,7 +97,7 @@ most basic, straightforward manner that we can
   - One fundamental gestalt principle that remains infl uential is that two 
 objects considered together form a whole that is different 
 from the simple combination of the objects. Gestalt psychologists argued that the perception of stimuli in our environment 
-goes well beyond the individual elements that we sense. 
+goes well beyond the individualelements that we sense. 
 Instead, it represents an active, constructive process carried 
 out within the brain
   - **Given by** Wolfgang Köhler and Kurt Koffka
@@ -116,14 +116,48 @@ associations of dentists with pain. In more extreme cases, classical conditionin
 lead to the development of phobias.
    - PTSD in war veterans who have had traumatic experiences, can also be produced by classical 
 conditioning
+   - Little ALbert and Rat experiment by **John B watson**.
+   - **Techniques**
+     - **Aversion therapy**: Pairing of Unpleasant thing with unwanted behavour. sickness pills with alcohol
+     - **Flooding**: This process involves exposing people to fear-invoking objects or situations intensely and rapidly. It is often used to treat phobias. During the process, the individual is prevented from escaping or avoiding the situation.
+     - **Systematic desensitization**: In this technique, people make a list of fears and then learn to relax while concentrating on these fears. Starting with the least fear-inducing item and working their way to the most fear-inducing item,
 
-- **Thorndike’s Law of Effect** 
-  - Responses that lead to satisfying consequences are more likely to be repeated. 
+- **Trial and Error Learning Theory**: This theory was developed by an American psychologist EL 
+Thorndike (1874-1949). He argues that learning takes place through trial and error method. 
+According to him learning is a gradual process where the individual will make many attempts to 
+learn. The essence of this theory is-as the trials increase, the errors decrease. This is possible 
+because of association formed between sense impressions and impulses to action. Such an 
+association comes to be known as a ‘bond’ or a ‘connection, because it is these bonds or 
+connections which become strengthened or weakened in making and breaking of habits. 
+According to this theory when an individual is placed in a new situation, he makes a number of 
+random movements. Among them, those which are unsuccessful are eliminated and the 
+successful ones are fixed.
+  - **Experiment**: Thorndike utilized what is known as puzzle boxes to study how animals learn. The boxes were enclosed but contained a small lever that, when pressed, would allow the animal to escape. Thorndike would place a cat inside the puzzle box and then place a piece of meat outside the box
+  - In successive trials the cats would learn that pressing the lever would have favourable consequences and they would adopt this behaviour, becoming increasingly quick at pressing the lever
+
+
+- **Thorndike’s Laws** 
+  - **Laws of Learning**: EL Thorndike has explained three laws of learning called Primary laws and in addition to 
+these, he has also framed 5 subsidiary laws in connection with his trial and error learning theory.
+  - **Primary laws**:
+    - **Law of readiness**: By readiness means the organism is ready to respond or act. This is 
+more essential prerequisite for learning.
+    - **Law of exercise**: This law is also known as law of frequency. Frequency refers to number 
+of repetitions of learning. Thorndike believed that repeated exercising of a response 
+strengthens its connection with stimulus.
+    - **Law of effect**: Any behavior that is followed by pleasant consequences is likely to be repeated, and any behavior followed by unpleasant consequences is likely to be avoided. . In his experiment if the hungry cat succeeded in opening the 
+door, would get its favourable dish to eat
+
+
 - **OPERANT CONDITIONING**  page 238
   - **Given by** B. F. Skinner
+  - **Techniques**
+    - **Extinction**: stop reinforcing behavior in order to eliminate the response
+    - **Contingency management**: This approach uses a formal written contract between a client and a therapist (or parent or teacher
+    - **Behavior modeling**: This technique involves learning through observation and modeling the behavior of others
 -  **COMPARING CLASSICAL AND OPERANT CONDITIONING** Page 247
 - **behavior modification Strategies**  The techniques used by behavior analysts are as varied as the list of processes 
-that modify behavior. They include reinforcement scheduling, shaping, generalization training, discrimination training, and extinction. Participants in a behaviorchange program do, however, typically follow a series of similar basic steps that   
+that modify behavior. They include reinforcement scheduling, shaping, generalization training, discrimination training, and extinction. Participants in a behaviorchange program do, however, typically follow a series of similar basic steps that   
 
 -  **Cognitive Approaches to Learning**
    -  **cognitive learning theory** An 
@@ -152,10 +186,11 @@ mentally analyzed.
 information is processed merely in terms of its physical and sensory aspects. For 
 example, we may pay attention only to the shapes that make up the letters in the 
 word dog . 
-  - At an **intermediate level of processing**, the shapes are translated into meaningful units—in this case, letters of the alphabet. Those letters are considered in the 
+  - At an **intermediate level of processing**, the shapes are translated into meaningful units—in this case, letters of the alphabet. Those letters are considered in the 
 context of words, and specific phonetic sounds may be attached to the letters. 
-  - **deepest level of processing**, information is analyzed in terms of its meaning. We may see it in a wider context and draw associations between the meaning 
+  - **deepest level of processing**, information is analyzed in terms of its meaning. We may see it in a wider context and draw associations between the meaning 
 of the information and broader networks of knowledge
+  -  **Fergus I. M. Craik and Robert S. Lockhart**
 
 - **Forgetting and reasons for forgetting**
   - **Decay** is the loss of information through nonuse. 
@@ -169,11 +204,11 @@ the recall of other information
 which information learned earlier 
 disrupts the recall of newer material. 
      - **retroactive interference** Interference 
-in which there is diffi culty in the recall 
+in which there is difficulty in the recall 
 of information learned earlier because 
 of later exposure to different materia
   - **cue-dependent forgetting** Forgetting 
-that occurs when there are insuffi cient 
+that occurs when there are insufficient 
 retrieval cues to rekindle information 
 that is in memory
   - **Medical Problems** Alzheimer’s disease An illness 
@@ -196,8 +231,8 @@ other organisms.
    - **instincts** Inborn patterns of behavior 
 that are biologically determined rather 
 than learned
-   - **Problem**: This conception presents several diffi culties, however. For one thing, psychologists do not agree on what, or even how many, primary instincts exist. One early 
-psychologist, William McDougall (1908), suggested that there are 18 instincts
+   - **Problem**: This conception presents several difficulties, however. For one thing, psychologists do not agree on what, or even how many, primary instincts exist. One early 
+psychologist, **William McDougall** (1908), suggested that there are 18 instincts
 
 
 - **Drive-reduction** approaches to 
@@ -216,11 +251,12 @@ example, we become hungry after not eating for a few hours
 drives motivate behavior, they cannot fully explain a behavior in which the goal is 
 not to reduce a drive but rather to maintain or even increase the level of excitement 
 or arousal.  Similarly, many people pursue thrilling activities such as riding a roller coaster or steering a raft down the rapids of a river
+  - **Clark Hull**
 
-- **Homeostasis**, the body’s tendency to maintain a steady internal state, underlies primary drives. Using feedback loops, homeostasis brings deviations in body functioning back to an optimal state, similar to the way a thermostat does.
+- **Homeostasis**, the body’s tendency to maintain a steady internal state, underlies primary drives. Using feedback loops, homeostasis brings deviations in body functioning back to an optimal state, similar to the way a thermostat does.
 
 - **Arousal approaches to motivation**  According to arousal approaches to motivation, each person 
-tries to maintain a certain level of stimulation and activity. As with the drivereduction model, this model suggests that if our stimulation and activity levels 
+tries to maintain a certain level of stimulation and activity. As with the drivereduction model, this model suggests that if our stimulation and activity levels 
 become too high, we try to reduce them. But, in contrast to the drive-reduction 
 model, the arousal model also suggests that if levels of stimulation and activity are 
 too low, we will try to increase them by seeking stimulation. 
@@ -231,13 +267,14 @@ daredevil sports, high-stakes gamblers, and criminals who pull off high-risk rob
 may be exhibiting a particularly high need for arousal 
 
 - **Incentive approaches** to motivation suggest that motivation stems from the 
-desire to obtain valued external goals, or incentives. In this view, the desirable properties of external stimuli—whether grades, money, affection, food, or sex—account 
+desire to obtain valued external goals, or incentives. In this view, the desirable properties of external stimuli—whether grades, money, affection, food, or sex—account 
 for a person’s motivation 
 
   -  **Problem** it does 
 not provide a complete explanation of motivation because organisms sometimes seek 
 to fulfi ll needs even when incentives are not apparent.
 
+  - **Father of incentive theory** B f Skinner
 - **Cognitive approaches to motivation** suggest that motivation is a product of people’s 
 thoughts, expectations, and goals—their cognitions. 
   - **Example** :For instance, the degree to which 
@@ -265,14 +302,14 @@ be relatively unconcerned with higher-order needs
 
 
 - **self-determination theory** that people have the three basic needs of competence, autonomy, and relatedness. 
-Competence is the need to produce desired outcomes, while autonomy is the perception that we have control over our own lives.Finally, relatedness is the need to be 
+Competence is the need to produce desired outcomes, while autonomy is the perception that we have control over our own lives.Finally, relatedness is the need to be 
 involved in close, warm relationships with others. In the view of self-determination 
 theory, these three psychological needs are innate and universal across cultures, and 
 they are essential as basic biological needs 
   - **Given By**  Edward Deci and Richard Ryan
 
 - **Functions of Emotions**
-  1. **Preparing us for action** . Emotions act as a link between events in our environment and our responses. For example, if you saw an angry dog charging 
+  1. **Preparing us for action** . Emotions act as a link between events in our environment and our responses. For example, if you saw an angry dog charging 
 toward you, your emotional reaction would be fear.
   2. **Shaping our future behavior** . Emotions promote learning that will help us make 
 appropriate responses in the future. For instance, your emotional response to 
@@ -284,20 +321,20 @@ our emotions obvious to observers. T
 #### Theories of Emotion
 
 -  **James-Lange theory of emotion**  James and Lange proposed that we experience emotions as a result of 
-physiological changes that produce specifi c sensations. The brain interprets these 
-sensations as specifi c kinds of emotional experiences (see the fi rst part of Figure 2). 
+physiological changes that produce specific sensations. The brain interprets these 
+sensations as specific kinds of emotionalexperiences (see the fi rst part of Figure 2). 
 This view has come to be called the James-Lange theory of emotion
    - They suggested that for every major emotion there is an accompanying physiological or “gut” 
 reaction of internal organs—called a **visceral experience**
    - **Drawback** James-Lange theory has some serious drawbacks, however. For the theory 
 to be valid, visceral changes would have to occur relatively quickly because we 
 experience some emotions—such as fear upon hearing a stranger rapidly approaching 
-on a dark night—almost instantaneously. Yet emotional experiences frequently occur 
+on a dark night—almost instantaneously. Yet emotionalexperiences frequently occur 
 even before there is time for certain physiological changes to be set into motion. 
 Because of the slowness with which some visceral changes take place, it is hard to 
-see how they could be the source of immediate emotional experience
+see how they could be the source of immediate emotionalexperience
      - **Another issue**:  Physiological arousal does not 
-invariably produce emotional experience. For example, a person who is jogging has 
+invariably produce emotionalexperience. For example, a person who is jogging has 
 an increased heartbeat and respiration rate as well as many of the other physiological 
 changes associated with certain emotions. Yet joggers typically do not think of such 
 changes in terms of emotion
@@ -305,18 +342,19 @@ changes in terms of emotion
 
 - **CANNON-BARD THEORY** This theory rejects the view that physiological arousal alone 
 leads to the perception of emotion. Instead, the theory assumes that both physiological 
-arousal and the emotional experience are produced simultaneously by the same nerve 
+arousal and the emotionalexperience are produced simultaneously by the same nerve 
 stimulus, which Cannon and Bard suggested emanates from the thalamus in the brain.
   - **Explain**  thalamus is the initial site of the emotional response. Next, the thalamus sends a signal 
 to the autonomic nervous system,
   - **Criticism** Recent research 
 has led to some important modifications of the theory. For one thing, we now understand that the hypothalamus and the limbic system, not the thalamus, play a major 
-role in emotional experience. In addition, the simultaneous occurrence of the physiological and emotional responses, which is a fundamental assumption of the Cannon.Bard theory, has yet to be demonstrated conclusively.
+role in emotionalexperience. In addition, the simultaneous occurrence of the physiological and emotional responses, which is a fundamental assumption of the Cannon.Bard theory, has yet to be demonstrated conclusively.
   - **Walter Cannon and Philip Bard**
    
-- **SCHACHTER-SINGER THEORY(Cognitive Perspective)** According to an explanation that focuses on the role of cognition, the SchachterSinger theory of emotion, this might very well happen. This approach to explaining emotions emphasizes that we identify the emotion we are experiencing by 
+- **SCHACHTER-SINGER THEORY(Cognitive Perspective)** According to an explanation that focuses on the role of cognition, the SchachterSinger theory of emotion, this might very well happen. This approach to explaining emotions emphasizes that we identify the emotion we are experiencing by 
 observing our environment and comparing ourselves with others
   - **Explaination** Schachter and Singer’s classic experiment `page 387`
+  - Epinephrine Experiment
 
 
 ### Intelligence Chapter Mix from  theories file and Book
@@ -384,13 +422,32 @@ children, and explain things to them.
 show little interest in their children 
 and are emotionally detached
 
+- **Ainsworth strange situation** 
+  - Developmental psychologists have devised a quick and 
+direct way to measure attachment. Developed by Mary Ainsworth, the **Ainsworth 
+strange situation** consists of a sequence of events involving a child and (typically) 
+his or her mother. Initially, the mother and baby enter an unfamiliar room, and 
+the mother permits the baby to explore while she sits down. An adult stranger 
+then enters the room; after this the mother leaves. The mother returns, and the 
+stranger leaves. The mother once again leaves the baby alone, and the stranger 
+returns. Finally, the stranger leaves, and the mother returns.
+  - **Securely attached** employ the mother as a kind of home base; they explore 
+independently but return to her occasionally. When she leaves, they exhibit distress, 
+and they go to her when she returns. 
+  - **Avoidant children** do not cry when the mother 
+leaves, and they seem to avoid her when she returns as if indifferent to her. 
+  - **Ambivalent children** display anxiety before they are separated and are upset when the mother 
+leaves, but they may show ambivalent reactions to her return, such as seeking close 
+contact but simultaneously hitting and kicking her. 
+  - **disorganized disoriented**; these children show inconsistent and often contradictory behavior
+
   ![alt text](images/parent.PNG)
 
-- **Erikson’s Theory of Psychosocial Development**
+- **Erikson’s Theory of Psychosocial Development** 
   - Developmental changes that occur throughout life as a 
-series of eight stages of psychosocial development; of these, four occur during childhood. Psychosocial development involves changes in our interactions and understanding of one another as well as in our knowledge and understanding of ourselves 
+series of eight stages of psychosocial development; of these, four occur during childhood. Psychosocial development involves changes in our interactions and understanding of one another as well as in our knowledge and understanding of ourselves 
 as members of society. 
- Erikson suggests that passage through each of the stages necessitates the resolution of a crisis or confl ict.
+ Erikson suggests that passage through each of the stages necessitates the resolution of a crisis or conflict.
   - **Given by** Erik Erikson
   - **Criticism** Male Centric
   - Page 458 and 470
@@ -412,7 +469,7 @@ children invoke when approaching problems
      - Metacognition (An awareness and understanding of one’s own cognitive processes.)
 - **Vygotsky’s View of Cognitive Development(Social)**
   - Lev Vygotsky, the culture in which we are raised 
-signifi cantly affects our cognitive development. In an increasingly infl uential view, 
+significantly affects our cognitive development. In an increasingly infl uential view, 
 Vygotsky suggests that the focus on individual performance of both Piagetian and 
 information-processing approaches is misplaced. Instead, he holds that we cannot 
 understand cognitive development without taking into account the social aspects of 
@@ -420,7 +477,7 @@ learning
   - **Vygotsky argues that cognitive development** occurs as a consequence of social 
 interactions in which children work with others to jointly solve problems. Through 
 such interactions, children’s cognitive skills increase, and they gain the ability to 
-function intellectually on their own. More specifi cally, he suggests that children’s 
+function intellectually on their own. More specifically, he suggests that children’s 
 cognitive abilities increase when they encounter information that falls within their 
 zone of proximal development. The zone of proximal development (ZPD) is the 
 level at which a child can almost, but not fully, comprehend or perform a task on 
@@ -437,8 +494,8 @@ cognitive limitations that Piaget described.
 
 - **Gilligan THeory of Moral Development** According to Gilligan, men view morality 
 primarily in terms of broad principles, such as justice and fairness. In contrast, women 
-see it in terms of responsibility toward individuals and willingness to make sacrifi ces 
-to help a specifi c individual within the context of a particular relationship. Compassion 
+see it in terms of responsibility toward individuals and willingness to make sacrifices 
+to help a specific individual within the context of a particular relationship. Compassion 
 for individuals is a more salient factor in moral behavior for women than it is for men. women may develop identity through the establishment of relationships. In her view, a primary component of women’s identity is the construction of caring networks among themselves and others.
 
   - **Carol Gilligan** 
@@ -448,7 +505,7 @@ for individuals is a more salient factor in moral behavior for women than it is 
   - **Genetic preprogramming theories of aging** suggest that human cells have a built-in time limit to their reproduction. These theories suggest that after a certain time cells stop dividing or 
 become harmful to the body—as if a kind of automatic self-destruct button had 
 been pushed. 
-  - In contrast, **wear-and-tear theories** of aging suggest that the mechanical functions of the body simply work less effi ciently as people age. Waste by products of energy production eventually accumulate, and mistakes are made when cells divide. Eventually the body in effect wears out like an old automobile.
+  - In contrast, **wear-and-tear theories** of aging suggest that the mechanical functions of the body simply work less efficiently as people age. Waste by products of energy production eventually accumulate, and mistakes are made when cells divide. Eventually the body in effect wears out like an old automobile.
   - **Social**
     -  **disengagement theory of aging** 
  A theory that suggests that aging 
@@ -470,23 +527,30 @@ they had during middle age
 
 ## Social Psychology (From book)
 
-- **Cognitive dissonance theory** postulates that an underlying psychological tension is created when an individual's behavior is inconsistent with his or her thoughts and beliefs. This underlying tension then motivates an individual to make an attitude change that would produce consistency between thoughts and behaviors.(636)
+- **Cognitive dissonance theory** postulates that an underlying psychological tension is created when an individual's behavior is inconsistent with his or her thoughts and beliefs. This underlying tension then motivates an individual to make an attitude change that would produce consistency between thoughts and behaviors.`(636)` 
+  - smoking example
   - How cD is solved
     - Modify one or both cognitions
     - Change importance of cognition
     - Add additional cognition
     - Deny relation between cognitions
   - **Leon Festinger**
+  - **Impression Formation and Central Traits:** The simple substitution of “cold” for “warm” caused drastic differences in the way 
+the students in each group perceived the lecturer even though he gave the same talk 
+in the same style in each condition. Students who had been told he was “warm” rated 
+him considerably more positively than students who had been told he was “cold.” 
+ The findings from this experiment led to additional research on impression formation that focused on the way in which people pay particular attention to certain 
+unusually important traits—known as central traits
 - https://www.simplypsychology.org/attribution-theory.html
 - **Attribution Theory**
-  - Attribution theory deals with how the social perceiver uses information to arrive at causal explanations for events. It examines what information is gathered and how it is combined to form a causal judgment”. Heider (1958) believed that people are naive psychologists trying to make sense of the social world
+  - Attribution theory deals with how the social perceiver uses information to arrive at causalexplanations for events. It examines what information is gathered and how it is combined to form a causal judgment”. Heider (1958) believed that people are naive psychologists trying to make sense of the social world
   - Ideas by Fritiz: Situational Attribution and Dispositional Attribution
   - **Types of Attribution** biases people make
     
     - **hALO EFFECT**:initial understanding 
 that a person has positive traits is used to infer other uniformly positive 
 characteristics
-    - **assumed-similarity bias** The tendency to think of people as being 
+    - **assumed-similarity bias** The tendency to think of people as being 
 similar to oneself even when meeting 
 them for the fi rst time.
     - **self-serving bias** The tendency to 
@@ -502,22 +566,31 @@ situational causes.
   - **Fritz Heider**
 - **Correspondent inference theory**
   - Jones and Davis (1965) thought that people pay particular attention to intentional behavior
+  - Jones and Davis’ theory helps us understand the process of making an internal attribution.  They say that we tend to do this when we see a correspondence between motive and behavior
   - They say that we tend to do this when we see a correspondence between motive and behavior.  For example, when we see a correspondence between someone behaving in a friendly way and being a friendly person.
   -  Jones and Davis say we draw on five sources of information:
-  -  
+     - **Choice**: If a behavior is freely chosen it is believed to be due to internal (dispositional) factors.
+     - **Accidental vs. Intentional Behavior**: Behavior that is intentional is likely to be attributed to the person’s personality, and behavior which is accidental is likely to be attributed to situation / external causes.
+     - **Social Desirability**: Behaviors low in sociable desirability (non conforming) lead us to make (internal) dispositional inferences more than socially undesirable behaviors.  For example, if you observe a person getting on a bus and sitting on the floor instead of one of the seats. This behavior has low social desirability (non conforming) and is likely to correspond with the personality of the individual.
+     - **Hedonistic Relevance**: If the other person’s behavior appears to be directly intended to benefit or harm us. 
+     - **Personalism**: If the other person’s behavior appears to be intended to have an impact on us, we assume that it is “personal”, and not just a by-product of the situation we are both in.
   - **Edward E. Jones and Keith E. Davis**
   - Rest from Notes
+  - https://www.simplypsychology.org/conformity.html    
   - **Factors in COnformity**
     - Characteristic of Group : high value or not
     - Situation to respond : if public more conformity
     - kind of task: If ambigous or no knowledge then more conformity
     - Unanimity of group: 
-    - Techniques of Compliance:
-      - **Foot-in-the-door technique** ask a person to agree to a small request and later ask that person to comply with a more important one
-      -  **Door-in-the-face technique** someone makes a large request, expects it to be refused, and follows it with a smaller one
-      -  **Not-so-free sample** the need for reciprocation—in the form of a purchase, of course
-      -  **That’s-not-all technique**  a salesperson offers you a deal at an infl ated price. But immediately after the initial offer, the salesperson offers an incentive, discount, or bonus to clinch the deal.
+  - Techniques of Compliance:
+    - **Foot-in-the-door technique** ask a person to agree to a small request and later ask that person to comply with a more important one
+    -  **Door-in-the-face technique** someone makes a large request, expects it to be refused, and follows it with a smaller one
+    -  **Not-so-free sample** the need for reciprocation—in the form of a purchase, of course
+    -  **That’s-not-all technique**  a salesperson offers you a deal at an infl ated price. But immediately after the initial offer, the salesperson offers an incentive, discount, or bonus to clinch the deal.
  -  **Prejudice and its explaination**
+    -  **Prejudice** A negative (or positive) 
+evaluation of a particular group and its 
+members
     -  According to **observational learning approaches** to stereotyping and prejudice, the 
 behavior of parents, other adults, and peers shapes children’s feelings about members of various groups. For instance, bigoted parents may commend their children for expressing prejudiced attitudes
      - **social identity theory**, we use group membership as a source of pride and self-worth. 
@@ -532,8 +605,8 @@ earlier times ensured protection of food supplies and weeded out the weaker of t
 species (Lorenz, 1966, 1974). Lorenz’s instinct approach led to the controversial notion 
 that aggressive energy constantly builds up in an individual until the person fi nally discharges it in a process called catharsis.
   -  **Frustration-aggression theory** tries to explain aggression in terms of 
-events like this one. It suggests that frustration (the reaction to the thwarting or blocking of goals) produces anger, which leads to a readiness to 
-act aggressively. Whether actual aggression occurs depends on the presence of aggressive cues, stimuli that have been associated in the past with 
+events like this one. It suggests that frustration (the reaction to the thwarting or blocking of goals) produces anger, which leads to a readiness to 
+act aggressively. Whether actual aggression occurs depends on the presence of aggressive cues, stimuli that have been associated in the past with 
 actual aggression or violence and that will trigger aggression again
   - According to **observational learning theory**, 
 people observe the behavior of models and the subsequent consequences of that 
@@ -549,7 +622,7 @@ observers fi nd themselves in a similar situation
 - **anxiety disorder** The occurrence of 
 anxiety without an obvious external 
 cause that affects daily functioning.
-  - **PHOBIC DISORDER**  phobia , an intense, irrational fear of a specifi c object or situation. For example, claustrophobia is a fear of enclosed places, acrophobia is a fear 
+  - **PHOBIC DISORDER**  phobia , an intense, irrational fear of a specific object or situation. For example, claustrophobia is a fear of enclosed places, acrophobia is a fear 
 of high places, xenophobia is a fear of strangers, social phobia is the fear of being 
 judged or embarrassed by others, and—as in Donna’s case—electrophobia is a fear 
 of electricity. 
@@ -557,7 +630,7 @@ of electricity.
 takes the form of panic attacks lasting 
 from a few seconds to several hours
   - **Panic attacks** seemingly come out of nowhere and are 
-unconnected to any specifi c stimulus. Because they don’t 
+unconnected to any specific stimulus. Because they don’t 
 know what triggers their feelings of panic, victims of panic 
 attacks may become fearful of going places
 
@@ -583,37 +656,41 @@ with dogs in which she is reinforced for her avoidance behavior.
 inappropriate and inaccurate thoughts and beliefs about circumstances in a person’s 
 world. For example, people with anxiety disorders may view a friendly puppy as a 
 ferocious and savage pit bull.
+  - **Treatment** Antidepressant ,CBT
+
 
 - **somatoform disorders** Psychological 
-diffi culties that take on a physical 
+difficulties that take on a physical 
 (somatic) form, but for which there is 
 no medical cause. 
   -  **hypochondriasis** A disorder in which 
 people have a constant fear of illness 
 and a preoccupation with their health.
-  -  **conversion disorder** A major somatoform disorder that involves an actual 
+  -  **conversion disorder** A major somatoform disorder that involves an actual 
 physical disturbance, such as the 
 inability to use a sensory organ or the 
 complete or partial inability to move 
 an arm or leg. 
-
+  - **Treatment** Antidepressant ,CBT
 -  **Dissociative Disorders**
    -  **dissociative identity disorder** (DID) 
  A disorder in which a person displays 
 characteristics of two or more distinct 
 personalities.  
-   - **Dissociative amnesia** is another dissociative disorder in which a signifi cant, selective memory loss occurs. Dissociative amnesia is unlike simple amnesia, which involves 
+   - **Dissociative amnesia** is another dissociative disorder in which a significant, selective memory loss occurs. Dissociative amnesia is unlike simple amnesia, which involves 
 an actual loss of information from memory and typically results from a physiological 
-cause. In contrast, in cases of dissociative amnesia, the “forgotten” material is still present in memory—it simply cannot be recalled. The term repressed memories is sometimes 
+cause. In contrast, in cases of dissociative amnesia, the “forgotten” material is still present in memory—it simply cannot be recalled. The term repressed memories is sometimes 
 used to describe the lost memories of people with dissociative amnesia.
    - A more unusual form of amnesia is a condition known as **dissociative fugue** . In 
 this state, people take sudden, impulsive trips and sometimes assume a new identity. 
-After a period of time—days, months, or sometimes even years—they suddenly realize that they are in a strange place and completely forget the time they have spent 
+After a period of time—days, months, or sometimes even years—they suddenly realize that they are in a strange place and completely forget the time they have spent 
 wandering
+   - **Depersonalization-derealization disorder** You have persistent or recurrent experiences of feeling detached from yourself, as if you're an outside observer of your thoughts, sensations, actions or your body 
+   - **Treatment**  talk therapy, counseling or psychosocial therapy(Family Therapy), antidepressants, anti-anxiety medications or antipsychotic drugs 
 
 -  **Mood Disorders**
    -  **mood disorder** A disturbance in 
-emotional experience that is strong 
+emotionalexperience that is strong 
 enough to intrude on everyday living 
    -  **major depression** A severe form 
 of depression that interferes with 
@@ -629,6 +706,10 @@ evidence suggests that bipolar disorders are caused primarily by biological fact
 
 - **schizophrenia** A class of disorders in 
 which severe distortion of reality occurs
+  - **Psychotic Symptoms**
+    - **Hallucinations**  where you may experience things that others around you don't. For example hearing voices, seeing visual hallucinations and other unexplained sensations.
+    - **Delusions**  where you might hold strong beliefs that other people don't share. For instance a fear that you are being followed, your thoughts are being read, you are very powerful and able to influence things outside of your control, or that you have special insight or divine experiences.
+
   - **Disorganized (hebephrenic) schizophrenia**Inappropriate laughter and giggling, silliness, 
 incoherent speech, infantile behavior, strange and 
 sometimes obscene behavior.
@@ -641,22 +722,23 @@ position, remaining that way for hours and
 sometimes even days; in other phases, hyperactivity 
 and wild, sometimes violent, movement
   - **Undifferentiated schizophrenia** Variable mixture of major symptoms of 
-schizophrenia; classifi cation used for patients who 
-cannot be typed into any of the more specifi c 
+schizophrenia; classification used for patients who 
+cannot be typed into any of the more specific 
 categories
   - **Residual schizophrenia** Minor signs of schizophrenia after a more serious 
 episode
+  - **Treatments** Family therapy,Individual therapy,Social skills training,ECT,Medication(Anti Psychotic Drugs)
 
   - **Causes**
     - **Biological**
-      - **Imbalance of Neural chemicals**  **dopamine hypothesis** suggests that schizophrenia occurs when there is excess activity in the areas of the brain that use dopamine as a neurotransmitter.
+      - **Imbalance of Neural chemicals**  **dopamine hypothesis** suggests that schizophrenia occurs when there is excess activity in the areas of the brain that use dopamine as a neurotransmitter.
       - **structural abnormalities** exist in the 
 brains of people with schizophrenia perhaps as a result of exposure to a virus during 
 prenatal development
     - **Enviromental** 
       - Freud believed that people with schizophrenia lack egos that are strong enough to cope 
 with their unacceptable impulses. They regress to the oral stage—a time when the 
-id and ego are not yet separated. Therefore, individuals with schizophrenia essentially lack an ego and act out impulses without concern for reality. 
+id and ego are not yet separated. Therefore, individuals with schizophrenia essentially lack an ego and act out impulses without concern for reality. 
     -  **cognitive perspective** on schizophrenia suggest that the 
        - problems in thinking that people with the disorder experience point to a cognitive 
 cause. Some suggest that schizophrenia results from overattention to stimuli in the 
@@ -669,8 +751,26 @@ stressful factors in the environment, such as social rejection or dysfunctional 
 communication patterns. 
 
 -  **Personality Disorders** 
+   -  **Suspicious**:
+      - Paranoid personality disorder
+      - Schizoid personality disorder
+      - Schizotypal personality disorder
+
+   - **Emotional and impulsive**:
+
+     - Antisocial personality disorder (ASPD)
+     - Borderline personality disorder (BPD)
+     - Histrionic personality disorder
+     - Narcissistic personality disorder
+
+   - **Anxious**:
+
+     - Avoidant personality disorder
+     - Dependent personality disorder
+     - Obsessive compulsive personality disorder (OCPD) not OCD
+
    -  A disorder 
-characterized by a set of infl exible, 
+characterized by a set of inflexible, 
 maladaptive behavior patterns that 
 keep a person from functioning 
 appropriately in society.
@@ -680,11 +780,14 @@ no regard for the moral and ethical
 rules of society or the rights of others
    -  **borderline personality disorder** 
 A disorder in which individuals have 
-diffi culty developing a secure sense 
+difficulty developing a secure sense 
 of who they are. 
    -  **narcissistic personality disorder** 
-A personality disturbance characterized by an exaggerated sense of 
+A personality disturbance characterized by an exaggerated sense of 
 self- importance
+   - **Paranoid personality disorder** The thoughts, feelings and experiences associated with paranoia may cause you to:find it hard to confide in people, even your friends and family
+find it very difficult to trust other people
+   - 
 - **Treatment of Disorders**
   - **psychodynamic therapy** Therapy that 
 seeks to bring unresolved past confl icts 
@@ -692,7 +795,7 @@ and unacceptable impulses from the
 unconscious into the conscious, where 
 patients may deal with the problems 
 more effectively
-  - **psychoanalysis** Freudian psychotherapy in which the goal is to release 
+  - **psychoanalysis** Freudian psychotherapy in which the goal is to release 
 hidden unconscious thoughts and 
 feelings in order to reduce their power 
 in controlling behavior
@@ -736,9 +839,9 @@ confronted either suddenly or gradually with a stimulus that they fear.
    -  **Contingency contracting**, the therapist and client (or 
 teacher and student or parent and child) draw up a written 
 agreement. The contract states a series of behavioral goals the 
-client hopes to achieve. It also specifies the positive consequences for the client if the client reaches goals—usually an 
+client hopes to achieve. It also specifies the positive consequences for the client if the client reaches goals—usually an 
 explicit reward such as money or additional privileges 
-   - **observational learning**, the process in which the behavior of other people is modeled, to systematically teach people new skills and ways of handling their 
+   - **observational learning**, the process in which the behavior of other people is modeled, to systematically teach people new skills and ways of handling their 
 fears and anxieties. For example, modeling helps when therapists are teaching basic 
 social skills, such as maintaining eye
    -  **Good things** works especially well for eliminating anxiety disorders, treating 
@@ -747,9 +850,9 @@ social skills to replace maladaptive behaviour
    - **Issues** Critics of behavior therapy believe that because it emphasizes changing external 
 behavior, people do not necessarily gain insight into thoughts and expectations that 
 may be fostering their maladaptive behavior
-- **cognitive treatment approaches** Treatment approaches that teach people to 
+- **cognitive treatment approaches** Treatment approaches that teach people to 
 think in more adaptive ways by 
-changing their dysfunctional cognitions about the world and themselves. 
+changing their dysfunctional cognitions about the world and themselves. 
   - **rational-emotive behavior therapy** 
 A form of therapy that attempts to 
 restructure a person’s belief system 
@@ -773,30 +876,71 @@ In turn, this enables clients to make realistic and constructive choices and dec
 about the things that bother them in their current lives,
     -  therapists provide what Rogers 
 calls **unconditional positive regard**
-  - **Issues** humanistic treatments lack specifi city, a problem that has troubled 
+  - **Issues** humanistic treatments lack specificity, a problem that has troubled 
 their critics. Humanistic approaches are not very precise and are probably the least 
-scientifi cally and theoretically developed type of treatment.
+scientifically and theoretically developed type of treatment.
 - **Biomedical Therapy**
   -  **drug therapy** Control of psychological 
 disorders through the use of drugs.
   -  **antipsychotic drugs** Drugs that 
-temporarily reduce psychotic symptoms such as agitation, hallucinations, 
+temporarily reduce psychotic symptoms such as agitation, hallucinations, 
 and delusions.such as `promazine`
   - **How it works**  work? Most block dopamine receptors at the brain’s 
 synapse
   -  **antidepressant drugs**   Medications 
-that improve a severely depressed 
-patient’s mood and feeling of wellbeing. 
+that improve a severely depressed .
+     - **Prozac  serafem**
+patient’s mood and feeling of wellbeing. 
   - **antianxiety drugs**   Drugs that reduce 
-the level of anxiety a person experiences essentially by reducing excitability and increasing feelings of well-being. 
-    - Antianxiety drugs such as Xanax and Valium
+the level of anxiety a person experiences essentially by reducing excitability and increasing feelings of well-being. 
+    - Antianxiety drugs such as **Xanax and Valium**
   - **Electroconvulsive therapy** (ECT)   
  A procedure used in the treatment of 
 severe depression in which an electric 
 current of 70–150 volts is briefly 
-administered to a patient’s head.
+administered to a patient’s head. for Depression
+  -  **transcranial magnetic stimulation** 
+(TMS). TMS creates a precise magnetic pulse in a specifi c area of the brain. By activating particular neurons, TMS has been effective in relieving the symptoms of major 
+depression in a number of controlled experiments. However, the therapy can produce 
+side effects, such as seizures and convulsions
+-  **psychosurgery** —brain 
+surgery in which the object is to reduce symptoms of mental disorder by removing or destroying certain parts of brain.
+   - **prefrontal lobotomy**, consisted of surgically 
+destroying or removing parts of a patient’s frontal lobes (Old method was used to cure violent and extremely aggressive patients)
+   - **gamma knife surgery**, beams of radiation are used to destroy areas of the 
+brain related to **obsessive-compulsive disorder**
+   - **Criticism** 
 
 
+- **Cognitive behavioral therapy** (CBT). The focus is identifying unhealthy, negative beliefs and behaviors and replacing them with healthy, positive ones. CBT can help identify what triggers your bipolar episodes. You also learn effective strategies to manage stress and to cope with upsetting situations.
+- **Family-focused therapy**. Family support and communication can help you stick with your treatment plan and help you and your loved ones recognize and manage warning signs of mood swings.
+- **Psychoeducation** Learning about bipolar disorder (psychoeducation) can help you and your loved ones understand the condition. Knowing what's going on can help you get the best support, identify issues, make a plan to prevent relapse and stick with treatment.
+
+- **SELF-HELP THERAPY**
+  - **Group therapy** does not involve a professional therapist. Instead, 
+people with similar problems get together to discuss their shared feelings and experiences. For example, people who have recently experienced the death of a spouse 
+might meet in a bereavement support group, or college students may get together to 
+discuss their adjustment to college. 
+ One of the best-known self-help groups is Alcoholics Anonymous (AA)
+- **Interpersonal therapy** (IPT) considers therapy in the context of social relationships. 
+Although its roots stem from psychodynamic approaches, interpersonal therapy concentrates more on the here and now with the goal of improving a client’s current 
+relationships. It typically focuses on interpersonal issues such as confl icts with others, 
+social skills issues, role transitions 
+  - Usually for depression or Mood disorders
 
 
+### Test Assessment
+- **Famous Test** https://courses.lumenlearning.com/boundless-psychology/chapter/assessing-personality/
 
+- **Item Response Theory** is a psychometric theory that was created to better understand how individuals respond to individual items on psychological and educational tests. The underlying theory is built around a series of mathematical formulas that have parameters that need to be estimated using complex statistical algorithms
+  - Different Models: **Dichotomous one parameter ModelL** Math item only measure math. Dichotomously scored like u get it right or wrong
+    - Catogerization of Models:
+      - Number of abilities a student has to have to answer the question like math english,analytical
+      - How questions are scored
+      - Number of Parameters that are in the model
+  - **Uses**
+  - Allow us to take item difficult and student ability and put them in a single scale. 
+  - ALso allow to compare different scores of students
+  - Measure Growth and change in ability.
+  - Map scores that student receive to incorporate in instruction material for better learning
+  - Applications of IRT GRE GMAT
