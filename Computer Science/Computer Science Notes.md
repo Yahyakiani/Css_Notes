@@ -653,6 +653,10 @@ STEPS:
 
 ---
 #### Keywords
+**Definitions**
+
+- **Desk checking** is an informal non-computerized or manual process for verifying the programming and logic of an algorithm before the program is launched. A desk check helps programmers to find bugs and errors which would prevent the application from functioning properly.
+- 
 - **Very good notes on Major topics**:https://ecomputernotes.com/software-engineering/principles-of-software-design-and-concepts
 - Process Models: https://www.geeksforgeeks.org/software-engineering-iterative-waterfall-model
 - ERD: https://www.youtube.com/watch?v=QpdhBUYk7Kk
@@ -963,6 +967,63 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
 ## Web Engineering & Technologies 
  
 #### Main Notes
+-  **Properties For Website Modeling**
+  -  web applications from three orthogonal perspectives (levels of modeling): web navigation,
+web content and web behavior
+   - **Web Navigation**
+     - **Static navigation properties**:It addresses the checking of properties such as broken links, reachability
+(e.g., return to the home page), consistency of frame structure, and other features related
+to estimating the cost of navigation, such as longest path analysis.
+     - **Dynamic navigation properties**: This analysis focuses on aspects that make the navigation
+dynamic. That is, the same link may lead to different pages depending on given inputs.
+
+     - **Interaction navigation properties**: This analysis focuses on properties that are related to
+user navigation that happens outside the control of the web application, such as user
+interaction with the browser. This includes features such as use of the back or forward
+buttons.
+   - **Web Content**
+     - **Static content properties**: Consistency of the original web page content with respect to
+syntax and semantics. Two properties are explored in this category, completeness/
+     - **Dynamic content properties**: Consistency of the syntax and semantics of dynamic content.
+This analysis requires the ability to check the dynamically generated content that results
+from the execution of script code 
+   - **Web Behavior**
+     - **Security properties**: This issue is related to access control mechanisms that are employed
+on the web content or web links. This issue could also be employed on the back-end, as
+the database may contain data reserved to specific users. Non-authorized users must not
+be able to access such data. These properties are also tied to session control mechanisms.
+     - **Instruction processing properties**: These issues include both server and client side
+execution. We define client-side execution as any process changing the state of the
+application without communication with the web server. 
+
+
+- Major Modeling Techniques:
+- **Presentation Modeling**
+  - **Objectives**:
+    - Designing the structure and behavior of the user interface to ensure that interaction
+    with the Web application is simple and self-explanatory
+    - Communication and representation task of the Web application are taken into account
+    - Results: a uniform presentation concept by modeling recurring elements on the pages, e.g.,
+    headers and footers. It should ideally show the composition of each page and the
+    design of the fields, texts, images, forms, etc., included in these pages.
+    - describtiion of the behavior-oriented aspects of the user interface, e.g., which
+    button to click to activate a function of the application logic.
+    - Give users appropriate orientation help on the presentation level
+     due to the wide variety of navigation options and the inherent risk of getting lost
+    - Can be achieved, e.g., by displaying the current navigation path, or pages visited
+    during the active session
+    - Model elements are described on three hierarchical levels:
+      - **Presentation page**: a page presented to the user as a
+  visualization unit. It can be composed of different presentation
+  units.
+      - **Presentation unit**: serves to group related user interface
+  elements, representing a logical fragment of the page. It
+  presents a node stemming from the hypertext model.
+      - **Presentation element**: basic building block of the presentation
+  model. Presentation elements represent a node’s set of
+infor-mation and can include text, images, audio, etc.
+
+- **Requirement Engineer/Types/Techniques**: https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.911&rep=rep1&type=pdf
 ---
 #### Keywords
 ---
@@ -970,5 +1031,36 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
 1. Component of Web architecture ?
 2. classification of Web architecture ?
 3. Web Application layered architecture ?`https://www.altexsoft.com/blog/engineering/web-application-architecture-how-the-web-works/`
-4. 
+4. web architecture: https://hackr.io/blog/web-application-architecture-definition-models-types-and-more
+5. **Rss**: https://www.geeksforgeeks.org/introduction-to-rssrich-summary-site/?ref=gcse
+6. XML: https://www.geeksforgeeks.org/xml-basics/?ref=gcse
+7. Xml vs Html: https://www.geeksforgeeks.org/html-vs-xml/?ref=lbp
+8. integration Architectures: https://www.techopedia.com/definition/30625/integration-architecture
+9. Html vs Xhtml: https://www.geeksforgeeks.org/html-vs-xml/?ref=lbp
+10. SVG: https://www.geeksforgeeks.org/difference-between-svg-and-html-5-canvas/?ref=gcse
+11. URL vs URI: https://www.javatpoint.com/uri-vs-url
+12. Web Services: https://www.geeksforgeeks.org/what-are-web-services/?ref=gcse
+13. Web Deployment: https://umbraco.com/knowledge-base/deployment/
+14. Web Promotion:
+- **Newsletters** 
+- **Affiliate Marketing** Affiliate marketing is the process by which an affiliate earns a commission for marketing another person's or company's products. The affiliate simply searches for a product they enjoy, then promotes that product and earns a piece of the profit from each sale they make.
+- **Search Engine Marketing** Google Ads  
+- **Content-related Marketing** Content marketing is a marketing strategy used to attract, engage, and retain an audience by creating and sharing relevant articles, videos, podcasts, and other media
+- **Search Engine Optimization**
+- Social Media Marketing Campaigns : Youtube and Facebook
+- **Leverage Mobile Visits**: One of the objectives of developing web applications or web apps is to make it accessible from a mobile device.
+15. Web Testing:
+- **Link Testing**
+- **Browser Testing** 
+- **Usability Testing** : Usability testing refers to evaluating a product or service by testing it with representative users. Typically, during a test, participants will try to complete typical tasks while observers watch, listen and takes notes.
+  - For example, if you are designing a website for a supermarket, and that website allows users to do their groceries online, the best way of testing your design is by having a user proceed through your product as you watch them trying to buy their groceries
+- Load, Stress, and Continuous Testing (Performance Testing):https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing
+- **Testing Security** 
+- **Test-driven Development** 
+- **Continuous testing** (CT) is a software development process in which applications are tested continuously throughout the entire software development life cycle (SDLC). The goal of CT is to evaluate software quality across the SDLC, providing critical feedback earlier and enabling higher-quality and faster deliveries
+  - The code is continuously developed, delivered, tested and deployed. For Example, whenever a developer checks the code in the Source Code Server like Jenkins automated set of unit tests are executed in the continuous process. If the tests fail, the build is rejected, and the developer is notified.
+16. Web application Performance: https://medium.com/expedia-group-tech/web-applications-analyzing-client-side-performance-37e9cc4ad86b
+    1.  https://stackify.com/web-performance-monitoring-guide-developers/
+17. Web Security: https://www.geeksforgeeks.org/top-10-security-risks-in-web-applications/?ref=gcse
+18. 
 ---
