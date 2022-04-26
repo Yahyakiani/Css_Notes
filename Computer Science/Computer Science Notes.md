@@ -253,6 +253,7 @@ RightLeft rotation
 - Flowchart: https://www.geeksforgeeks.org/an-introduction-to-flowcharts/
 - Algorithm analysis and Asymptotic Notation: https://www.geeksforgeeks.org/analysis-of-algorithms-set-1-asymptotic-analysis/?ref=lbp
 - Iterative substituton: Backward Substitution: Tracing Tree: https://www.youtube.com/watch?v=4V30R3I1vLI
+- Recurrance relation: https://www.youtube.com/watch?v=MhT7XmxhaCE 9:47
 - Linked list and types: https://www.geeksforgeeks.org/types-of-linked-list/?ref=gcse
 - Stack ADT Implement: https://www.geeksforgeeks.org/stack-data-structure-introduction-program/
 - Searching Algorithms: https://www.geeksforgeeks.org/searching-algorithms/?ref=gcse
@@ -266,7 +267,15 @@ RightLeft rotation
 - BFS and DFS: https://www.youtube.com/watch?v=pcKY4hjDrxk&t=951s
 - Prim and krushals traversal : https://www.youtube.com/watch?v=4ZlRH0eK-qQ
 - Tree traversals : https://youtu.be/BHB0B1jFKQc
-
+- binary tree from pre order inorder : https://www.youtube.com/watch?v=PoBGyrIWisE
+- Krushal and Prim: https://www.youtube.com/watch?v=4ZlRH0eK-qQ
+- Encryption: https://www.geeksforgeeks.org/difference-between-symmetric-and-asymmetric-key-encryption/?ref=gcse
+- Dynamic Programming : https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm
+- Interpolation Search: https://www.tutorialspoint.com/data_structures_algorithms/interpolation_search_algorithm.htm
+- **Dangling pointer** is a pointer that points to the memory location even after its deallocation. Or we can say that it is pointer that does not point to a valid data object of the appropriate type. The memory location pointed by dangling pointer is known as dangling reference.
+- **Heuristic search** is class of method which is used in order to search a solution space for an optimal solution for a problem. The heuristic here uses some method to search the solution space while assessing where in the space the solution is most likely to be and focusing the search on that area.
+- Graph vs Tree: https://www.geeksforgeeks.org/difference-between-graph-and-tree/
+- 
 #### Questions
 1. WHat is algorithm ?
 2. What are programming paradigms ?
@@ -357,6 +366,12 @@ bug reports without requiring change in user-level code.
 - A friend function is a friend of a class that is allowed to access to Public, private, or protected data in that same class. If the function is defined outside the class cannot access such information.
 
 A friend can be declared anywhere in the class declaration, and it cannot be affected by access control keywords like private, public, or protected.
+
+- Static linking is the process of copying all library modules used in the program into the final executable image. In contrast, dynamic linking is the process of loading the external shared libraries into the program and then binds those shared libraries dynamically to the program
+- A random access file is a file where you can "jump" to anywhere within it without having to read sequentially until the position you are interested in.
+
+For example, say you have a 1MB file, and you are interested in 5 bytes that start after 100k of data. A random access file will allow you to "jump" to the 100k-th position in one operation. A non-random access file will require you to read 100k bytes first, and only then read the data you're interested in.
+Today almost all files are randomly accessed
   
 #### Keywords
 ---
@@ -1054,13 +1069,30 @@ infor-mation and can include text, images, audio, etc.
 - **Browser Testing** 
 - **Usability Testing** : Usability testing refers to evaluating a product or service by testing it with representative users. Typically, during a test, participants will try to complete typical tasks while observers watch, listen and takes notes.
   - For example, if you are designing a website for a supermarket, and that website allows users to do their groceries online, the best way of testing your design is by having a user proceed through your product as you watch them trying to buy their groceries
-- Load, Stress, and Continuous Testing (Performance Testing):https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing
+- **Load, Stress** (Performance Testing):https://www.blazemeter.com/blog/performance-testing-vs-load-testing-vs-stress-testing
 - **Testing Security** 
 - **Test-driven Development** 
 - **Continuous testing** (CT) is a software development process in which applications are tested continuously throughout the entire software development life cycle (SDLC). The goal of CT is to evaluate software quality across the SDLC, providing critical feedback earlier and enabling higher-quality and faster deliveries
   - The code is continuously developed, delivered, tested and deployed. For Example, whenever a developer checks the code in the Source Code Server like Jenkins automated set of unit tests are executed in the continuous process. If the tests fail, the build is rejected, and the developer is notified.
-16. Web application Performance: https://medium.com/expedia-group-tech/web-applications-analyzing-client-side-performance-37e9cc4ad86b
+1.  Web application Performance: https://medium.com/expedia-group-tech/web-applications-analyzing-client-side-performance-37e9cc4ad86b
     1.  https://stackify.com/web-performance-monitoring-guide-developers/
-17. Web Security: https://www.geeksforgeeks.org/top-10-security-risks-in-web-applications/?ref=gcse
-18. 
+2.  Web Security: https://www.geeksforgeeks.org/top-10-security-risks-in-web-applications/?ref=gcse
+3.  
 ---
+
+## Image Processing
+- https://www.tutorialspoint.com/dip/gray_level_resolution.htm
+- dimensions and size of an image: https://www.tutorialspoint.com/dip/pixel_resolution.htm
+- Histogram Equations: https://www.youtube.com/watch?v=uqeOrtAzSyU
+- Log and PowerLaw transformation: https://www.youtube.com/watch?v=jfoXoFoDb48
+- Convolution: https://www.tutorialspoint.com/dip/concept_of_convolution.htm
+- Application of various filters Blurring: https://www.youtube.com/watch?v=WlKAZeaE898
+- Median filte rwith padding: https://www.youtube.com/watch?v=eJx3g-ZEfm4
+- Sobel and PRewitt mask apply: https://www.youtube.com/watch?v=fhDBy-wV3ic
+- Laplacian Filter: https://www.youtube.com/watch?v=zQKNVept4bU
+- Erosion and Dilation: https://www.youtube.com/watch?v=2LAooUu1IjQ
+- In dilation incase of numbers higher decimal is placed: 
+- Opening and closing: https://www.youtube.com/watch?v=T8uWZXb92AU
+- Just see problems: https://www.youtube.com/watch?v=eEXfxnZD3Ks
+- Thickinging and thinning: https://www.youtube.com/watch?v=gwjcIMIf8lM
+- 
