@@ -275,6 +275,9 @@ RightLeft rotation
 - **Dangling pointer** is a pointer that points to the memory location even after its deallocation. Or we can say that it is pointer that does not point to a valid data object of the appropriate type. The memory location pointed by dangling pointer is known as dangling reference.
 - **Heuristic search** is class of method which is used in order to search a solution space for an optimal solution for a problem. The heuristic here uses some method to search the solution space while assessing where in the space the solution is most likely to be and focusing the search on that area.
 - Graph vs Tree: https://www.geeksforgeeks.org/difference-between-graph-and-tree/
+- Interpolation search
+- heap sort: https://www.youtube.com/watch?v=HqPJF2L5h9U  32
+- 
 - 
 #### Questions
 1. WHat is algorithm ?
@@ -668,25 +671,28 @@ STEPS:
 
 ---
 #### Keywords
+- **TRAP MERCI** : Sotware Objectives https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/
 **Definitions**
 
 - **Desk checking** is an informal non-computerized or manual process for verifying the programming and logic of an algorithm before the program is launched. A desk check helps programmers to find bugs and errors which would prevent the application from functioning properly.
 - 
 - **Very good notes on Major topics**:https://ecomputernotes.com/software-engineering/principles-of-software-design-and-concepts
 - Process Models: https://www.geeksforgeeks.org/software-engineering-iterative-waterfall-model
-- ERD: https://www.youtube.com/watch?v=QpdhBUYk7Kk
-- ER MODEL VS Relational MODEL:
-- UML: https://www.youtube.com/watch?v=UI6lqHOVHic&list=PLUoebdZqEHTwbYD8oo6Wr81Xb7uCAh_oz
-- Requirements Engineering Process: https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/?ref=gcse
-- Elicitation techniques: https://www.softwaretestinghelp.com/requirements-elicitation-techniques/#7_Observation
-- Requirement verification and validation(Check bottom): https://www.geeksforgeeks.org/software-engineering-verification-and-validation/?ref=gcse
-- Functional vs Non Functional Requirements: https://www.geeksforgeeks.org/functional-vs-non-functional-requirements/?ref=leftbar-rightbar
-- Coupling and Cohesion: https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/?ref=lbp 
+- **ERD**: https://www.youtube.com/watch?v=QpdhBUYk7Kk
+- **ER MODEL VS Relational MODEL**:
+- **UML**: https://www.youtube.com/watch?v=UI6lqHOVHic&list=PLUoebdZqEHTwbYD8oo6Wr81Xb7uCAh_oz
+- **Requirements Engineering Process**: https://www.geeksforgeeks.org/software-engineering-requirements-engineering-process/?ref=gcse
+- **Requirement Engineer also Check**https://www.tutorialspoint.com/software_engineering/software_requirements.htm
+- **Elicitation techniques**: https://www.softwaretestinghelp.com/requirements-elicitation-techniques/#7_Observation
+- **Requirement verification and validation(Check bottom)**: https://www.geeksforgeeks.org/software-engineering-verification-and-validation/?ref=gcse
+- **Also verification and validation**https://www.tutorialspoint.com/software_engineering/software_testing_overview.htm
+- **Functional vs Non Functional Requirements:** https://www.geeksforgeeks.org/functional-vs-non-functional-requirements/?ref=leftbar-rightbar
+- **Coupling and Cohesion**: https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/?ref=lbp 
 - Should know few Steps of Design activitiy: Such as Modularization, Abstraction, Data hiding, Cohesion and coupling,Refactoring. check book or website `296`
-- Software Evolution: https://www.geeksforgeeks.org/software-engineering-software-evolution/?ref=gcse
-- Software Testing and Onward: https://www.geeksforgeeks.org/software-testing-basics/?ref=gcse
+- **Software Evolution**: https://www.geeksforgeeks.org/software-engineering-software-evolution/?ref=gcse
+- **Software Testing and Onward**: https://www.geeksforgeeks.org/software-testing-basics/?ref=gcse
 - Architectural Design for Web Apps  `304`
-- SQA goals and measures: https://www.geeksforgeeks.org/goals-and-measures-of-software-quality-assurance/?ref=rp
+- **SQA goals and measures**: https://www.geeksforgeeks.org/goals-and-measures-of-software-quality-assurance/?ref=rp
 - SQL Activities: https://www.geeksforgeeks.org/software-engineering-software-quality-assurance/?ref=gcse
 - Differences between Quality Assurance and Quality Control: https://www.geeksforgeeks.org/differences-between-quality-assurance-and-quality-control/?ref=rp
 - Architectural designs: https://www.geeksforgeeks.org/software-engineering-architectural-design/?ref=lbp
@@ -694,7 +700,7 @@ STEPS:
 - Design Concepts: http://computationalsciencewithsuman.blogspot.com/p/introduction-fundamental-design-concepts.html
 - Software Project Management: https://www.geeksforgeeks.org/software-engineering-software-project-management-spm/?ref=gcse
 - Project Management Process: https://www.geeksforgeeks.org/software-engineering-project-management-process/?ref=lbp
-- Difference between Project Management and Process Management: https://www.geeksforgeeks.org/difference-between-project-management-and-process-management/?ref=gcse
+- **Difference between Project Management and Process Management**: https://www.geeksforgeeks.org/difference-between-project-management-and-process-management/?ref=gcse
 
 
 #### Cohesion is an indication of the relative functional strength of a module. 
@@ -896,9 +902,11 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
 - supernetting: https://www.youtube.com/watch?v=MnqP_TVwkbs, smaller supernetting example: https://www.youtube.com/watch?v=QqEcCzhlWis
 - use this channel for all types of conversions of number systems: https://www.youtube.com/watch?v=rsxT4FfRBaM
 - add subtract binary: https://www.youtube.com/watch?v=C5EkxfNEMjE&t=209s
-- IP version 6 Header Format : VP Flow mein he  with PN in Hand.SaD Example: 128 bits
+- IP version 6 Header Format : VPPN SD Example: 128 bits
+- Checksum: https://www.youtube.com/watch?v=AtVWnyDDaDI in **Data link layer**
 - ICMP packet: TCC ED
-- 
+- **Non-Persistent Connection**: It requires connection setup again and again for each object to send. **Persistent connection:** It does not require connection setup again and again. Multiple objects can use connection.21-Sept-2017
+- **Internetworking** is the process or technique of connecting different networks by using intermediary devices such as routers or gateway devices. Internetworking ensures data communication among networks owned and operated by different entities using a common data communication and the Internet Routing Protocol.Types: Intranetwork, Internetwork 
 ---
 #### Questions
 1. Basic Communication model ?
