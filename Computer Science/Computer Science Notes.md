@@ -464,161 +464,32 @@ Today almost all files are randomly accessed
 #### Keywords
 ---
 #### Questions
-1.  Draw structure of Operating System components ? Their purpose ?`22`
-2.  What is a bootstrap program or firmware ?`26`
-3.  What is interrupt ? Difference between interrupt by hardware and software ?
-4.  How are hardware and software interrupt called ?
-5.  What happens when cpu is interrupted ?
-6.  What is system call or monitor call ?
-7.  What is random access memory ?`27`
-8.  What is a typical instruction execution cycle ? For von neumann architecture ?
-9.  volatile vs non volatile storage ?`29`
-10. Difference between symmetric and asymmetric processing ?
-11. What are clustered systems ? Difference between clustered vs Multi processing systems ?`30`
-12. Symmetric vs asymmetric clustering ?
-13. Parallelization ?
-14. Parallel clusters ?
-15. What is distributed lock manager ?`31`
-16. Storage area networks ?`32`
-17. Multiprogramming ?
-18. Job pools ? Where ARE jobs kepts ? Why  ? Job execution cycle ?`33`
-19. What up happen to job in a non multiprogrammed system ?
-20. What is time sharing(Multi tasking ) ?
-21. What is a process ?`34`
-22. Swapping  ?
-23. What is advantage of virtual memory with respect to actual memory ?`34`
-24. Are modern systems interrupt driven ?
-25. What is a trap ?`35`
-26. How do we differentiate between user defined code and operating system code ?`35`
-27. What is mode bit ? Which kernel or user ?`35`
-28. What are privileged instructions ?`36`
-29. Can they be executed in user mode ?
-30. What is the use of timer in cpu ?`37`
-31. What is a program counter ?``
-32. Does single threaded and multithreaded program have one program counter ?`37`
-33. Responsibilities of OS in process management ?`38`
-34. What is caching ?`41`
-35. What is cache coherency in multiprocessors ?`42`
-36. Distributed system ? `45`
-37. Network ?
-38. Network operating system ?`45`
-39. Types of computing enviroments ?
-40. Client server computing ?`49`
-41. Type of client server system ?
-42. Computer serversystem 
-43. file server system ? Example ?
-44. Peer to peer server system ? example ?
-45. How does node determine what services are available in peer to peer ?`50`
-46. Web based computing ?
-47. What are load balancers ?
-48. What are system calls ?`69`
-49. Types of system calls ?
-50. Models of interprocess communication ?`79`
-51. System programs or system utilities ?`81`
-52. System programs vs application programs ?
-53. Mechanism vs policy ?`82`
-54. Layered approach in system structure ? Its advantage ?`86`
-55. What is a kernel  and a microkernel ? Advantage of micro kernel to kernel ?`87`
-56. What is a virtual Machine ?Advantage`91`?
-57. Process components ? Name them ?`116`
-58. What are the states of a process ?`117`
-59. What is Process control Block or task control block ? What information does it contain ?`118`
-60. Ready queue `120`
-61. What is device queue ? Which process are kept in it ?`121`
-62. What is a Sceduler ? Long term or job scheduler ? Short term or CPU scheduler ?`122`
-63. Major difference in cpu and job scheduler ?
-64. What happens when degree of multi programming is stable ? Who controls this degree ?
-65. Types of process ? I/O bound or cpu bound ?`123`
-66. What is medium scheduler ? How is it different from short and long term ?`123`
-67. What happens to cpu when an interrupt is called ?`124`
-68. What is content switching ?`124`
-69. When a process creates a new process, what two possibilities exist in terms of execution ?`126`
-70. How does subprocess is created and communitate ? Procedure ?`126`
-71. What system call is called when process is finished ?`129`
-72. What is cascading termination ?`130`
-73. What functions do process use to communicate ? Synchronous and Asynchronous Messaging ?`136`
-74. What is cooperative and Pre emptive scheduling ?Who uses non pre emptive sched ?`200`
-75. What is the dispatcher ?What is dispatch latence ?`201`
-76. What criterias are mostly used for scheduling algorithms ?`201`
-77. FCFS scheduling ? Its Negatives ?Is it pre emptive ?`202`
-78. Why non preemptive scheduling is disastrous for priority?
-79. How to calculate Average waiting time ?`Mathematical`
-80. What is round robin scheduling how does it work ?`208`
-81. What is processor sharing in Round robin ?
-82. What is Multi level Queue scheduling ?What are some of the Levels in the This queue ? What are foreground and background processes ? Is it preemptive ?`210`
-83. How are processes divided into different queues in multilevel ?
-84. What is Multilevel feedback queue ? Difference between multi   multi feedback ?`212`
-85. What processes are left in high priority queue  in feedback?
-86. What is processor affinity ?`216`
-87. What is a critical section ?`241`
-88. What are the approachs to solve critical section problem ?``
-89. What a preemptive and non preemptive kernels ?`242`
-90. Why, then, would anyone favor a preemptive kernel over a nonpreemptive one?
-91. What are semaphores ?
-92. What a mutex locks ? spinlock  ?Adaptive mutex? `web`
-93.   ?
-94. What is priority inversion ?Solutions ?`253`
-95. What is priority inheritance protocol ?
-96. Bounded buffer problem ? Solution ? Reader writer problem ? Solution ?
-97. Reader write lock solution ?`256`
-98. Table philosopher problem ? solutions `258` ?
-99.  Volatile non volatile and stable storage ?`274`
-100. What are deadlocks ? soltuions to resolve them ?`web`
-101. what are the 4 conditions for deadlocks to arise ?`299`
-102. Resource allocation graph  ? Get visual for understanding deadlock situations?`301`
-103. Cycles and Deadlock ? `302`
-104. Three methods to handle deadlock ?`304`
-105. Deadlock prevention ? What it effects ? Solutions fo Mutual Exclusion , Hold and wait , No preemption ,Circular wait ?`305`
-106. Solutions for Hold and wait ? 2nd ones disadvantages ?
-107. Deadlock Avoidance algorithns  ?`311`
-108. Resource-Allocation-Graph Algorithm ,Bankers algorithm ,
-109. Deadlock detection algorithms ?`web`
-110. Deadlock recovery methods ?`318`
-111. Ways of Binding Process ?`332`
-112. Logical address(virtual address) ? Physical Address ?`333`
-113. Dynamic Loading ?`335`
-114. What is dynamic Linking ? example ?`335`
-115. How is dynamic loading different from dynamic linking ?`336`
-116. What is Contiguous memory allocation ?`338`
-117. General dynamic memory allocation problem solutions ?`340`
-118. Fragmentation internal and external ? Compaction ?`341`
-119. Memory management techniques?`https://www.geeksforgeeks.orgpartition-allocation-methods-in-memory-management/`
-120. What is 50 percent rule in fragmentation ?`341`
-121. What is paging ?`342`What does it avoid ?
-122. What is a translation look aside buffer(TLB) ? TLB Miss ?`347`
-123. Paging ? Segmentation ? Paging vs segmentation ?
-124. What is re-entrant code or Pure code ?`350`
-125. What is virtual memory ?Advantage ?`371`
-126.  What is demand paging ?`375`
-127.  Purpose of valid invalid bit ?`376`
-128.  But what happens if the process tries to access a page that was not brought into memory? `377`
-129.  What is Page fault ?
-130.  Pure demand paging ?`378`
-131.  What is zero fill on demand ?`383`
-132.  What is page replacement ?`384`
-133.  Page replacement algorithms ?`387`
-134.  FIFO replacement , LRU replacement ?
-135.  What are page buffering algorithms ?`395`
-136.  Difference between global frame allocation algos and local allocation algos ?`398`
-137.  What is thrashing ?`400`
-138.  Strategies for managing free memory for kernel processes ?`411`
-139.  What are the registers in I/O Port ?`572` Their definitions what they do ?
-140.  What are file access methods ? How do they work ? Advantages ?`445`
-141.  
+1.    What are page buffering algorithms ?`395`
+2.    Difference between global frame allocation algos and local allocation algos ?`398`
+3.    What is thrashing ?`400`
+4.    Strategies for managing free memory for kernel processes ?`411`
+5.    What are the registers in I/O Port ?`572` Their definitions what they do ?
+6.    What are file access methods ? How do they work ? Advantages ?`445`
+7.    
 
 
 #### Links:
+- **Math**: https://www.youtube.com/watch?v=bYFVbzLLxfY
 - overall Link: https://www.geeksforgeeks.org/operating-systems/?ref=lbp#ss
-- Types of Operating System: https://www.geeksforgeeks.org/types-of-operating-systems/?ref=lbp
 - For how operating sytem starts and UEFI vs BIOS : https://www.geeksforgeeks.org/uefiunified-extensible-firmware-interface-and-how-is-it-different-from-bios/
 - symmetric and asymmetric multiprocessing: https://www.geeksforgeeks.org/difference-between-asymmetric-and-symmetric-multiprocessing/?ref=gcse
-- 
+- **Important**: https://www.geeksforgeeks.org/process-schedulers-in-operating-system/
+- **Scheduling Math**: https://www.geeksforgeeks.org/program-for-shortest-job-first-sjf-scheduling-set-2-preemptive/
+- **Content Switch Math**: https://www.geeksforgeeks.org/gate-gate-cs-2006-question-6/
 - Difference between buffer and cache: https://www.geeksforgeeks.org/difference-between-buffer-and-cache/
 - Multiple Difference questions: https://www.geeksforgeeks.org/process-table-and-process-control-block-pcb/
 - **Interrupt Latency** : Interrupt latency, also called interrupt response time, is the length of time that it takes for a computer interrupt to be acted on after it has been generated. In most computers, a trade-off exists among interrupt latency, throughput, and processor utilization.
 - calculate average waiting time in RR: https://www.youtube.com/watch?v=sl9xcJ3rsHg
 - Deadlock Detection for Single instance wait for grpah: https://www.youtube.com/watch?v=2-7JGoy52Qo
 - Bankers algorithm execution: https://www.youtube.com/watch?v=bYFVbzLLxfY
+- A process in Unix or Unix-like operating systems becomes a **zombie process** when it has completed execution but one or some of its entries are still in the process table. If a process is ended by an "exit" call, all memory associated with it is reallocated to a new process; in this way, the system saves memory.To remove the zombie process execute the kill command.
+- A **Zombie** is a process that has completed its task but still, it shows an entry in a process table. A child process that remains running even after its parent process is terminated or completed without waiting for the child process execution is called an **orphan**.Terminate the Orphan process using the SIGHUP signal.
+- The basic difference between **Spooling and Buffering** is that Spooling overlaps the input/output of one job with the execution of another job while the buffering overlaps the input/output of one job with the execution of the same job.22-Nov-2019
 - **Difference between Deadlock, Starvation, and Livelock:**
 A livelock is similar to a deadlock, except that the states of the processes involved in the livelock constantly change with regard to one another, none progressing. Livelock is a special case of resource starvation; the general definition only states that a specific process is not progressing.
 - Starvation is a problem which is closely related to both, Livelock and Deadlock. In a dynamic system, requests for resources keep on happening. Thereby, some policy is needed to make a decision about who gets the resource when. This process, being reasonable, may lead to a some processes never getting serviced even though they are not deadlocked.
@@ -900,11 +771,15 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
 - how  ftp works: https://www.geeksforgeeks.org/file-transfer-protocol-ftp-in-application-layer/
 - how dhcp works:https://www.youtube.com/watch?v=RUZohsAxPxQ
 - supernetting: https://www.youtube.com/watch?v=MnqP_TVwkbs, smaller supernetting example: https://www.youtube.com/watch?v=QqEcCzhlWis
+- 
+- Subnet calculations: https://www.geeksforgeeks.org/ip-addressing-classless-addressing/
 - use this channel for all types of conversions of number systems: https://www.youtube.com/watch?v=rsxT4FfRBaM
+- IPS belong to the same subnet: https://www.geeksforgeeks.org/gate-gate-cs-2003-question-82/
 - add subtract binary: https://www.youtube.com/watch?v=C5EkxfNEMjE&t=209s
-- IP version 6 Header Format : VPPN SD Example: 128 bits
+- IP version 6 Header Format : ViP Farooq PHH SDE Example: 128 bits **ViP Farooq in Pindi Hyderabad Harrap is Sad and Excited**
+- IP V4 format: VHTT IFF TPH SDOD:  VAH TaT hota IFF TaPal hota with Syrup and DOD
 - Checksum: https://www.youtube.com/watch?v=AtVWnyDDaDI in **Data link layer**
-- ICMP packet: TCC ED
+- ICMP packet: TCC ED - Teesed pronunce
 - **Non-Persistent Connection**: It requires connection setup again and again for each object to send. **Persistent connection:** It does not require connection setup again and again. Multiple objects can use connection.21-Sept-2017
 - **Internetworking** is the process or technique of connecting different networks by using intermediary devices such as routers or gateway devices. Internetworking ensures data communication among networks owned and operated by different entities using a common data communication and the Internet Routing Protocol.Types: Intranetwork, Internetwork 
 ---
