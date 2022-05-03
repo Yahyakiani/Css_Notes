@@ -2,11 +2,11 @@
 ##  Sensation and Perception 
 
 - **Types of Perception**
-    Vision.
-    Touch.
-    Sound.
-    Taste.
-    Smell
+    - Vision.
+    - Touch.
+    - Sound.
+    - Taste.
+    - Smell
 
 - **Weber’s law** A basic law of psychophysics stating that a just noticeable 
 difference is a constant proportion to 
@@ -101,8 +101,31 @@ goes well beyond the individualelements that we sense.
 Instead, it represents an active, constructive process carried 
 out within the brain
   - **Given by** Wolfgang Köhler and Kurt Koffka
+- Other ways of Understanding and Organization
+  - **top-down processing** Perception that 
+is guided by higher-level knowledge, 
+experience, expectations, and 
+ motivations.
+  - **bottom-up processing** Perception 
+that consists of the progression of 
+recognizing and processing information 
+from individual components of a 
+stimuli and moving to the perception 
+of the whole.  
+  -  **depth perception** The ability to view 
+the world in three dimensions and to 
+perceive distance.
+  - **perceptual constancy** The phenomenon in which physical objects are 
+perceived as unvarying and consistent 
+despite changes in their appearance or 
+in the physical environment . Person moving away he is getting smaller but not perceived as getting smaller.
+
 
 ## Learning
+- **Habituation** is the decrease in 
+response to a stimulus that occurs after repeated presentations of the same stimulus. 
+For example, young infants may initially show interest in a novel stimulus, such as 
+a brightly colored toy, but they will soon lose interest.
 
 -  **classical conditioning** A type of 
 learning in which a neutral stimulus 
@@ -117,6 +140,14 @@ lead to the development of phobias.
    - PTSD in war veterans who have had traumatic experiences, can also be produced by classical 
 conditioning
    - Little ALbert and Rat experiment by **John B watson**.
+   - For instance, how do some of us develop fears of mice, spiders, 
+and other creatures that are typically harmless? In a now infamous case study, psychologist John B. Watson and colleague Rosalie Rayner (1920) showed that classical 
+conditioning was at the root of such fears.
+   -  **extinction** A basic phenomenon of 
+learning that occurs when a previously 
+conditioned response decreases in 
+frequency and eventually disappears.
+   - 
    - **Techniques**
      - **Aversion therapy**: Pairing of Unpleasant thing with unwanted behavour. sickness pills with alcohol
      - **Flooding**: This process involves exposing people to fear-invoking objects or situations intensely and rapidly. It is often used to treat phobias. During the process, the individual is prevented from escaping or avoiding the situation.
@@ -149,9 +180,19 @@ strengthens its connection with stimulus.
 door, would get its favourable dish to eat
 
 
-- **OPERANT CONDITIONING**  page 238
+- **OPERANT CONDITIONING**  page 238. Based on Law of trial and error. BF skinner perfected Thorndikes work.
   - **Given by** B. F. Skinner
   - **Techniques**
+    - This fact suggests a distinction between **primary reinforcers** and secondary reinforcers. A primary reinforcer satisfies some biological need and works naturally, regardless 
+of a person’s previous experience. Food for a hungry person, warmth for a cold 
+person, and relief for a person in pain all would be classified as primary reinforcers. 
+A **secondary reinforcer**, in contrast, is a stimulus that becomes reinforcing because of 
+its association with a primary reinforcer. For instance, we know that money is valuable, because we have learned that it allows us to obtain other items.
+    -  **shaping** The process of teaching a 
+complex behavior by rewarding closer 
+and closer approximations of the 
+desired behavior.Shaping allows even lower animals to learn complex responses that would never 
+occur naturally, ranging from lions jumping through hoops
     - **Extinction**: stop reinforcing behavior in order to eliminate the response
     - **Contingency management**: This approach uses a formal written contract between a client and a therapist (or parent or teacher
     - **Behavior modeling**: This technique involves learning through observation and modeling the behavior of others
@@ -169,28 +210,40 @@ underlie learning
 
    - **observational learning or Social learning theory** Learning by 
 observing the behavior of another 
-person, or model.
+person, or model.Mention biological basis through mirror neurons.
+     - **Bandura** dramatically demonstrated the ability of models to stimulate learning 
+in a classic experiment. In the study, young children saw a fi lm of an adult wildly 
+hitting a 5-feet-tall infl atable punching toy called a Bobo doll (Bandura, Ross, & Ross, 
+1963a, 1963b). Later the children were given the opportunity to play with the Bobo 
+doll themselves, and, sure enough, most displayed the same kind of behavior, in 
+some cases mimicking the aggressive behavior almost identically. 
      - **Given by** Albert Bandura
      - Observational learning is particularly important in acquiring skills in which the 
 operant conditioning technique of shaping is inappropriate. Piloting an airplane and 
 performing brain surgery, for example, are behaviors that could hardly be learned 
 by using trial-and-error methods without grave cost—literally—to 
-   - **Insight learning theory** is proposed by Wolfgang Kohler. Insight learning is the sudden understanding of the relation between a problem and a solution. By learning through insight, the correct solution not only appears seemingly out of nowhere but also repeated readily of subsequent presentations of that problem
+   - **Insight learning theory** is proposed by Wolfgang Kohler. Insight learning is the sudden understanding of the relation between a problem and a solution. By learning through insight, the correct solution not only appears seemingly out of nowhere but also repeated readily of subsequent presentations of that problem.insight, in learning theory, immediate and clear learning or understanding that takes place without overt trial-and-error testing. `Insight occurs in human learning when people recognize relationships (or make novel associations between objects or actions) that can help them solve new problems`.
+     - Four stages of Insight Learning:
+       - `Preparation`:The subject begins processing the stimuli in front of him or her and making connections. It is important to note that no solution has been reached in this
+       - `Incubation`: Subject has seemingly given up on the problem but brain unconsciously working on it
+       - `Insight`: subject reaches a breakthrough about the answer to the problem
+       - `Verification`: subject tests the theory from the breakthrough to see if the problem can be solved.
 
 - **levels-of-processing theory** The 
 theory of memory that emphasizes the 
 degree to which new material is 
 mentally analyzed.
 
-  - At **shallow levels**, 
+  - At **shallow levels**, `Structural Processng`
 information is processed merely in terms of its physical and sensory aspects. For 
 example, we may pay attention only to the shapes that make up the letters in the 
 word dog . 
-  - At an **intermediate level of processing**, the shapes are translated into meaningful units—in this case, letters of the alphabet. Those letters are considered in the 
+  - At an **intermediate level of processing** `Phonemic Processing`, the shapes are translated into meaningful units—in this case, letters of the alphabet. Those letters are considered in the 
 context of words, and specific phonetic sounds may be attached to the letters. 
-  - **deepest level of processing**, information is analyzed in terms of its meaning. We may see it in a wider context and draw associations between the meaning 
+  - **deepest level of processing** `Semantic Processing`, information is analyzed in terms of its meaning. We may see it in a wider context and draw associations between the meaning 
 of the information and broader networks of knowledge
   -  **Fergus I. M. Craik and Robert S. Lockhart**
+  -  **Criticism**: It’s not exactly easy to get an exact measurement on the depth of these processes.But how do you know a word is more meaningful than another word? 
 
 - **Forgetting and reasons for forgetting**
   - **Decay** is the loss of information through nonuse. 
@@ -206,7 +259,8 @@ disrupts the recall of newer material.
      - **retroactive interference** Interference 
 in which there is difficulty in the recall 
 of information learned earlier because 
-of later exposure to different materia
+of later exposure to different material
+     - According to different academic writing pieces, these types of interference are more likely to occur if both the information pieces are linked semantically.
   - **cue-dependent forgetting** Forgetting 
 that occurs when there are insufficient 
 retrieval cues to rekindle information 
@@ -214,6 +268,45 @@ that is in memory
   - **Medical Problems** Alzheimer’s disease An illness 
 characterized in part by severe 
 memory problems. 
+
+- **Theory of General Memory Process:**
+
+  - This theory explains that the memory consists of the three cognitive processes. These are— An encoding process, a storage process and a retrieval process.
+
+    - **Encoding** is the process of receiving a sensory input and transforming it into a form, or a code which can be stored.
+    - **Storage** is the process of actually putting coded information into memory. 
+    - **Retrieval** is the process of gaining access to the stored, coded information when it is needed.
+
+- **Atkin Shiffrin Memory theory** proposes the existence of the three separate 
+memory stores shown in  
+  - `Richard Atkinson and Richard Shiffrin`
+  - **Sensory memory** refers to the initial, momentary 
+storage of information that lasts only an instant. Here an exact replica of the stimulus recorded by a person’s sensory system is stored very briefly.  
+  - In a second stage, 
+ **short-term memory** holds information for 15 to 25 seconds and stores it according 
+to its meaning rather than as mere sensory stimulation. 
+  - The third type of storage 
+system is **long-term memory** . Information is stored in long-term memory on a relatively permanent basis, although it may be difficult to retrieve.
+    - By using organizational strategies such as these—called mnemonics —we can vastly 
+improve our retention of information. Such as Learning rhymes to learning order of planet names in solar system.`My very eager mother just served us nine pizzas`
+  - **Criticism** model has been further criticized as suggesting that rehearsal is the key process which initiates and facilitates transfer of information into `LTM`. There is very little evidence supporting this hypothesis, and long-term recall can in fact be better predicted by a levels-of-processing framework
+  - 
+
+- Organization of Long term Memory:
+  - **declarative memory** Memory for 
+factual information: names, faces, 
+dates, and the like. 
+  - **procedural memory** Memory for skills 
+and habits, such as riding a bike or 
+hitting a baseball; sometimes referred 
+to as nondeclarative memory.
+  - **episodic memory** Memory for events 
+that occur in a particular time, place, 
+or context. 
+  - **semantic memory** Memory for general 
+knowledge and facts about the world, 
+as well as memory for the rules of logic 
+that are used to deduce other facts
 
 ##  Motivation and Emotion 
 
@@ -285,14 +378,16 @@ extrinsic motivation.
 
   - **Intrinsic motivation** causes us to participate in an activity for our 
 own enjoyment rather than for any concrete, tangible reward that it will bring us. In 
-contrast, 
-  - **extrinsic motivation** causes us to do something for money, a grade, or some 
-other concrete, tangible reward. For example, when a physician works long hours 
+contrast,.For example, when a physician works long hours 
 because she loves medicine
+  - **extrinsic motivation** causes us to do something for money, a grade, or some 
+other concrete, tangible reward. 
 
 - **Maslow’s model** places motivational needs in a hierarchy and suggests that 
 before more sophisticated, higher-order needs can be met, certain primary needs 
 must be satisfied
+  ![alt text](images/maslow.PNG)
+
   - **Problem** Although research has been unable to validate the specific ordering of Maslow’s 
 stages, and it is difficult to measure self-actualization objectively, Maslow’s hierarchy 
 of needs is important for two reasons: It highlights the complexity of human needs, 
@@ -353,13 +448,49 @@ role in emotionalexperience. In addition, the simultaneous occurrence of the phy
    
 - **SCHACHTER-SINGER THEORY(Cognitive Perspective)** According to an explanation that focuses on the role of cognition, the SchachterSinger theory of emotion, this might very well happen. This approach to explaining emotions emphasizes that we identify the emotion we are experiencing by 
 observing our environment and comparing ourselves with others
+  - The belief that emotions are determined jointly by a nonspecifi c kind of 
+physiological arousal and its interpretation, based on environmental cues.
   - **Explaination** Schachter and Singer’s classic experiment `page 387`
   - Epinephrine Experiment
 
 
 ### Intelligence Chapter Mix from  theories file and Book
+-  **intelligence** The capacity to understand the world, think rationally, and 
+use resources effectively when faced 
+with challenges.
+- **emotional intelligence** The set of 
+skills that underlie the accurate 
+assessment, evaluation, expression, 
+and regulation of emotions. 
+  - Dr John Mayer and Dr Peter Salovey
+- Assessing Intelligence: 
+  - Historically, the first effort at intelligence testing was based on an uncomplicated 
+but completely wrong assumption: that the size and shape of a person’s head could 
+be used as an objective measure of intelligence. The idea was put forward by Sir 
+**Francis Galton** (1822–1911), an eminent English scientist whose ideas in other domains 
+proved to be considerably better than his notions about intelligence.
+  - **Alfred Binet Development Intelligence Test**
+    - If performance on certain tasks or test items improved with chronological, or physical, age, performance could be used to distinguish more intelligent people from less intelligent ones within 
+a particular age group
+    -  Binet began by presenting tasks to same-age students who had been labeled 
+“bright” or “dull” by their teachers. If a task could be completed by the bright students 
+but not by the dull ones, he retained that task as a proper test item
+    - a bell-shaped distribution
+    - Later Evolved to Stanford Binet Test
+  - Wechsler Adult Intelligence Scale–IV, 
+    - By David Weschler
+    - Intelligence on Multiple Factors:
+      - Arithmetic
+      - Information
+      - Comprehension
+      - spatial reasoning
+  - Adaptive Testing (GRE and GMAT)
+    - Questions Become difficult if done correctly
+    - 
 
 ## Personality : From Book fully
+  ![alt text](images/theories.PNG)
+
 
 
 ## Health PSychology and Stress
@@ -422,6 +553,10 @@ children, and explain things to them.
 show little interest in their children 
 and are emotionally detached
 
+
+  ![alt text](images/parent.PNG)
+
+
 - **Ainsworth strange situation** 
   - Developmental psychologists have devised a quick and 
 direct way to measure attachment. Developed by Mary Ainsworth, the **Ainsworth 
@@ -441,7 +576,6 @@ leaves, but they may show ambivalent reactions to her return, such as seeking cl
 contact but simultaneously hitting and kicking her. 
   - **disorganized disoriented**; these children show inconsistent and often contradictory behavior
 
-  ![alt text](images/parent.PNG)
 
 - **Erikson’s Theory of Psychosocial Development** 
   - Developmental changes that occur throughout life as a 
@@ -455,12 +589,22 @@ as members of society.
 
 - **Piaget’s Theory of Cognitive Development**
   -  **Jean Piaget**
+  - **Sensorimotor** Birth–2 years Development of object permanence, 
+development of motor skills, little 
+or no capacity for symbolic 
+ representation
+  - **Preoperational** 2–7 years Development of language and 
+symbolic thinking, egocentric thinking
+  - **Concrete operational** 7–12 years Development of conservation, mastery 
+of concept of reversibility
+  - **Formal operational** 12 years–adulthood Development of logical and abstract 
+ thinking
 
 -  **INFORMATION-PROCESSING APPROACHES to development**
    -  According to this approach, quantitative changes occur in children’s ability to 
 organize and manipulate information. From this perspective, children become 
 increasingly adept at information processing, much as a computer program may 
-become more sophisticated as a programmer modifi es it on the basis of experience. 
+become more sophisticated as a programmer modifies it on the basis of experience. 
 Information-processing approaches consider the kinds of “mental programs” that 
 children invoke when approaching problems
    - Types of development in Info-processing
@@ -629,7 +773,7 @@ of electricity.
   - **panic disorder** Anxiety disorder that 
 takes the form of panic attacks lasting 
 from a few seconds to several hours
-  - **Panic attacks** seemingly come out of nowhere and are 
+    - **Panic attacks** seemingly come out of nowhere and are 
 unconnected to any specific stimulus. Because they don’t 
 know what triggers their feelings of panic, victims of panic 
 attacks may become fearful of going places
@@ -831,7 +975,7 @@ extinguish the response of anxiety.
         - Once you had developed this hierarchy and learned relaxation techniques, you 
             would learn to associate the two sets of responses
         - imagine yourself in the first 
-situation identifi ed in your hierarchy and so on
+situation identified in your hierarchy and so on
     - **Exposure Treatments** Although systematic desensitization has proven to be a successful treatment, today it is often replaced with a less complicated form of therapy 
 called exposure. Exposure is a behavioral treatment for anxiety in which people are 
 confronted either suddenly or gradually with a stimulus that they fear.
@@ -900,7 +1044,7 @@ severe depression in which an electric
 current of 70–150 volts is briefly 
 administered to a patient’s head. for Depression
   -  **transcranial magnetic stimulation** 
-(TMS). TMS creates a precise magnetic pulse in a specifi c area of the brain. By activating particular neurons, TMS has been effective in relieving the symptoms of major 
+(TMS). TMS creates a precise magnetic pulse in a specifi c area of the brain. By activating particular neurons, TMS has been effective in relieving the symptoms of major 
 depression in a number of controlled experiments. However, the therapy can produce 
 side effects, such as seizures and convulsions
 -  **psychosurgery** —brain 
@@ -918,12 +1062,12 @@ brain related to **obsessive-compulsive disorder**
 
 - **SELF-HELP THERAPY**
   - **Group therapy** does not involve a professional therapist. Instead, 
-people with similar problems get together to discuss their shared feelings and experiences. For example, people who have recently experienced the death of a spouse 
+people with similar problems get together to discuss their shared feelings and experiences. For example, people who have recently experienced the death of a spouse 
 might meet in a bereavement support group, or college students may get together to 
 discuss their adjustment to college. 
  One of the best-known self-help groups is Alcoholics Anonymous (AA)
 - **Interpersonal therapy** (IPT) considers therapy in the context of social relationships. 
-Although its roots stem from psychodynamic approaches, interpersonal therapy concentrates more on the here and now with the goal of improving a client’s current 
+Although its roots stem from psychodynamic approaches, interpersonal therapy concentrates more on the here and now with the goal of improving a client’s current 
 relationships. It typically focuses on interpersonal issues such as confl icts with others, 
 social skills issues, role transitions 
   - Usually for depression or Mood disorders
