@@ -700,6 +700,8 @@ Book:`Silberschatz_A_databases_6th_ed.pdf`
 ---
 #### Keywords
 - ER Diagrams: https://www.youtube.com/watch?v=F_xDqBa5w-s
+- Serializability: https://www.youtube.com/watch?v=s8QlJoL1G6w
+- Question: https://www.youtube.com/watch?v=zv0ba0Iok1Y
 - Number of pOssible superkeys: https://www.geeksforgeeks.org/number-of-possible-superkeys-in-dbms/
 - Find Candidate keys and prime attributes: https://www.youtube.com/watch?v=L0LEtrIDYrE
 - Better way to find candidate keys watch both: https://www.geeksforgeeks.org/finding-attribute-closure-and-candidate-keys-using-functional-dependencies/
