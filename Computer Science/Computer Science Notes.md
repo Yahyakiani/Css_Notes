@@ -1,251 +1,31 @@
 # Paper-I 
+
+## Section A
+- Note : To answer general information questions: Emply explanatory method
+  - `Intro`
+  - `Uses`
+  - `Example`
+  - `Ways to achieve a certain thing`
+- Information Systems: https://www.tutorialspoint.com/types-of-information-systems
+- **Computer Science vs Software Engineer**: A software engineering degree focuses on the practical skills professionals need when designing and maintaining software systems. A computer science degree emphasizes computation theory and a wider range of subjects, including coding, algorithms, machine learning, database management, and information security.
+- **Software engineering** applies the standards and principles of engineering to design, develop, maintain, test and evaluate computer software. A software engineer may also be referred to as a computer programmer, software designer or software developer as the nature of software engineering can require knowledge of programming languages, principles of software design and building.
+- **Information technology**, on the other hand, refers to maintaining and troubleshooting those computers and their networks, systems, and databases to ensure they run smoothly.So while working
+- Security and Ethics: https://www.tutorialspoint.com/management_information_system/mis_security_and_ethical_issues.htm
+- **Virus**: https://www.tutorialspoint.com/basics_of_computer_science/basics_of_computer_science_virus.htm
+- The **Internet** is a globally-connected network of computers that enables people to share information and communicate with each other. An **intranet**, on the other hand, is a local or restricted network that enables people to store, organize, and share information within an organization.
+- **Information Security** https://www.tutorialspoint.com/what-is-information-security
+- **Cyber Crime and Security**: https://www.tutorialspoint.com/fundamentals_of_science_and_technology/cyber_crime_and_cyber_security.htm
+- 
 ## Section-B 
 ---
+`Impotant:` Infix to Prefix: https://www.youtube.com/watch?v=8QxlrRws9OI
+- Infix to postfix: https://www.youtube.com/watch?v=PAceaOSnxQs
+- Postfix to infix and Prefix to infix: https://www.youtube.com/watch?v=1zqgyoZzda4
+- 
+- 
+
 ### Programming Fundamentals 
 
-**Loops**
-- There are mainly two types of loops:
-
-    **Entry Controlled loops**: In this type of loops the test condition is tested before entering the loop body. For Loop and While Loop are entry controlled loops.
-    **Exit Controlled Loops**: In this type of loops the test condition is tested or evaluated at the end of loop body. Therefore, the loop body will execute atleast once, irrespective of whether the test condition is true or false. do – while loop is exit controlled loop
-        
-    **For loop**
-    **Initialization Expression**: In this expression we have to initialize the loop counter to some value. for example: int i=1;
-    **Test Expression**: In this expression we have to test the condition. If the condition evaluates to true then we will execute the body of loop and go to update expression otherwise we will exit from the for loop. For example: i <= 10;
-    **Update Expression**: After executing loop body this expression increments/decrements the loop variable by some value. for example: i++;
-
-    A **pointer** is a variable whose value is the address of another variable. Like any variable or constant, you must declare a pointer before you can work with it. The general form of a pointer variable declaration is
-
-  `type *var-name;`
-
-  `References vs Pointers`
-
-References are often confused with pointers but three major differences between references and pointers are −
-
-    You cannot have NULL references. You must always be able to assume that a reference is connected to a legitimate piece of storage.
-
-    Once a reference is initialized to an object, it cannot be changed to refer to another object. Pointers can be pointed to another object at any time.
-
-    A reference must be initialized when it is created. Pointers can be initialized at any time.
-
-single vs double quote
-
-In C and in C++ single quotes identify a single character, while double quotes create a string literal. 'a' is a single a character literal, while "a" is a string literal containing an 'a' and a null terminato
-
-virtual vs pure virutal function
-
-A virtual function is a member function of base class which can be redefined by derived class. A pure virtual function is a member function of base class whose only declaration is provided in base class and should be defined in derived class otherwise derived class also becomes abstract
-
-### Data Structures and Algorithms
-
-
-- **Source**:`Data Structures and Algorithms.pdf`
-#### Main Notes
-- a finite sequence of instructions, each of which has a clear meaning and can be performed with a finite amount of effort in a finitelength of time
-- The idea that the implementational details are hidden from the user
-and protected from outside access is known as **encapsulation**
-- In computer science, the obvious way to store an ordered collection of items is as an array.
-Array items are typically stored in a sequence of computer memory locations, but to discuss
-them. [1, 4, 17, 3, 90, 79, 4, 6, 81]
-is an example of an array of integers.
-- The standard approach in most programming languages for repeating a process a certain
-number of times, such as moving sequentially through an array to perform the same operations
-on each item, involves a loop.
-```
-for( INITIALIZATION ; CONDITION ; UPDATE ) {
-REPEATED PROCESS
-}
-
-for( i = 0, sum = 0 ; i < 20 ; i++ ) {
-sum += a[i];
-}
-```
-
-- An **invariant**, as the name suggests, is a condition that does not change during execution of
-a given program or algorithm. Invariants are also called **inductive assertions**
-- loop-invariant is a condition that is true at the beginning and end of every
-iteration of the given loop. Invariants are important for data
-structures and algorithms because they enable correctness proofs and verification
-- A list can involve virtually anything
-- In order to communicate data structures between different computers and possibly different
-programming languages, **XML (eXtensible Markup Language)** has become a quasi-standard.
-```
-<ol>
-<li>3</li>
-</ol>
-```
-- **Array vs List:** Arrays are specially optimised for arithmetic computations so if you’re going to perform similar operations you should consider using an array instead of a list.Also lists are containers for elements having differing data types but arrays are used as containers for elements of the same data type
-- In context of c++: An array is a contiguous chunk of memory with a fixed size whereas a list is typically implemented as individual elements linked to each other via pointers and does not have a fixed size. Once an array is initialized, it cannot be resized, and it uses a fixed amount of memory regardless of how much stuff you put in it
-- **Stacks** are, on an abstract level, equivalent to linked lists. They are the ideal data structure
-to model a First-In-Last-Out (FILO), or Last-In-First-Out (LIFO), strategy in search.
-- A **queue** is a data structure used to model a First-In-First-Out (FIFO) strategy. Conceptually,
-we add to the end of a queue and take away elements from its front `18`
-```
-Imperative Programming means any style of programming where your program is structured out of instructions describing how the operations performed by a computer will happen.
-
-Declarative Programming means any style of programming where your program is a description either of the problem or the solution - but doesn't explicitly state how the work will be done.
-
-Functional Programming is programming by evaluating functions and functions of functions... As (strictly defined) functional programming means programming by defining side-effect free mathematical functions so it is a form of declarative programming but it isn't the only kind of declarative programming.
-
-Logic Programming (for example in Prolog) is another form of declarative programming. It involves computing by deciding whether a logical statement is true (or whether it can be satisfied). The program is typically a series of facts and rules - i.e. a description rather than a series of instructions.
-
-Term Rewriting (for example CASL) is another form of declarative programming. It involves symbolic transformation of algebraic terms. It's completely distinct from logic programming and functional programming.
-
-```
-- A **linked list** is a linear data structure, in which the elements are not stored at contiguous memory locations.  A linked list consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
-- **Recusion**  `https://www.tutorialspoint.com/data_structures_algorithms/recursion_basics.html`
-  Time Complexity: A call made to a function is Ο(1), hence the (n) number of times a recursive call is made makes the recursive function Ο(n).
-  Space Complexity: In case of recursion, the system needs to store activation record each time a recursive call is made. Hence, it is considered that space complexity of recursive function may go higher than that of a function with iteration.
-
-**Searching and Sorting Algorithms**
-- https://www.studytonight.com/data-structures/search-algorithms
-- Converting the binary search to linked list form is problematic, because there
-is no efficient way to split a linked list into two segments
--  for time-critical problems, such as keeping track of aeroplanes in certain sectors of air space, it
-may be totally unacceptable for the software to take too long if the worst case arises.
-- https://www.geeksforgeeks.org/ for all sorting algos
-**Big-O notation:**
-  - Sorting Techniques
-  - enumeration sorting Consider all items. If we know that there are N items which are
-    smaller than the one we are currently considering, then its final position will be at number N + 1.
-  - exchange sorting If two items are found to be out of order, exchange them. Repeat
-    till all items are in order.
-  - selection sorting Find the smallest item, put it in the first position, find the smallest
-    of the remaining items, put it in the second position . . .
-  - insertion sorting Take the items one at a time and insert them into an initially
-    empty data structure such that the data structure continues to be
-    sorted at each stage.
-  - divide and conquer Recursively split the problem into smaller sub-problems till you
-    just have single items that are trivial to sort. Then put the sorted
-    ‘parts’ back together in a way that preserves the sorting.
- **Sorting algorithm stability**
- - The easiest way to determine whether a given algorithm is stable is to consider whether
-the algorithm can ever swap identical items past each other
-Summary of comparison-based sorting algorithms : `82`
-- we can’t get time complexity better than O(nlog2 n) with comparison
-based algorithms.
-
-- We have seen that there is a variant of binary search trees which keeps
-the worst case the same as the average case, the so-called self-balancing binary search tree,
-but that is more complicated to both understand and program. For those trees, insertion,
-deletion, search, retrieval and update, can all be done with time complexity O(log2 n), and
-traversal has O(n) complexity.`88`
-- 
-
-
-- Bubble Sort:
-  - Worst and Average Case Time Complexity: O(n*n). Worst case occurs when array is reverse sorted.
-  - Best Case Time Complexity: O(n). Best case occurs when array is already sorted.
-  - Auxiliary Space: O(1)
-  - Boundary Cases: Bubble sort takes minimum time (Order of n) when elements are already sorted.
-- Merge Sort:
-  - Time Complexity: Sorting arrays on different machines. Merge Sort is a recursive algorithm and time complexity can be expressed as following recurrence relation. 
-    T(n) = 2T(n/2) + θ(n)
-    The above recurrence can be solved either using the Recurrence Tree method or the Master method. It falls in case II of Master Method and the solution of the recurrence is θ(nLogn). Time complexity of Merge Sort is  θ(nLogn) in all 3 cases (worst, average and best) as merge sort always divides the array into two halves and takes linear time to merge two halves.
-  - Auxiliary Space: O(n)
-  - Algorithmic Paradigm: Divide and Conquer
-- Quick Sort:
-- Heap Sort:
-  - Time Complexity: Time complexity of heapify is O(Logn). Time complexity of createAndBuildHeap() is O(n) and the overall time complexity of Heap Sort is O(nLogn).
-
-    Efficiency –  The time required to perform Heap sort increases logarithmically while other algorithms may grow exponentially slower as the number of items to sort increases. This sorting algorithm is very efficient.
-    Memory Usage – Memory usage is minimal because apart from what is necessary to hold the initial list of items to be sorted, it needs no additional memory space to work
-    Simplicity –  It is simpler to understand than other equally efficient sorting algorithms because it does not use advanced computer science concepts such as recursion
-- Selection Sort:
-    - Time Complexity: O(n2) as there are two nested loops.
-    - Auxiliary Space: O(1) 
-    - The good thing about selection sort is it never makes more than O(n) swaps and can be useful when memory write is a costly operation.
-- Insertions Sort:
-  - Time Complexity: O(n^2) 
-  - Auxiliary Space: O(1)
-  - Boundary Cases: Insertion sort takes maximum time to sort if elements are sorted in reverse order. And it takes minimum time (Order of n) when elements are already sorted.
-  - Algorithmic Paradigm: Incremental Approach
-
-
-- **Hastable**
-- Two different strings can have same hashcode because infinite num of string but finite hashcode
-   ![alt text](./images/load.PNG)
-   ![alt text](./images/objHash.PNG)
-   ![alt text](./images/hash1.PNG)
-   ![alt text](./images/hash2.PNG)
-- Most common hash function MD5
-- A bucket is simply a fast-access location (like an array index) that is the the result of the hash function
-- By the way, "separate list" hints at why open hashing is also known as "separate chaining".
-- Perfect Hash function: a hash function that maps each item into a unique slot (no collisions).
-- Two or more items would need to be in the same slot. This is referred to as a collision (it may also be called a “clash”).
-- Common way for constructing hash function:
-    1. **folding method** for constructing hash functions begins by dividing the item into equal-size pieces.These pieces are then added together to give the resulting hash value. For example, if our item was the phone number 436-555-4601, we would take the digits and divide them into groups of 2 (43,65,55,46,01). After the addition, 43+65+55+46+01, we get 210. If we assume our hash table has 11 slots, then we need to perform the extra step of dividing by 11 and keeping the remainder. In this case 210 % 11 is 1, 
-    2. Another numerical technique for constructing a hash function is called the **mid-square method**. We first square the item, and then extract some portion of the resulting digits. For example, if the item were 44, we would first compute 442=1,936. By extracting the middle two digits, 93, and performing the remainder step, we get 5 (93 % 11)
-```
-Following are the collision resolution techniques used:
-
-    Open Hashing (Separate chaining)
-    Closed Hashing (Open Addressing)
-        Liner Probing
-        Quadratic probing
-        Double hashing
-```
-
-
-- **Open Addressing Techniques**
-- When two items hash to the same slot, we must have a systematic method for placing the second item in the hash table. This process is called **collision resolution**
-- Linear Probing:A simple way to do this is to start at the original hash value position and then move in a sequential manner through the slots until we encounter the first slot that is empty, **Disadvantage: clustering**. linear probing has the best cache performance but is most sensitive to clustering
-- A variation of the linear probing idea is called **quadratic probing**. Instead of using a constant “skip” value, we use a rehash function that increments the hash value by 1, 3, 5, 7, 9, and so on.quadratic hashing falls in-between in both areas.
--  **Double Hashing** is based upon the idea that in the event of a collision we use an another hashing function with the key value as an input to find where in the open addressing scheme the data should actually be placed at.double hashing has poor cache performance but exhibits virtually no clustering.Also more computation.
--  **Chaining**: In the simplest chained hash table technique, each slot in the array references a linked list of inserted records that collide to the same slot. Insertion requires finding the correct slot, and appending to either end of the list in that slot; deletion requires searching the list and removal.
--  **Coalesced hashing**
-A hybrid of chaining and open addressing, coalesced hashing links together chains of nodes within the table itself. Like open addressing, it achieves space usage and (somewhat diminished) cache advantages over chaining. Like chaining, it does not exhibit clustering effects; in fact, the table can be efficiently filled to a high density. Unlike chaining, it cannot have more elements than table slots.
-- **Probabilistic hashing**: Perhaps the simplest solution to a collision is to replace the value that is already in the slot with the new value
-- **Bucket Hashing** :One implementation for closed hashing groups hash table slots into buckets. The M slots of the hash table are divided into B buckets, with each bucket consisting of M/B slots. The hash function assigns each record to the first slot within one of the buckets. If this slot is already occupied, then the bucket slots are searched sequentially until an open slot is found. If a bucket is entirely full, then the record is stored in an overflow bucket of infinite capacity at the end of the table. All buckets share the same overflow bucket.
-
-**Expression Notations**
-- Infix, Prefix and Postfix Expressions
-- 
-
-**Trees**
-   ![alt text](./images/tree1.PNG)
-  - Root is the topmost node of the tree
-  - Edge is the link between two nodes
-  - Child is a node that has a parent node
-  - Parent is a node that has an edge to a child node
-  - Leaf is a node that does not have a child node in the tree
-  - Height is the length of the longest path to a leaf
-  - Depth is the length of the path to its root
-  - Binary Tree:  a binary tree is a tree data structure in which each node has at the most two children, which are referred to as the left child and the right child
-  - Tree traversal: Depth-First Search (DFS) and Breadth-First Search (BFS).
-  - DFS “is an algorithm for traversing or searching tree data structure. One starts at the root and explores as far as possible along each branch before backtracking.
-  -  types of DFS: pre-order, in-order, and post-order.
-  - BFS “is an algorithm for traversing or searching tree data structure. It starts at the tree root and explores the neighbor nodes first, before moving to the next level neighbors.”
-
-- it is observed that BST's worstcase performance is closest to linear search algorithms, that is Ο . In realtimedata, we cannot predict data pattern and their frequencies. So, a need arises to balance out the existing BST.
-Named after their inventor Adelson, Velski & Landis, **AVL trees** are height balancing binary search tree. AVL tree checks the height of the left and the right subtrees and assures that the difference is not more than 1. This difference is called the **Balance Factor**.
-
-To balance itself, an AVL tree may perform the following four kinds of rotations −
-Left rotation
-Right rotation
-LeftRight rotation
-RightLeft rotation
-
-
-  
-  **Greedy Algorithm**
-  - Greedy algorithms try to find a localized optimum solution, which may eventually lead to globally optimized solutions. However, generally greedy algorithms do not provide globally optimized solutions
-  
----
-#### Keywords
-- correctness proofs
-- invariants
-- specification,verification, Performance analysis
-- data structure
-- abstract data types
-- encapsulation
-- design patterns
-- loops
-- arrays
-- constructors, selectors and conditions
-- Linked List, Doubly Linked List, Circular Linked List
-- Seach Problems ,Their specification `23`
----
 #### Links
 - Algorithm and Criteria: https://www.geeksforgeeks.org/introduction-to-algorithms/?ref=gcse
 - Algorithm representation: https://www.public.asu.edu/~atrow/ser101/notes/ProblemSolving/representation.html
@@ -470,15 +250,24 @@ Today almost all files are randomly accessed
 4.    Strategies for managing free memory for kernel processes ?`411`
 5.    What are the registers in I/O Port ?`572` Their definitions what they do ?
 6.    What are file access methods ? How do they work ? Advantages ?`445`
-7.    
+
+
+Let Main memory access time is: m
+Page fault service time is: s
+Page fault rate is : p
+Then, Effective memory access time = (p*s) + (1-p)*m
 
 
 #### Links:
+- **Kernel** is the core part of an operating system that manages system resources. It also acts as a bridge between the application and hardware of the computer. It is one of the first programs loaded on start-up (after the Bootloader). 
+- A **microkernel** is one of the classifications of the kernel. Being a kernel it manages all system resources. But in a microkernel, the user services and kernel services are implemented in different address spaces. The user services are kept in user address space, and kernel services are kept under kernel address space, thus also reduces the size of kernel and size of an operating system as well. 
+- **Booting Process With BIOS** : When BIOS begins it’s execution, it first goes for the Power-On Self Test (POST), which ensures that the hardware devices are functioning correctly. After that, it checks for the Master Boot Record in the first sector of the selected boot device. From the MBR, the location of the Boot-Loader is retrieved, which, after being loaded by BIOS into the computer’s RAM, loads the operating system into the main memory.
+- **Booting Process With UEFI** : Unlike basic input/output system**BIOS**, Unified Extensible Firmware Interface**UEFI** doesn’t look for the MBR in the first sector of the Boot Device. It maintains a list of valid boot volumes called EFI Service Partitions. During the POST procedure the UEFI firmware scans all of the bootable storage devices that are connected to the system for a valid GUID Partition Table (GPT), which is an improvement over MBR. Unlike the MBR, GPT doesn’t contain a Boot-Loader. The firmware itself scans the GPT to find an EFI Service Partition to boot from, and directly loads the OS from the right partition. If it fails to find one, it goes back the BIOS-type Booting process called ‘Legacy Boot’.
+-  GPT -> EFI Service partition -> load os directly from there -> process fail then fall back to BIOS
 - **Math**: https://www.youtube.com/watch?v=bYFVbzLLxfY
-- overall Link: https://www.geeksforgeeks.org/operating-systems/?ref=lbp#ss
 - For how operating sytem starts and UEFI vs BIOS : https://www.geeksforgeeks.org/uefiunified-extensible-firmware-interface-and-how-is-it-different-from-bios/
 - symmetric and asymmetric multiprocessing: https://www.geeksforgeeks.org/difference-between-asymmetric-and-symmetric-multiprocessing/?ref=gcse
-- **Important**: https://www.geeksforgeeks.org/process-schedulers-in-operating-system/
+- **Important Schedulers and QUEUES**: https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm
 - **Scheduling Math**: https://www.geeksforgeeks.org/program-for-shortest-job-first-sjf-scheduling-set-2-preemptive/
 - **Content Switch Math**: https://www.geeksforgeeks.org/gate-gate-cs-2006-question-6/
 - Difference between buffer and cache: https://www.geeksforgeeks.org/difference-between-buffer-and-cache/
@@ -491,20 +280,22 @@ Today almost all files are randomly accessed
 - A **Zombie** is a process that has completed its task but still, it shows an entry in a process table. A child process that remains running even after its parent process is terminated or completed without waiting for the child process execution is called an **orphan**.Terminate the Orphan process using the SIGHUP signal.
 - The basic difference between **Spooling and Buffering** is that Spooling overlaps the input/output of one job with the execution of another job while the buffering overlaps the input/output of one job with the execution of the same job.22-Nov-2019
 - **Difference between Deadlock, Starvation, and Livelock:**
-A livelock is similar to a deadlock, except that the states of the processes involved in the livelock constantly change with regard to one another, none progressing. Livelock is a special case of resource starvation; the general definition only states that a specific process is not progressing.
-- Starvation is a problem which is closely related to both, Livelock and Deadlock. In a dynamic system, requests for resources keep on happening. Thereby, some policy is needed to make a decision about who gets the resource when. This process, being reasonable, may lead to a some processes never getting serviced even though they are not deadlocked.
+A **livelock** is similar to a deadlock, except that the states of the processes involved in the livelock constantly change with regard to one another, none progressing. Livelock is a special case of resource starvation; the general definition only states that a specific process is not progressing.
+- **Starvation** is a problem which is closely related to both, Livelock and Deadlock. In a dynamic system, requests for resources keep on happening. Thereby, some policy is needed to make a decision about who gets the resource when. This process, being reasonable, may lead to a some processes never getting serviced even though they are not deadlocked.
 - Resource Allocation Graph single and multi-instance: https://www.geeksforgeeks.org/resource-allocation-graph-rag-in-operating-system/
 - Deadlock in Distributed system: https://www.geeksforgeeks.org/deadlock-detection-in-distributed-systems/
 - Spooling vs Buffering: https://www.geeksforgeeks.org/difference-between-spooling-and-buffering/
 - Important : How address is converted and other stuff: https://www.geeksforgeeks.org/memory-allocation-techniques-mapping-virtual-addresses-to-physical-addresses/
 - A **page fault** is an interruption that occurs when a software program attempts to access a memory block not currently stored in the system's RAM. This exception tells the operating system to find the block in virtual memory so it can be sent from a device's storage (SSD or HD) to RAM.
 - Steps When page fault occurs and Virtual Memory: https://www.geeksforgeeks.org/virtual-memory-in-operating-system/
+- **Inverted Page Table** An alternate approach is to use the Inverted Page Table structure that consists of one-page table entry for every frame of the main memory. So the number of page table entries in the Inverted Page Table reduces to the number of frames in physical memory and a single page table is used to represent the paging information of all the processes
+- **Segmentation vs Paging**: https://www.tutorialspoint.com/difference-between-paging-and-segmentation
 - **Memory Interleaving** is designed to compensate for the relatively slow speed of dynamic random-access memory (DRAM) or core memory by spreading memory addresses evenly across memory banks.
 - **A translation lookaside buffer (TLB)** is a memory cache that stores the recent translations of virtual memory to physical memory. It is used to reduce the time taken to access a user memory location. It can be called an address-translation cache. It is a part of the chip's memory-management unit (MMU).
 - How to handle thrashing look last: https://www.geeksforgeeks.org/techniques-to-handle-thrashing/
 - Dynamic loading vs static loading and dynamic linking vs static linking: https://www.tutorialspoint.com/operating_system/os_memory_management.html
 - SImple vs virtual paging: In simple paging, all the pages of a process must be in main memory for process to run, unless overlays are used.
-
+- **Swap space** helps the computer's operating system in pretending that it has more RAM than it actually has. It is also called a swap file. This interchange of data between virtual memory and real memory is called swapping and space on disk as “swap space”.
 But in virtual memory, not all pages of a process need be in main memory frames for the process to run. Pages may be read in as needed
 - **Demand paging** is a process by which the operating system loads or copies a disk page into the physical memory, if an attempt to access the page is made and the page is not already present in the physical memory.
 
@@ -518,6 +309,9 @@ STEPS:
     Restart the operation that was interrupted
 
 - Page replacement algorithms: https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/
+  - **First In First Out (FIFO)**: This is the simplest page replacement algorithm. In this algorithm, the operating system keeps track of all pages in the memory in a queue, the oldest page is in the front of the queue. When a page needs to be replaced page in the front of the queue is selected for removal.
+  - **Optimal Page replacement** : In this algorithm, pages are replaced which would not be used for the longest duration of time in the future. 
+  -  **Least Recently Used** :In this algorithm, page will be replaced which is least recently used
 
 ## Software Engineering 
  Book:`Roger S. Pressman_ Bruce R. Maxin - Software Engineering_ A Practitioner’s Approach-McGraw-Hill Education (2014)`
